@@ -1,7 +1,10 @@
 # UPSC PSIR 6-Volume Handwritten Notes Visualizer & Active Recall System
 
 > **A 100% Zero-Loss, Offline-First, Highly Visual Web Application for UPSC Civil Services Examination (PSIR Optional)**  
-> Digitizing all **6 Volumes (1,146 Total Pages)** of Shubhra Ranjan IAS Classroom Handwritten Lecture Notes.
+> Digitizing all **6 Volumes (1,146 Total Pages)** of Shubhra Ranjan IAS Classroom Handwritten Lecture Notes.  
+> 
+> 🌐 **Live Web App:** [https://a2rjav.github.io/psir-notes-visualizer/](https://a2rjav.github.io/psir-notes-visualizer/)  
+> 📦 **GitHub Repository:** [https://github.com/A2rjav/psir-notes-visualizer](https://github.com/A2rjav/psir-notes-visualizer)
 
 ---
 

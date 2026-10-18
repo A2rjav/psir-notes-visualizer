@@ -5,7 +5,9 @@
 **Source Material:** Shubhra Ranjan IAS Classroom Handwritten Lecture Notes (6 Volumes / 1,146 Total Pages)  
 **Standard Maintained:** **100% Zero Information Loss** • **Zero Paid External APIs**  
 **Application Stack:** React 19, Vite 8, Tailwind CSS v4, Lucide React, Client-Side JavaScript  
-**Live Access:** `http://localhost:5173/` (via `start_app.bat` or `npm run dev`)  
+**Live Public URL:** [https://a2rjav.github.io/psir-notes-visualizer/](https://a2rjav.github.io/psir-notes-visualizer/)  
+**GitHub Repository:** [https://github.com/A2rjav/psir-notes-visualizer](https://github.com/A2rjav/psir-notes-visualizer)  
+**Local Access:** `http://localhost:5173/` (via `start_app.bat` or `npm run dev`)  
 **Handoff Date:** October 2026  
 
 ---
