@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+app/node_modules/
+
+# Production build outputs
+dist/
+app/dist/
+
+# Raw source PDFs (already extracted into app/public)
+*.pdf
+
+# Root duplicate scan folders (canonical scans live in app/public/)
+page_*.png
+part2_page_*.png
+paper1_part1_samples/
+scans_paper1_part1/
+scans_paper1_part2/
+scans_paper1_part4/
+scans_paper1_part5/
+scans_part1/
+scans_part2/
+transcriptions/
+transcriptions_verbatim/
+
+# Temporary extraction scripts
+crop_inspect.py
+inspect_drive2.py
+extract_all_scans.py
+download_all_pdfs.py
+generate_paper1_data.py
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+*.log
