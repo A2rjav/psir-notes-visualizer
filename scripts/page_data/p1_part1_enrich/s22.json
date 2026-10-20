@@ -1,0 +1,153 @@
+{
+ "pages": [
+  {
+   "page": 198,
+   "title": "Union Legislative Power Over State List Entries",
+   "summary": "Under Articles 249, 252, 253, and 201, the Union can legislate on State List entries or reserve bills, raising federal concerns about centralization and arbitrary powers. The Sarkaria and Punchhi commissions observed that the issue stems from arbitrary exercise of power rather than the constitutional provisions themselves."
+  },
+  {
+   "page": 199,
+   "title": "Centre-State Administrative Relations and Article 356 Controversy",
+   "summary": "Administrative relations between the Centre and states involve disputes over Union directives, deployment of armed forces, All India Services, and the misuse of Article 356. Although Dr. B.R. Ambedkar expected Article 356 to remain a dead letter, it has been invoked over 100 times in practice."
+  },
+  {
+   "page": 200,
+   "title": "Misuse of Article 356 and Bommai Case",
+   "summary": "Article 356 has been arbitrarily invoked by ruling parties to dissolve state assemblies, undermining the federal spirit and contributing to insurgency in Jammu and Kashmir and Punjab. In the S.R. Bommai case, the Supreme Court declared federalism part of the basic structure and established strict evidentiary conditions and suspended dissolution rules."
+  },
+  {
+   "page": 201,
+   "title": "Bommai Ruling, All India Services, Armed Forces",
+   "summary": "The Supreme Court in the Bommai case mandated floor tests to determine majorities and warned that Article 356 must not subvert federalism or secularism. Disputes also arise over All India Services functioning primarily as Union agents and the unilateral deployment of armed forces without state consultation."
+  },
+  {
+   "page": 202,
+   "title": "Constitutional Position and Envisaged Role of Governor",
+   "summary": "The Governor serves as the nominal head of the state executive in India's parliamentary federation, acting as a lynchpin connecting the Union and the states. Envisaged as a communication channel and the eye and ear of the Union, the office was designed to manage post-independence security challenges."
+  },
+  {
+   "page": 203,
+   "title": "Controversies Around Discretionary Powers of the Governor",
+   "summary": "The Governor's office became controversial due to the arbitrary exercise of constitutional discretionary powers under Article 163 and related provisions. While decisions under Article 163(2) are nominally final, the Supreme Court has held that the Governor's discretionary actions are subject to judicial review on grounds of mala fide intention."
+  },
+  {
+   "page": 204,
+   "title": "Historical Misuse of Governor's Discretionary Powers",
+   "summary": "Historical instances in Madras, Kerala, Andhra Pradesh, Uttar Pradesh, Bihar, and Arunachal Pradesh demonstrate arbitrary exercise of gubernatorial discretion in the interest of the Union's ruling party. The Punchhi Commission observed that the problem lies in the arbitrary use of power rather than the constitutional existence of discretionary powers as safety valves."
+  },
+  {
+   "page": 205,
+   "title": "Appointment, Qualifications, and Removal of Governors",
+   "summary": "Contrary to Nehru's expectation of non-political appointments of integrity, rejected politicians and retired officials have been appointed as Governors without cooling-off periods. Committees such as Rajamannar and Punchhi recommended mandatory consultation with Chief Ministers, panel selection via the Inter-State Council, and security of tenure under Article 156."
+  },
+  {
+   "page": 206,
+   "title": "Judicial Limits on Pleasure Doctrine and Removal",
+   "summary": "The Supreme Court ruled that the President's pleasure doctrine under Article 156 cannot be exercised arbitrarily, nor can ideological differences or government changes justify a Governor's removal. Both the Sarkaria and Punchhi commissions reaffirmed that the Governor remains a vital lynchpin whose importance has grown due to internal security challenges."
+  },
+  {
+   "page": 207,
+   "title": "Judicial Precedents on Governor's Discretionary Powers",
+   "summary": "In cases like Shamsher Singh and Hargovind Pant, the Supreme Court held that the Governor occupies an independent constitutional office and is not an employee or subordinate of the Union. In Nabam Rebia (2016), the Court struck down the Governor's unilateral summoning of the assembly, ruling that discretionary powers cannot violate the fundamental principle of ministerial responsibility."
+  },
+  {
+   "page": 208,
+   "title": "Governor's Role, Reforms, and Appointment Qualifications",
+   "summary": "According to the Supreme Court, the Governor is a titular head and executive nominee whose discretionary powers must ensure democracy survives. The notes also discuss solutions from Soli Sorabjee and Manmohan Singh, alongside Article 157 appointment qualifications and Constituent Assembly objections."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does Article 252 allow the Union Parliament to legislate on State List subjects, and what limitation does it place on state legislatures?",
+   "back": "Under Article 252, Parliament can enact laws on State List subjects when resolutions are passed by two or more state legislatures. This transfer of power w.r.t. these states is of a permanent nature, meaning only the Union can amend or alter the law, and states cannot pursue an alternative policy.",
+   "category": "Legislative Power Transfer",
+   "scanPage": 198
+  },
+  {
+   "front": "What constitutional assurance did Dr. B.R. Ambedkar provide regarding Article 356, and how did republican practice diverge from it?",
+   "back": "Dr. B.R. Ambedkar assured the Constituent Assembly that Article 356 was introduced solely as a precaution and was expected to remain a 'dead letter'. In actual practice, it did not remain a dead letter and was invoked more than 100 times in less than 87 years of the republic's existence.",
+   "category": "Article 356 Debates",
+   "scanPage": 199
+  },
+  {
+   "front": "What foundational principle did the Supreme Court lay down in the S.R. Bommai case (1994) regarding Indian federalism?",
+   "back": "The Supreme Court declared that federalism is an integral component of the basic structure of the Constitution rather than a mere administrative convenience. Consequently, the Court established stringent conditions and judicial scrutiny over the material evidence used to justify presidential proclamations under Article 356.",
+   "category": "Basic Structure Doctrine",
+   "scanPage": 200
+  },
+  {
+   "front": "What procedural rules did the Supreme Court establish in the S.R. Bommai case regarding legislative assembly dissolution and majority testing?",
+   "back": "The Supreme Court ruled that a state legislative assembly cannot be dissolved immediately upon proclamation, but must remain suspended until resolutions are approved by both houses of Parliament. Additionally, the Court established that floor testing on the floor of the house is the only valid method to ascertain whether a government has lost its majority.",
+   "category": "Judicial Scrutiny Guidelines",
+   "scanPage": 201
+  },
+  {
+   "front": "How did Paul Brass characterize the origin of the Indian Constitution, and what role did it necessitate for the Governor?",
+   "back": "Paul Brass observed that the Indian Constitution was not the product of hopes and optimism, but of fear and insecurity due to secessionist challenges at independence. Consequently, the Governor was envisaged to act as the 'eye and ear' of the Union at the state level to keep the central government informed of local situations.",
+   "category": "Governor Constitutional Role",
+   "scanPage": 202
+  },
+  {
+   "front": "What did the Supreme Court rule in Hargovind Pant vs Raghukul Tilak (1979) regarding the relationship between the Governor and the Union government?",
+   "back": "The Constitution Bench held that the Governor is an independent constitutional office of dignity and not an employee or subordinate of the Union government. Although holding office at presidential pleasure, the Governor is not bound to act on the Union's discretion, and the Governor's discretion is solely their own.",
+   "category": "Governor Constitutional Status",
+   "scanPage": 207
+  },
+  {
+   "front": "What limit did the Supreme Court place on the Governor's discretionary summoning power in the Nabam Rebia case (2016)?",
+   "back": "The Supreme Court struck down the Governor's unilateral summoning of the assembly without the aid and advice of the council of ministers, describing executive overreach as 'thrashing' the Constitution. Citing Sardar Patel, the Court ruled that ministerial responsibility is a fundamental principle and the Governor is not an all-pervading super-constitutional authority.",
+   "category": "Governor Discretionary Limits",
+   "scanPage": 207
+  },
+  {
+   "front": "What constitutional restrictions were placed on the doctrine of pleasure regarding the removal of Governors in Supreme Court jurisprudence?",
+   "back": "The Supreme Court affirmed that although the President holds the power to remove a Governor at any time without a formal hearing, the pleasure doctrine cannot be applied arbitrarily. In cases like Brij Mohan Lal, the Court held that removal requires valid and compelling reasons, and a change in the Union government or ideological differences cannot constitute valid grounds.",
+   "category": "Pleasure Doctrine Limitations",
+   "scanPage": 206
+  }
+ ],
+ "answers": [
+  {
+   "question": "The Governor was envisaged as the lynchpin of cooperative federalism, yet discretionary powers have turned the office into an instrument of bargaining federalism. Critically examine with reference to judicial pronouncements and committee recommendations.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Constitutional Role, Discretionary Powers, and Reform of the Office of Governor",
+   "scanPage": 202,
+   "intro": "The Constitution designates the Governor as the titular head of state executive, conceived by the Sarkaria Commission as a lynchpin of cooperative federalism. However, arbitrary discretionary interventions have frequently transformed the office into an arena of partisan bargaining.",
+   "body": [
+    "Paul Brass observed that India's Constitution arose from fear and insecurity, intending the Governor as the Union's eye and ear against secessionism. However, Soli Sorabjee in 'The Governor: Sage or Saboteur' highlighted how arbitrary discretion degraded cooperative federalism into bargaining federalism.",
+    "In Hargovind Pant vs Raghukul Tilak (1979), the Supreme Court ruled that the Governor holds an independent constitutional office of dignity, not an employee or subordinate bound to execute Union discretion. Shamsher Singh reaffirmed the Governor as a nominal constitutional head bound by ministerial advice.",
+    "In Nabam Rebia (2016), the Supreme Court invalidated unilateral legislative summoning under Article 174, citing Sardar Patel's Constituent Assembly stance that ministerial responsibility is fundamental. The Court held the Governor is not an all-pervading super-constitutional authority, as discretion cannot invade cabinet supremacy.",
+    "To curb partisan appointments, the Rajamannar Committee proposed mandatory Chief Minister consultation, while the Punchhi Commission recommended selecting Governors via the Inter-State Council panel. Furthermore, Brij Mohan Lal established that presidential removal under Article 156 cannot be invoked arbitrarily without compelling justification."
+   ],
+   "scholars": [
+    "Sarkaria Commission",
+    "Paul Brass",
+    "Soli Sorabjee ('The Governor: Sage or Saboteur')",
+    "Punchhi Commission",
+    "Rajamannar Committee",
+    "Sardar Patel"
+   ],
+   "conclusion": "Preserving cooperative federalism requires operationalizing Manmohan Singh's ethical mantras alongside Punchhi Commission guidelines. Narrowly construing discretionary powers and formalizing consultative appointment conventions will ensure the Governor functions as a dignified constitutional arbiter rather than a partisan central instrument."
+  },
+  {
+   "question": "Examine the evolution of Article 356 from Dr. B.R. Ambedkar's envisioned 'dead letter' to an instrument of federal subversion. How did the S.R. Bommai judgment restore constitutional equilibrium?",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Article 356, Federal Equilibrium, and Judicial Safeguards",
+   "scanPage": 200,
+   "intro": "Article 356, inherited as a colonial legacy, represents an exceptional emergency power under the Indian Constitution. Though intended strictly as a protective safeguard, repetitive executive abuses undermined state autonomy, disrupting federal balance until decisive judicial oversight reestablished constitutional boundaries.",
+   "body": [
+    "Dr. B.R. Ambedkar assured the Constituent Assembly that Article 356 would remain a 'dead letter' used only as precaution. Instead, repeated partisan abuse occurred, notably when the Janata Party in 1977 and Indira Gandhi in 1980 dissolved nine state assemblies on political grounds.",
+    "Such misuse undermined federalism and fueled border insurgencies in Punjab and Jammu and Kashmir. In the S.R. Bommai case (1994), the Supreme Court warned against subverting federalism, holding that presidential overreach brings havoc and causes the Union to reap the whirlwind.",
+    "Bommai declared federalism and secularism integral basic structure components. The Court established strict guidelines, requiring production of speaking material evidence before the judiciary, keeping legislative assemblies suspended rather than dissolved until parliamentary approval, and declaring floor testing the sole mechanism to determine majority.",
+    "Where mala fide intent is proven, the judiciary now enforces full governmental restoration. The 2016 rulings in Arunachal Pradesh and Uttarakhand became historic first instances where the Supreme Court reversed unconstitutional dissolutions, restoring dismissed assemblies and reaffirming constitutional limits on executive discretion."
+   ],
+   "scholars": [
+    "Dr. B.R. Ambedkar",
+    "S.R. Bommai Case (1994)",
+    "Sarkaria Commission",
+    "Punchhi Commission"
+   ],
+   "conclusion": "Judicial activism and presidential vigilance have substantially curtailed the arbitrary invocation of Article 356. Sustaining federal equilibrium demands adhering to Sarkaria and Punchhi commission recommendations, ensuring emergency provisions remain exceptional safeguards rather than instruments of political intervention."
+  }
+ ]
+}

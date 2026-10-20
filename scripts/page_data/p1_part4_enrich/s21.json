@@ -1,0 +1,157 @@
+{
+ "pages": [
+  {
+   "page": 191,
+   "title": "Equality Concepts and Major Ideological Views",
+   "summary": "The notes introduce equality as a sovereign virtue linked to human progress and dignity while outlining the section syllabus. They compare liberal procedural equality of opportunity, Marxist substantive equality of outcome in a communist society, and social liberal views."
+  },
+  {
+   "page": 192,
+   "title": "Rawls on Inequality and Equality of Welfare",
+   "summary": "Rawls justifies social inequalities when arising from fair equality of opportunity and benefiting the least advantaged, giving them veto power. The notes also introduce Amartya Sen's analysis of equality theories and discuss the utilitarian approach of equality of welfare."
+  },
+  {
+   "page": 193,
+   "title": "Dworkin's Equality of Resources and Island Auction",
+   "summary": "Dworkin critiques equality of welfare and advocates equality of resources in his work 'Sovereign Virtue.' Using the hypothetical scenario of shipwreck survivors on an uninhabited island, he explains how clamshells are distributed equally for an ambition-sensitive auction."
+  },
+  {
+   "page": 194,
+   "title": "Dworkin on Luck, Insurance, and Clamshell Auctions",
+   "summary": "Dworkin contrasts his thin veil of ignorance with Rawls's thick veil and introduces the envy test along with insurance pools for market risks. He distinguishes option luck from brute luck, arguing that endowment-sensitive auctions should provide extra clamshells to compensate for unchosen disadvantages."
+  },
+  {
+   "page": 195,
+   "title": "Amartya Sen's Capability Approach to Equality",
+   "summary": "Amartya Sen proposes the capability approach to equality, defining capabilities as freedoms to achieve and functionings as beings and doings. He argues that development should prioritize expanding capabilities as ends of growth rather than mere means, accounting for human diversity."
+  },
+  {
+   "page": 196,
+   "title": "Michael Walzer's Theory of Complex Equality",
+   "summary": "Michael Walzer's 'Spheres of Justice' is introduced to explain complex equality, where different social goods must be distributed according to distinct principles. Under complex equality, an individual's standing in one sphere, such as politics, cannot undercut or dominate their standing in other spheres."
+  },
+  {
+   "page": 197,
+   "title": "Liberty, Equality, and Justice: Liberal Versus Marxist",
+   "summary": "The notes examine the overlapping relationship among liberty, equality, and justice across different political schools of thought. Classical liberals view state-enforced equality as antithetical to negative liberty, whereas Marxists argue that substantive socio-economic equality is a prerequisite for true freedom."
+  },
+  {
+   "page": 198,
+   "title": "Social Liberalism and Liberty-Equality Complementarity",
+   "summary": "Social liberals like T.H. Green, Laski, and Rawls view liberty and equality as complementary, supporting state market regulation and capability expansion. The page references Isaiah Berlin's value pluralism and poses a question exploring how liberty functions as a precondition for equality."
+  },
+  {
+   "page": 199,
+   "title": "Liberty-Equality Relationship and the Indian Constitution",
+   "summary": "The text contrasts libertarian, Marxist, and Rawlsian perspectives on whether liberty or equality takes priority, noting Sen's emphasis on democracy driving development. It details how the Indian Constitution embodies this balance across Fundamental Rights and Directive Principles, reflecting Granville Austin's view on political and socio-economic revolution."
+  },
+  {
+   "page": 200,
+   "title": "Affirmative Action Principles and Reservation Debates",
+   "summary": "Affirmative action is defined as positive discrimination favoring historically disadvantaged groups, such as Dalits in India or Blacks in the USA, rather than reverse discrimination. The notes address reservation quotas as a prominent yet contested policy, concluding that affirmative action must serve as a temporary enabling mechanism rather than a permanent measure."
+  },
+  {
+   "page": 201,
+   "title": "Permanent continuation of affirmative action policies",
+   "summary": "Continuing such policies on a permanent basis defeats their purpose."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does Ronald Dworkin characterize equality as the 'sovereign virtue'?",
+   "back": "Dworkin describes equality as the 'sovereign virtue' because it trumps all other political virtues. In modern thought, human progress is defined as the expansion of freedom and equalities, which are fundamentally linked to human dignity and individual well-being.",
+   "category": "Concept of Equality",
+   "scanPage": 191
+  },
+  {
+   "front": "Under what two conditions does John Rawls justify the emergence of social inequalities?",
+   "back": "Rawls justifies inequalities only if they arise from fair equality of opportunity and work to the benefit of the least advantaged. This gives the least advantaged veto power, ensuring that inequalities remain acceptable because the resources transferred carry high marginal utility for the poor.",
+   "category": "Social Liberal Equality",
+   "scanPage": 192
+  },
+  {
+   "front": "How does Ronald Dworkin's hypothetical island auction and clamshell mechanism establish resource equality?",
+   "back": "Dworkin proposes distributing clamshells equally to survivors on an uninhabited island to conduct an ambition-sensitive auction, which best reflects the true value of resources. A distribution is considered fair when it satisfies the envy test, meaning no person prefers another's bundle of resources over their own.",
+   "category": "Equality of Resources",
+   "scanPage": 193
+  },
+  {
+   "front": "How does Ronald Dworkin address the distinction between brute luck and option luck?",
+   "back": "Brute luck refers to unchosen circumstances such as physical disabilities, whereas option luck involves deliberate choices. Dworkin argues individuals should not be held responsible for unchosen disadvantages, proposing an endowment-sensitive auction and a common insurance pool to provide extra clamshells for compensation.",
+   "category": "Equality of Resources",
+   "scanPage": 194
+  },
+  {
+   "front": "How does Amartya Sen differentiate between capabilities and functionings in his critique of resource equality?",
+   "back": "Capability is the ability to do what one wants and the absence of deprivation, representing equality of means. Functionings represent 'being and doing', which serve as the actual source of well-being and the ends of development, as illustrated by comparing hunger to chosen fasting.",
+   "category": "Capability Approach",
+   "scanPage": 195
+  },
+  {
+   "front": "What is the core principle of Michael Walzer's theory of 'complex equality' in Spheres of Justice?",
+   "back": "Walzer argues that different social goods ought to be distributed according to different criteria across separate spheres. Complex equality requires that a citizen's standing or advantage in one sphere must not be allowed to undercut or dominate their standing with regard to social goods in another sphere.",
+   "category": "Complex Equality",
+   "scanPage": 196
+  },
+  {
+   "front": "Why do classical liberals and libertarians view state-enforced equality as antithetical to liberty?",
+   "back": "Classical liberals like Hayek define liberty as negative liberty, meaning the absence of state interference and coercion. Consequently, state efforts to establish substantive social and economic equality encroach upon individual freedom and violate entitlement to property as argued by Nozick.",
+   "category": "Liberty and Equality",
+   "scanPage": 197
+  },
+  {
+   "front": "What distinguishes affirmative action from reverse discrimination, and what are its essential limits?",
+   "back": "Affirmative action is positive discrimination in favour of historically disadvantaged groups like Dalits or Blacks who require external catalysts to achieve parity. It must function as a temporary enabling policy within a specific timeframe rather than a permanent measure that defeats its own purpose.",
+   "category": "Affirmative Action",
+   "scanPage": 200
+  }
+ ],
+ "answers": [
+  {
+   "question": "Explicate the relationship between liberty and equality. How do different schools of political thought view their compatibility?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Relationship between Liberty and Equality",
+   "scanPage": 197,
+   "intro": "Liberty and equality are foundational, overlapping values in normative political theory whose relationship is deeply contested. While classical liberals view them as inherently antithetical, Marxists and social liberals consider them complementary and mutually reinforcing for human flourishing.",
+   "body": [
+    "Classical liberals like Hayek view liberty strictly as negative liberty and the absence of coercion, while Nozick's entitlement theory insists that any state intervention in private property to establish social or economic equality reduces liberty and constitutes injustice.",
+    "Marxists reject liberal procedural equality as formal and illusory, arguing that western capitalist liberty represents alienation and false consciousness. For Marxists, true freedom means freedom from necessities, making substantive economic equality an essential precondition for genuine freedom.",
+    "Social liberals like T.H. Green and Laski treat liberty and equality as complementary, defining positive liberty in terms of capacity and justifying welfare rights. Similarly, Rawls balances them in justice as fairness, granting lexical priority to basic liberties while justifying inequality only when benefiting the least advantaged.",
+    "Amartya Sen conceptualises development as freedom, showing that political empowerment enables citizens to demand public action. This interdependence is embodied in the Indian Constitution, where Granville Austin observes that political revolution through Fundamental Rights serves as the means to achieve social and economic revolution."
+   ],
+   "scholars": [
+    "Hayek",
+    "Nozick",
+    "T.H. Green",
+    "Laski",
+    "Rawls",
+    "Amartya Sen",
+    "Granville Austin",
+    "Isaiah Berlin"
+   ],
+   "conclusion": "Ultimately, as Isaiah Berlin's concept of value pluralism suggests, liberty and equality remain distinct yet incommensurable values. Reconciling them requires dynamic institutional frameworks that protect fundamental personal freedoms while expanding substantive social opportunities for all citizens."
+  },
+  {
+   "question": "'Equality of capability offers a more comprehensive egalitarian framework than equality of resources or welfare.' Discuss in light of Amartya Sen's capability approach.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Theories of Equality: Capabilities versus Resources and Welfare",
+   "scanPage": 195,
+   "intro": "In his seminal essay 'Equality of What', Amartya Sen critically evaluates competing egalitarian doctrines. He argues that genuine equality requires equalising human capabilities rather than subjective utilitarian welfare or external resource bundles, thereby conceptualising development as freedom.",
+   "body": [
+    "While utilitarian equality of welfare seeks equality of pleasure or happiness, Dworkin rejects it because it compels society to repeatedly compensate individuals who mismanage their lives or cultivate expensive tastes, a position incompatible with any sensible egalitarianism.",
+    "In 'Sovereign Virtue', Dworkin advances equality of resources through an ambition-sensitive auction using equal clamshells under a thin veil of ignorance, meeting the envy test while utilizing an endowment-sensitive common insurance pool to offset unchosen brute luck such as physical disabilities.",
+    "Amartya Sen critiques resource equality as mere equality of means, advocating instead for capabilities as the actual ends of equality. Through his bicycle example and the comparison between hunger and fasting, Sen demonstrates that functionings represent 'being and doing', which constitute true well-being.",
+    "Crucially, Sen's capability approach accounts for diverse forms of deprivation that income metrics overlook, such as differing deprivations faced by an Indian poor girl child compared to a male child, treating people not as instruments of economic growth but as its ultimate ends."
+   ],
+   "scholars": [
+    "Amartya Sen",
+    "'Equality of What'",
+    "Ronald Dworkin",
+    "'Sovereign Virtue'",
+    "John Rawls",
+    "Michael Walzer"
+   ],
+   "conclusion": "Ultimately, Sen's capability approach shifts the egalitarian paradigm from basic material provision to substantive human freedoms. By redefining poverty as capability deprivation, it provides public policy with an empowering framework to convert social resources into meaningful human well-being."
+  }
+ ]
+}

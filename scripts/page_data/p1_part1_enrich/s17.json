@@ -1,0 +1,181 @@
+{
+ "pages": [
+  {
+   "page": 147,
+   "title": "Party System: Outline and Role in Democracy",
+   "summary": "The page outlines key lecture questions on the Indian party system and introduces statistiology, noting that political parties are essential to representative democracy. It highlights differing views on their necessity, referencing scholars like Laski who argue that democracy cannot function without political parties."
+  },
+  {
+   "page": 148,
+   "title": "Party System Concept and Features of Indian Parties",
+   "summary": "The page contrasts critics who favor partyless democracy or fear factionalism with the concept that party systems depend on parties having systemic relevance. It also outlines distinctive features of Indian political parties according to Rajni Kothari and Zoya Hassan, such as a lack of internal democracy and growing corporate ties."
+  },
+  {
+   "page": 149,
+   "title": "Paul Brass and Yogendra Yadav on Indian Parties",
+   "summary": "Paul Brass highlights paradoxes in Indian parties, such as combining modern bureaucratic organisation with dynastic practices and mobilizing traditional identities. Yogendra Yadav observes simultaneous institutionalisation and deinstitutionalisation, noting that parties have abandoned nation-building in favor of merely capturing political office."
+  },
+  {
+   "page": 150,
+   "title": "Phase I: One-Party Dominance and Congress System",
+   "summary": "The page describes Phase I of India's party system up to 1967 as a one-party dominant system, termed the 'Congress system' by Rajni Kothari. Kothari characterizes Congress as a hegemonic 'party of consensus' acting as a rainbow coalition, while peripheral opposition parties functioned as 'parties of pressure'."
+  },
+  {
+   "page": 151,
+   "title": "Factors Sustaining Congress System and Nehru's Role",
+   "summary": "The page details reasons for the dominance of the Congress system, citing the legacy of the national movement, Gandhi's grassroots mass base, and a centrist agenda. It also emphasizes Jawaharlal Nehru's contribution in promoting democratic culture, accommodation, and consensus, convincing people that Congress was critical for national survival."
+  },
+  {
+   "page": 152,
+   "title": "Breakdown of Congress System: Suhas Palshikar's Analysis",
+   "summary": "Phase II marks the breakdown of the Congress system beginning in the 1967 general elections with the formation of non-Congress state governments. Drawing on Suhas Palshikar's three phases of Congress, it details internal challenges during the confrontation phase including power centralization and a lack of intra-party democracy."
+  },
+  {
+   "page": 153,
+   "title": "Decline and Phase of Survival of Congress",
+   "summary": "The page outlines external challenges including the first and second democratic upsurges, where OBCs and Dalits formed their own parties and deserted Congress. It notes that during Phase III (survival since 1989), Congress faced organizational decline, culminating in its 2014 defeat where both its social base and territorial footprint shrank significantly."
+  },
+  {
+   "page": 154,
+   "title": "Congress Support Base and Pratap Bhanu Mehta's Critique",
+   "summary": "The page analyzes Congress's loss of upper caste, OBC, SC, and youth support, leaving it identified primarily with minorities and STs amidst ideological stagnation and weak cadres. It also cites Pratap Bhanu Mehta, who argues that Congress must shed its majority-minority complex, craft new social coalitions, and become a party of transformation."
+  },
+  {
+   "page": 155,
+   "title": "Phase II: Multi-Party System, Fragmentation, and Regionalisation",
+   "summary": "Phase II of the Indian party system from 1989 onwards is defined as a phase of multi-party systems and coalition politics. The page explains that fragmentation and regionalisation were driven by the deinstitutionalisation of democracy within Congress, causing regional satraps to leave and form regional parties."
+  },
+  {
+   "page": 156,
+   "title": "Rise of Regional Parties: Sreedharan and Yadav",
+   "summary": "The page details factors identified by E. Sreedharan for the rise of regional parties, including delinked elections, social cleavages, intermediate caste mobilization, and federal structure. It also cites Yogendra Yadav, who explains the rise of regional parties and Congress's decline as a 'democratic upsurge' reflecting the deepening of democracy in India."
+  },
+  {
+   "page": 157,
+   "title": "Rise of regional parties and coalition politics",
+   "summary": "The rise of regional parties brings mixed consequences, enhancing democratic representation and federal bargaining while also contributing to coalition politics, instability, corruption, and defection. Coalition government is defined as a parliamentary power-sharing arrangement with roots in India's early party history and greater maturity at the state level."
+  },
+  {
+   "page": 158,
+   "title": "National coalition politics and Indian coalition culture",
+   "summary": "National coalition politics formally began in 1989 and matured through the NDA and UPA eras, remaining inevitable in diverse Indian democracy. According to Prof. Vidyut Chakrabarty, Indian coalitions differ from Western 'coalition by design' by being driven by political calculation with minimal ideological coherence."
+  },
+  {
+   "page": 159,
+   "title": "Oversized coalitions and debate on coalition desirability",
+   "summary": "Indian coalitions are typically negative and oversized alliances formed to keep rivals out of power rather than strictly to govern, though innovations like common minimum programs exist. Concerns over consequences such as corruption, defection, policy paralysis, and the weakening of Parliament and the Prime Minister have fueled debates regarding coalition desirability."
+  },
+  {
+   "page": 160,
+   "title": "Coalition inevitability, governance reforms, and presidential debate",
+   "summary": "Coalition politics is deemed inevitable in India, necessitating governance measures such as electoral and anti-defection reforms, political ethics, intra-party democracy, and constructive votes of no confidence. Adopting a presidential system is neither possible nor desirable because the parliamentary system is part of the basic structure and presidential democracy rarely endures outside the United States."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What distinctive non-western features of Indian political parties were identified by Rajni Kothari?",
+   "back": "According to Rajni Kothari, political parties in India exhibit non-western features, notably a lack of internal democracy and the absence of separation between party and government.",
+   "category": "Indian Party Characteristics",
+   "scanPage": 148
+  },
+  {
+   "front": "What paradoxical features of Indian political parties did Paul Brass identify?",
+   "back": "Paul Brass observed that Indian parties are bureaucratically modern yet practice dynastic politics, mobilize voters on traditional identity lines despite being products of modernization, and remain vital for democracy while lacking internal democracy.",
+   "category": "Party System Paradoxes",
+   "scanPage": 149
+  },
+  {
+   "front": "How did Rajni Kothari define the roles of Congress and opposition parties within the 'Congress system'?",
+   "back": "Kothari conceptualized Congress as a hegemonic 'party of consensus' acting as a broad rainbow coalition. In contrast, he termed opposition parties 'parties of pressure' operating on the margins to prevent authoritarianism.",
+   "category": "Congress System Model",
+   "scanPage": 150
+  },
+  {
+   "front": "What key factors explained by Rajni Kothari enabled the Congress system to maintain its democratic character?",
+   "back": "The Congress system remained democratic due to the legacy of the national movement, Gandhi's mass organizational base, a centrist non-communal agenda, Jawaharlal Nehru's commitment to democratic consensus, and the role of the Election Commission.",
+   "category": "Congress System Stability",
+   "scanPage": 151
+  },
+  {
+   "front": "What three distinct historical phases in the evolution of the Congress party were formulated by Suhas Palshikar?",
+   "back": "Suhas Palshikar divided Congress's history into the Phase of Hegemony (until 1967), the Phase of Confrontation (1967 to 1989), and the Phase of Survival (since 1989), viewing its 2014 defeat as demise rather than mere decline.",
+   "category": "Decline of Congress",
+   "scanPage": 152
+  },
+  {
+   "front": "What internal organizational failures contributed to the decline of Congress during the Phase of Confrontation?",
+   "back": "Congress suffered from intense centralisation of power in one person or family, a complete absence of internal party elections since 1972, reliance on loyalists, loss of touch with grassroots leaders, and intolerance of internal dissent.",
+   "category": "Challenges to Congress",
+   "scanPage": 152
+  },
+  {
+   "front": "What structural reasons did E. Sreedharan identify for the rise of regional parties in India?",
+   "back": "E. Sreedharan identified the delinking of parliamentary and assembly elections, politicisation of social cleavages, rise of intermediate castes through land reform and the Green Revolution, suspension of democracy during the Emergency, and India's federal structure.",
+   "category": "Rise of Regional Parties",
+   "scanPage": 156
+  },
+  {
+   "front": "How does Vidyut Chakrabarty differentiate Indian coalition culture from Western coalition models?",
+   "back": "Vidyut Chakrabarty argues that Western coalitions represent 'coalition by design' founded on ideological coherence to run governments. By contrast, Indian coalitions are 'coalition by political calculation still in search of design', often formed as negative coalitions to keep opponents out of power.",
+   "category": "Indian Coalition Culture",
+   "scanPage": 158
+  },
+  {
+   "front": "Why do Indian coalitions diverge from William Riker's concept of a 'minimum winning coalition'?",
+   "back": "While William Riker posited that parties seek a 'minimum winning coalition' to maximize power sharing, Indian coalitions are deliberately oversized because parties fear that coalition factions might defect at any moment.",
+   "category": "Coalition Politics Theory",
+   "scanPage": 159
+  },
+  {
+   "front": "What institutional reforms are suggested in the notes to address the dysfunctions of coalition politics?",
+   "back": "The notes recommend reforming the anti-defection law, curbing money and muscle power, imposing intra-party democracy, institutionalising partner consultation, promoting governmental transparency, and introducing Germany's constructive vote of no confidence.",
+   "category": "Coalition Governance Reforms",
+   "scanPage": 160
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the nature of the 'Congress System' as conceptualized by Rajni Kothari and analyze the factors that led to its eventual breakdown and demise.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Congress System and Its Decline",
+   "scanPage": 150,
+   "intro": "Rajni Kothari conceptualized the post-independence Indian polity as the 'Congress system', a one-party dominant framework functioning as a consensus-driven rainbow coalition. However, internal centralization and democratic upsurges eventually precipitated its structural decline and demise.",
+   "body": [
+    "Rajni Kothari characterized the early party system as a hegemonic 'party of consensus' accommodating diverse social interests into a grand rainbow coalition, while peripheral opposition parties operated as mere 'parties of pressure'.",
+    "Suhas Palshikar chronologically categorized Congress's evolution into phases of hegemony, confrontation, and survival, asserting that the historic 2014 defeat represented the permanent demise rather than a temporary decline of its hegemony.",
+    "Internal deinstitutionalisation eroded party capability as power was centralized in one family, organizational elections lapsed after 1972, and internal dissent was silenced, compelling powerful regional satraps to split and launch independent parties.",
+    "Yogendra Yadav linked this decline to democratic upsurges: post-Green Revolution mobilization enabled intermediate OBC castes to abandon Congress, while the 1990s upsurge saw Dalits depart, eroding traditional Congress bastions like Maharashtra and Haryana.",
+    "Pratap Bhanu Mehta pointed to ideological exhaustion and acute cadre deficits, urging Congress to transcend majority-minority identity traps, rebuild grass-roots organizational strength, and craft an imaginative, transformative socio-economic agenda."
+   ],
+   "scholars": [
+    "Rajni Kothari",
+    "Morris Jones",
+    "Suhas Palshikar",
+    "Yogendra Yadav",
+    "Pratap Bhanu Mehta"
+   ],
+   "conclusion": "While Congress's systemic dominance has dissolved into a fragmented polity, reviving internal party democracy and articulating a forward-looking coalition vision remain essential for restoring its relevance as an effective national democratic alternative."
+  },
+  {
+   "question": "Discuss the distinctive features and challenges of coalition politics in India. Is coalition governance an inevitable feature of Indian democracy?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Dynamics of Coalition Politics in India",
+   "scanPage": 158,
+   "intro": "Coalition governance emerged as a defining reality of Indian politics after 1989. Reflecting India's profound social diversity, it transitioned the party system from one-party dominance to power-sharing arrangements, combining federal representation with distinct structural challenges.",
+   "body": [
+    "Vidyut Chakrabarty contrasts Western 'coalition by design' with India's 'coalition by political calculation', observing that Indian alliances lack ideological coherence and frequently operate as negative coalitions designed to exclude opponents, seen in the Janata Party.",
+    "Departing from William Riker's 'minimum winning coalition', Indian politics produces oversized coalitions to prevent partner blackmail, introducing institutional innovations like Common Minimum Programmes and National Agendas for Governance, bearing similarities to Italian coalition politics.",
+    "E. Sreedharan and Yogendra Yadav show that regionalisation and democratic upsurges made coalition governance inevitable, enhancing federal bargaining and representation, reaching stability under Vajpayee's NDA, followed by UPA-I and UPA-II administrations.",
+    "Coalitions also produced instability, policy paralysis, and defection; however, adopting a presidential system is neither possible nor desirable since parliamentary governance is part of the Constitution's inviolable Basic Structure.",
+    "To optimize coalitions, recommendations include reforming anti-defection provisions, checking money power, enforcing intra-party democracy, institutionalising partner consultation, and adopting Germany's constructive vote of no confidence."
+   ],
+   "scholars": [
+    "Vidyut Chakrabarty",
+    "William Riker",
+    "E. Sreedharan",
+    "Yogendra Yadav"
+   ],
+   "conclusion": "Coalitions reflect India's societal diversity and make governance consociational and deliberative. Rather than seeking unviable presidential alternatives, democratic maturity requires strengthening parliamentary conventions and institutional mechanisms to manage coalition governance effectively."
+  }
+ ]
+}

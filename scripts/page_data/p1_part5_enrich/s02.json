@@ -1,0 +1,62 @@
+{
+ "pages": [
+  {
+   "page": 7,
+   "title": "Introduction to Political Thought and Ancient Greece",
+   "summary": "The page defines politics as the study of governance theories derived from Greek city-states and thought as the thinking of an age across time and place, tracing Western political thought from ancient Greece to modern and post-modern entities. It also details the ancient Greek way of life as featuring decentralized city-states, an agrarian slave economy, and a hierarchical, patriarchal class society."
+  },
+  {
+   "page": 8,
+   "title": "Greek Attitude and Dimensions for Studying Thinkers",
+   "summary": "The Greeks held an ethnocentric sense of superiority and viewed other peoples as barbarians. The page also presents an analytical framework for studying a thinker, covering their purpose, context of time and place, perspective, methodology, influences, key ideas, statements, critics, and overall contribution to Western theory."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What is the etymological origin of the term 'political' and how does it relate to Gandhi's idea of Gram Swaraj?",
+   "back": "The term 'political' derives from the Greek word 'polis', denoting self-sufficient city-states. In India, this concept parallels village republics, which Gandhi sought to achieve through self-sufficient villages under Gram swaraj.",
+   "category": "Concept of Political",
+   "scanPage": 7
+  },
+  {
+   "front": "How was ancient Greek society structured in terms of its political, economic, and social systems?",
+   "back": "Politically, ancient Greece consisted of decentralized city-states. Economically, it operated an agrarian economy based on the practice of slavery. Socially, it was hierarchical, patriarchal, and divided into classes of masters and slaves based on economic status, unlike India's division by caste.",
+   "category": "Ancient Greek Society",
+   "scanPage": 7
+  },
+  {
+   "front": "What was the attitude of ancient Greeks toward external societies?",
+   "back": "The Greeks were ethnocentric people with an ingrained sense of superiority. They viewed other communities, such as Indians, as barbarians.",
+   "category": "Greek Ethnocentric Attitude",
+   "scanPage": 8
+  },
+  {
+   "front": "According to the lecture framework, what key dimensions must be examined to understand a political thinker?",
+   "back": "Understanding a thinker requires analyzing their purpose, time and place, perspective (such as Marx being a socialist), methodology (such as Gandhi's experiments), influences, prominent ideas (such as Marx's communalism), key statements, critics, and their contribution to Western theory.",
+   "category": "Framework for Thinkers",
+   "scanPage": 8
+  }
+ ],
+ "answers": [
+  {
+   "question": "Political thought is the thinking of an age, rooted in its specific time and place. Discuss how the socio-political foundations of ancient Greece shaped Western political thought and its subsequent evolution.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Introduction to Western Political Thought",
+   "scanPage": 7,
+   "intro": "Political thought represents the thinking of an age, conditioned by the dimensions of time and place. In politics, we study theories of governance that emerge directly from the prevailing political and social life of historical epochs.",
+   "body": [
+    "The concept of the political originates from the Greek 'polis', meaning self-sufficient city-states. This parallels the Indian case of village republics, where Gandhi envisioned decentralized self-reliance through Gram swaraj.",
+    "Ancient Greek thought was anchored in an agrarian economy supported by slavery. Unlike the Indian case of caste divisions, Greek society was patriarchal, hierarchical, and divided into economic classes of masters and slaves.",
+    "Ethnocentrism defined the Greek worldview; possessing an assumed superiority, they categorized external societies like Indians as barbarians, demonstrating that the political ideas of thinkers inevitably reflect the dominant social attitudes of their era.",
+    "Western thought evolved across epochs: from ancient Greek city-states to the medieval Roman Empire's confederation of European states, progressing to modern nation-states, and culminating in post-modern supranational entities like the EU.",
+    "Comprehending political thinkers requires analyzing their time, place, perspective, and methodology, as illustrated by Marx's socialist school of thought and focus on communalism versus Gandhi's distinctive methodology grounded in experiment."
+   ],
+   "scholars": [
+    "Gandhi",
+    "Marx",
+    "Gram swaraj"
+   ],
+   "conclusion": "Thus, political thought remains inextricably linked to the material, institutional, and social context of its era. From ancient city-states to post-modern entities like the EU, theories of governance continuously evolve to address emerging political configurations."
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "pages": [
+  {
+   "page": 122,
+   "title": "Reservation Policy Perspectives and Constitutional Scheme",
+   "summary": "Scholars like Ramchandra Guha, Pratapbhanu Mehta, and Yogendra Yadav characterize reservation policy as high politics that raises difficult questions and divides public and private opinions. The notes also detail India's constitutional scheme providing reservations in legislatures, local bodies, educational institutions, and public employment for SCs, STs, women, and OBCs."
+  },
+  {
+   "page": 123,
+   "title": "Debatable Issues and Nature of Reservation Policy",
+   "summary": "The page lists key debatable issues concerning reservations, including eligibility, time limits, and extension to superspecialty jobs or the private sector. It also discusses reservation as a strong form of affirmative action, with Andre Beteille noting it was introduced under British colonial policies rather than out of goodwill."
+  },
+  {
+   "page": 124,
+   "title": "Scholarly Perspectives on the Purpose of Reservation",
+   "summary": "While Andre Beteille and Pratapbhanu Mehta resigned from the National Knowledge Commission in protest of higher education quotas, Yogendra Yadav and Satish Deshpande argue reservation requires revision rather than abolition. Amit Thorat highlights that reservation is not an employment guarantee or poverty alleviation scheme, but a policy tool to counter caste prejudice and provide representation to historically excluded groups."
+  },
+  {
+   "page": 125,
+   "title": "Justification of Reservation and Backwardness Criteria",
+   "summary": "Reservation is described as compensation and social justice for caste-based historical injustice, distinct from general poverty alleviation measures like MGNREGA. While SC and ST reservations have clear constitutional grounding based on historical exclusion, the absence of a defined constitutional criterion for backwardness leaves ambiguity for OBC inclusion."
+  },
+  {
+   "page": 126,
+   "title": "Judicial Approaches to Backwardness and OBC Reservation",
+   "summary": "The notes examine demands by communities like Jats and Patidars, tracing the Supreme Court's shifting stance on backwardness from the Balaji and Indra Sawhney cases to Ram Singh. The judiciary suggests looking beyond caste and historical injustice toward new paradigms, as seen in the NALSA ruling granting OBC reservation to transgender individuals."
+  },
+  {
+   "page": 127,
+   "title": "Reservation in Promotions and Constitutional Amendments",
+   "summary": "The page outlines the evolution of reservation in promotions through rulings like Indra Sawhney, Ajit Singh, and Nagaraj alongside the 77th and 85th Constitutional Amendments. The Supreme Court allowed consequential seniority only if the government demonstrates quantifiable data on underrepresentation while maintaining administrative efficiency under Article 335."
+  },
+  {
+   "page": 128,
+   "title": "Super Specialty Quotas, Limits, and Private Sector",
+   "summary": "The notes discuss the lapse of the 117th Amendment Bill and court rulings on superspecialty reservations and the 50% reservation ceiling set in Indra Sawhney. It also highlights the National Commission for Backward Classes' recommendation for private sector quotas due to public sector rollback and corporate benefits."
+  },
+  {
+   "page": 129,
+   "title": "Private Sector Reservation Arguments and Policy Alternatives",
+   "summary": "Arguments against private sector quotas are detailed, citing corporate competitiveness, fear of brain drain, FDI impacts, and hire-and-fire business realities. As alternatives, the page suggests adopting a US-style diversity index or establishing an Equal Opportunity Commission as proposed by the Madhav Menon committee."
+  },
+  {
+   "page": 130,
+   "title": "Reservation Timeframe, Religious Conversion, and Deprivation Index",
+   "summary": "Reservation is framed as a temporary enabling policy that has triggered a race to the bottom, alongside legal rules on how religious conversion and reconversion affect SC status under KPS Manu. The page concludes with Yogendra Yadav's proposal to adopt a new methodology using a multi-layered deprivation index."
+  },
+  {
+   "page": 131,
+   "title": "Parameters for Yogendra Yadav's Reservation Methodology",
+   "summary": "Yogendra Yadav proposes four parameters for evaluating a reservation methodology: being intellectually sound, administratively and financially viable, politically defensible, and morally justiciable."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why do Prof. Satish Deshpande and Prof. Amit Thorat reject viewing reservation as an employment guarantee or poverty alleviation scheme?",
+   "back": "According to Satish Deshpande and Amit Thorat, reservation is not an employment guarantee or poverty alleviation scheme, but a policy tool to end prejudice against excluded communities. Its core purpose is to provide representation in administrative and political structures to sections excluded historically by the caste system.",
+   "category": "Purpose of Reservation",
+   "scanPage": 124
+  },
+  {
+   "front": "How did the Supreme Court's stance on caste as a determinant of backwardness evolve from the Balaji case to the Ram Singh case?",
+   "back": "In the Balaji case (1963), the Supreme Court ruled that caste is not the sole or dominant criterion of backwardness, whereas in Indira Sawhney (1992), it held caste could be the sole criterion as caste equals class in India. However, in Ram Singh (2014), the Court moved beyond caste and historical injustice to look for a new paradigm and new forms of injustices.",
+   "category": "Criteria of Backwardness",
+   "scanPage": 126
+  },
+  {
+   "front": "What constitutional condition did the Supreme Court establish in the Nagaraj case regarding reservations in promotions?",
+   "back": "In the Nagaraj case, the Supreme Court upheld the validity of the 85th Amendment but ruled that reservation in promotions with consequential seniority is permissible only if the government provides quantifiable data of under-representation. Additionally, the government must adhere to the administrative efficiency guidelines mentioned in Article 335.",
+   "category": "Reservations in Promotions",
+   "scanPage": 127
+  },
+  {
+   "front": "How has the Supreme Court ruled on reservations in superspeciality jobs and institutions like ISRO and DRDO?",
+   "back": "In the Indira Sawhney case, the Supreme Court held there should be no reservation in superspeciality jobs and research institutions. While the Court subsequently permitted reservation in the PGIMER Chandigarh case, it later stayed superspeciality reservation in the AIIMS case.",
+   "category": "Super Speciality Reservations",
+   "scanPage": 128
+  },
+  {
+   "front": "What alternatives to mandatory private sector quotas did the notes propose based on international practices and committee recommendations?",
+   "back": "Instead of quotas, the notes suggest adopting a US-style 'Diversity Index' to ensure representation of diverse sections across a company's workforce. Furthermore, the government could establish an Equal Opportunity Commission, as recommended by the Madhav Menon committee, to provide redressal against arbitrary discrimination.",
+   "category": "Private Sector Alternatives",
+   "scanPage": 129
+  },
+  {
+   "front": "What rule did the Supreme Court lay down in the KPS Manu case regarding Dalits who re-convert to Hinduism?",
+   "back": "Under the KPS Manu vs Chairman Scrutiny Committee ruling, if a Dalit converted to Christianity or Islam and their second generation opts for re-conversion, reservation benefits can be granted. This entitlement is conditional upon the members of the community accepting the re-conversion.",
+   "category": "Religious Conversion Rules",
+   "scanPage": 130
+  },
+  {
+   "front": "What alternative reform methodology and four parameters does Prof. Yogendra Yadav propose for the reservation policy?",
+   "back": "Prof. Yogendra Yadav proposes replacing existing quotas with a multi-layered deprivation index or disadvantaged points system. He suggests this methodology must satisfy four parameters: being intellectually sound, administratively and financially viable, politically defensible, and morally justiciable.",
+   "category": "Deprivation Index Reform",
+   "scanPage": 131
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the competing perspectives on the reservation policy in India. Is affirmative action an instrument for poverty alleviation or a remedy for historical injustice?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Theoretical Debates on Affirmative Action and Reservation",
+   "scanPage": 124,
+   "intro": "Reservation represents the strongest form of affirmative action, functioning as high politics in India. While critics highlight its diminishing effect on selfhood, proponents defend it as essential compensation for caste-based historical injustice rather than an economic alleviation scheme.",
+   "body": [
+    "Ramchandra Guha notes reservation generates heat over light, while Pratapbhanu Mehta argues it diminishes selfhood due to public-private opinion divides. Additionally, Andre Beteille and Mehta resigned from the National Knowledge Commission, with Beteille attributing Indian reservations to colonial British policies rather than genuine welfare.",
+    "Satish Deshpande and Amit Thorat reject viewing reservation as an employment guarantee or poverty alleviation program. Thorat emphasizes it is a policy tool to counter prejudice and secure representation for caste groups historically excluded from administration, offsetting centuries of upper-caste monopoly in education and employment.",
+    "Thorat asserts historical caste injustice must remain the sole justification, as economic distress can be resolved through universal schemes like MGNREGA. He also recommends sensitizing school children regarding systemic inequalities to justify compensatory social justice.",
+    "Yogendra Yadav affirms reservation was not a wasteful journey but has reached a dead end. To avoid an endless race to the bottom, he advocates a multi-layered deprivation index that is intellectually sound, administratively viable, politically defensible, and morally justiciable."
+   ],
+   "scholars": [
+    "Ramchandra Guha",
+    "Pratapbhanu Mehta",
+    "Andre Beteille",
+    "Satish Deshpande",
+    "Amit Thorat",
+    "Yogendra Yadav"
+   ],
+   "conclusion": "Ultimately, reservation policy must transcend populist political games and quota expansions. Reforming affirmative action through multi-dimensional deprivation criteria ensures social justice without compromising administrative efficacy, fulfilling constitutional objectives while preserving democratic consensus."
+  },
+  {
+   "question": "Examine the evolution of judicial doctrine concerning backwardness criteria and reservations in promotions. How has the judiciary reconciled social justice with administrative efficiency?",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Judicial Doctrine on Backwardness and Promotions",
+   "scanPage": 127,
+   "intro": "The Supreme Court of India has played a pivotal role in shaping affirmative action, constantly balancing compensatory social justice for disadvantaged communities against constitutional limitations, merit principles, and the imperative of administrative efficiency under Article 335.",
+   "body": [
+    "In Balaji v. State of Mysore (1963), the Supreme Court ruled caste cannot be the sole or dominant factor of backwardness. However, Indira Sawhney (1992) reversed this, holding caste is class and can serve as the sole criterion while imposing a 50% ceiling.",
+    "Recent jurisprudence reflects shifting paradigms: Ram Singh v. Union of India (2014) directed courts to look beyond caste and historical injustice toward new forms of discrimination, aligning with the NALSA ruling which extended OBC reservation to transgender persons.",
+    "Regarding promotions, Indira Sawhney barred quotas beyond entry levels. In response, Parliament enacted the 77th Amendment and later the 85th Amendment, which granted consequential seniority and effectively negated the catch-up rule established in the Ajit Singh case.",
+    "In the Nagaraj case, the Supreme Court validated the 85th Amendment but imposed strict riders: governments must produce quantifiable data demonstrating under-representation while maintaining administrative efficiency under Article 335, recently applied to invalidate Karnataka's reservation policy."
+   ],
+   "scholars": [
+    "Balaji v. State of Mysore",
+    "Indira Sawhney case",
+    "Ram Singh v. Union of India",
+    "NALSA case",
+    "Ajit Singh case",
+    "Nagaraj case"
+   ],
+   "conclusion": "The judiciary's approach demonstrates that while reservation remains a vital constitutional instrument for substantive equality, its exercise must be governed by empirical evidence, institutional competence, and objective thresholds to prevent affirmative action from degenerating into political expediency."
+  }
+ ]
+}

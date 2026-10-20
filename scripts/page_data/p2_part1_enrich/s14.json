@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "page": 147,
+      "title": "IMF purpose and its lending facilities",
+      "summary": "The IMF is a pillar of the liberal international economic order that lends to countries in balance of payments crisis and watches currency and macro-economic stability. Its facilities include stand-by arrangement, Extended Fund Facility, Supplementary Resource Facility, Poverty and Growth Facility and the European Financial Stabilisation Facility."
+    },
+    {
+      "page": 148,
+      "title": "IMF conditionalities, quota and weighted voting",
+      "summary": "Developing countries say conditionalities hurt sovereignty by forcing reforms that developed countries want. Voting share depends on quota (set by GDP, trade openness, current account transactions and reserves), substantive decisions need 85% of votes, and the G7 hold over 50% with the USA at about 17%."
+    },
+    {
+      "page": 149,
+      "title": "IMF resource shortage and its governing bodies",
+      "summary": "The IMF lacked resources for Europe's sovereign debt crisis, which was handled through a special fund created by India and China, and only in 2010 at the G20 Seoul summit did developed countries agree to BRICS quota. China is the second largest economy but has a 3.8% vote share, and the Board of Governors and 24 Executive Directors run the IMF."
+    },
+    {
+      "page": 150,
+      "title": "IMF leadership convention and stalled 2010 reforms",
+      "summary": "G7 countries have ensured the IMF head is always European and the World Bank head American. The 2010 reforms are still not implemented; they would cut the USA share from 16.7% to 16.5%, raise China from 3.8% to 6% and India from 2.3% to 2.6%, and make all executive directors elected."
+    },
+    {
+      "page": 151,
+      "title": "World Bank: its five constituent institutions",
+      "summary": "The page lists the five institutions that make up the World Bank: IBRD, International Development Assistance, IFC, MIGA and ICSID."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Which lending facilities of the IMF are listed in the notes, and what is each for?",
+      "back": "Stand-by arrangement for short-term crisis, Extended Fund Facility for long-term loans where restructuring is needed, Supplementary Resource Facility for sudden capital flight, Poverty and Growth Facility for low-income countries, and European Financial Stabilisation Facility for Europe's sovereign debt crisis.",
+      "category": "IMF facilities",
+      "scanPage": 147
+    },
+    {
+      "front": "Why do developing countries say the IMF hurts their sovereignty and fairness?",
+      "back": "IMF conditionalities force borrowers to adopt reforms that developed countries want. Weighted voting follows quota, and since substantive decisions need 85% of votes while G7 hold over 50% and the USA about 17%, nothing can happen without USA consent.",
+      "category": "IMF grievances",
+      "scanPage": 148
+    },
+    {
+      "front": "What changes would the pending 2010 IMF quota reforms bring?",
+      "back": "The USA share would fall from 16.7% to 16.5%, China would rise from 3.8% to 6% (third largest after US and Japan), India from 2.3% to 2.6%, BRICS would be in the top 10, and all executive directors would be elected.",
+      "category": "IMF reforms",
+      "scanPage": 150
+    },
+    {
+      "front": "Which five institutions make up the World Bank, as listed in the notes?",
+      "back": "IBRD, International Development Assistance, IFC (International Finance Corporation), MIGA (Multilateral Investment Guarantee Agency) and ICSID (International Centre for Settlement of Investment Disputes).",
+      "category": "World Bank institutions",
+      "scanPage": 151
+    }
+  ],
+  "answers": [
+    {
+      "question": "What are India's arguments against the IMF and what type of reforms are required in the IMF?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "IMF governance and reform",
+      "scanPage": 148,
+      "intro": "The IMF is a pillar of the liberal economic order, lending to countries facing balance of payments crisis and watching macro-economic stability. Developing countries argue that its conditionalities and weighted voting favour the developed world, so governance reform is needed.",
+      "body": [
+        "Sovereignty: IMF loans come with conditionalities that push borrowers towards economic reforms which developed countries want. Western countries even impose conditions for increasing subscription, forcing a country to open its economy.",
+        "Weighted voting: vote share follows quota, set by GDP, openness to trade, current account transactions and official reserves. Substantive decisions need 85% of votes, the G7 hold over 50% and the USA about 17%, so nothing happens without USA consent.",
+        "Under-representation: China is the second largest economy but has only 3.8% of votes, and the IMF head is always European while the World Bank head is American.",
+        "Reforms: accepted in 2010 at the G20 Seoul summit but not implemented, they would lift China to 6%, India from 2.3% to 2.6% and BRICS into the top 10, and make all executive directors elected. The IMF also needs more resources, as it lacked funds for Europe's debt crisis."
+      ],
+      "scholars": [
+        "IMF",
+        "World Bank",
+        "G20 Seoul summit",
+        "BRICS",
+        "Board of Governors",
+        "Board of Executive Directors"
+      ],
+      "conclusion": "India's case is not against the IMF's role but against its unequal governance. Implementing the 2010 quota reforms and electing all executive directors would make the institution more legitimate and better able to meet the rising demand for its funds."
+    }
+  ]
+}

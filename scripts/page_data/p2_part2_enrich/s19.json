@@ -1,0 +1,77 @@
+{
+  "pages": [
+    {
+      "page": 159,
+      "title": "US-Russia relations after Cold War; Manifest Destiny",
+      "summary": "Concludes that an event of such dimension cannot be attributed to a single cause, then traces early post-Cold War hope (Bush's New World Order, pro-West Yeltsin, arms control) turning sour as US companies looted Russia's natural wealth. Introduces Manifest Destiny, coined by John O. Sullivan in 1844, as a major inspiration for US foreign policy."
+    },
+    {
+      "page": 160,
+      "title": "US foreign policy objectives and post-9/11 strategies",
+      "summary": "Describes Madeleine Albright's 'Indispensable Nation', US objectives of protecting the mainland, controlling world trade and the oceans (Alfred T. Mahan), and strategies of containing challengers regionally and stopping nuclear proliferation. Says Islamic fundamentalism has challenged US hegemony since 2001, and that the declared war on terrorism masks aims of preventing attacks, using terrorist groups and keeping the Middle East divided."
+    },
+    {
+      "page": 161,
+      "title": "Asia Pivot and why Russia threatens USA",
+      "summary": "Notes that in the Asia Pivot or Rebalance the USA treats India as a swing state. Lists reasons Russia is the biggest geopolitical threat to the USA, including matching natural resources, space and defence technology, ICBMs and a UNSC seat, and the elements of US policy towards Russia."
+    },
+    {
+      "page": 162,
+      "title": "Russia's aims towards USA; 1990s events",
+      "summary": "Lists Russia's aims towards the USA: strategic balance, a coalition against it, closer ties with the EU and Germany, a Russia-China-India axis and support for Iran and Syria. Notes events since the Cold War, including the 1995 NATO bombing in Bosnia, US shock therapy, Putin's 1999 plan to nationalise oil and gas, and NATO's 1999 eastward expansion."
+    },
+    {
+      "page": 163,
+      "title": "Russia's grievances: NATO expansion to Georgia war",
+      "summary": "Russia calls NATO's eastward expansion a breach of trust and lists grievances: the Kosovo bombing without UNSC authorisation, the US exit from the ABM Treaty in 2002, the 2003 Iraq war, coloured revolutions, NATO's 2004 and 2007 decisions, Russia leaving the CFE treaty and its 2008 intervention in Georgia over South Ossetia."
+    },
+    {
+      "page": 164,
+      "title": "Reset to Crimea; the Cold War 2.0 debate",
+      "summary": "Covers Obama's Reset (2009), New START (2010), the Arab Spring in Syria and Crimea's integration into Russia (2014), then present proxy wars, vetoes, cyber warfare and arms race. Dmitri Trenin calls it Cold War 2.0, while others reject the phrase because Russia is not the USSR, there is no ideological conflict and no alternative world order."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Who coined the phrase Manifest Destiny, and what does it say about US foreign policy?",
+      "back": "John O. Sullivan, a New York journalist, coined it in 1844. It holds that God has chosen the USA to expand the territory of liberty, and it became a major inspiration for US foreign policy makers.",
+      "category": "US Foreign Policy Roots",
+      "scanPage": 159
+    },
+    {
+      "front": "Why is Russia seen as the biggest geopolitical threat to the USA?",
+      "back": "Russia has natural resources and space and defence technology at par with the USA, ICBMs that can reach all major US cities, and a UNSC permanent seat that can challenge US diplomatic moves. US official thinking continues to view it as the biggest threat.",
+      "category": "Russia as US Rival",
+      "scanPage": 161
+    },
+    {
+      "front": "Why does Russia call NATO's eastward expansion a breach of trust?",
+      "back": "Russia agreed to the integration of Germany because of the West's assurance that NATO would not expand eastward. Yet NATO added Hungary, Poland and the Czech Republic in 1999 and the Baltic states in 2004, and decided in 2007 to include Ukraine and Georgia.",
+      "category": "NATO Expansion Grievance",
+      "scanPage": 163
+    },
+    {
+      "front": "What is the Cold War 2.0 debate about present US-Russia relations?",
+      "back": "Dmitri Trenin of the Carnegie foundation called the present state of relations Cold War 2.0. Others reject the phrase because Russia is not the USSR, there is no ideological conflict, and Russia has no alternative world order like the USSR's, though it talks of multilateralism.",
+      "category": "Cold War 2.0 Debate",
+      "scanPage": 164
+    }
+  ],
+  "answers": [
+    {
+      "question": "Trace the evolution of US-Russia relations since the end of the Cold War. Would you call the present state a new Cold War?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "US-Russia relations after Cold War",
+      "scanPage": 163,
+      "intro": "After the Cold War, Bush's New World Order and Yeltsin's pro-West policies raised hopes of a qualitative change in US-Russia relations. Disillusion followed, and scholars now debate whether present tensions amount to a Cold War 2.0.",
+      "body": [
+        "Early hope faded: Yeltsin adopted pro-West policies and signed arms control agreements, but US shock therapy worsened Russia's economy and US companies looted its natural wealth. Relations deteriorated even under Yeltsin.",
+        "NATO expansion is the core grievance: the 1995 Bosnia bombing, Hungary, Poland and the Czech Republic in 1999, the Baltic states in 2004 and the 2007 decision on Ukraine and Georgia. Russia calls it a breach of trust over the assurance given when it accepted German integration.",
+        "Other irritants were the unauthorised Kosovo bombing, the 2002 US exit from the ABM Treaty and the Iraq war. Russia answered by leaving the CFE treaty, Putin's Munich criticism of US hyper power, the Georgia intervention and Crimea, with Reset and New START as brief interludes.",
+        "Today there are proxy wars in Syria and eastern Ukraine, repeated vetoes, cyber warfare, an arms race and US missiles in Romania and Poland. Dmitri Trenin calls this Cold War 2.0; critics note Russia is not the USSR, ideology is absent and it offers no alternative world order."
+      ],
+      "scholars": ["Dmitri Trenin", "John O. Sullivan", "Madeleine Albright", "Alfred T. Mahan", "Yeltsin", "Putin"],
+      "conclusion": "Old geopolitics, not ideology, shapes the relationship, which the notes describe as worst under the Trump administration. Cold War 2.0 captures the rivalry but overstates the parallel, so managing arms races and proxy conflicts is the practical priority."
+    }
+  ]
+}

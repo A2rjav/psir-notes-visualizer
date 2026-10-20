@@ -1,0 +1,5 @@
+KIND: blank
+NOTEBOOK_PAGE: 66
+HEADING:
+---
+

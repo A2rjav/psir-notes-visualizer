@@ -1,0 +1,110 @@
+{
+ "pages": [
+  {
+   "page": 42,
+   "title": "Judicial Reforms and Need for Speedy Justice",
+   "summary": "Judicial reforms are essential as an effective judiciary directly correlates with economic growth, provides vital grievance redressal, and averts revolution. A critical needed reform is the speedy delivery of justice to counter India's notorious delays, as seen in the Arya Samaj case."
+  },
+  {
+   "page": 43,
+   "title": "Judicial Corruption, Institutional Reforms, and Union Responsibility",
+   "summary": "Judicial reforms require tackling escalating corruption across both subordinate and higher judiciary, alongside institutional measures such as reforming judge appointments and increasing court capacity. The Union Government holds primary responsibility for providing infrastructure, updating laws and procedural codes, and addressing India's critically low judge-to-population ratio."
+  },
+  {
+   "page": 44,
+   "title": "Responsibilities of Government and Judiciary in Reforms",
+   "summary": "The government must build infrastructure, curb state litigation, operationalize Gram Nyayalayas, expand alternative dispute resolution, and implement plea bargaining. Meanwhile, the judiciary must reduce pending cases by curbing excessive appeals and special leave petitions, avoid activism at the expense of regular business, and address its own corruption and accountability."
+  },
+  {
+   "page": 45,
+   "title": "Judicial Accountability and Constituent Assembly Appointment Debates",
+   "summary": "While the judiciary remains resistant to RTI and the Judicial Standards and Accountability Bill, bar associations and civil society must assist in curbing delays through codes of conduct, Fast Track courts, and Lok Adalats. Regarding judicial appointments, the Constituent Assembly reviewed executive appointment and rejected US-style legislative ratification due to concerns over politicisation."
+  },
+  {
+   "page": 46,
+   "title": "Judicial Appointment Choices and Collegium System Evolution",
+   "summary": "Ambedkar rejected judges appointing judges to prevent an imperium in imperio, leading to executive appointment subject to judicial consultation to check politicisation. In practice, a system where judges appoint judges emerged after executive supersessions of senior judges following the Kesavananda Bharati case and in 1977."
+  },
+  {
+   "page": 47,
+   "title": "Judges Cases and Collegium System Evolution",
+   "summary": "The Sankalchand and First Judges cases held that consultation did not mean concurrence, but the Second Judges Case reversed this by giving primacy to the CJI and two senior judges. Under the Third Judges Case, consultation requires the CJI to consult four senior-most judges, where concurrence of at least three judges including the CJI is required."
+  },
+  {
+   "page": 48,
+   "title": "Problems in Collegium System and NJAC Recommendation",
+   "summary": "The collegium system suffers from inefficiency and a lack of transparency, leading to judicial vacancies, delays, and allegations of nepotism or the 'uncle judge syndrome'. To address these issues, the Venkatachaliah Commission recommended creating the National Judicial Appointments Commission (NJAC) while cautioning against violating the basic structure of the Constitution."
+  },
+  {
+   "page": 49,
+   "title": "99th Amendment Act: NJAC Purpose and Composition",
+   "summary": "Following global shifts toward independent judicial appointment bodies, the 99th Amendment Act established the NJAC to handle the appointment and transfer of higher judiciary judges. The commission was designed to include the CJI, two senior Supreme Court judges, the Law Minister, and two eminent persons chosen by a committee of the Prime Minister, Leader of Opposition, and CJI."
+  },
+  {
+   "page": 50,
+   "title": "NJAC Analysis and Supreme Court 2015 Verdict",
+   "summary": "Because any two members could veto an appointment and executive presence compromised judicial independence, the Supreme Court declared the NJAC Act null and void in December 2015. However, acknowledging flaws in the collegium, the Court directed the government to formulate a new Memorandum of Procedure and establish a secretariat, databank, and public grievance redressal mechanism."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What is the judge-to-population ratio in India as highlighted in the lecture notes?",
+   "back": "According to the notes, the judge-to-population ratio in India is around 10.5 judges per million population, which is among the lowest in the world.",
+   "category": "Judicial Infrastructure",
+   "scanPage": 43
+  },
+  {
+   "front": "Why did Dr. B.R. Ambedkar reject the proposal of judges appointing judges in the Constituent Assembly?",
+   "back": "Ambedkar rejected the proposal stating there cannot be an 'Imperium in Imperio' (a state within a state). He emphasised that appointments must have checks and balances rather than unchecked judicial power.",
+   "category": "Constituent Assembly Debates",
+   "scanPage": 46
+  },
+  {
+   "front": "What was held by the Supreme Court regarding 'consultation' in the Sankalchand (1977) and S.P. Gupta (1981) cases?",
+   "back": "In both the Sankalchand case and the S.P. Gupta case (First Judges Case), the Supreme Court ruled that the term 'consultation' under the Constitution does not mean concurrence.",
+   "category": "Judicial Appointment Jurisprudence",
+   "scanPage": 47
+  },
+  {
+   "front": "How is the collegium structured for appointing Supreme Court judges following the Third Judges Case (1998)?",
+   "back": "The collegium consists of the Chief Justice of India and four senior-most judges. A recommendation requires the concurrence of at least three judges including the CJI, and if three disagree, the name cannot be recommended.",
+   "category": "Collegium Decision Mechanism",
+   "scanPage": 47
+  },
+  {
+   "front": "What composition was mandated for the National Judicial Appointments Commission (NJAC) under the 99th Constitutional Amendment Act?",
+   "back": "The NJAC comprised the Chief Justice of India as chairperson, two senior-most Supreme Court judges, the Union Law Minister, and two eminent persons selected by a committee of the PM, CJI, and Leader of Opposition.",
+   "category": "NJAC Structure",
+   "scanPage": 49
+  },
+  {
+   "front": "What transparency requirements did the Supreme Court outline for the collegium system while declaring the NJAC null and void?",
+   "back": "The Supreme Court directed the formulation of a Memorandum of Procedure, establishment of a secretariat and databank, and publication of recommended names, minutes of discussion, and dissenting views on official websites.",
+   "category": "Collegium Reform Directives",
+   "scanPage": 50
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the evolution of the Collegium system in India. In light of the striking down of the 99th Constitutional Amendment, suggest measures required to ensure transparency and accountability in judicial appointments.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Judicial Appointments and the Collegium System",
+   "scanPage": 47,
+   "intro": "Lord Bryce observed that the functioning of the judiciary is the foremost test of governmental excellence. In India, judicial appointments have shifted from executive primacy to judicial dominance through the collegium, raising questions regarding democratic accountability and transparency.",
+   "body": [
+    "Constitutional intent and checks: Rejecting judges appointing judges, Dr. B.R. Ambedkar cautioned against creating an 'Imperium in Imperio' (state within a state), opting instead for executive appointment conditioned upon mandatory judicial consultation to prevent unilateral politicisation.",
+    "Jurisprudential shift to judicial primacy: While Sankalchand (1977) and the S.P. Gupta case (1981) ruled that consultation does not mean concurrence, the Second Judges case (1993) and Third Judges Presidential Reference (1998) established binding collegium concurrence, reducing the executive to a rubber stamp.",
+    "Systemic flaws and institutional critique: The collegium breeds severe delays, judicial overburdening, and opacity, prompting allegations of kinship bias ('uncle judge syndrome'); because 'Caesar's wife should be above suspicion', M. Venkatachaliah's NCRWC recommended creating an independent commission compliant with basic structure.",
+    "Post-NJAC reform imperative: Although the Supreme Court invalidated the 99th Amendment in 2015 to protect judicial independence, it admitted collegium flaws, ordering a revamped Memorandum of Procedure, databank, dedicated secretariat, and public disclosure of dissenting views and complaints."
+   ],
+   "scholars": [
+    "Dr. B.R. Ambedkar",
+    "Lord Bryce",
+    "M. Venkatachaliah (NCRWC)",
+    "Law Commission",
+    "Malimath Committee"
+   ],
+   "conclusion": "As biblical wisdom notes, if salt loses its savour, the earth cannot be salted. True judicial independence must not evade institutional accountability; reforming the Memorandum of Procedure and establishing transparent appointment benchmarks is essential to preserve public trust."
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Class Notes Cover | Course Index & Syllabus | Recommended Readings & Sources",
+   "start": 1,
+   "end": 6,
+   "keyScholars": [
+    "Subhra Ranjan",
+    "Subrata Mukherji",
+    "Sushila Ramaswamy",
+    "Andrew Heywood"
+   ],
+   "coreTheories": [
+    "Western Political Thought",
+    "Political Ideology"
+   ]
+  },
+  {
+   "title": "Introduction to Western Political Thought",
+   "subtitle": "Concept of the Political | Polis and Greek City-States | Greek Ethnocentrism",
+   "start": 7,
+   "end": 8,
+   "keyScholars": [],
+   "coreTheories": [
+    "Concept of the Political",
+    "Polis",
+    "Ethnocentrism"
+   ]
+  },
+  {
+   "title": "Plato: Influences, Dialectics and the Theory of Ideas",
+   "subtitle": "Pythagoras & Mathematical Principles | Heraclitus & Parmenides | Sophists vs Socratic Dialectics | Theory of Ideas and Reality",
+   "start": 9,
+   "end": 19,
+   "keyScholars": [
+    "Plato",
+    "Pythagoras",
+    "Heraclitus",
+    "Parmenides",
+    "Socrates"
+   ],
+   "coreTheories": [
+    "Theory of Ideas",
+    "Dialectics",
+    "Theory of Knowledge",
+    "Philosophical Idealism"
+   ]
+  },
+  {
+   "title": "Plato: Justice, Education, Communism and Philosopher King",
+   "subtitle": "Theory of Justice & Tripartite Soul | Myth of Metals & Three Classes | System of State Education | Communism of Property & Wives | Rule of Philosopher King",
+   "start": 20,
+   "end": 34,
+   "keyScholars": [
+    "Plato",
+    "Thrasymachus",
+    "Glaucon",
+    "Socrates",
+    "Aristotle",
+    "Karl Marx"
+   ],
+   "coreTheories": [
+    "Theory of Justice",
+    "State as Individual Writ Large",
+    "Theory of Education",
+    "Theory of Communism",
+    "Rule of Philosopher King"
+   ]
+  },
+  {
+   "title": "Plato: Totalitarianism Debate, Feminism and Open Society Critiques",
+   "subtitle": "Plato as Father of Totalitarianism | Karl Popper's Open Society Critique | Levinson's Defense of Plato | Plato as Feminist | Father of Political Philosophy",
+   "start": 35,
+   "end": 43,
+   "keyScholars": [
+    "Plato",
+    "Karl Popper",
+    "Levinson",
+    "G.W.F. Hegel",
+    "Karl Marx",
+    "Socrates"
+   ],
+   "coreTheories": [
+    "Totalitarianism",
+    "Open Society Critique",
+    "Feminism",
+    "Knowledge is Virtue"
+   ]
+  },
+  {
+   "title": "Aristotle: Theory of State, Citizenship, Slavery and Property",
+   "subtitle": "Teleological & Organic State | Man as Political Animal | Theory of Citizenship | Natural Slavery & Utility | Defense of Private Property",
+   "start": 44,
+   "end": 54,
+   "keyScholars": [
+    "Aristotle",
+    "Plato"
+   ],
+   "coreTheories": [
+    "Man as Political Animal",
+    "Organic Theory of State",
+    "Golden Mean",
+    "Theory of Citizenship",
+    "Theory of Slavery"
+   ]
+  },
+  {
+   "title": "Aristotle: Justice, Constitutional Classification, Rule of Law and Revolution",
+   "subtitle": "Distributive Justice & Proportionate Equality | Classification of Constitutions | Polity & Rule of Middle Class | Rule of Law | Theory and Causes of Revolution",
+   "start": 55,
+   "end": 63,
+   "keyScholars": [
+    "Aristotle",
+    "Plato"
+   ],
+   "coreTheories": [
+    "Distributive Justice",
+    "Rule of Law",
+    "Polity as Golden Mean",
+    "Theory of Revolution",
+    "Comparative Politics"
+   ]
+  },
+  {
+   "title": "Niccolò Machiavelli: Political Realism, Statecraft and Secular Politics",
+   "subtitle": "Renaissance Humanism & Secularism | Realistic Conception of Human Nature | Statecraft: Lion and Fox | Separation of Ethics and Politics | Father of Modern Political Theory",
+   "start": 64,
+   "end": 79,
+   "keyScholars": [
+    "Niccolò Machiavelli",
+    "George Sabine",
+    "Mahatma Gandhi"
+   ],
+   "coreTheories": [
+    "Political Realism",
+    "Autonomy of Politics",
+    "Statecraft",
+    "Fortuna and Virtu",
+    "National Interest"
+   ]
+  },
+  {
+   "title": "Thomas Hobbes: Social Contract, Absolute Sovereignty and Individualism",
+   "subtitle": "Scientific Materialism & Methodology | State of Nature as War of All | Social Contract & Leviathan | Indivisible Absolute Sovereignty | Individualism & Liberty as Law's Silence",
+   "start": 80,
+   "end": 96,
+   "keyScholars": [
+    "Thomas Hobbes",
+    "Galileo Galilei",
+    "Isaac Newton",
+    "Jean Bodin"
+   ],
+   "coreTheories": [
+    "Social Contract Theory",
+    "Absolute Sovereignty",
+    "State of Nature",
+    "Right to Self-Preservation",
+    "Possessive Individualism"
+   ]
+  },
+  {
+   "title": "John Locke: Natural Rights, Limited Government and Toleration",
+   "subtitle": "Critique of Patriarchal Absolutism | State of Nature & Natural Rights | Two-Stage Social Contract | Separation of Powers & Limited State | Theory of Property & Toleration",
+   "start": 97,
+   "end": 111,
+   "keyScholars": [
+    "John Locke",
+    "Robert Filmer",
+    "Thomas Hobbes",
+    "Karl Mannheim",
+    "C.B. Macpherson"
+   ],
+   "coreTheories": [
+    "Theory of Natural Rights",
+    "Social Contract",
+    "Limited Government",
+    "Labour Theory of Property",
+    "Toleration"
+   ]
+  },
+  {
+   "title": "Jean-Jacques Rousseau: General Will, Popular Sovereignty and Freedom",
+   "subtitle": "Paradoxical Political Philosophy | State of Nature & Noble Savage | Critique of Civil Society | General Will & Moral Freedom | Direct Democracy vs Leviathan",
+   "start": 112,
+   "end": 116,
+   "keyScholars": [
+    "Jean-Jacques Rousseau",
+    "Thomas Hobbes"
+   ],
+   "coreTheories": [
+    "General Will",
+    "Noble Savage",
+    "Popular Sovereignty",
+    "Forced to be Free",
+    "Social Contract"
+   ]
+  },
+  {
+   "title": "J.S. Mill: Modified Utilitarianism, Liberty and Representative Government",
+   "subtitle": "Revision of Benthamite Utilitarianism | Qualitative Pleasure & Socrates Dissatisfied | Harm Principle & Individual Sovereignty | Freedom of Speech & Expression | Representative Government & Women's Rights",
+   "start": 117,
+   "end": 131,
+   "keyScholars": [
+    "J.S. Mill",
+    "Jeremy Bentham",
+    "Thomas Carlyle",
+    "Ernest Barker",
+    "Jawaharlal Nehru"
+   ],
+   "coreTheories": [
+    "Qualitative Utilitarianism",
+    "Harm Principle",
+    "Liberty of Thought and Expression",
+    "Representative Government",
+    "Subjection of Women"
+   ]
+  },
+  {
+   "title": "Karl Marx: Philosophical Materialism, Hegelian Dialectics and Scientific Socialism",
+   "subtitle": "Scientific vs Utopian Socialism | Philosophical Materialism | Young Marx vs Mature Marx | Hegelian Dialectics & Idealism | State as March of God on Earth",
+   "start": 132,
+   "end": 140,
+   "keyScholars": [
+    "Karl Marx",
+    "G.W.F. Hegel"
+   ],
+   "coreTheories": [
+    "Scientific Socialism",
+    "Philosophical Materialism",
+    "Hegelian Dialectics",
+    "Teleology"
+   ]
+  },
+  {
+   "title": "Karl Marx: Historical Materialism, Class Struggle and Capitalism",
+   "subtitle": "Historical Materialism as Science | Base and Superstructure | Theory of Class and Class Struggle | Capitalist Exploitation & Surplus Value | Class-in-itself to Class-for-itself",
+   "start": 141,
+   "end": 152,
+   "keyScholars": [
+    "Karl Marx"
+   ],
+   "coreTheories": [
+    "Historical Materialism",
+    "Base and Superstructure",
+    "Class Struggle",
+    "Theory of Surplus Value",
+    "Mode of Production"
+   ]
+  },
+  {
+   "title": "Karl Marx: Alienation, Ideology, Revolution and Communism",
+   "subtitle": "Four Dimensions of Alienation | Human Emancipation in Communism | Lenin's Vanguard Party & Consciousness | Social Existence Determines Consciousness | Ruling Class Ideology & Historicism",
+   "start": 153,
+   "end": 161,
+   "keyScholars": [
+    "Karl Marx",
+    "Vladimir Lenin",
+    "G.W.F. Hegel"
+   ],
+   "coreTheories": [
+    "Theory of Alienation",
+    "Historical Materialism",
+    "False Consciousness",
+    "Vanguard Party",
+    "Dictatorship of the Proletariat"
+   ]
+  },
+  {
+   "title": "Antonio Gramsci: Cultural Hegemony, Intellectuals and Integral State",
+   "subtitle": "Critique of Economic Determinism | Cultural Hegemony & Consent | Traditional vs Organic Intellectuals | Integral State & Civil Society | War of Position & Historical Bloc",
+   "start": 162,
+   "end": 172,
+   "keyScholars": [
+    "Antonio Gramsci",
+    "Benedetto Croce",
+    "Karl Marx",
+    "Francis Fukuyama",
+    "Karl Mannheim",
+    "Benito Mussolini"
+   ],
+   "coreTheories": [
+    "Cultural Hegemony",
+    "Integral State",
+    "Organic Intellectuals",
+    "War of Position",
+    "Historical Bloc"
+   ]
+  },
+  {
+   "title": "Hannah Arendt: Totalitarianism, Theory of Action and Power",
+   "subtitle": "Origins of Totalitarianism | Antisemitism & Imperialism | Vita Activa: Labor, Work, Action | Communicative Power vs Violence | Banality of Evil",
+   "start": 173,
+   "end": 180,
+   "keyScholars": [
+    "Hannah Arendt",
+    "Arthur de Gobineau",
+    "Adolf Eichmann",
+    "Adolf Hitler",
+    "Joseph Stalin"
+   ],
+   "coreTheories": [
+    "Totalitarianism",
+    "Vita Activa",
+    "Theory of Action",
+    "Communicative Power",
+    "Banality of Evil"
+   ]
+  }
+ ]
+}

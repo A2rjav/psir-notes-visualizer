@@ -1,0 +1,171 @@
+{
+  "pages": [
+    {
+      "page": 152,
+      "title": "EU nature, inspirations and founding fathers",
+      "summary": "The EU is described as the most advanced example of regional integration, a complicated body with both international and supranational organisations. Its sources of inspiration are Immanuel Kant's perpetual peace and Victor Hugo's speech, and its founding fathers are Robert Schuman and Jean Monnet."
+    },
+    {
+      "page": 153,
+      "title": "EU theory and treaties, 1952 to 1987",
+      "summary": "The theoretical basis includes functionalism, liberal institutionalism, economic interdependence and a pluralistic theory of sovereignty, and integration is seen as expansion and deepening. Treaties covered are the 1952 Coal and Steel Community, the 1957 Treaty of Rome (economic community) and the 1987 Single European Act (common market)."
+    },
+    {
+      "page": 154,
+      "title": "Maastricht, Lisbon Treaty and EU institutions",
+      "summary": "The 1993 Maastricht Treaty created a common currency and the name EU, while the proposal for a single constitution was rejected in referendums. The Lisbon Treaty extended qualified majority voting, raised the Parliament's powers and created a common foreign and security policy with a high representative and a Charter of Human Rights, alongside the European Council, Council of the EU and Commission."
+    },
+    {
+      "page": 155,
+      "title": "European Parliament and waves of EU expansion",
+      "summary": "The European Parliament is directly elected by proportional representation with 791 seats, and rightist and leftist parties have gained in the last election. EU expansion ran from six countries in 1952 through 1973, 1981, 1986, 1995, the large 2004 enlargement, 2007 and 2013, with Ukraine, Bosnia and Iceland as future candidates."
+    },
+    {
+      "page": 156,
+      "title": "Copenhagen criteria and the case of Turkey",
+      "summary": "Membership requires being a European country, a functioning market economy, and democracy with human rights and minority protection, and the EU is criticised for spreading a neo-liberal model through these criteria. The notes give reasons why the EU resists Turkey: its Islamic character, a buffer zone for security, pro-US stance and the challenge a large Turkey would pose to Germany."
+    },
+    {
+      "page": 157,
+      "title": "EU fault lines: Europhobic and core-periphery divides",
+      "summary": "The EU faces internal and external challenges and many fault lines. Europhilic France, Germany, Belgium and Netherlands differ from Europhobic Britain and Denmark, who took opt-outs, and strong core economies resent paying for weaker peripheral economies in Southern and Eastern Europe."
+    },
+    {
+      "page": 158,
+      "title": "Old versus new Europe, North versus South Europe",
+      "summary": "Countries joining since 2004 are said to have weaker democratic culture, are closer to the USA and hold stronger grievances against Russia. The refugee crisis opened a North-South fault line because the first country of entry bears responsibility, and the sovereign debt crisis adds further strain."
+    },
+    {
+      "page": 159,
+      "title": "Rise of anti-EU parties and signs of crisis",
+      "summary": "The notes list signs of crisis: weakening support for ever closer union, strong anti-EU parties in the Netherlands, France and Germany, upcoming Italian elections, and growth of rightist and leftist parties in the European Parliament. Party leaders named include Frauke Petry, Martin Schulz and Mark Rutte."
+    },
+    {
+      "page": 160,
+      "title": "Eurozone, common currency and convergence criteria",
+      "summary": "The rise of leftist and rightist parties is linked to the sovereign debt crisis and the future of the Eurozone, where a Greek exit would be a bigger blow than Brexit. Nineteen countries share a currency that helps trade and investment but removes devaluation in a BOP crisis, and membership needs low inflation and public debt below 60% of GDP."
+    },
+    {
+      "page": 161,
+      "title": "No Eurozone exit clause or bailout; fault lines",
+      "summary": "The budget deficit must be below 3% of GDP, and the Eurozone has no exit clause and had no bailout provision, so help to Greece was delayed and the crisis became contagious. The Eurozone crisis raised questions on Germany's intentions, with Greece blaming Germany's trade surplus and imbalance."
+    },
+    {
+      "page": 162,
+      "title": "Austerity versus growth and EU external challenges",
+      "summary": "Germans accuse indebted countries of extravagance and favour austerity, which is opposed widely, while France's president is growth-centric. A basic flaw was a monetary union without fiscal and economic union, so Germany proposed the six pack and the EU adopted the semester to coordinate budgets, and the refugee crisis brought border controls and a rollback from Schengen."
+    },
+    {
+      "page": 163,
+      "title": "External challenges and short note on Brexit",
+      "summary": "External challenges include transnational terrorism, Russia's geo-strategic challenge, and the protectionist policies of the Trump administration, China and India. Britain never shared Europe's ideological commitment to peace, and Brexit supporters pointed to membership fees, immigrant workers and social security costs."
+    },
+    {
+      "page": 164,
+      "title": "Consequences of Brexit for India",
+      "summary": "The notes list effects on India: a weaker rupee, costlier oil, higher gold prices, loss of Britain as a gateway to Europe and higher operating costs in EU countries. They also note possible gains such as more British investment and a greater push for an India-EU free trade agreement."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What was formed in 1952 and why is the choice of coal and steel symbolic?",
+      "back": "Six countries (France, Italy, Germany, Netherlands, Belgium and Luxembourg) formed the European Coal and Steel Community. The materials used for making arms were to be used for building permanent peace in Europe.",
+      "category": "EU origins",
+      "scanPage": 153
+    },
+    {
+      "front": "What did the Treaty of Rome (1957) and the Single European Act (1987) establish?",
+      "back": "The Treaty of Rome established the European Economic Community, and the Single European Act of 1987 established the European common market.",
+      "category": "EU treaties",
+      "scanPage": 153
+    },
+    {
+      "front": "What changes did the Lisbon Treaty (2007) bring to the EU?",
+      "back": "It extended qualified majority voting over most issues, increased the powers of the European Parliament, strengthened EU identity, set up a common foreign and security policy with a high representative, and introduced the EU Charter of Human Rights.",
+      "category": "Lisbon Treaty",
+      "scanPage": 154
+    },
+    {
+      "front": "What are the Copenhagen criteria for EU membership?",
+      "back": "The applicant must be a European country, have a functioning market economy, and have a functioning democracy with human rights and protection of minorities.",
+      "category": "Copenhagen criteria",
+      "scanPage": 156
+    },
+    {
+      "front": "Why does the EU resist Turkey's membership, according to the notes?",
+      "back": "Turkey is predominantly Islamic while the EU wants to remain a bloc of Christian countries, it is kept as a security buffer zone, it is pro-US, and under qualified majority voting its large population would challenge Germany's hegemony.",
+      "category": "EU enlargement and Turkey",
+      "scanPage": 156
+    },
+    {
+      "front": "Name four internal fault lines of the EU described in the notes.",
+      "back": "Europhobic versus Europhilic nations, core versus peripheral countries, old versus new Europe, and North versus South Europe (over refugees and the debt crisis).",
+      "category": "EU internal fault lines",
+      "scanPage": 157
+    },
+    {
+      "front": "What are the Eurozone convergence criteria?",
+      "back": "Inflation not more than 1.5% above the three EU countries with the lowest inflation, public debt not more than 60% of GDP, and budget deficit below 3% of GDP. They apply even after joining.",
+      "category": "Eurozone convergence criteria",
+      "scanPage": 160
+    },
+    {
+      "front": "Why is there no exit clause in the Eurozone, and what was the bailout gap?",
+      "back": "Countries never expected such a situation, and an exit clause would make leaving easy and hurt stability and investor confidence. No bailout provision existed for Eurozone countries, which delayed help to Greece, so a financial stability facility was set up with the IMF.",
+      "category": "Eurozone design flaws",
+      "scanPage": 161
+    },
+    {
+      "front": "What consequences of Brexit for India does the lecture list?",
+      "back": "A weaker rupee, costlier oil imports, higher gold prices, loss of Britain as a gateway to Europe and higher operating costs for Indian companies. India may also get more British investment and face greater pressure to sign an FTA with the EU.",
+      "category": "Brexit and India",
+      "scanPage": 164
+    }
+  ],
+  "answers": [
+    {
+      "question": "Discuss the challenges faced by the EU and its future prospects.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "EU challenges and prospects",
+      "scanPage": 157,
+      "intro": "The EU is the most advanced example of regional integration, yet it has never been as harmonious as it appears. Enlargement and the debt crisis have produced internal fault lines, rising anti-EU politics and external pressures that test its future.",
+      "body": [
+        "Internal fault lines: Europhilic France, Germany, Belgium and Netherlands against Europhobic Britain and Denmark with opt-outs; strong core economies against weaker Southern and Eastern peripheries, whose support core taxpayers resent; old Europe against new Europe closer to the USA; and North against South over refugees.",
+        "Political crisis: support for ever closer union is weakening, anti-EU parties grow in the Netherlands, France and Germany, Italian parties call for a membership referendum, and rightist and leftist parties have increased in the European Parliament. Liberal parties are in decline.",
+        "Eurozone: a currency union without fiscal union, no exit clause, no bailout mechanism and a Greek debt over 300% of GDP, with Germany's austerity and Greece's blame deepening divisions. A Greek exit would be a bigger blow than Brexit.",
+        "External challenges: refugee crisis and rollback from Schengen, terrorism, Russia, and protectionism of Trump, China and India. Brexit shows the exit risk, as Britain never shared the ideological commitment to peace."
+      ],
+      "scholars": [
+        "Robert Schuman",
+        "Jean Monnet",
+        "Maastricht Treaty",
+        "Treaty of Lisbon",
+        "Copenhagen criteria",
+        "Schengen"
+      ],
+      "conclusion": "The EU's future depends on repairing the Eurozone's design flaws and bridging its fault lines. A Greek exit or further Brexit-type departures would be serious setbacks, but deeper fiscal coordination could still sustain the integration project."
+    },
+    {
+      "question": "Examine the causes and consequences of the Eurozone crisis.",
+      "marks": "10 Marks (150 Words)",
+      "topic": "Eurozone crisis",
+      "scanPage": 160,
+      "intro": "The Eurozone has nineteen members sharing one currency, which helps trade and investment. The sovereign debt crisis exposed design flaws and opened new political fault lines, and the possible Greek exit threatens the whole project.",
+      "body": [
+        "Design flaws: countries formed a monetary union without fiscal and economic union, there was no exit clause, and no bailout provision existed. A country in BOP crisis also cannot devalue its currency to promote exports.",
+        "Convergence criteria: inflation not above 1.5% over the best three, public debt below 60% of GDP and budget deficit below 3%, yet Greece's public debt exceeded 300% of GDP. Rising leftist and rightist parties are linked to this crisis.",
+        "Blame game: Greece blames Germany for trade imbalance as Germany became a net exporter, while Germans accuse these countries of extravagance and push austerity, opposed by France's growth-centric approach.",
+        "Responses: the delayed Greek bailout made the crisis contagious, so a financial stability facility with the IMF was set up. Germany proposed the six pack (austerity and surveillance) and the EU adopted the semester so that budgets need EU approval."
+      ],
+      "scholars": [
+        "Eurozone",
+        "Convergence criteria",
+        "Six pack",
+        "European semester",
+        "IMF",
+        "Schengen"
+      ],
+      "conclusion": "The crisis shows that monetary union needs matching fiscal and economic union. Unless growth and discipline are balanced and Greece stabilised, the Eurozone will remain vulnerable to political backlash and exit threats."
+    }
+  ]
+}

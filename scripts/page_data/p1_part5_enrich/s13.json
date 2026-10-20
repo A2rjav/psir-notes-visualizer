@@ -1,0 +1,111 @@
+{
+ "pages": [
+  {
+   "page": 132,
+   "title": "Introduction to Karl Marx and Praxis",
+   "summary": "Karl Marx is introduced as an influential political philosopher whose philosophy embodies praxis, combining theory with action to change the world. His ideas divided the world into capitalist and communist blocs, and his focus on the exploited class continues to influence modern thought."
+  },
+  {
+   "page": 133,
+   "title": "Karl Marx, Welfare State, and Early Socialism",
+   "summary": "Western countries adopted the welfare state in response to Karl Marx's influence, reflecting his lasting success. The page also outlines socialism's focus on equality and traces early socialists before Marx, including Louis Blanc, Saint-Simon, Fourier, and Robert Owen."
+  },
+  {
+   "page": 134,
+   "title": "Scientific Socialism versus Utopian Socialism",
+   "summary": "Marx distinguished his scientific socialism from early utopian socialism, arguing that socialism requires violent revolution rather than peaceful appeals to capitalists' conscience. He believed industrial society should be organized through cooperation rather than capitalist competition."
+  },
+  {
+   "page": 135,
+   "title": "Marx's Materialism, Communism, and Young Marx",
+   "summary": "Marx is characterized as a materialist who viewed ideas as illusions and religion as an opium, as well as an anarchist seeking a stateless, classless communist society. His work is categorized into the Young Marx, who focused on alienation and freedom in his Economic and Philosophic Manuscripts."
+  },
+  {
+   "page": 136,
+   "title": "Mature Marx and Sources of Influence",
+   "summary": "Mature Marx is represented by the Communist Manifesto, a political programme to achieve communism that is followed by orthodox Marxists. The page also lists the three main influences on Marx: British political economy, the French Revolution, and Hegelian German philosophy."
+  },
+  {
+   "page": 137,
+   "title": "Hegel's Idealism and Evolution of History",
+   "summary": "Hegel is presented as a German idealist who viewed the idea, ultimately God, as the moving force of history and considered the state as the march of God on earth. He formulated the laws of dialectics and traced the evolution of history from God through nature and human institutions to the state."
+  },
+  {
+   "page": 138,
+   "title": "Hegel on the State and Rationality",
+   "summary": "Hegel posits a teleological universe where God manifests through successive creations, culminating in the state as the ultimate creation and end of history. His dictum that the real is rational and the rational is real explains that reality and the divine nature of the state are grasped through reason."
+  },
+  {
+   "page": 139,
+   "title": "Hegel's Concept and Laws of Dialectics",
+   "summary": "Hegel expanded the Socratic concept of dialectics into dialectical idealism, defining history as a process of change driven by contradictions among ideas. He outlined three dialectical laws: unity of opposites, negation of negation, and quantity changing into quality."
+  },
+  {
+   "page": 140,
+   "title": "Hegel's Institutions and Concept of Alienation",
+   "summary": "Hegel explains that historical contradictions end in the state, evolving through the family, civil society, and finally the state with its universal altruism. He also defines alienation as man's estrangement from God, which is resolved when man joins the state as part of the whole."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What is 'praxis' in Karl Marx's philosophy, and how did he distinguish his approach from previous philosophers?",
+   "back": "Praxis is defined as theory leading to action or action based on scientific knowledge. Marx argued that while previous philosophers had merely interpreted the world, the true imperative is to change it.",
+   "category": "Marxian Praxis Concept",
+   "scanPage": 132
+  },
+  {
+   "front": "Why did Karl Marx characterize early socialists as utopian while designating his own system as scientific?",
+   "back": "Early socialists like St. Simon and Robert Owen sought socialism peacefully by appealing to capitalists' consciences, lacking a scientific understanding of capitalism. Marx called his socialism scientific because it provided an objective understanding of capitalism and prescribed violent revolution as the necessary vehicle for change.",
+   "category": "Scientific Versus Utopian Socialism",
+   "scanPage": 134
+  },
+  {
+   "front": "How are the writings and focus of the 'Young Marx' differentiated from those of the 'Mature Marx'?",
+   "back": "Young Marx is seen as a philosopher focusing on alienation and freedom in his 'Economic & philosophic manuscripts', followed by Neo-Marxists. Mature Marx, followed by orthodox Marxists, acts as a politician providing a revolutionary action programme in the 'Communist Manifesto'.",
+   "category": "Young Versus Mature Marx",
+   "scanPage": 135
+  },
+  {
+   "front": "What did Karl Marx mean by asserting that he had to make Hegel 'stand on his feet'?",
+   "back": "Hegel was an idealist who believed that idea is the ultimate reality and the moving force of history. Marx inverted this by asserting that matter is real and idea is an illusion, placing dialectics on a materialist foundation.",
+   "category": "Hegelian Dialectical Inversion",
+   "scanPage": 137
+  },
+  {
+   "front": "What are the three laws of dialectics formulated by Hegel to explain historical change?",
+   "back": "The three laws are the unity of opposites, where internal contradictions drive history; the negation of negation, showing progressive stages where negativity is negated; and the transformation of quantity into quality, where accumulated changes produce qualitative transformation.",
+   "category": "Hegel Laws Of Dialectics",
+   "scanPage": 139
+  },
+  {
+   "front": "How do Family, Civil Society, and the State differ in their moral characteristics according to Hegel?",
+   "back": "Family is characterized by altruism and particularism, while Civil Society is characterized by universalism and egoism. The State synthesizes both into universalism and altruism, representing the march of God on earth where alienation ends.",
+   "category": "Hegelian Evolution Of State",
+   "scanPage": 140
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine how Karl Marx synthesized Hegelian dialectics and philosophical materialism to establish scientific socialism as a revolutionary praxis.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Karl Marx: Philosophical Materialism, Hegelian Dialectics and Scientific Socialism",
+   "scanPage": 134,
+   "intro": "Karl Marx revolutionized Western political thought by transforming socialism from moral aspiration into scientific praxis. By inverting Hegelian idealism into philosophical materialism, Marx provided an actionable doctrine to alter class realities rather than merely interpreting them.",
+   "body": [
+    "Marx distinguished his scientific socialism from early socialists like Louis Blanc, St. Simon, Charles Fourier, and Robert Owen, contending that peaceful appeals to capitalists' consciences were utopian and lacked scientific understanding, whereas socialism requires violent revolution because violence is the mother of change.",
+    "Adopting dialectics from Hegel and Socrates, Marx inverted Hegelian and Platonic idealism, rejecting Hegel's view of the state as God's march on earth and asserting that matter is real, thereby placing Hegelian dialectics firmly on its feet.",
+    "This intellectual progression developed from Young Marx exploring alienation and human freedom in 'Economic & philosophic manuscripts' to Mature Marx authoring the 'Communist Manifesto', which mobilized workers to unite and break their chains through political action.",
+    "Marx's praxis motivated the 1917 October Revolution and forced capitalist systems into adopting the welfare state, while modern economic thought, reflected in Thomas Piketty's 'Capital in 21st century', confirms that Marxian insights into capital accumulation continue to haunt capitalism."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "Hegel",
+    "Louis Blanc",
+    "Robert Owen",
+    "Thomas Piketty ('Capital in 21st century')",
+    "Plato"
+   ],
+   "conclusion": "While historical communist regimes collapsed in 1991, Karl Marx remains far from the dustbin of history. His critique of capitalism and structural inequality offers enduring analytical tools for contemporary welfare governance and global economic challenges."
+  }
+ ]
+}

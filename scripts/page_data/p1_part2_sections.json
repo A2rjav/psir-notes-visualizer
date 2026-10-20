@@ -1,0 +1,285 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Notebook Cover | Paper II Syllabus | Table of Contents | Lecture Index",
+   "start": 1,
+   "end": 4,
+   "keyScholars": [
+    "Subhra Ranjan"
+   ],
+   "coreTheories": []
+  },
+  {
+   "title": "Panchayati Raj and Democratic Decentralisation",
+   "subtitle": "Evolution of Panchayats | Stagnation and Revival Phases | 73rd Constitutional Amendment | Three-Tier System | Gram Sabha and Direct Democracy",
+   "start": 5,
+   "end": 19,
+   "keyScholars": [],
+   "coreTheories": [
+    "Democratic Decentralisation",
+    "Direct Democracy",
+    "Gram Sabha",
+    "Three-Tier Panchayati Raj"
+   ]
+  },
+  {
+   "title": "Municipal Governance and Grassroots Movements",
+   "subtitle": "74th Amendment | Urban Administration | Smart Cities | Women in Panchayats | Grassroots Micromovements",
+   "start": 20,
+   "end": 26,
+   "keyScholars": [
+    "Isher Judge Ahluwalia",
+    "Amrita Basu",
+    "Fatima Bie"
+   ],
+   "coreTheories": [
+    "Municipal Governance",
+    "Urban Decentralisation",
+    "Women's Political Empowerment",
+    "Grassroots Micromovements"
+   ]
+  },
+  {
+   "title": "Judiciary: Judicial Review, Judicial Activism, and Public Interest Litigation",
+   "subtitle": "Constitutional Role of Supreme Court | Post-Democracy | Public Interest Litigation | Judicial Activism vs Overreach | Creative Interpretation",
+   "start": 27,
+   "end": 41,
+   "keyScholars": [
+    "Pratap Bhanu Mehta",
+    "Upendra Baxi",
+    "Justice Reed"
+   ],
+   "coreTheories": [
+    "Judicial Activism",
+    "Judicial Review",
+    "Public Interest Litigation",
+    "Post-Democracy",
+    "Judicial Overreach"
+   ]
+  },
+  {
+   "title": "Judicial Reforms, Appointments, and the Collegium System",
+   "subtitle": "Judicial Corruption and Vacancies | Right to Information and CJI | Collegium System Evolution | 99th Amendment | National Judicial Appointments Commission",
+   "start": 42,
+   "end": 50,
+   "keyScholars": [
+    "B.R. Ambedkar"
+   ],
+   "coreTheories": [
+    "Judicial Independence",
+    "Imperium in Imperio",
+    "Collegium System",
+    "Judicial Accountability",
+    "National Judicial Appointments Commission"
+   ]
+  },
+  {
+   "title": "Union Parliament: Functioning, Decline, and Representation",
+   "subtitle": "Parliamentary vs Presidential Debate | Nehruvian Parliament | Decline of Parliament | World Bank Evaluation Parameters | Coalition Era and Opposition",
+   "start": 51,
+   "end": 58,
+   "keyScholars": [
+    "Morris Jones",
+    "Dipankar Gupta",
+    "Neeraja Jayal"
+   ],
+   "coreTheories": [
+    "Parliamentary Democracy",
+    "Decline of Parliament",
+    "Legislative Accountability",
+    "Direct Democracy",
+    "Coalition Politics"
+   ]
+  },
+  {
+   "title": "Union Executive: President and Prime Minister",
+   "subtitle": "Presidential Discretion and Impeachment | 42nd and 44th Amendments | Co-habitation | Prime Minister in Coalition Era | Presidentialisation of Executive",
+   "start": 59,
+   "end": 68,
+   "keyScholars": [
+    "A.P.J. Abdul Kalam",
+    "Indira Gandhi"
+   ],
+   "coreTheories": [
+    "Nominal vs Real Executive",
+    "Co-habitation",
+    "Cabinet Government",
+    "Presidentialisation of Prime Minister",
+    "Coalition Governance"
+   ]
+  },
+  {
+   "title": "Social Movements: Civil Liberties and Human Rights Movements",
+   "subtitle": "Civil Liberties Origins | Preventive Detention Laws | Post-Emergency Judiciary | Undertrials and Prison Conditions | NGO Legitimacy",
+   "start": 69,
+   "end": 74,
+   "keyScholars": [
+    "Rabindranath Tagore",
+    "Sarojini Naidu",
+    "Jawaharlal Nehru"
+   ],
+   "coreTheories": [
+    "Civil Liberties",
+    "Human Rights",
+    "Preventive Detention",
+    "Rule of Law"
+   ]
+  },
+  {
+   "title": "Social Movements: Environmental Movements in India",
+   "subtitle": "Chipko Movement | Professionalisation of Ecology | Ecology and Equity | Utilitarian Conservatism | Social Ecology",
+   "start": 75,
+   "end": 80,
+   "keyScholars": [
+    "Ramachandra Guha",
+    "Sunita Narain",
+    "Vandana Shiva",
+    "Jayanto Bandyopadhyay"
+   ],
+   "coreTheories": [
+    "Utilitarian Conservatism",
+    "Social Ecology",
+    "Development vs Environment",
+    "Political Economy of Ecology"
+   ]
+  },
+  {
+   "title": "Social Movements: Women's Movements and Political Representation",
+   "subtitle": "Nineteenth-Century Social Reform | Post-Independence Feminist Phases | Gender Budgeting | Women's Reservation Bill | Autonomous Women's Groups",
+   "start": 81,
+   "end": 86,
+   "keyScholars": [
+    "Raja Ram Mohan Roy",
+    "Ishwar Chandra Vidyasagar",
+    "Jawaharlal Nehru",
+    "Ela Bhatt",
+    "Shirin Rai"
+   ],
+   "coreTheories": [
+    "Feminist Movement",
+    "Gender Budgeting",
+    "Affirmative Action for Women",
+    "Patriarchal State"
+   ]
+  },
+  {
+   "title": "Planning and Economic Development: Nehruvian Model and Economic Reforms",
+   "subtitle": "Gandhian vs Nehruvian Perspectives | Heavy Industrialisation and Import Substitution | Public Sector Undertakings | 1991 LPG Reforms | Middle Income Trap",
+   "start": 87,
+   "end": 97,
+   "keyScholars": [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Amartya Sen"
+   ],
+   "coreTheories": [
+    "Nehruvian Socialism",
+    "Gandhian Economics",
+    "Import Substitution Industrialisation",
+    "LPG Reforms",
+    "Middle Income Trap"
+   ]
+  },
+  {
+   "title": "Agrarian Transformation: Land Reforms and the Green Revolution",
+   "subtitle": "Constitutional Abolition of Right to Property | Ninth Schedule | Failure of Land Redistribution | Green Revolution Outcomes | Bullock Capitalists",
+   "start": 98,
+   "end": 104,
+   "keyScholars": [
+    "Atul Kohli",
+    "Rudolph & Rudolph",
+    "Hamza Alavi"
+   ],
+   "coreTheories": [
+    "Land Reforms",
+    "Green Revolution",
+    "Bullock Capitalists",
+    "Post-Colonial State",
+    "Agrarian Political Economy"
+   ]
+  },
+  {
+   "title": "Fundamental Rights and Doctrines of Judicial Review",
+   "subtitle": "Concept of Fundamental Rights | Constitutional Amendments and Property Rights | Ninth Schedule | Procedural vs Substantive Due Process",
+   "start": 105,
+   "end": 108,
+   "keyScholars": [],
+   "coreTheories": [
+    "Fundamental Rights",
+    "Judicial Review",
+    "Natural Justice",
+    "Procedural Due Process",
+    "Substantive Due Process"
+   ]
+  },
+  {
+   "title": "Doctrine of Basic Structure and Fundamental Rights vs DPSPs",
+   "subtitle": "Genesis of Basic Structure | Golaknath to Kesavananda Bharati | Minerva Mills Case | Fundamental Rights and DPSP Balance | Substantive Equality",
+   "start": 109,
+   "end": 121,
+   "keyScholars": [],
+   "coreTheories": [
+    "Doctrine of Basic Structure",
+    "Constitutional Amending Power",
+    "Harmonious Construction",
+    "Substantive Equality",
+    "Differentiated Equality"
+   ]
+  },
+  {
+   "title": "Affirmative Action and Reservation Policy in India",
+   "subtitle": "Debates on Caste Reservation | Higher Education Quotas | Dominant Caste Demands | Creamy Layer and Promotions | Private Sector Reservation",
+   "start": 122,
+   "end": 131,
+   "keyScholars": [
+    "Ramachandra Guha",
+    "Pratap Bhanu Mehta",
+    "Andre Beteille"
+   ],
+   "coreTheories": [
+    "Affirmative Action",
+    "Compensatory Justice",
+    "Creamy Layer Doctrine",
+    "Social Justice"
+   ]
+  },
+  {
+   "title": "Civil Liberties: Freedom of Speech, Life, and Constitutional Remedies",
+   "subtitle": "Article 19 Reasonable Restrictions | Sedition Law Section 124A | Contempt of Court | Article 21 and Capital Punishment | Article 32 Constitutional Remedies",
+   "start": 132,
+   "end": 145,
+   "keyScholars": [
+    "Voltaire",
+    "Bal Gangadhar Tilak",
+    "V.R. Krishna Iyer",
+    "Thomas Jefferson",
+    "B.R. Ambedkar"
+   ],
+   "coreTheories": [
+    "Freedom of Speech and Expression",
+    "Rarest of Rare Doctrine",
+    "Right to Life",
+    "Constitutional Remedies",
+    "Sentinel Qui Vive"
+   ]
+  },
+  {
+   "title": "Indian Democracy, Regionalism, and Theories of Sovereignty",
+   "subtitle": "Success of Indian Democracy | Diversity and National Integration | Regional Autonomy | Monistic Theory of Sovereignty | Types of Sovereignty",
+   "start": 146,
+   "end": 150,
+   "keyScholars": [
+    "Sanjib Baruah",
+    "Paul Brass"
+   ],
+   "coreTheories": [
+    "National Integration",
+    "Regionalism",
+    "Monistic Theory of Sovereignty",
+    "Popular Sovereignty",
+    "Democratic Consolidation"
+   ]
+  }
+ ]
+}

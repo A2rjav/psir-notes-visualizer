@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {"page": 31, "title": "State in advanced capitalist societies: liberal and Marxist", "summary": "The state remains a contested concept. Liberals see it as a neutral arbiter of conflicting interests, minimal or police at first and a welfare state since the 1930s, while Marxists call it a class institution, split into instrumentalist and relative autonomy views."},
+    {"page": 32, "title": "Instrumentalists, Miliband, Poulantzas, and C. Wright Mills", "summary": "Instrumentalists (Marx, Miliband) hold that even the welfare state serves the capitalist class, and Habermas predicts a legitimation crisis. Poulantzas argues the competitive party system gives relative autonomy though the state favours the rich in crisis, and C. Wright Mills places power with corporate groups, federal politicians and military leaders."},
+    {"page": 33, "title": "Dahl's pluralism and the socialist state", "summary": "Robert Dahl called these societies oligarchies, later deformed polyarchies, so the nature of the state remains contested. Marxist-Leninists see the socialist state as a dictatorship of the proletariat, more democratic and serving the majority, while Hannah Arendt and Karl Popper called such states totalitarian and closed societies."},
+    {"page": 34, "title": "Critique of socialist state; state in developing countries", "summary": "Western and elitist scholars see the dictatorship of the communist party and monolithic elites, with the collapse of communism in Eastern Europe and the USSR showing dissatisfaction. For developing countries the notes cite Riggs's prismatic societies, Myrdal's soft state, Huntington's political decay, governability crisis and failed states."},
+    {"page": 35, "title": "Dependency school and Alavi's overdeveloped state", "summary": "The dependency school treats states in Africa and Latin America as puppet or clientelist regimes serving the bourgeoisie of core countries. Hamza Alavi's structuralist analysis of Pakistan, applicable to South Asia including India, finds an overdeveloped colonial-legacy state and a mismatch between economic and political development."}
+  ],
+  "flashcards": [
+    {"front": "How do Miliband and Poulantzas differ in analysing the welfare state in advanced capitalist societies?", "back": "Ralph Miliband (instrumentalist) holds that even the welfare state remains an instrument of the capitalist class, as economic power brings political power. Poulantzas (relative autonomy) says the competitive party system frees the state from any one class, though in crisis it works for the rich.", "category": "Marxist views of state", "scanPage": 32},
+    {"front": "How do Marxist-Leninists and western scholars differ on the nature of the socialist state?", "back": "Marxist-Leninists call the socialist state a dictatorship of the proletariat, more democratic and in the interest of the majority. Western scholars such as Hannah Arendt and Karl Popper call such states totalitarian and closed societies.", "category": "Socialist state debate", "scanPage": 33},
+    {"front": "Which concepts describe the state in developing countries according to Riggs, Myrdal and Huntington?", "back": "Riggs uses the term prismatic societies, Gunnar Myrdal coined soft state for India and Indonesia, and Huntington's concept places most of these states in political decay. Western scholars add crisis of governability and failed states.", "category": "State in developing countries", "scanPage": 34},
+    {"front": "What did Hamza Alavi argue about the post-colonial state in Pakistan and South Asia?", "back": "He found an overdeveloped state inherited from colonial rule, so states there differ from western counterparts. The modern state is an important institution, and there is a mismatch between the stage of economic development and political development.", "category": "Structuralist school", "scanPage": 35}
+  ],
+  "answers": [
+    {
+      "question": "Analyse the nature of the state in advanced capitalist societies from liberal, Marxist, elitist and pluralist perspectives.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "State in advanced capitalist societies",
+      "scanPage": 32,
+      "intro": "Political science begins and ends with the state, yet the state remains a contested concept. In advanced capitalist societies its nature is explained through liberal, Marxist, elitist and pluralist perspectives, each emphasising a different locus of power.",
+      "body": [
+        "Liberals regard the state as a neutral arbiter of conflicting interests and a product of human will. In advanced capitalist countries it was initially a minimal or police state, but from the 1930s onwards a welfare state emerged.",
+        "Marxists challenge neutrality and call the state a class institution. Instrumentalists follow Karl Marx's idea of the state as executive committee of the bourgeoisie; Ralph Miliband holds that even the welfare state serves the capitalist class, and Habermas predicts a legitimation crisis for it.",
+        "The relative autonomy school, with Poulantzas, argues that a competitive party system stops the state from being the instrument of one class, although in times of crisis it will always favour the rich.",
+        "Elitists such as C. Wright Mills locate power in three groups in the USA: corporate groups, federal politicians and top military leaders.",
+        "Pluralist Robert Dahl described these societies as oligarchies, later modifying this to deformed polyarchies."
+      ],
+      "scholars": ["Karl Marx", "Ralph Miliband", "Habermas", "Poulantzas", "C. Wright Mills", "Robert Dahl"],
+      "conclusion": "No single theory fully captures the capitalist state: liberals stress neutrality, Marxists class power, elitists concentrated elites and pluralists competitive but flawed polyarchy. The nature of the state therefore remains contested, and understanding it needs these perspectives together."
+    }
+  ]
+}

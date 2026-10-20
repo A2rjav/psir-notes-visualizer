@@ -1,0 +1,107 @@
+{
+ "pages": [
+  {
+   "page": 31,
+   "title": "Aurobindo Ghosh: Overview and Prominent Ideas",
+   "summary": "Known as the Prophet of Indian Nationalism and a synthesizer of Eastern and Western philosophies, Aurobindo Ghosh sought to establish a free India as a spiritual guide to humanity. Influenced by Vivekananda and Bankim Chandra Chatterjee, his prominent ideas include the theory of nationality, human unity, freedom, and Integral Yoga."
+  },
+  {
+   "page": 32,
+   "title": "Aurobindo Ghosh: Theory of Nationalism and Context",
+   "summary": "In response to colonial claims that India was merely a geographical expression, Aurobindo Ghosh formulated a bold theory of Indian nationalism. While early Moderate leaders viewed British rule as a blessing in disguise and used mild constitutional methods, Ghosh recognized that the national movement required a bolder approach."
+  },
+  {
+   "page": 33,
+   "title": "Aurobindo on Swaraj and the Divine Nation",
+   "summary": "Aurobindo Ghosh advocated turning the national movement into a mass movement and was the first to define swaraj as complete liberation and a value in itself rather than mere good governance. In 'New Lamps for Old', he criticized the Moderates and asserted that India was always a nation—a divine spirit, faith, and religion that cannot be suppressed."
+  },
+  {
+   "page": 34,
+   "title": "Aurobindo on Radical Resistance and National Education",
+   "summary": "Viewing nationalism as a religion requiring sacrifice, Aurobindo rejected moderate constitutional methods as mendicancy and advocated resistance, revolution, and direct action. He called for swadeshi, national education, and a comprehensive boycott of British administration, courts, and schools to foster Indian self-reliance."
+  },
+  {
+   "page": 35,
+   "title": "Spiritual Nationalism: Neo-Vedantism and Mother India",
+   "summary": "Aurobindo grounded Indian nationalism in Vivekananda's Neo-Vedantism, emphasizing a fundamental unity of mankind under a universal spirit despite outward diversity. Drawing on Bankim Chandra Chatterjee's idea of Mother India as Goddess Shakti, he spiritualized nationalism as an inevitable divine mission to protect humanity through political freedom."
+  },
+  {
+   "page": 36,
+   "title": "Ideal of Human Unity and Concept of Freedom",
+   "summary": "Aurobindo explained that India's rise fulfills a divine mission for the benefit of humanity, asserting that human unity is rooted in the universal spirit and the law of aggregation. He also addressed swaraj, expanding it beyond good governance or dominion status to mean complete independence at both the national and individual levels."
+  },
+  {
+   "page": 37,
+   "title": "Aurobindo on True Freedom and Integral Yoga",
+   "summary": "Rejecting capitalist and socialist views of freedom, Aurobindo argued for harmony among the individual, nation, and humanity based on liberty, equality, and fraternity. He defined real freedom as overcoming ignorance to realize the universal spirit and achieve the state of supermind through Integral Yoga, which synthesizes multiple yogic paths."
+  },
+  {
+   "page": 38,
+   "title": "Requirements and Purpose of Integral Yoga",
+   "summary": "According to Aurobindo, Integral Yoga requires tap, sadhana, and yoga, with tap signifying sacrifice. This practice enables an individual to transition from a fragmented, disoriented state to a much sharper and clearer understanding of the self."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Aurobindo Ghosh argue that the East and the West need each other?",
+   "back": "Aurobindo Ghosh held that the East has neglected material development, whereas the West has neglected spiritual development. Therefore, the East needs the West and the West needs the East to establish India as a spiritual guide to humanity.",
+   "category": "East West Synthesis",
+   "scanPage": 31
+  },
+  {
+   "front": "In which publication did Aurobindo Ghosh criticise the Moderates, and how did he challenge their view of Indian nationhood?",
+   "back": "In his series of articles 'New lamps for old' in 'Induprakash', Ghosh rejected the Moderate view that India was merely a 'nation in making' emerging from Congress pandals. He asserted that India was always a nation, divine in spirit and impossible to suppress.",
+   "category": "Critique of Moderates",
+   "scanPage": 33
+  },
+  {
+   "front": "Why did Aurobindo Ghosh reject Moderate constitutional methods as 'mendicancy' and what alternatives did he propose?",
+   "back": "Ghosh considered constitutional methods mendicancy because the British government was not responsible towards Indians and foreign rule inherently caused exploitation. He advocated direct methods such as boycott and swadeshi, extending the boycott to administration, courts, and British schools in favour of national education.",
+   "category": "Methods of Resistance",
+   "scanPage": 34
+  },
+  {
+   "front": "How did Aurobindo Ghosh utilize Vivekananda's Neo-Vedantism and Bankim Chandra Chatterjee's imagery to construct his theory of nationalism?",
+   "back": "Ghosh anchored nationalism in Vivekananda's Neo-Vedantism, identifying Sanatan Dharma's universal spirit as the source of India's fundamental unity across diversity. He also invoked Bankim Chandra Chatterjee's concept of Mother India from 'Anandmath', presenting her as Goddess Shakti representing the power of millions of awakened Indians.",
+   "category": "Spiritual Theory of Nationalism",
+   "scanPage": 35
+  },
+  {
+   "front": "What is the basis of Aurobindo Ghosh's ideal of human unity and how does it relate to Indian nationalism?",
+   "back": "Aurobindo affirmed that 'aggregation is the law of universe' and that universal Spirit forms the true foundation of human unity. He maintained that Indian nationalism is not opposed to humanity, as India's rise is necessary to promote spiritual values for protecting human life on earth.",
+   "category": "Ideal of Human Unity",
+   "scanPage": 36
+  },
+  {
+   "front": "How does Aurobindo Ghosh define true freedom, and through what spiritual process can it be attained?",
+   "back": "Ghosh defined true freedom as liberation from ignorance and the realization of the universal spirit through the concept of Sat-Chit-Ananda. Attaining this state of the supermind requires Integral Yoga, which harmonizes Dharma, Raj, Hath, Gyan, Bhakti, and Karma yoga through tap, sadhana, and sacrifice.",
+   "category": "Concept of Integral Yoga",
+   "scanPage": 37
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Sri Aurobindo's conception of Spiritual Nationalism. How did his spiritualisation of the nation challenge the Moderate discourse on colonial rule and Swaraj?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Sri Aurobindo: Spiritual Nationalism and Swaraj",
+   "scanPage": 35,
+   "intro": "Aurobindo Ghosh, acclaimed as the Prophet of Indian Nationalism, spiritualised politics by conceptualising the nation not as a mere geographical expression, but as a divine, living spirit and a sacred religious mission aimed at serving humanity.",
+   "body": [
+    "Rejecting Surendranath Banerji's idea of India as a 'nation in making', Ghosh argued in 'Induprakash' that India was eternally a nation, dismissing Moderate belief in British rule as a blessing in disguise.",
+    "He redefined Swaraj as complete liberation and an intrinsic value rather than mere good governance or Suraj as interpreted by Tilak, while denouncing Moderate prayers, petitions, and protests as political mendicancy.",
+    "Grounding nationalism in Vivekananda's Neo-Vedantism, Ghosh identified Sanatan Dharma's recognition of the universal spirit as India's fundamental unity amidst diversity, rejecting divisive Brahmanism and demanding supreme religious sacrifice from the youth.",
+    "Drawing upon Bankim Chandra Chatterji's 'Anandmath', he envisioned Mother India as Goddess Shakti representing millions of awakened Indians, justifying boycott, national education, and revolutionary resistance through societies like Yugantar.",
+    "As R. Tagore noted, Ghosh established India as a spiritual guide to humanity, maintaining that national independence was a divine necessity to fulfill its cosmopolitan mission of protecting universal human life."
+   ],
+   "scholars": [
+    "Aurobindo Ghosh ('New lamps for old')",
+    "Bankim Chandra Chatterji ('Anandmath')",
+    "Vivekananda",
+    "Surendranath Banerji",
+    "Tilak",
+    "R. Tagore"
+   ],
+   "conclusion": "Sri Aurobindo's spiritual nationalism successfully transformed a timid political dialogue into an assertive mass movement, harmonising national liberation with universal human unity by envisioning a free India dedicated to the spiritual elevation of all humanity."
+  }
+ ]
+}

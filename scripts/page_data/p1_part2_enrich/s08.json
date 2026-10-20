@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "page": 69,
+   "title": "Civil Rights and the Indian Freedom Movement",
+   "summary": "Civil rights are defined as rights necessary for civilized existence to check arbitrary executive power and maintain the rule of law. The Indian freedom movement functioned as a major civil rights movement, leading to initiatives like the establishment of the Indian Civil Liberties Union under Pandit Nehru."
+  },
+  {
+   "page": 70,
+   "title": "Constitution, Preventive Detention, and Sedition Law",
+   "summary": "Although the Indian Constitution incorporates human rights and protections under Article 22, preventive detention can be used even during normal times to curb political dissent. India also retained colonial-era sedition under Section 124(A), penalizing acts that excite disaffection towards the government."
+  },
+  {
+   "page": 71,
+   "title": "Emergency and Rise of Civil Rights Activism",
+   "summary": "The post-independence decline of the rule of law and government failures culminated in the Emergency, described as the darkest hour for Indian democracy. The survival of democracy strengthened democratic consciousness and spurred the growth of civil rights organizations seeking judicial remedies."
+  },
+  {
+   "page": 72,
+   "title": "Judicial Activism and Human Rights Movement Evolution",
+   "summary": "From the 1980s, Indian civil society and activist judges expanded human rights by institutionalizing Public Interest Litigation and broadening the interpretation of the right to life. Despite institutional mechanisms like the NHRC and RTI, India has struggled to meet targets set under the UN Universal Periodic Review."
+  },
+  {
+   "page": 73,
+   "title": "Human Rights Concerns and Upendra Baxi's Critique",
+   "summary": "India faces persistent human rights concerns such as undertrials, AFSPA violations, slow courts, and colonial-era laws, rendering human rights protection more rhetorical than real. Furthermore, Professor Upendra Baxi critiques the movement as a corporate-style 'Human Rights Industry' that employs management graduates over social activists."
+  },
+  {
+   "page": 74,
+   "title": "Critique of Human Rights NGOs and Needed Reforms",
+   "summary": "Human rights NGOs face legitimacy issues due to perceived bias and must operate within the strict limits of nationalist discourse. To enhance credibility, reforms are required in the NHRC along with discipline and broader reforms in the police, judiciary, and criminal justice system."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What is the foundational philosophy and primary purpose of civil rights according to the lecture notes?",
+   "back": "Civil rights are rooted in the philosophy of liberalism. Their basic purpose is to check the arbitrary exercise of power by the executive and to maintain the rule of law.",
+   "category": "Civil Rights Foundations",
+   "scanPage": 69
+  },
+  {
+   "front": "How do preventive detention laws in India differ from those in other countries, and what constitutional protection is provided under Article 22?",
+   "back": "Unlike other countries where preventive detention applies only during emergencies like war, India permits preventive detention even during peacetime. Although Article 22 provides certain procedural protections, the notes describe them as existing merely for namesake, often misused against political opponents.",
+   "category": "Preventive Detention Provisions",
+   "scanPage": 70
+  },
+  {
+   "front": "How did Public Interest Litigation (PIL) and judicial activism transform the interpretation of the Right to Life in the 1980s?",
+   "back": "Activist judges like P.N. Bhagwati institutionalized PIL to provide access to justice for marginalized sections. The Supreme Court expansively interpreted the Right to Life beyond mere animal existence to include living with dignity, encompassing education, health, and a clean environment.",
+   "category": "Judicial Rights Expansion",
+   "scanPage": 72
+  },
+  {
+   "front": "Why does Prof. Upendra Bakshi characterize human rights activism in India as an 'industry' rather than a movement?",
+   "back": "Prof. Upendra Bakshi argues that contemporary advocacy groups employ management graduates rather than social activists. Consequently, these organizations operate with a corporate approach rather than an attitude of genuine social service.",
+   "category": "Human Rights Critique",
+   "scanPage": 73
+  }
+ ],
+ "answers": [
+  {
+   "question": "'India's commitment towards protection of Human Rights is more of a rhetoric than reality.' In light of this statement, examine the trajectory and shortcomings of the human rights movement in India.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Civil Liberties and Human Rights Movements",
+   "scanPage": 73,
+   "intro": "Rooted in the anti-colonial struggle and the liberal philosophy of checking arbitrary executive power, India's civil liberties and human rights movement evolved from post-Emergency legal resistance into institutionalised judicial activism, yet struggles against systemic state overreach.",
+   "body": [
+    "Despite Pandit Nehru promising no black laws, the post-colonial state saw executive high-handedness and preventive detention against communist leaders like A.K. Gopalan. Opposing this, Jayprakash Narayan mobilised for total revolution, prompting civil rights groups like PUCL under lawyers like Shanti Bhushan to pursue judicial enforcement of the rule of law.",
+    "In the 1980s, civil society partnered with the judiciary as activist judges like P.N. Bhagwati institutionalised PIL. The Supreme Court expansively reinterpreted the Right to Life beyond mere animal existence to guarantee dignity, education, health, and a clean environment.",
+    "Critiquing internal weaknesses, Prof. Upendra Bakshi terms contemporary advocacy a 'Human Rights Industry', arguing that corporate management graduates have replaced genuine activists, compromising legitimacy through biased scrutiny that ignores militant atrocities against civilians and security forces.",
+    "Finally, activist Nandita Haksar observes that rights activism is strictly restricted by nationalist discourse; state zero-tolerance towards terrorism under exceptional laws like AFSPA ultimately culminates in zero-tolerance towards human rights."
+   ],
+   "scholars": [
+    "Pandit Nehru",
+    "Jayprakash Narayan",
+    "Shanti Bhushan",
+    "P.N. Bhagwati",
+    "Prof. Upendra Bakshi",
+    "Nandita Haksar"
+   ],
+   "conclusion": "To reconcile national security with constitutionalism, India must enhance institutional credibility by empowering the NHRC to investigate armed forces violations, enforcing discipline across law enforcement agencies, and executing urgent police, judicial, and criminal justice system reforms."
+  }
+ ]
+}

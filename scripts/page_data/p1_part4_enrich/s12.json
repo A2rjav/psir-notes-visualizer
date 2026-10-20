@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "page": 92,
+   "title": "Post-Colonial States and Riggs's Prismatic Society",
+   "summary": "The notes introduce Marxist and liberal perspectives on post-colonial states, highlighting colonial dependency and uneven development. They detail F.W. Riggs's concept of prismatic societies in transition along with characteristic features like formalism, polynormativism, polycommunalism, the bazaar-canteen and SALA models, and functional overlapping."
+  },
+  {
+   "page": 93,
+   "title": "Gunnar Myrdal on India's Soft State",
+   "summary": "Following additional prismatic society features, the page discusses Gunnar Myrdal's Asian Drama, which terms India a 'soft state' with poor policy implementation due to corruption, Gandhian disobedience, and culture. It also notes Galbraith's characterization of India as a 'functional anarchy' and Nehru's failure to implement land reforms."
+  },
+  {
+   "page": 94,
+   "title": "Marxist Dependency School and Neo-Colonialism",
+   "summary": "The page examines the Marxist dependency school and key scholars analyzing neo-colonialism and unequal exchange between core and peripheral states in Africa and Latin America. It highlights how capitalism creates uneven development, leaving peripheral states as clientelist regimes or instruments of the metropolitan bourgeoisie."
+  },
+  {
+   "page": 95,
+   "title": "Hamza Alawi's Theory of the Overdeveloped State",
+   "summary": "The notes present Hamza Alawi's structural theory of the overdeveloped state in South Asia, arguing post-colonial states differ historically from Western capitalist states. Rather than serving only the indigenous capitalist class, the post-colonial state mediates among the metropolitan bourgeoisie, indigenous bourgeoisie, and indigenous feudal class."
+  },
+  {
+   "page": 96,
+   "title": "Military-Bureaucratic Oligarchy and the Overdeveloped State",
+   "summary": "The page characterizes Pakistan as a Bonapartist 'military-bureaucratic oligarchy' where executive power dominates, noting India's state differs mainly through less military involvement. It explains that unlike Western states that evolved naturally with the bourgeoisie, post-colonial states are imported colonial institutions created to serve metropolitan interests."
+  },
+  {
+   "page": 97,
+   "title": "Causes and Nature of the Overdeveloped State",
+   "summary": "The page explains that post-colonial states are overdeveloped due to a mismatch between traditional societies and modern political systems introduced by colonial rulers. It attributes their Bonapartist power to colonial legacies of state immunity, the post-independence legitimacy of national movement parties, and resource-heavy development models."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What are the core characteristics of a 'prismatic society' according to F.W. Riggs?",
+   "back": "F.W. Riggs conceptualizes prismatic societies as developing societies in transition characterized by formalism, polynormativism, polycommunalism, functional overlapping, and heterogeneity. Their administrative functioning is defined by the SALA model, which blends rational administrative rules with traditional kinship norms.",
+   "category": "Liberal State Theory",
+   "scanPage": 92
+  },
+  {
+   "front": "Why did Gunnar Myrdal characterize post-colonial India as a 'soft state' in 'Asian Drama'?",
+   "back": "Gunnar Myrdal defined a soft state as one with limited capacity to enforce laws and policies, resulting in developmental failure. In India, this condition stemmed from pervasive corruption, cultural disrespect for legal rules, and the Gandhian legacy of civil disobedience delegitimizing state authority.",
+   "category": "Post-Colonial Governance",
+   "scanPage": 93
+  },
+  {
+   "front": "How do Marxist dependency theorists explain the relationship between core and peripheral post-colonial states?",
+   "back": "Dependency theorists argue that formal decolonization gave way to neo-colonialism under a global capitalist system. Unequal exchange produces uneven development, whereby prosperity in core nations directly generates the development of underdevelopment in peripheral clientelist states.",
+   "category": "Dependency School Theory",
+   "scanPage": 94
+  },
+  {
+   "front": "According to Hamza Alavi, why is the post-colonial state structurally 'overdeveloped'?",
+   "back": "The post-colonial state is overdeveloped because colonial masters created an advanced military-administrative superstructure to dominate society, creating a mismatch with the traditional economic base. Consequently, the state functions as a relatively autonomous mediator balancing the metropolitan bourgeoisie, indigenous bourgeoisie, and feudal classes.",
+   "category": "Overdeveloped State Theory",
+   "scanPage": 97
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Hamza Alavi's thesis of the 'overdeveloped state'. How does it explain the relative autonomy of the state apparatus in post-colonial societies?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Theories of the Post-Colonial State",
+   "scanPage": 95,
+   "intro": "Hamza Alavi formulated the structural theory of the overdeveloped state to analyze post-colonial societies like Pakistan. Departing from classical Marxist instrumentalism, he demonstrated that an imported colonial administrative apparatus created a state that historically overshadowed indigenous socioeconomic structures.",
+   "body": [
+    "Unlike Western capitalist states where political structures emerged organically alongside the bourgeoisie, Alavi explains that post-colonial states received imported colonial institutions. Consequently, an overdeveloped bureaucratic and military apparatus was imposed upon an underdeveloped traditional society, creating a structural mismatch.",
+    "Rejecting dependency theorists like A.G. Frank who treated post-colonial regimes as mere puppets of the metropolitan bourgeoisie, Alavi argued the state mediates between three competing propertied classes: the metropolitan bourgeoisie, indigenous bourgeoisie, and indigenous feudal class, maintaining equilibrium among them.",
+    "The state becomes a class in itself, approximating a Bonapartist state. In Pakistan, power concentrated into a 'military-bureaucratic oligarchy'. Alavi observed that India shared similar overdeveloped executive dominance, though without direct military rule, retaining colonial instruments like preventive detention and the Official Secrets Act.",
+    "State hegemony was reinforced by national movement legitimacy and state-led development models controlling vital resources. However, while Alavi emphasized structural overdevelopment and executive supremacy, Gunnar Myrdal identified an implementation deficit, describing post-colonial India as a 'soft state' unable to enforce institutional reforms."
+   ],
+   "scholars": [
+    "Hamza Alavi",
+    "Gunnar Myrdal (Asian Drama)",
+    "A.G. Frank",
+    "F.W. Riggs",
+    "Galbraith",
+    "Samir Amin"
+   ],
+   "conclusion": "Alavi's framework provides vital insight into post-colonial state power by linking colonial institutional legacies to contemporary governance. Balancing structural state autonomy with effective democratic accountability remains essential for reconciling state capacity with transformative social development across South Asia."
+  }
+ ]
+}

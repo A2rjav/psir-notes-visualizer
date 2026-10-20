@@ -1,0 +1,182 @@
+{
+ "pages": [
+  {
+   "page": 132,
+   "title": "Article 19: Freedom of Speech and Expression",
+   "summary": "Article 19 guarantees six freedoms subject to reasonable legislative restrictions that are reviewable by the courts. Freedom of speech and expression is essential to democracy according to J.S. Mill, though contested amidst concerns over cultural emergencies affecting artists."
+  },
+  {
+   "page": 133,
+   "title": "Challenges to Freedom of Speech and Sedition",
+   "summary": "Citing Voltaire and Noam Chomsky on the necessity of toleration, the notes list six key challenges confronting freedom of speech in India. Sedition was excluded from Article 19(2) by the Constituent Assembly, yet Section 124A continues to be used by the government to curb political dissent."
+  },
+  {
+   "page": 134,
+   "title": "Section 124A Sedition: History and Judicial Precedents",
+   "summary": "Section 124A penalizes incitement against the government and has been used against activists and cartoonists despite opposition from leaders like Tilak and Nehru. Judicial interpretations have varied, ranging from the Allahabad High Court declaring it unconstitutional to the Supreme Court narrowing its scope to imminent lawless action."
+  },
+  {
+   "page": 135,
+   "title": "Sedition Ruling and Criminal Defamation Laws",
+   "summary": "In Balwant Singh v. State of Punjab, the Supreme Court ruled that slogan-shouting or advocating violence does not amount to sedition without real incitement to an offence. Defamation is treated as both a civil wrong and a criminal offence under Sections 499 and 500, with the latter's validity upheld in the Subramanian Swamy case."
+  },
+  {
+   "page": 136,
+   "title": "Contempt of Court: Scope, Types, and Misuse",
+   "summary": "Under Article 19(2), contempt of court serves as a ground to restrict free expression, divided by the 1971 Act into civil and criminal contempt. While criticized for suppressing judgment critique and shielding judges, the law was amended to accept truth as a defence and guidelines were set in the Mulgaonkar case."
+  },
+  {
+   "page": 137,
+   "title": "Judicial Criticism and Privileges of Parliamentarians",
+   "summary": "Justice Krishna Iyer emphasized that judges should remain composed and that contempt powers should only target actions that scandalize the court or obstruct justice. The page also discusses parliamentary privileges granting legislators freedom of speech, highlighting the lack of codification as a source of conflict with press freedom."
+  },
+  {
+   "page": 138,
+   "title": "Hate Speech and Freedom of the Press",
+   "summary": "Parliamentary privileges currently hold primacy over fundamental rights, while hate speech remains statutorily undefined despite Supreme Court directions to the Law Commission. In the Brij Bhushan case, the Supreme Court recognized freedom of the press under freedom of expression, prohibiting censorship except on films."
+  },
+  {
+   "page": 139,
+   "title": "Media Freedom, Commercialisation, and Social Responsibility",
+   "summary": "India's media environment exhibits paradoxes with violence against journalists and commercialisation causing elite bias, alongside the nullification of Section 66A in the Shreya Singhal case. Drawing on reports like Leveson and TRAI, the text emphasizes that the media must honor its social responsibility as the fourth estate."
+  },
+  {
+   "page": 140,
+   "title": "Press Freedom Perspectives and Defamation Note",
+   "summary": "Perspectives from Thomas Jefferson and Jawaharlal Nehru highlight that a free press is preferable to a press without freedom, advocating self-regulation over state control. A concluding note stresses that an individual's reputation is part of the right to life and cannot be sacrificed for another's freedom of expression."
+  },
+  {
+   "page": 141,
+   "title": "Article 21: Right to Life and Capital Punishment",
+   "summary": "Under Article 21, the page examines international trends and committee recommendations favoring the abolition of capital punishment. In India, the Supreme Court has humanized the death penalty through the Bachan Singh case, establishing the rarest of rare doctrine where capital punishment is an exception."
+  },
+  {
+   "page": 142,
+   "title": "SC Guidelines on Death Penalty and Encounters",
+   "summary": "The Supreme Court in Machhi Singh discussed the rarest of rare doctrine, while subsequent 2014 rulings humanised death penalty procedures and set guidelines for police encounters. These cases addressed mercy petition delays, open-court review petitions, and encounter investigation norms."
+  },
+  {
+   "page": 143,
+   "title": "Theories of Punishment Regarding the Death Penalty",
+   "summary": "The notes evaluate whether the death penalty should be abolished using retributive, deterrence, and reformative theories of punishment. It argues that retribution and deterrence fail in India, favoring a Gandhian reformative approach instead."
+  },
+  {
+   "page": 144,
+   "title": "Arguments Against Death Penalty and Systemic Reforms",
+   "summary": "The text outlines grounds against retaining the death penalty, highlighting wrongful convictions, irreversible state execution of innocents, disproportionate impact on the poor, and the need for police and prison reforms. It suggests rigorous life imprisonment as a better alternative."
+  },
+  {
+   "page": 145,
+   "title": "Article 32, PIL Innovations, and Constitutional Morality",
+   "summary": "Article 32 is highlighted as the soul of Part III and part of the basic structure, detailing judicial innovations like PIL and doctrines like res judicata and laches. The page also introduces the Indian Constitution as a transformative case study in constitutional morality."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What constitutional principle is inherent in Article 19, and which branch of government holds the exclusive authority to impose restrictions on its freedoms?",
+   "back": "According to the notes, only the legislature and not the executive can impose restrictions on Article 19 freedoms. Because the court possesses the power to challenge the reasonability of any such law, the doctrine of due process of law is inherent in Article 19.",
+   "category": "Freedom of Speech",
+   "scanPage": 132
+  },
+  {
+   "front": "What distinction did Bal Gangadhar Tilak draw regarding sedition, and what was Jawaharlal Nehru's view of Section 124A in 1951?",
+   "back": "Tilak sought to distinguish between 'Rajdroh' and 'Rashtradroh'. In 1951, Jawaharlal Nehru stated that sedition laws are obnoxious and highly objectionable, holding that the sooner we get rid of them, the better.",
+   "category": "Sedition Laws",
+   "scanPage": 134
+  },
+  {
+   "front": "What threshold was laid down by the Supreme Court in Indra Das v. State of Assam (2011) for speech to be treated as a crime?",
+   "back": "In Indra Das v. State of Assam (2011), the Supreme Court ruled that speech can only be treated as a crime when it results in incitement to imminent lawless action.",
+   "category": "Sedition Jurisprudence",
+   "scanPage": 134
+  },
+  {
+   "front": "What are the legal nature and statutory penalties for criminal defamation under Section 500 of the IPC?",
+   "back": "Section 500 of the IPC prescribes a minimum imprisonment of two years or more with or without fine, requiring damage to be established beyond reasonable doubt. It is compoundable, bailable, and non-cognizable, meaning the mere filing of an FIR will not result in arrest, and its validity was upheld in the Subramanian Swamy case.",
+   "category": "Defamation Law",
+   "scanPage": 135
+  },
+  {
+   "front": "What guidelines did the Supreme Court lay down in the Mulgaonkar case regarding the use of contempt of court powers?",
+   "back": "In the Mulgaonkar case, the Supreme Court ruled that contempt of court will only be exercised when there is a malafide intention to jeopardize the dignity of the court. The court affirmed that contempt powers must not be used to protect erring judges.",
+   "category": "Contempt of Court",
+   "scanPage": 136
+  },
+  {
+   "front": "What constitutional primacy was recognized regarding parliamentary privileges in the Searchlight case?",
+   "back": "In the Searchlight case, the Supreme Court recognized that parliamentary privileges have primacy over Fundamental Rights. This poses a challenge for the Supreme Court as the guardian of fundamental rights, especially given the Article 122 bar on judicial interference in parliamentary proceedings.",
+   "category": "Parliamentary Privileges",
+   "scanPage": 138
+  },
+  {
+   "front": "Which three key features of freedom of the press were articulated by the Supreme Court in the Brij Bhushan case?",
+   "back": "In the Brij Bhushan case, the Supreme Court held that there is no censorship on media except on movies. It further ruled that freedom of the press includes the freedom to collect information, publish, and circulate, as well as the freedom to decide the volume of publication.",
+   "category": "Freedom of Press",
+   "scanPage": 138
+  },
+  {
+   "front": "What procedural safeguards regarding mercy petitions and death row convicts were mandated in the Shatrughan Chauhan case?",
+   "back": "In the Shatrughan Chauhan case, the Supreme Court held that unnecessary delay in disposing of a mercy petition allows the court to commute a death sentence to life imprisonment. The judgment mandated a 14-day gap between the rejection of a mercy petition and execution, guaranteed legal aid, barred solitary confinement, and required that family members be informed.",
+   "category": "Capital Punishment Jurisprudence",
+   "scanPage": 142
+  },
+  {
+   "front": "Why does the deterrence theory of punishment fail to work in the Indian context according to the notes?",
+   "back": "The notes state that deterrence fails in India because India is a 'soft state' and because the Supreme Court's 'rarest of rare' doctrine leaves little scope for deterrence. In addition, deterrence does not work against individuals who are prepared to sacrifice their lives.",
+   "category": "Theories of Punishment",
+   "scanPage": 143
+  },
+  {
+   "front": "Which two procedural doctrines does the Supreme Court apply when granting writs under Article 32, and what is their effect?",
+   "back": "The Supreme Court applies the Doctrine of Res Judicata and the Doctrine of Laches (unnecessary delay). These doctrines signify that the court protects only the rights of those who are vigilant about their rights and approach the bench without undue delay.",
+   "category": "Constitutional Remedies",
+   "scanPage": 145
+  }
+ ],
+ "answers": [
+  {
+   "question": "Freedom of speech and expression is a condition for democracy, yet its scope remains highly contested in India. Analyze the major constitutional and institutional challenges.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Freedom of Speech and Civil Liberties",
+   "scanPage": 133,
+   "intro": "Article 19 enshrines freedom of speech as democracy's foundational freedom, reflecting J.S. Mill's assertion of its primacy and Voltaire's defense of dissent. However, its contemporary enjoyment in India remains contested through executive overreach and legal restrictions.",
+   "body": [
+    "Sedition under Section 124A persists as a tool against political opponents, despite Jawaharlal Nehru calling it obnoxious and the Supreme Court in Kedar Nath and Indra Das restricting it strictly to incitement to imminent lawless action.",
+    "Contempt of court powers risk suppressing healthy criticism; Dworkin argued public debate aids good governance, while the Mulgaonkar case clarified contempt cannot protect erring judges. Additionally, uncodified parliamentary privileges maintain primacy over fundamental rights under the Searchlight case.",
+    "While the Brij Bhushan case protected press freedom against prior censorship, mainstream media faces elite capture and commercialization as highlighted by the Leveson Report. Digital expression suffered statutory curbs like Section 66A, which the Shreya Singhal case invalidated for its chilling effect.",
+    "Noam Chomsky emphasized that tolerating disagreeable views is the essential precondition for free expression. Meanwhile, criminal defamation under Section 500 IPC, upheld in the Subramanian Swamy case, balances free speech against individual reputation as an integral component of Article 21."
+   ],
+   "scholars": [
+    "J.S. Mill",
+    "Voltaire",
+    "Noam Chomsky",
+    "Ronald Dworkin",
+    "Kedar Nath v. State of Bihar",
+    "Shreya Singhal case"
+   ],
+   "conclusion": "Democracy requires safeguarding speech while curbing genuine harms. As Thomas Jefferson and Joseph Pulitzer underscored, a responsible, self-regulating press and codification of legislative privileges are vital to prevent civil liberties from being chilled by archaic laws."
+  },
+  {
+   "question": "Discuss the judicial approach towards capital punishment under Article 21 in India, and critically evaluate the arguments for its abolition.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Right to Life and Capital Punishment",
+   "scanPage": 141,
+   "intro": "Article 21 guarantees the right to life, prompting rigorous judicial scrutiny of capital punishment. While global consensus favors abolition under international human rights declarations, Indian constitutional jurisprudence attempts to humanize death penalties through strict procedural safeguards.",
+   "body": [
+    "The Supreme Court formulated the 'rarest of the rare' doctrine in the Bachan Singh case, making execution an exception, while the Machhi Singh case limited it to instances where life imprisonment is wholly inadequate, though judicial discretion continues to vary.",
+    "In Shatrughan Chauhan, the court commuted delayed death sentences, mandating a fourteen-day execution notice and legal aid. Open-court review hearings were established in the Mohd. Arif case, alongside strict encounter guidelines in PUCL v. State of Maharashtra.",
+    "Retributive punishment reflects mere revenge that fades over time, while deterrence theory fails because India is a soft state and the rarest of rare doctrine dilutes deterrence, aligning with the Verma Committee's rejection of death penalty for rape.",
+    "Drawing upon the Gandhian reformative idea to hate the evil and not the evildoer, the notes highlight that executions disproportionately fall upon poorer sections, wrongful executions constitute state murder, and rigorous life imprisonment provides a superior alternative."
+   ],
+   "scholars": [
+    "Bachan Singh case",
+    "Machhi Singh case",
+    "Shatrughan Chauhan case",
+    "Mohd. Arif case",
+    "PUCL v. State of Maharashtra",
+    "Verma Committee"
+   ],
+   "conclusion": "Capital punishment must evolve alongside progressive penal jurisprudence. As global practices shift away from execution and the Supreme Court incorporates reasonable procedure, India must prioritize comprehensive police and prison reforms while moving towards rigorous life imprisonment."
+  }
+ ]
+}

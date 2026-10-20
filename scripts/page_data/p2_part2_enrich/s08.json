@@ -1,0 +1,94 @@
+{
+  "pages": [
+    {
+      "page": 55,
+      "title": "Discipline origins, Liberalism and Westphalian order",
+      "summary": "International Politics is one of the youngest disciplines, with its first chair created in 1914 at the University of Wales, and it aimed at theories that avoid wars and establish peace. Liberalism was the first school, offering an alternative to the Westphalian order created by the Treaty of Westphalia, 1648."
+    },
+    {
+      "page": 56,
+      "title": "Westphalian principles, anarchy and billiard ball model",
+      "summary": "Nation states were the units, protecting sovereignty and territorial integrity, and anarchy means absence of world government rather than lawlessness. States were like colliding billiard balls with no permanent friend or enemy, so peace rested on balance of power."
+    },
+    {
+      "page": 57,
+      "title": "Balance of power, security dilemma and war",
+      "summary": "Balance of power works through internal balancing (own military and economy) and external balancing (alliances), and it failed when Napoleonic France and Kaiser William's Germany sought preponderance. Under anarchy, self-help through power creates the security dilemma, so states are always at war or preparing for it, which led scholars to create the discipline."
+    },
+    {
+      "page": 58,
+      "title": "Woodrow Wilson's 14 points and League collapse",
+      "summary": "Theories of International Politics evolved with the role of the USA, and since Wilson American presidents (except the present one) have proposed a liberal new world order. Wilson's 14 points sought democracy, free trade, freedom of navigation, the League of Nations and collective security, but the League collapsed and the Second World War began within 20 years."
+    },
+    {
+      "page": 59,
+      "title": "World order after 1945 and after Cold War",
+      "summary": "Realists like E.H. Carr called liberals idealists, Roosevelt proposed the UNO and Bretton Woods institutions, and realism dominated the Cold War. After the Cold War, H.W. Bush declared a new order, but since 9/11 the US wars in Afghanistan and Iraq helped China and BRICS rise, and Fareed Zakaria sees a post-American world."
+    },
+    {
+      "page": 60,
+      "title": "Realism as hegemonic school; cobweb replaces billiard ball",
+      "summary": "Because international politics remains power politics, realism is the hegemonic school and other schools are footnotes to it. Scholars now prefer the cobweb model (multiple actors, multiple gateways, complicated interaction) over the state-centric billiard ball model, moving from geopolitics to geo-centric global politics."
+    },
+    {
+      "page": 61,
+      "title": "Short note: Cobweb model",
+      "summary": "The cobweb model overviews global politics in the 21st century, since the end of the Cold War, and arose from globalisation and the information and communication revolution. Its features are multiple actors such as regional organisations, transnational crime networks and civil society networks, so global governance looks multiplex rather than state-centric."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Why is the Treaty of Westphalia (1648) central to the origin of International Relations?",
+      "back": "It concluded the 30 years war in Europe and formally recognised nation states and the principle of state sovereignty. International Relations thus became relations between states.",
+      "category": "Westphalian world order",
+      "scanPage": 55
+    },
+    {
+      "front": "How do states maintain balance of power, and when did it fail?",
+      "back": "Through internal balancing (increasing military and economic capability) and external balancing (alliances). It failed when France under Napoleon and later Germany under Kaiser William tried to gain preponderant power.",
+      "category": "Balance of power",
+      "scanPage": 57
+    },
+    {
+      "front": "What ideas formed Woodrow Wilson's vision of a new world order in his 14 points speech?",
+      "back": "Making the world safe for democracy, free trade, freedom of navigation, a League of Nations, and collective security replacing balance of power. The League collapsed and the Second World War started within 20 years.",
+      "category": "Wilson's liberal vision",
+      "scanPage": 58
+    },
+    {
+      "front": "What does Fareed Zakaria suggest about the post-Cold War world order?",
+      "back": "He suggests we live in a post-American world order, with decline of the west and rise of the rest. The notes link this to the costly US wars in Afghanistan and Iraq after 9/11 and the rise of China and BRICS.",
+      "category": "Post-Cold War order",
+      "scanPage": 59
+    },
+    {
+      "front": "How does the cobweb model differ from the billiard ball model?",
+      "back": "The billiard ball model is state-centric, with states as the only gateways of interaction. The cobweb model shows multiple actors, multiple gateways and extremely complicated interaction.",
+      "category": "Cobweb versus billiard ball",
+      "scanPage": 60
+    }
+  ],
+  "answers": [
+    {
+      "question": "Trace the evolution of the liberal vision of world order from Woodrow Wilson to the post-Cold War period and assess whether realism remains the hegemonic school of International Politics.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Evolution of world order",
+      "scanPage": 58,
+      "intro": "International Politics arose as a discipline to find theories that avoid war and establish peace, offering an alternative to the Westphalian order of sovereign states, anarchy and balance of power. Liberalism, the first school, proposed a liberal world order.",
+      "body": [
+        "Wilson's 14 points speech set out the liberal vision: a world safe for democracy, free trade, freedom of navigation, the League of Nations and collective security in place of balance of power. The League collapsed and the Second World War began within twenty years.",
+        "Realists such as E.H. Carr criticised liberals as idealists or utopians. After 1945 Roosevelt proposed the UNO and Bretton Woods institutions, but the communist world and NAM countries challenged this, and realism dominated the Cold War.",
+        "After the Cold War, H.W. Bush declared a new order based on democracy, human rights and free trade. Since 9/11, costly wars in Afghanistan and Iraq overstretched the US, helping China and BRICS rise; Fareed Zakaria calls this a post-American world.",
+        "Since international politics remains power politics, realism is the hegemonic school and others are footnotes to it, yet the cobweb model, with multiple actors and gateways, shows the billiard ball picture no longer fits."
+      ],
+      "scholars": [
+        "Woodrow Wilson",
+        "E.H. Carr",
+        "Roosevelt",
+        "H.W. Bush",
+        "Fareed Zakaria"
+      ],
+      "conclusion": "The liberal vision has repeatedly advanced and faltered, which supports the realist claim of continuity in power politics. Yet the cobweb model suggests future order depends on managing many actors, not only great powers, in an uncertain post-American world."
+    }
+  ]
+}

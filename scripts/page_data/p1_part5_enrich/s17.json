@@ -1,0 +1,106 @@
+{
+ "pages": [
+  {
+   "page": 173,
+   "title": "Hannah Arendt: Introduction, Methodology, and Major Works",
+   "summary": "Hannah Arendt is introduced as a heterodox thinker associated with civic republicanism and the methodology of phenomenology based on lived experiences. The notes outline her major intellectual influences and prominent works, including Origins of Totalitarianism, The Human Condition, and Eichmann in Jerusalem."
+  },
+  {
+   "page": 174,
+   "title": "Hannah Arendt: Nature and Origins of Totalitarianism",
+   "summary": "Arendt characterizes twentieth-century totalitarianism as unprecedented centralized violence and rule of terror aimed at controlling thought and souls. She identifies its roots in European traditions of tribalism, imperialism, and racial superiority myths articulated by figures such as Gobineau."
+  },
+  {
+   "page": 175,
+   "title": "Origins of Totalitarianism and Twentieth-Century European Pathologies",
+   "summary": "The notes discuss how racial superiority myths and romantic notions like the General Will laid the foundation for totalitarianism. They further detail twentieth-century European pathologies that enabled totalitarian regimes, including capitalist expansion, bureaucratization, and the erosion of civic participation."
+  },
+  {
+   "page": 176,
+   "title": "Hannah Arendt: Theory of Action and Politics",
+   "summary": "Arendt's theory of action from 'The Human Condition' differentiates between thinking and action, favoring action. Within active life, human activity is divided into labor, work, and political action, the last being unique to humans and offering complete freedom."
+  },
+  {
+   "page": 177,
+   "title": "Hannah Arendt: Concept and Features of Power",
+   "summary": "Arendt emphasizes that political participation is vital for freedom and preventing totalitarianism, connecting the political realm to power. She differentiates power from strength, force, and violence, defining power as a collective, sui-generis phenomenon that cannot be possessed by individuals or institutions."
+  },
+  {
+   "page": 178,
+   "title": "Hannah Arendt on Power, Revolution, and Evil",
+   "summary": "Arendt describes power as acting in concert within civil society for mutual empowerment and contrasts the American and French Revolutions regarding political freedom. The page also introduces the concept of the banality of evil from her 1963 book 'Eichmann in Jerusalem'."
+  },
+  {
+   "page": 179,
+   "title": "Hannah Arendt: The Banality of Evil",
+   "summary": "Examining Adolf Eichmann's trial, Arendt explains that his crimes stemmed from an absence of thinking and moral judgment rather than hatred. She concludes that evil becomes banal and normalized when ordinary people systematically participate in atrocities without critical reflection."
+  },
+  {
+   "page": 180,
+   "title": "Hannah Arendt Quote on Action and Isolation",
+   "summary": "The page records lecture details and a question heading on the Theory of Action alongside a quote from Hannah Arendt. The quote distinguishes action from fabrication, asserting that action is impossible in isolation and that isolation deprives one of the capacity to act."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does Hannah Arendt characterize her intellectual methodology, and which major thinkers influenced her?",
+   "back": "Arendt adopted phenomenology, formulating theories based on lived experiences rather than abstract logic or reason. Describing her approach as 'thinking without barriers', she drew key influences from Aristotle, St. Augustine, Martin Heidegger, and Karl Jaspers.",
+   "category": "Intellectual Framework",
+   "scanPage": 173
+  },
+  {
+   "front": "How does Hannah Arendt define totalitarianism, and how does it fundamentally differ from earlier autocratic regimes?",
+   "back": "Arendt defines totalitarianism as bureaucratically centralized violence made possible by 20th-century technology in the service of 19th-century ideology. Unlike earlier autocracies where violence was a strategic means to control speech and bodies, totalitarianism treats violence as an end in itself to control thoughts and souls.",
+   "category": "Nature of Totalitarianism",
+   "scanPage": 174
+  },
+  {
+   "front": "Which socio-political pathologies in 20th-century Europe created the conditions for totalitarianism according to Hannah Arendt?",
+   "back": "Totalitarianism arose from the expansion of capitalism, the rise of a bureaucratized state that undermined viable public life, and the conversion of classes into masses. These developments led to bourgeois control of the state, overemphasis on economics, and the decline of citizenship and civic deliberation.",
+   "category": "Origins of Totalitarianism",
+   "scanPage": 175
+  },
+  {
+   "front": "How does Hannah Arendt categorize the three components of Vita Activa in 'The Human Condition'?",
+   "back": "In vita activa, Arendt distinguishes between labour (animal laborans), which is biological necessity without freedom; work (homo faber), which involves craftsmanship and relative freedom; and action (zoon politikon), the highest human activity. Political action performed with others in the public realm is the only activity that provides complete freedom.",
+   "category": "Theory of Action",
+   "scanPage": 176
+  },
+  {
+   "front": "How does Hannah Arendt define power, and how does she distinguish it from strength and violence?",
+   "back": "For Arendt, power is acting in concert among people, emerging sui-generis when they gather and vanishing when they return to private life. While strength belongs to an individual and violence belongs to the state, power belongs exclusively to a community and cannot be stored or held by individuals.",
+   "category": "Conception of Power",
+   "scanPage": 177
+  },
+  {
+   "front": "What does Hannah Arendt mean by the 'banality of evil' in her analysis of Adolf Eichmann?",
+   "back": "Arendt observed that Eichmann committed monstrous crimes not out of deep ideological hatred or psychopathy, but due to an absence of imaginative capacity and unthinking bureaucratic obedience. Evil becomes banal when ordinary people participate in systemic crimes without moral reflection, rendering evil faceless and normalized in daily life.",
+   "category": "Banality of Evil",
+   "scanPage": 179
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Hannah Arendt's theory of action and discuss why civic participation is vital for safeguarding human freedom.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Hannah Arendt: Theory of Action and Concept of Politics",
+   "scanPage": 176,
+   "intro": "In 'Human Condition', civic republican thinker Hannah Arendt presents her phenomenological theory of action. Rejecting passive contemplation, she elevates political participation as the definitive human condition necessary to realise genuine freedom and prevent totalitarianism.",
+   "body": [
+    "In classifying human activity, Arendt contrasts vita contemplativa with vita activa. She asserts that action is superior to thinking, arguing that Plato is mistaken in prioritising pure contemplation, whereas Karl Marx correctly recognised the historical importance of practical action.",
+    "Within vita activa, she contrasts labour and work. While labour (animal laborans) merely sustains biological life with no freedom, leading Arendt to critique Marx for glorifying labour, work (homo faber) by craftsmen and artists creates durable objects and offers relative freedom.",
+    "Action (zoon politikon) represents the highest human condition, directly reflecting Aristotle's conception. Arendt maintains that political action in the public realm is uniquely human, impossible in isolation, and the sole sphere where citizens attain complete freedom through civic deliberation.",
+    "In 'Origins of Totalitarianism', Arendt warns that when individuals withdraw into the private economic sphere, bureaucratised states convert classes into masses, destroying civic space and enabling absolute violence, as observed in historical regimes like Nazism and Stalinism."
+   ],
+   "scholars": [
+    "Hannah Arendt",
+    "Human Condition",
+    "Aristotle",
+    "Plato",
+    "Karl Marx",
+    "Origins of Totalitarianism"
+   ],
+   "conclusion": "Arendt's civic republicanism affirms that political freedom requires continuous public deliberation. Reclaiming the public sphere from bureaucratic and economic dominance remains indispensable for rejuvenating participatory citizenship and insulating contemporary societies against the resurgence of totalitarian tendencies."
+  }
+ ]
+}

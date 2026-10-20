@@ -1,0 +1,363 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Course Overview | Reference Syllabus | Reading List | Notebook Index",
+   "start": 1,
+   "end": 6,
+   "keyScholars": [
+    "Steve Smith",
+    "Andrew Heywood",
+    "Robert D. Kaplan",
+    "Subhra Ranjan"
+   ],
+   "coreTheories": [
+    "Comparative Politics",
+    "Global Politics"
+   ]
+  },
+  {
+   "title": "Comparative Politics: Traditional Methods and Systems Frameworks",
+   "subtitle": "Evolution of Comparative Politics | Traditional Comparative Method | Eurocentrism and Parochialism | Systems Approach | Structural-Functional Framework",
+   "start": 7,
+   "end": 18,
+   "keyScholars": [
+    "David Easton",
+    "Gabriel Almond",
+    "Bingham Powell"
+   ],
+   "coreTheories": [
+    "Traditional Comparative Politics",
+    "Systems Approach",
+    "Input-Output Mechanism",
+    "Structural-Functional Approach"
+   ]
+  },
+  {
+   "title": "Political Sociology and Political Economy Approaches",
+   "subtitle": "Political Sociology Approach | Instrumentalist and Structuralist Schools | Bringing the State Back In | Political Economy Approach | Dependency Perspectives",
+   "start": 19,
+   "end": 25,
+   "keyScholars": [
+    "Antonio Gramsci",
+    "Max Weber",
+    "Andre Beteille",
+    "Christophe Jaffrelot",
+    "Theda Skocpol",
+    "Adam Smith",
+    "Karl Marx"
+   ],
+   "coreTheories": [
+    "Political Sociology",
+    "Relative Autonomy of the State",
+    "Bringing the State Back In",
+    "Political Economy Approach",
+    "Dependency Theory"
+   ]
+  },
+  {
+   "title": "Political Development, Modernisation, and Political Culture",
+   "subtitle": "Political Development Theory | Political Decay | Political Modernisation | Civic Culture | Participant and Subject Cultures",
+   "start": 26,
+   "end": 30,
+   "keyScholars": [
+    "Samuel P. Huntington",
+    "David Apter",
+    "Gabriel Almond",
+    "Sidney Verba"
+   ],
+   "coreTheories": [
+    "Political Development",
+    "Political Decay",
+    "Political Modernisation",
+    "Political Culture",
+    "Civic Culture"
+   ]
+  },
+  {
+   "title": "State in Comparative Perspective: Capitalist, Socialist, and Developing",
+   "subtitle": "Advanced Industrial Societies | Instrumentalist and Pluralist Perspectives | Polyarchy | Socialist State Models | Clientelist Regimes",
+   "start": 31,
+   "end": 35,
+   "keyScholars": [
+    "Karl Marx",
+    "Ralph Miliband",
+    "Robert Dahl"
+   ],
+   "coreTheories": [
+    "Instrumentalist Theory of State",
+    "Polyarchy",
+    "Dictatorship of the Proletariat",
+    "Dependency Theory of State",
+    "Clientelist State"
+   ]
+  },
+  {
+   "title": "Representation and Participation: Parties, Pressure Groups, and Social Movements",
+   "subtitle": "Party Structures and Classifications | Iron Law of Oligarchy | Electoral and Party Systems | Pressure Groups Typology | Old and New Social Movements",
+   "start": 36,
+   "end": 46,
+   "keyScholars": [
+    "Robert Michels",
+    "Maurice Duverger",
+    "Jean Blondel",
+    "Gabriel Almond"
+   ],
+   "coreTheories": [
+    "Democratic Centralism",
+    "Iron Law of Oligarchy",
+    "Duverger's Party Structures",
+    "Catch-All Party",
+    "New Social Movements"
+   ]
+  },
+  {
+   "title": "Globalisation: Debates, Dimensions, and Critical Responses",
+   "subtitle": "Proponents and Critics | World-Systems Theory | End of Geography | Market-Driven Inequalities | Neo-Colonial Critiques",
+   "start": 47,
+   "end": 54,
+   "keyScholars": [
+    "Jagdish Bhagwati",
+    "Immanuel Wallerstein",
+    "Noam Chomsky",
+    "Arundhati Roy",
+    "Vandana Shiva",
+    "Joseph Stiglitz",
+    "Christine Lagarde"
+   ],
+   "coreTheories": [
+    "Globalisation",
+    "World-Systems Theory",
+    "End of Geography",
+    "Neo-Liberal Capitalism"
+   ]
+  },
+  {
+   "title": "International Relations: Discipline Evolution and Foundational Debates",
+   "subtitle": "Evolution of IR Discipline | Nation-State System | Balance of Power | Realist-Idealist Great Debate | Cob-web vs Billiard Ball Model",
+   "start": 55,
+   "end": 61,
+   "keyScholars": [
+    "E.H. Carr",
+    "John Burton"
+   ],
+   "coreTheories": [
+    "Power Politics",
+    "Classical Realism",
+    "Utopianism / Idealism",
+    "Balance of Power",
+    "Cob-web Model"
+   ]
+  },
+  {
+   "title": "Classical Realism, Feminist Critique, and the Security Dilemma",
+   "subtitle": "Thucydidean Realism | Morgenthau's Six Principles | Feminist Reformulation | Jervis's Security Dilemma | Subaltern Realism",
+   "start": 62,
+   "end": 72,
+   "keyScholars": [
+    "Thucydides",
+    "Hans Morgenthau",
+    "J. Ann Tickner",
+    "Robert Jervis",
+    "Amitav Acharya",
+    "Mohammed Ayoob"
+   ],
+   "coreTheories": [
+    "Classical Realism",
+    "Six Principles of Political Realism",
+    "Feminist Critique of Realism",
+    "Security Dilemma",
+    "Insecurity Dilemma"
+   ]
+  },
+  {
+   "title": "Structural Realism, Neoclassical Realism, and Alternative Paradigms",
+   "subtitle": "Structural Realism | Defensive and Offensive Realism | Neoclassical Realism | English School International Society | Feminist Security Studies",
+   "start": 73,
+   "end": 85,
+   "keyScholars": [
+    "Kenneth Waltz",
+    "John Mearsheimer",
+    "Fareed Zakaria",
+    "Randall Schweller",
+    "Alexander Wendt",
+    "Hedley Bull"
+   ],
+   "coreTheories": [
+    "Structural Realism",
+    "Defensive Realism",
+    "Offensive Realism",
+    "Neoclassical Realism",
+    "English School"
+   ]
+  },
+  {
+   "title": "Liberalism in International Relations: Sociological, Functionalist, and Democratic Peace",
+   "subtitle": "Liberal Foundations for Peace | Sociological Liberalism | Security Community | Functionalism and Neo-Functionalism | Democratic Peace Theory",
+   "start": 86,
+   "end": 96,
+   "keyScholars": [
+    "John Locke",
+    "Immanuel Kant",
+    "David Mitrany",
+    "Ernst Haas",
+    "Michael Doyle",
+    "Karl Deutsch",
+    "Richard Cobden"
+   ],
+   "coreTheories": [
+    "Liberalism",
+    "Sociological Liberalism",
+    "Security Community",
+    "Functionalism",
+    "Democratic Peace Theory"
+   ]
+  },
+  {
+   "title": "Complex Interdependence and the Crisis of the Liberal World Order",
+   "subtitle": "Economic Interdependence | Complex Interdependence Theory | Liberal World Order | Clash of Civilizations | Munich Security Conference",
+   "start": 97,
+   "end": 103,
+   "keyScholars": [
+    "Robert Keohane",
+    "Joseph Nye",
+    "Immanuel Kant",
+    "Woodrow Wilson",
+    "Samuel P. Huntington"
+   ],
+   "coreTheories": [
+    "Interdependence",
+    "Complex Interdependence",
+    "Liberal World Order",
+    "Clash of Civilizations",
+    "Peaceful Rise"
+   ]
+  },
+  {
+   "title": "Marxist, Gramscian, and Critical Theories of International Relations",
+   "subtitle": "Marxist IR Perspectives | Dependency and Core-Periphery | Geo-Culture | Gramscian Hegemony | Critical School and Emancipation",
+   "start": 104,
+   "end": 109,
+   "keyScholars": [
+    "Karl Marx",
+    "Immanuel Wallerstein",
+    "Robert Cox",
+    "Andrew Linklater",
+    "Jürgen Habermas"
+   ],
+   "coreTheories": [
+    "Marxist IR Theory",
+    "Dependency School",
+    "World-Systems Theory",
+    "Gramscian Hegemony",
+    "Critical Theory / Emancipatory Vision"
+   ]
+  },
+  {
+   "title": "Scientific Approaches to IR: Systems Theory, Game Theory, and Decision-Making",
+   "subtitle": "Systems Approach | Morton Kaplan's Ten Models | Game Theory | Prisoner's Dilemma | Decision-Making Approach",
+   "start": 110,
+   "end": 117,
+   "keyScholars": [
+    "Morton Kaplan",
+    "Thomas Schelling",
+    "Richard Snyder",
+    "H.W. Bruck",
+    "Burton Sapin"
+   ],
+   "coreTheories": [
+    "Systems Approach",
+    "Behaviouralism",
+    "Game Theory",
+    "Prisoner's Dilemma",
+    "Decision-Making Theory"
+   ]
+  },
+  {
+   "title": "Power in International Relations: Determinants, Typologies, and Soft Power",
+   "subtitle": "Elements of National Power | Great and Middle Powers | Hard Power vs Soft Power | Fast Power | Unipolarity and Imperial Overstretch",
+   "start": 118,
+   "end": 123,
+   "keyScholars": [
+    "Joseph Nye",
+    "John Chipman"
+   ],
+   "coreTheories": [
+    "Hard Power",
+    "Soft Power",
+    "Fast Power",
+    "Unipolarity",
+    "Imperial Overstretch"
+   ]
+  },
+  {
+   "title": "Management of Power: Balance of Power, Deterrence, and Collective Security",
+   "subtitle": "Balance of Power Mechanisms | Nuclear Deterrence | Flexible Response Strategy | Collective Security Operations | Collective Defence vs Collective Security",
+   "start": 124,
+   "end": 138,
+   "keyScholars": [
+    "John F. Kennedy"
+   ],
+   "coreTheories": [
+    "Balance of Power",
+    "Asymmetrical Balancing",
+    "Deterrence Theory",
+    "Flexible Response",
+    "Collective Security"
+   ]
+  },
+  {
+   "title": "Security Perspectives, National Interest, and Transnational Actors",
+   "subtitle": "Human Security Dimensions | Feminist Security Perspectives | Theory of National Interest | Transnational Non-State Actors | Three-Dimensional Chessboard",
+   "start": 139,
+   "end": 146,
+   "keyScholars": [
+    "Cynthia Enloe",
+    "Mohammad Yunus",
+    "Joseph Nye"
+   ],
+   "coreTheories": [
+    "Human Security",
+    "Reflectivist Security Theory",
+    "National Interest",
+    "Transnationalism",
+    "Three-Dimensional Chessboard"
+   ]
+  },
+  {
+   "title": "The Cold War: Origins, Crises, Alliances, and Soviet Disintegration",
+   "subtitle": "Cold War Origins and Ideology | Containment Strategy | Military Alliances | Detente and Second Cold War | Gorbachev's Reforms and Soviet Collapse",
+   "start": 147,
+   "end": 158,
+   "keyScholars": [
+    "George Kennan",
+    "Mikhail Gorbachev",
+    "Alexis de Tocqueville"
+   ],
+   "coreTheories": [
+    "Containment",
+    "Detente",
+    "Strategic Defence Initiative",
+    "Perestroika",
+    "Glasnost"
+   ]
+  },
+  {
+   "title": "Post-Cold War Order: US Hegemony, Russian Resurgence, and Rising China",
+   "subtitle": "Post-Cold War US-Russia Relations | Indispensable Nation Concept | Asia Pivot and Rebalancing | NATO Eastward Expansion | Strategic Arms Reduction and Reset",
+   "start": 159,
+   "end": 164,
+   "keyScholars": [
+    "Madeleine Albright",
+    "Barack Obama"
+   ],
+   "coreTheories": [
+    "Indispensable Nation",
+    "Hegemonic Stability",
+    "Asia Pivot",
+    "NATO Expansion",
+    "Strategic Reset"
+   ]
+  }
+ ]
+}

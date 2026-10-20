@@ -66,6 +66,15 @@ def agy_json(prompt, model="gemini-3.8-flash-high", timeout=600, validate=None, 
     for attempt in range(retries):
         p = prompt if last_err is None else (
             prompt + f"\n\nYour previous reply was rejected: {last_err}. Fix this and output ONLY the JSON.")
+        if len(p) > 6000:
+            # Windows caps a command line at ~32K chars (WinError 206): hand long prompts over as a file
+            os.makedirs(os.path.join(WORK_DIR, "prompts"), exist_ok=True)
+            fname = f"prompt_{os.getpid()}_{time.time_ns()}.txt"
+            with open(os.path.join(WORK_DIR, "prompts", fname), "w", encoding="utf-8") as f:
+                f.write(p)
+            p = (f"Read the file scripts/page_data/prompts/{fname} in this workspace. It contains your full task. "
+                 "Follow its instructions exactly and reply with only the output it asks for. "
+                 "Do not run shell commands and do not create or edit any files.")
         try:
             res = subprocess.run(
                 [AGY, "-p", p, "--model", model, "--mode", "plan", "--output-format", "json",

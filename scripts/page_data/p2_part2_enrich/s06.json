@@ -1,0 +1,154 @@
+{
+ "pages": [
+  {
+   "page": 36,
+   "title": "Political parties: Burke, Kirchheimer, Lenin's vanguard",
+   "summary": "Parties perform the input function of interest aggregation. Burke defines a party as a group with shared ideology pursuing common interest, Kirchheimer's catch-all parties care only about power, and Lenin, in What is to be done?, called the communist party the vanguard of revolution."
+  },
+  {
+   "page": 37,
+   "title": "Michels, Duverger's Law, mass and cadre parties",
+   "summary": "Communist parties are secret societies run on democratic centralism, while Michels concluded that in every kind of party power rests with elites, so oligarchy is the iron law. Duverger links simple majority systems to two parties and proportional representation to multi-party systems (India an exception), and divides parties into mass (liberal) and cadre (non-liberal)."
+  },
+  {
+   "page": 38,
+   "title": "Duverger's party structures; Sartori; Weiner-La Palombara",
+   "summary": "Duverger's four structures are branch (liberal parties), cell (communist), caucus (elite, rightist) and militia (armed wing, as with Mussolini and Hitler). Sartori counts parties of systemic relevance, so India was a one-party dominant system, and Weiner and La Palombara classify party systems as competitive or non-competitive."
+  },
+  {
+   "page": 39,
+   "title": "Competitive and non-competitive party systems; western models",
+   "summary": "The diagram divides competitive systems into turnover (ideological Britain, pragmatic USA) and hegemonic (ANC in South Africa, India up to the fourth general election under INC), and places non-competitive systems under hegemonic parties like the Communist Party of China. In the West there are two-party systems and multi-party systems, where continental Europe, except Italy, has stable coalitions."
+  },
+  {
+   "page": 40,
+   "title": "Non-western party systems; Indian party system paradoxes",
+   "summary": "Non-western examples include China, South Africa, India, Bangladesh, Sri Lanka and Iran, marked by catch-all parties, weak intra-party democracy and dynasties. India has moved from one-party dominance to a two-party phase (1977-79) and multi-party system from 1989, with contradictions such as lack of internal democracy and coalitions without coalition culture."
+  },
+  {
+   "page": 41,
+   "title": "Pressure groups: Almond's four-fold classification",
+   "summary": "Finer calls pressure groups invisible empires that perform interest articulation in democratic and non-democratic societies. Almond classifies them as institutional (civil servants, army), associational (FICCI, ABVP), non-associational (Kshatriya Mahasabha) and anomic (Jallikattu protest), with institutional groups strongest in developing countries and anomic groups more prominent in non-western countries."
+  },
+  {
+   "page": 42,
+   "title": "Jean Blondel's dynamic classification of pressure groups",
+   "summary": "Blondel offers a dynamic model that accounts for change as societies move from traditional to modern. Traditional groups are community based and protectionist (farmer groups, industrialists), while modern groups are associational and developmental (Greenpeace, disarmament)."
+  },
+  {
+   "page": 43,
+   "title": "Social movements: link with parties and pressure groups",
+   "summary": "Parties, pressure groups and social movements are all collective behaviour and can turn into one another, as INC moved from movement to pressure group to party. Movements are the least institutionalised, linked to left politics, and in the West the first were working-class movements, divided into old (19th century) and new (1960s onwards)."
+  },
+  {
+   "page": 44,
+   "title": "Old versus new social movements; developing societies",
+   "summary": "Old movements dealt with basic issues of life, had a working-class base, used direct and coercive action and were materialist, whereas new movements concern quality of life, have a middle-class base, use innovative methods and are post-materialist. In developing countries old and new coexist, as in India's environmental movement with tribal base and middle-class leadership."
+  },
+  {
+   "page": 45,
+   "title": "Answer on anomic and associational groups",
+   "summary": "Gives two practice questions and begins an answer on anomic versus associational interest groups, using Almond's classification. It links anomic groups to poorly institutionalised democracy and Huntington's political decay, and offers Blondel's model as an alternative."
+  },
+  {
+   "page": 46,
+   "title": "Pressure groups in India: successes and failures",
+   "summary": "Completes the answer with modernisation theory and turns to India, where community-based groups, institutional groups, rich farmers and corporate classes have secured benefits. Trade unions, student unions, women's organisations and organisations of poor peasants (some banned under unlawful activities law) have poor records."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does Otto Kirchheimer's catch-all party differ from Burke's traditional definition of a political party?",
+   "back": "Burke defines a party as a group with shared ideology coming together to pursue common interest. For Kirchheimer's catch-all parties ideology does not matter and their only aim is to come to power.",
+   "category": "Definitions of party",
+   "scanPage": 36
+  },
+  {
+   "front": "State Duverger's Law, and how does India stand in relation to it?",
+   "back": "A simple majoritarian electoral system produces a two-party system, while proportional representation produces a multi-party system. India is an exception to Duverger's Law.",
+   "category": "Duverger's Law",
+   "scanPage": 37
+  },
+  {
+   "front": "What are Duverger's four party structures, and which parties does each suit?",
+   "back": "Branch (local units of liberal parties), cell (local units of communist parties), caucus (small elite group, mainly rightist parties) and militia (armed wing, as in Mussolini's and Hitler's parties).",
+   "category": "Duverger's party structures",
+   "scanPage": 38
+  },
+  {
+   "front": "How do Weiner and La Palombara classify party systems, with examples?",
+   "back": "By electoral system: competitive or non-competitive. Competitive systems are turnover (ideological Britain, pragmatic USA) or hegemonic (ANC, and India under INC up to the fourth general election); non-competitive systems have hegemonic parties, as in China.",
+   "category": "Weiner-La Palombara classification",
+   "scanPage": 39
+  },
+  {
+   "front": "What are Almond's four types of pressure groups, with examples from the notes?",
+   "back": "Institutional (civil servants, army professionals), associational (FICCI, ABVP), non-associational (Kshatriya Mahasabha) and anomic (Jallikattu protest). Institutional groups are most powerful in developing countries and anomic groups more prominent in non-western countries.",
+   "category": "Almond's pressure groups",
+   "scanPage": 41
+  },
+  {
+   "front": "How does Jean Blondel's classification of pressure groups improve on Almond's model?",
+   "back": "Almond's model is static, while Blondel's is dynamic and shows how pressure group politics changes as societies move from traditional to modern. Traditional groups are community based and protectionist; modern ones are associational and developmental.",
+   "category": "Blondel's classification",
+   "scanPage": 42
+  },
+  {
+   "front": "Distinguish old social movements from new social movements in the West.",
+   "back": "Old movements (19th century) dealt with basic issues of life, had a working-class base, used direct coercive action like strikes and were materialist. New movements (1960s onwards) concern quality of life, have a middle-class base, use innovative means like theatre and literature, and are post-materialist.",
+   "category": "Old and new movements",
+   "scanPage": 44
+  },
+  {
+   "front": "Which pressure groups in India have a poor record of protecting members' interests, and why?",
+   "back": "Trade unions and student unions are subordinate partners of parties and divided on ideological lines, women's organisations lack solidarity and are divided by religion and caste, and organisations of poor peasants are often not tolerated or are banned.",
+   "category": "Pressure groups in India",
+   "scanPage": 46
+  }
+ ],
+ "answers": [
+  {
+   "question": "Evaluate the nature and distinction of anomic and associational interest groups in the pressure politics of developing countries.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Anomic and associational pressure groups",
+   "scanPage": 45,
+   "intro": "Pressure groups, called invisible empires by Finer, perform the role of interest articulation. Their comparison is a prominent area of investigation in modern comparative politics, and Gabriel Almond's classification gives the key distinction between associational and anomic groups.",
+   "body": [
+    "Almond classifies pressure groups as institutional, associational, non-associational and anomic. Associational groups, such as trade unions and student bodies, are interest based and have greater presence in developed countries.",
+    "Anomic groups are crowd behaviour, such as the Jallikattu protest, and are more prominent in developing countries because democracy there is not well institutionalised. Institutional groups, such as civil servants and the army, are also most powerful in developing countries, where states are overdeveloped.",
+    "Samuel P. Huntington argues that developing countries suffer from political decay: as participation of people increases, the coherence and adaptability of political institutions must also increase. Where they do not, more anomic responses appear.",
+    "Jean Blondel offers an alternative, dynamic model, which says the nature of pressure group politics changes with society. As society develops politically and democracy becomes institutionalised, associational groups will increase.",
+    "Political modernisation theory adds that once urbanisation, industrialisation, secularisation and rationalisation occur, nation building also takes place and the role of ethnic politics decreases."
+   ],
+   "scholars": [
+    "Finer",
+    "Gabriel Almond",
+    "Samuel P. Huntington",
+    "Jean Blondel"
+   ],
+   "conclusion": "Anomic and associational groups reflect different stages of institutional development, not fixed types. As democracy deepens and modernisation proceeds, associational pressure should gain ground, while anomic protest signals gaps in representation that institutions must address."
+  },
+  {
+   "question": "The Indian party system is passing through a phase of transition, full of contradictions and paradoxes. Discuss.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Indian party system",
+   "scanPage": 40,
+   "intro": "India has seen several types of party system, and political parties reflect paradoxical features: modern in structure but traditional in internal functioning. Scholars therefore describe the Indian party system as in transition and full of contradictions.",
+   "body": [
+    "Transition: India moved from a one-party dominant system, through a two-party phase (1977-79), to a multi-party system from 1989. Sartori counts parties of systemic relevance, so India was called one-party dominant despite multiple parties. Scholars now debate a re-emergence of one-party dominance, with a BJP system replacing the Congress system, but one Lok Sabha election is too early to decide the trend.",
+    "Contradictions: in the non-western world parties lack intra-party democracy, transparency and accountability, and are built around personalities and dynasties. This echoes Robert Michels' 'iron law of oligarchy': whatever the ideology, power in a party ends up concentrated in the hands of elites.",
+    "Parties show a growth of catch-all character, in Kirchheimer's sense of seeking only power.",
+    "India has seen coalition governments without a healthy coalition culture. Despite democracy, parties form on caste, religion and other ascriptive criteria, though voters appear to be moving from identity to identity plus politics, unlike the West, which shows less identity politics and more class politics."
+   ],
+   "scholars": [
+    "Sartori",
+    "Duverger",
+    "Otto Kirchheimer",
+    "Robert Michels",
+    "Myron Weiner",
+    "Joseph La Palombara"
+   ],
+   "conclusion": "The Indian party system is neither settled nor static: competition has widened, yet internal democracy, coalition culture and issue-based politics lag behind. Its future will depend on whether the shift from identity to identity plus politics deepens."
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "pages": [
+  {
+   "page": 117,
+   "title": "Introduction to J.S. Mill and Major Works",
+   "summary": "J.S. Mill is introduced as a transitional thinker linking classical and modern liberalism who sought to revise Bentham's utilitarianism after criticism from humanitarians. Influenced by both utilitarians and idealists, his ideas contain inconsistencies, and his major works include On Liberty and On Utilitarianism."
+  },
+  {
+   "page": 118,
+   "title": "Mill on Utilitarianism and Its Revision",
+   "summary": "Utilitarianism became a systematic school of thought under Bentham, but it was later criticized as a pig's philosophy. To defend it, Mill incorporated idealism from Socrates and Plato into utilitarian materialism, leading critics to argue that he destroyed the philosophy."
+  },
+  {
+   "page": 119,
+   "title": "Introduction to Utilitarianism and Bentham's Ethics",
+   "summary": "Utilitarianism is the philosophy of the common man, deriving its name from utility, defined as the capacity to provide pleasure or satisfaction. Bentham and Hume argue that pleasure and pain are mankind's sovereign guides and the only practical basis for ethics."
+  },
+  {
+   "page": 120,
+   "title": "Bentham's Characteristics of Pleasure and the State",
+   "summary": "Bentham defines pleasure as purely quantitative, individualistic, and materialistic, asserting that pushpin is as good as poetry and persons do not differ in quality. He advocates minimal state economic interference and felicific calculus to achieve the greatest happiness of the greatest number, viewing society as an aggregate of individuals."
+  },
+  {
+   "page": 121,
+   "title": "Criticism of Utilitarianism and Mill's Revision",
+   "summary": "In response to criticisms labeling utilitarianism as a pig's philosophy, Mill introduces idealism by asserting that pleasures and individuals differ in quality rather than just quantity. By distinguishing men of reason from men of appetite, Mill renders Bentham's felicific calculus useless because quality cannot be measured."
+  },
+  {
+   "page": 122,
+   "title": "Mill's Redefinition of Utility and Happiness",
+   "summary": "Mill redefines utility in its widest sense grounded in the permanent interests of man as a progressive being, distinguishing non-material happiness of the soul from materialistic pleasure of appetite. He views man as progressively rational and capable of understanding others' pleasures and pains through sacrifice."
+  },
+  {
+   "page": 123,
+   "title": "Mill on Liberty as Superior to Utility",
+   "summary": "Mill re-established the centrality of liberty as superior to utility, providing a systematic liberal conception of liberty in his book On Liberty. He argues that liberty is a condition of progress and a social good essential for the full development of human personality."
+  },
+  {
+   "page": 124,
+   "title": "Mill's Harm Principle and Barker's Criticism",
+   "summary": "Mill proposes the harm principle, asserting that individuals are sovereign over body and mind and that only harm to others warrants intervention in liberty. Barker criticizes Mill as a prophet of empty liberty, arguing that dividing actions into self-regarding and other-regarding is artificial and invites excessive state intervention."
+  },
+  {
+   "page": 125,
+   "title": "Inconsistencies in Mill's Conception of Liberty",
+   "summary": "Barker contends that Mill addresses an abstract individual rather than a real social man, reflecting Mill's position in a transitional era where positive liberty had not yet crystallized. Mill allows state intervention in self-regarding actions only to prevent harm caused by ignorance, such as warning someone crossing a falling bridge, though he remains fundamentally a liberal."
+  },
+  {
+   "page": 126,
+   "title": "Mill on Freedom of Speech and Expression",
+   "summary": "Mill identifies freedom of speech and expression as the most important right, viewing linguistic communication as God's unique gift to humanity. Influenced by Socrates, he maintains that the majority must never silence a minority and that all voices, even those deemed mad, must be heard so truth can emerge through dialogue."
+  },
+  {
+   "page": 127,
+   "title": "Mill on Freedom of Speech and Representative Government",
+   "summary": "Mill champions freedom of speech and expression as essential for democracy and personal correction, arguing that silencing opinion assumes infallibility. He views democracy as the best form of government for human liberty and development, considering direct democracy best and representative government second best."
+  },
+  {
+   "page": 128,
+   "title": "Mill: Reluctant Democrat and Benevolent Despotism",
+   "summary": "Although Mill advocates representative government in modern society, he is termed a reluctant democrat who preferred benevolent despotism for colonies like India until people develop democratic culture. He believed democracy requires prerequisites and commitment, fearing its reputation would suffer if handled by unfit populations."
+  },
+  {
+   "page": 129,
+   "title": "Mill's Proposed Reforms for Protecting Democracy",
+   "summary": "Fearing that democracy could turn into mobocracy or the tyranny of the majority, Mill proposed reforms including weighted voting, plural voting, proportional representation, stronger upper houses, open ballots, and women's voting rights. Most of these reforms were aristocratic and elitist in nature, contrasting with Indian leaders like Gandhi and Nehru who believed people become fit through democracy."
+  },
+  {
+   "page": 130,
+   "title": "Mill on the Subjection of Women",
+   "summary": "Mill condemned the subjection and slavery of women, advocating for their participation in the public sphere as beneficial to both women and society. He argued that confining women within family walls creates complexes, while their public presence encourages men to behave decently."
+  },
+  {
+   "page": 131,
+   "title": "Mill on Liberty, Property, and Utilitarian Justice",
+   "summary": "Drawing from his work on utilitarianism, Mill argues that depriving an individual of personal liberty or lawful property is unjust, with harm to others being the only justification for state intervention. While resembling views of Locke, Bentham, and Hobbes, this stance is criticized by socialists and positive liberals who favor limiting property and liberty for societal interests."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Thomas Carlyle criticize Benthamite utilitarianism as a 'pig's philosophy'?",
+   "back": "Carlyle and humanitarians criticized Bentham's utilitarianism as a pig's philosophy because it reduced human ethics to extreme materialism and treated pleasure as purely quantitative. Bentham recognized no qualitative difference between pushpin and poetry, equating human happiness with animal appetites.",
+   "category": "Critique of Utilitarianism",
+   "scanPage": 117
+  },
+  {
+   "front": "How did J.S. Mill revise Jeremy Bentham's purely quantitative conception of pleasure?",
+   "back": "Bentham maintained that pleasure differs only in quantity and that pushpin is as good as poetry. Mill modified this by arguing that pleasures differ in both quantity and quality, famously asserting that it is better to be Socrates dissatisfied than a fool or pig satisfied.",
+   "category": "Qualitative Utility Revision",
+   "scanPage": 121
+  },
+  {
+   "front": "How does J.S. Mill redefine utility and distinguish pleasure from happiness?",
+   "back": "Mill grounds utility in the permanent interest of man as a progressing being. He distinguishes materialistic pleasure, which satisfies appetite through direct experience, from non-materialistic happiness, which satisfies the soul and is achieved through sacrifice.",
+   "category": "Pleasure Versus Happiness",
+   "scanPage": 122
+  },
+  {
+   "front": "What is J.S. Mill's Harm Principle regarding the limits of state intervention?",
+   "back": "Mill asserts that the individual is sovereign over his own body and mind, and all restraint qua restraint is evil. The sole justification for mankind or the state to intervene in an individual's liberty is to prevent harm to others, meaning self-harm cannot justify intervention.",
+   "category": "The Harm Principle",
+   "scanPage": 124
+  },
+  {
+   "front": "Why did Ernest Barker label J.S. Mill a 'prophet of empty liberty'?",
+   "back": "Barker, a positive liberal, argued that Mill made an unscientific separation between self-regarding and other-regarding actions while speaking of an abstract individual rather than a real social person. Consequently, Mill left very little scope for true liberty while creating a huge scope for state intervention.",
+   "category": "Prophet of Empty Liberty",
+   "scanPage": 124
+  },
+  {
+   "front": "Under what specific exception does J.S. Mill permit the state to intervene in self-regarding actions?",
+   "back": "Mill permits state intervention in self-regarding actions only when an individual acts out of ignorance, such as warning or stopping someone trying to cross an unsafe bridge about to collapse. However, if the person is already aware of the danger, self-harm provides no basis for state intervention.",
+   "category": "State Intervention Limits",
+   "scanPage": 125
+  },
+  {
+   "front": "Why did J.S. Mill argue that even an opinion considered mad must not be silenced?",
+   "back": "Influenced by Socrates, Mill maintained that open dialogue is the only way to uncover truth, which emerges organically from debate. He argued that silencing any opinion is an assumption of infallibility and deprives society of the opportunity to correct errors or discover new truths.",
+   "category": "Freedom of Speech",
+   "scanPage": 126
+  },
+  {
+   "front": "Why did J.S. Mill endorse benevolent despotism over democracy for colonial societies?",
+   "back": "Mill asserted that benevolent despotism is best for barbarians, arguing that colonies like India lacked the necessary democratic culture and commitment. He held that democracy is not a free gift, and introducing it among unprepared populations would discredit democracy as the best form of government.",
+   "category": "Colonial Benevolent Despotism",
+   "scanPage": 128
+  },
+  {
+   "front": "What aristocratic electoral reforms did J.S. Mill propose to prevent mobocracy?",
+   "back": "To prevent democracy from degenerating into the tyranny of the majority, Mill advocated weighted voting giving extra votes to educated and property-owning citizens, plural voting, and proportional representation. He also urged strengthening the House of Lords and using open ballots, while endorsing women's suffrage.",
+   "category": "Reforms in Democracy",
+   "scanPage": 129
+  },
+  {
+   "front": "What was J.S. Mill's central argument regarding the subjection of women?",
+   "back": "Mill argued that while all other forms of slavery had been abolished, the slavery of women persisted under the flawed justification of universality. He advocated women's entry into the public sphere to overcome negative complexes caused by domestic confinement and to encourage decent behavior among men.",
+   "category": "Subjection of Women",
+   "scanPage": 130
+  }
+ ],
+ "answers": [
+  {
+   "question": "'Mill was a Peter who denied his master.' In his effort to defend Bentham, did J.S. Mill revise utilitarianism to the extent of destroying its very foundations?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "J.S. Mill's Modification and Critique of Utilitarianism",
+   "scanPage": 118,
+   "intro": "J.S. Mill, identifying as a disciple of Jeremy Bentham, sought to defend utilitarianism against Carlyle's critique of it as a 'pig's philosophy'. However, by infusing Greek idealism, Mill ended up transforming Benthamite materialism into an entirely different doctrine.",
+   "body": [
+    "While Jeremy Bentham treated pleasure as purely quantitative, asserting that pushpin is as good as poetry, Mill introduced qualitative distinctions, famously claiming that it is better to be Socrates dissatisfied than a fool or pig satisfied.",
+    "Whereas Bentham treated society as an aggregate of equal individuals without qualitative distinction, Mill divided persons into men of reason versus men of appetite, which fundamentally destroyed the validity of Bentham's felicific calculus since quality cannot be mathematically measured.",
+    "In his treatise 'On Utilitarianism', Mill redefined utility in its widest sense grounded in the permanent interests of man as a progressing being, differentiating base materialistic pleasure of appetite from higher non-materialistic happiness of the soul attained through sacrifice.",
+    "In defending Bentham against Carlyle's condemnation of utilitarianism as a 'pig's philosophy', Mill imported Greek idealism from Plato and Socrates, abandoning the strict materialism of David Hume, Hobbes, and Priestley, thereby acting as a Peter who denied his master."
+   ],
+   "scholars": [
+    "Jeremy Bentham",
+    "Thomas Carlyle",
+    "Socrates",
+    "Plato",
+    "David Hume",
+    "Thomas Hobbes",
+    "Priestley",
+    "On Utilitarianism"
+   ],
+   "conclusion": "Ultimately, although Mill's synthesis introduced philosophical inconsistencies and diluted orthodox Benthamism, it humanized utilitarianism. Mill bridged classical negative liberty and modern positive welfare liberalism, establishing the moral primacy of individual development and liberty over pure utility."
+  },
+  {
+   "question": "Why is J.S. Mill described as a 'reluctant democrat'? Critically examine his proposals for representative government.",
+   "marks": "10 Marks (150 Words)",
+   "topic": "J.S. Mill on Representative Government and Democracy",
+   "scanPage": 128,
+   "intro": "In 'On Representative Govt.', J.S. Mill championed representative democracy as the best practical government for safeguarding human liberty. However, his deep apprehensions regarding uneducated majorities and colonial societies earned him the label of a 'reluctant democrat'.",
+   "body": [
+    "While J.S. Mill defended representative government as unavoidable in modern complex societies to safeguard liberty, he strictly denied democracy to colonies like India, prescribing benevolent despotism and agreeing with Aristotle and Machiavelli that republican institutions demand virtuous, prepared populations.",
+    "Even within western nations such as the United States, Mill exhibited deep skepticism toward universal equal franchise, fearing that majoritarian democracy would degenerate into mobocracy, where an uneducated numerical majority suppresses enlightened individual opinion and intellectual dissent.",
+    "In 'On Representative Govt.', Mill proposed aristocratic electoral modifications to insulate governance from ignorance: weighted voting favoring educated property owners, plural voting across multiple constituencies, proportional representation, open balloting, and enhanced authority for the House of Lords.",
+    "In contrast to Mill's cautious belief that society must first be made fit for democracy through elitist tutelage, Indian leaders like Gandhi and Nehru acted as passionate democrats, demonstrating that people become fit through democracy brought to their doorsteps."
+   ],
+   "scholars": [
+    "J.S. Mill",
+    "Aristotle",
+    "Machiavelli",
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "On Representative Govt.",
+    "Plato"
+   ],
+   "conclusion": "Mill's reluctance stemmed not from animosity toward democracy, but from an anxious desire to protect qualitative liberty from majoritarian tyranny. His thought remains relevant for balancing popular participation with informed deliberation and minority rights in modern constitutional democracies."
+  }
+ ]
+}

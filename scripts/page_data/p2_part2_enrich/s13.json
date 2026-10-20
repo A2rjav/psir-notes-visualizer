@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "page": 104,
+      "title": "Marxist theory as international political economy",
+      "summary": "Marxism treats politics as superstructure, so Marxist IR is better called international political economy and studies capitalism in the international context. Marx saw capitalism as inherently expansionist, Lenin made imperialism the highest stage of capitalism and called the First World War a capitalist war for colonies, and Rosa Luxemburg linked capitalism, militarism, nationalism and imperialism."
+    },
+    {
+      "page": 105,
+      "title": "Three Marxist traditions and Wallerstein's world system",
+      "summary": "The notes list three Marxist traditions: Instrumentalist, Gramscian and Critical School. The Instrumentalist or Dependency school studies neo-colonialism and underdevelopment, and Wallerstein's world system theory studies the world system rather than individual foreign policies, with a spatial dimension of core, periphery and semi-periphery."
+    },
+    {
+      "page": 106,
+      "title": "Core, periphery, semi-periphery and temporal dimension",
+      "summary": "Core states hold industrial, military, political, economic and technological power, peripheries are poor countries supplying raw materials, and semi-peripheries such as India, China and Brazil act as shock absorbers for western capitalism. In the temporal dimension every system rises and decays, so capitalist globalisation is heading towards its end, leaving socialism or barbarianism."
+    },
+    {
+      "page": 107,
+      "title": "Geo-culture dimension and criticism of Wallerstein",
+      "summary": "Liberalism and science form the geo-culture that supports the capitalist world system, so poverty in Africa or wars in the Balkans cannot be explained without global capitalism. The approach is criticised for economic reduction and as Eurocentric, and Chase-Dunn added social and geopolitical factors to make it more relevant."
+    },
+    {
+      "page": 108,
+      "title": "Gramscian theory and Robert Cox",
+      "summary": "Orthodox Marxism neglected ideological factors, so Robert Cox applied the Gramscian tradition in his 1981 article to show how ideology operates behind material power. He argued that theory is always for someone, that Realism and liberalism are not objective, and that US hegemony rests on promoting free trade as if it served everyone."
+    },
+    {
+      "page": 109,
+      "title": "Critical school: Linklater's emancipatory vision",
+      "summary": "Andrew Linklater, influenced by Habermas, proposes radical or grassroot democracy and blames wars on territorial nation states. His solution is to make territorial boundaries irrelevant, create new moral boundaries and empower masses at the grassroots; the page ends by introducing Scientific Approaches."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What did Marx, Lenin and Rosa Luxemburg each contribute to the Marxist view of international politics?",
+      "back": "Marx saw capitalism as inherently expansionist and spoke of proletarian internationalism. Lenin made imperialism the highest stage of capitalism and called the First World War a capitalist war for colonies, while Rosa Luxemburg showed the interdependence of capitalism, militarism, nationalism and imperialism.",
+      "category": "Marx, Lenin, Luxemburg",
+      "scanPage": 104
+    },
+    {
+      "front": "How does Wallerstein's world system theory classify states, and why are semi-peripheries called shock absorbers?",
+      "back": "States fall into core, periphery and semi-periphery groups; India, China and Brazil are semi-peripheries. They are shock absorbers for western capitalism because they hurt western working and middle classes and poor countries, and give space for outdated technology.",
+      "category": "World system theory",
+      "scanPage": 106
+    },
+    {
+      "front": "What is Robert Cox's Gramscian argument about theory and US hegemony?",
+      "back": "Cox held that theory is always for someone and has some purpose, so Realism and liberalism are not objective. He showed ideological power operating behind material power, as the USA promotes free trade as if it is in everyone's interest.",
+      "category": "Gramscian theory",
+      "scanPage": 108
+    },
+    {
+      "front": "What is Andrew Linklater's critical school solution to the problem of war?",
+      "back": "Linklater blames wars on the concept of territorial nation states, so he wants territorial boundaries made irrelevant and new moral boundaries created. He believes peace needs empowerment of masses at the grassroot level, and he draws on Habermas.",
+      "category": "Critical school",
+      "scanPage": 109
+    }
+  ],
+  "answers": [
+    {
+      "question": "Critically examine the Marxist approaches to international relations, with reference to Lenin, Wallerstein and the Gramscian and critical traditions.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Marxist approaches to IR",
+      "scanPage": 105,
+      "intro": "Marxist international relations treats politics as superstructure and studies capitalism in its international context, so the notes call it international political economy. It has three traditions: Instrumentalist or Dependency, Gramscian, and the Critical School.",
+      "body": [
+        "Marx saw capitalism as inherently expansionist; Lenin made imperialism its highest stage and read the First World War as a capitalist war for colonies, while Rosa Luxemburg linked capitalism, militarism, nationalism and imperialism.",
+        "Wallerstein's world system theory divides states into core, periphery and semi-periphery, with India, China and Brazil acting as shock absorbers for western capitalism. He adds a temporal view of decaying capitalist globalisation and a geo-culture of liberalism and science that supports it.",
+        "The Gramscian tradition restores ideology: Robert Cox argued that theory is always for someone and showed US hegemony resting on ideological power, such as promoting free trade as everyone's interest.",
+        "Andrew Linklater, drawing on Habermas, blames territorial nation states for war, proposes new moral boundaries, and holds that only grassroot empowerment of masses can bring peace.",
+        "Critics charge economic reduction and Eurocentrism, though Chase-Dunn has added social and geopolitical factors to make the approach more relevant."
+      ],
+      "scholars": [
+        "Karl Marx",
+        "Lenin",
+        "Rosa Luxemburg",
+        "Immanuel Wallerstein",
+        "Robert Cox",
+        "Andrew Linklater",
+        "Habermas",
+        "Chase-Dunn"
+      ],
+      "conclusion": "Marxist approaches expose the economic and ideological roots of global inequality that mainstream theories overlook, though economic reduction and Eurocentrism limit them. Later additions by Chase-Dunn and the critical school suggest the tradition remains relevant for explaining international politics."
+    }
+  ]
+}

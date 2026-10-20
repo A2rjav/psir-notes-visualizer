@@ -1,0 +1,186 @@
+{
+ "pages": [
+  {
+   "page": 97,
+   "title": "Introduction to John Locke and Possessive Individualism",
+   "summary": "John Locke, an English thinker influenced by the 1688 Glorious Revolution, is the father of liberalism who advocated for a limited state and viewed government as a trust. As a scholar of the bourgeois class, he justified natural rights, absolute property rights, and possessive individualism, where individuals owe no obligation to pay back society."
+  },
+  {
+   "page": 98,
+   "title": "Locke's First Treatise and Critique of Filmer",
+   "summary": "Locke introduced ideas including the separation of powers, due process of law, and toleration, and authored The Two Treatises on Civil Government. In the first treatise, he criticized Filmer's Patriarcha, which argued for absolute hereditary monarchy derived from Adam and rejected social contract theory."
+  },
+  {
+   "page": 99,
+   "title": "Locke's Critique of Filmer's Absolute Authority",
+   "summary": "Filmer argued against social contracts binding non-participants and future generations, preferring hereditary authority. Locke refuted Filmer by arguing there is no proof of inherited divine authority from Adam, and that a king's political authority over citizens differs fundamentally from a father's authority over children."
+  },
+  {
+   "page": 100,
+   "title": "Locke's View on Human Nature and Reason",
+   "summary": "Influenced by the Glorious Revolution, Locke presents a balanced view of human nature where reason and passion coexist in enlightened self-interest. Because God created all men equal and endowed them with reason, individuals understand they should not harm another's life, health, liberty, or possessions."
+  },
+  {
+   "page": 101,
+   "title": "Locke's State of Nature and Natural Rights",
+   "summary": "Locke describes the state of nature as a pre-political yet social condition of peace, goodwill, and mutual assistance shaped by human reason. Governed by natural law, individuals in this state are guided by reason not to harm others, enabling them to enjoy natural rights."
+  },
+  {
+   "page": 102,
+   "title": "Inconveniences of Nature and Locke's Two Contracts",
+   "summary": "The state of nature contained inconveniences because passion could disrupt goodwill and each individual had to act as lawmaker, executive, and judge. To resolve these defects, Locke proposes two contracts: the first establishes civil society, and the second creates government."
+  },
+  {
+   "page": 103,
+   "title": "Civil Society and the Formation of Government",
+   "summary": "Through the first contract, individuals establish civil society as a formal sphere distinct from the family and state, formally recognizing each other's rights. Through the second contract, they establish government with legislative, executive, and judicial branches to make, execute, and adjudicate laws."
+  },
+  {
+   "page": 104,
+   "title": "Limited Government Powers and Right to Revolution",
+   "summary": "Locke advocates for the separation of powers and a government possessing only delegated powers to make, execute, and adjudicate laws. Because government is a trust and individuals retain rights to life, liberty, and property, citizens hold the right to revolt and change rulers through elections if rights are violated."
+  },
+  {
+   "page": 105,
+   "title": "Lockean Consent and Doctrines of Judicial Review",
+   "summary": "Locke distinguishes between explicit consent given by the majority and tacit consent assumed of the minority to legitimize government within strictly delegated powers. The notes contrast the British doctrine of procedure established by law with the American, Lockean doctrine of due process of law that allows judicial review over legislative acts."
+  },
+  {
+   "page": 106,
+   "title": "Due Process of Law and Menka Gandhi Case",
+   "summary": "Locke's concept of due process requires state laws to conform to reason and remain fair, just, and reasonable without depriving individuals of life, liberty, or property. This doctrine ensures stronger protection for liberty, as demonstrated by the Supreme Court of India's adoption of due process in the 1978 Menka Gandhi case."
+  },
+  {
+   "page": 107,
+   "title": "Locke's Theory of Natural Rights and Property",
+   "summary": "Locke asserts that man enjoyed natural rights to life, liberty, and property in the state of nature as essential elements of human personality. He justifies an absolute right to property, explaining that industrious individuals became wealthy while lazy and contentious people remained poor."
+  },
+  {
+   "page": 108,
+   "title": "Locke's Property Limitations and Night-Watchman State",
+   "summary": "Locke outlines three limitations on property—labour, spoilage, and non-deprivation of others—while defining the commonwealth as a night-watchman state solely created to preserve property. Because he defended absolute property rights, Locke is regarded as a scholar of possessive individualism, later revived by Robert Nozick."
+  },
+  {
+   "page": 109,
+   "title": "Locke on Religious Toleration and Revolution",
+   "summary": "Locke argues for religious toleration and keeping religion outside state control, though he excludes atheists because they cannot be trusted to uphold social bonds. He also outlines a theory of peaceful revolution that applies when a government violates trust, interferes with the legislature, or subjects people to foreign rule."
+  },
+  {
+   "page": 110,
+   "title": "Assessment of Locke as Father of Liberalism",
+   "summary": "The notes examine Locke as the father of liberalism, representing the emerging bourgeois class's demands for equality, rationality, and absolute property rights. Locke's doctrines of limited government, religious toleration, and separation of powers inspired liberal thinkers and influenced the US Constitution."
+  },
+  {
+   "page": 111,
+   "title": "Macpherson's Critique of Locke's Democratic Theory",
+   "summary": "Macpherson analyzes Locke's concepts of limited government and majority consent, arguing that Lockean doctrine cannot form an unqualified democratic theory. Because Locke's justification of absolute property serves the bourgeois class, Macpherson labels him a scholar of possessive individualism whose democracy is designed for the rich."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What does the concept of 'possessive individualism' signify in John Locke's political philosophy?",
+   "back": "Possessive individualism means that whatever man possesses is due to his own efforts, creating no obligation on him to pay back to society. Because Locke justifies an absolute right to property, he is designated as a scholar of possessive individualism.",
+   "category": "Possessive Individualism",
+   "scanPage": 97
+  },
+  {
+   "front": "On what biblical grounds did Sir Robert Filmer justify the absolute authority of the monarch in 'Patriarcha'?",
+   "back": "Filmer argued that the state is a big family of God, where God created Adam and granted him absolute power as the first king. Political authority is hereditary, transferring from God to Adam and subsequently to his sons and their royal successors.",
+   "category": "Critique of Patriarcha",
+   "scanPage": 98
+  },
+  {
+   "front": "How does John Locke's characterization of human nature differ from that of Thomas Hobbes?",
+   "back": "Unlike Hobbes's pessimistic view where man is dominated by passion and appetite, Locke takes a balanced and enlightened view influenced by the Glorious Revolution. Locke asserts that God endowed man with reason, which guides him not to harm others in their life, health, liberty, or possessions.",
+   "category": "Human Nature",
+   "scanPage": 100
+  },
+  {
+   "front": "How does John Locke describe the state of nature, and what enabled individuals to enjoy rights within it?",
+   "back": "Locke defines the state of nature as a state of peace, goodwill, and mutual assistance where individuals are already living in society. Individuals were able to enjoy natural rights because natural law, which is reason, taught men not to harm one another.",
+   "category": "State of Nature",
+   "scanPage": 101
+  },
+  {
+   "front": "What are the two distinct contracts in John Locke's social contract theory, and what does each create?",
+   "back": "In Locke's theory, the first contract is entered into by all people with all to create civil or political society, formally recognizing each other's rights. The second contract creates the government as a common authority with legislative, executive, and judicial branches.",
+   "category": "Social Contract",
+   "scanPage": 102
+  },
+  {
+   "front": "Which natural rights are surrendered to the government under Locke's contract, and what is the nature of governmental power?",
+   "back": "People surrender only three natural rights: the right to make law, execute law, and adjudicate law. The government holds no original power but only delegated power as a trust, while original power remains with the people as trustees.",
+   "category": "Limited Government",
+   "scanPage": 104
+  },
+  {
+   "front": "How did the Supreme Court of India incorporate John Locke's doctrine of due process of law in the Menka Gandhi case (1978)?",
+   "back": "In the Menka Gandhi case (1978), the Supreme Court of India accepted the doctrine of due process of law, requiring state laws depriving life and liberty to conform to reason. This established that state enactments must be fair, just, and reasonable, strengthening the rule of law.",
+   "category": "Due Process of Law",
+   "scanPage": 106
+  },
+  {
+   "front": "What are the three specific limitations imposed by John Locke on the natural right to property?",
+   "back": "Locke outlines three limitations: the labour limitation (property must be earned through labour, including that of a horse or slave, without force or fraud), the spoilage limitation (property must be enjoyed, not spoiled), and the condition that no one should deprive others from earning property.",
+   "category": "Right to Property",
+   "scanPage": 108
+  },
+  {
+   "front": "Why does John Locke advocate religious toleration for diverse faiths while denying it to atheists in 'A Letter Concerning Toleration'?",
+   "back": "Locke argues that the state must allow freedom of religion because God did not appoint magistrates over the soul, and force cannot compel internal belief. However, toleration is denied to atheists because promises, covenants, and oaths—the bonds of human society—can have no hold upon an atheist.",
+   "category": "Theory of Toleration",
+   "scanPage": 109
+  },
+  {
+   "front": "Why does C. B. Macpherson argue that John Locke's doctrine cannot be turned into an unqualified democratic theory?",
+   "back": "Macpherson argues that Locke's justification of absolute property rights and possessive individualism primarily serves the interests of the bourgeois capitalist class. Consequently, Locke's theory of democracy is not unqualified, functioning essentially as a democracy for the rich class.",
+   "category": "Critique of Democracy",
+   "scanPage": 111
+  }
+ ],
+ "answers": [
+  {
+   "question": "Locke's justification of absolute property rights reduces government to a night-watchman state serving bourgeois interests. Examine in light of C.B. Macpherson's critique.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Natural Rights and Possessive Individualism",
+   "scanPage": 108,
+   "intro": "John Locke, recognized as the father of Liberalism in 'Two Treatises on Civil Government', establishes the preservation of natural property as the primary purpose of the commonwealth, establishing a limited night-watchman state grounded in enlightened human reason.",
+   "body": [
+    "Grounded in utilitarianism, Locke posits that God created resources like apple, milk, and meat for the pursuit of happiness. While initially held in common, property legitimately belonged to the industrious and hardworking rather than the lazy and contentious.",
+    "Locke establishes that property is part of man's personality earned through labour, including the labour of his horse and slave. He imposes only three specific constraints: the labour limitation prohibiting force or fraud, the spoilage limitation, and leaving sufficient goods for others.",
+    "Applying Karl Mannheim's concept of 'sociology of knowledge', Locke's night-watchman state reflects emerging bourgeois interests. Unlike Thomas Hobbes who saw the state as an absolute necessity, Locke views the state merely as a matter of convenience dedicated solely to preserving life, liberty, and estate.",
+    "Robert Nozick revived this Lockean minimal state in his entitlement theory of justice, arguing it is inspiring and right. Conversely, liberal egalitarian C.B. Macpherson critiques Locke for possessive individualism, contending that his democracy serves the propertied rich and cannot be an unqualified democratic theory."
+   ],
+   "scholars": [
+    "John Locke",
+    "Two Treatises on Civil Govt.",
+    "Karl Mannheim",
+    "Thomas Hobbes",
+    "Robert Nozick",
+    "C.B. Macpherson"
+   ],
+   "conclusion": "Though Macpherson critiques Locke for serving bourgeois interests, Locke's theory of limited government and natural rights remains foundational, directly inspiring the US Constitution and liberal thinkers like Montesquieu, Milton Friedman, and Robert Nozick."
+  },
+  {
+   "question": "Analyze John Locke's theory of limited government and consent, and discuss how his concept of natural law shaped the doctrine of due process of law.",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Limited Government and Due Process of Law",
+   "scanPage": 106,
+   "intro": "In 'The Two Treatises on Civil Govt.', John Locke formulates the theory of limited government, arguing that political authority is a fiduciary trust created through mutual consent to protect natural rights under the rule of reason.",
+   "body": [
+    "Rejecting Sir Robert Filmer's divine patriarchal absolutism in 'Patriarcha', Locke posits that legitimate government originates through two contracts: the first creates civil society, while the second creates government with separated legislative, executive, and judicial branches.",
+    "Locke specifies that people surrender only three natural rights: to make, execute, and adjudicate law. Government possesses no original power, acting strictly as a trust governed by trustees through explicit majority consent and tacit minority consent.",
+    "Contrasting with Thomas Hobbes's model reflected in Britain's procedure established by law where parliamentary acts evade review, Locke's natural law foundation inspired the United States doctrine of due process of law, empowering the judiciary to invalidate arbitrary executive and legislative enactments.",
+    "In Indian constitutional jurisprudence, moving beyond the narrow stance in A. Gopalan Vs. State of Madras, the Supreme Court embraced Locke's substantive due process in the Menka Gandhi case (1978), establishing that any law curbing liberty must be fair, just, and reasonable."
+   ],
+   "scholars": [
+    "John Locke",
+    "Robert Filmer",
+    "Thomas Hobbes",
+    "Two Treatises on Civil Govt.",
+    "Patriarcha"
+   ],
+   "conclusion": "Locke's fiduciary conception of governance transformed subjects into rights-bearing citizens. By subordinating positive law to natural reason, Locke provided enduring foundations for constitutionalism, institutional separation of powers, and the judicial safeguarding of individual liberty."
+  }
+ ]
+}

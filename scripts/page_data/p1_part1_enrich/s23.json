@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "page": 209,
+   "title": "Centre-State Financial Relations and Resource Distribution",
+   "summary": "Financial relations are characterized as dynamic and conflictual, with a historically predominant Centre driven by post-independence planning needs and regional imbalances. High-yielding taxes were assigned to the Union to be equitably shared with states through the Finance Commission."
+  },
+  {
+   "page": 210,
+   "title": "State Concerns Regarding Taxation, Borrowing, and Devolution",
+   "summary": "States face constraints including low-yielding taxes, strict borrowing limits, vertical and horizontal imbalances, and an absence of representation in the Finance Commission. Although recent Finance Commissions and constitutional amendments increased states' tax shares, cesses and surcharges remain excluded from the divisible pool."
+  },
+  {
+   "page": 211,
+   "title": "Changing Trends in Fiscal Federalism and GST",
+   "summary": "Recent developments reflect growing state tax shares, the replacement of the Planning Commission with NITI Aayog, and the introduction of GST to unify the national market. However, manufacturing states like Tamil Nadu have expressed concerns regarding potential revenue loss and the erosion of state fiscal autonomy under the GST Council."
+  },
+  {
+   "page": 212,
+   "title": "101st Amendment Act Changes to Financial Provisions",
+   "summary": "The 101st Constitutional Amendment Act introduced Article 246A to provide concurrent taxation powers over GST to Parliament and state legislatures. It also modified previous arrangements under Articles 268, 268A, and 269, while adding Article 269A for interstate supplies."
+  },
+  {
+   "page": 213,
+   "title": "GST Council Composition, Functions, and Decision-Making Rules",
+   "summary": "Article 279A establishes the GST Council comprising Union and state finance ministers to recommend tax rates, exemptions, and dispute adjudication mechanisms. Decisions require a three-fourths weighted vote, with one-third weight assigned to the Union and quorum set at half of total members."
+  },
+  {
+   "page": 214,
+   "title": "Constitutional Amendment Changes in the Three Lists",
+   "summary": "The amendment introduces modifications to the three legislative lists of the Constitution. The remaining text on the page is illegible."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What are the constitutional limitations placed on the borrowing powers of state governments in India?",
+   "back": "State governments can borrow only from the domestic market. Additionally, if they have an outstanding loan from the Union government or a loan with a Union counter-guarantee, they cannot seek fresh loans without Union permission.",
+   "category": "State Financial Limitations",
+   "scanPage": 210
+  },
+  {
+   "front": "How did the 80th Constitutional Amendment Act transform the devolution of Union taxes to states?",
+   "back": "Pursuant to the recommendations of the 10th Finance Commission, the 80th Constitutional Amendment Act made all Union taxes sharable with states. However, this revenue-sharing mechanism does not extend to cesses and surcharges.",
+   "category": "Tax Revenue Sharing",
+   "scanPage": 210
+  },
+  {
+   "front": "Why did manufacturing states like Tamil Nadu oppose the destination-based principle of GST?",
+   "back": "GST is a destination-based tax that benefits consuming states at the expense of manufacturing states. Tamil Nadu emphasized that states must retain autonomy over key revenues like sales tax, arguing that federalism requires unity in diversity rather than forced uniformity.",
+   "category": "GST Federal Concerns",
+   "scanPage": 211
+  },
+  {
+   "front": "What significant constitutional change was introduced by Article 246A under the 101st Amendment Act?",
+   "back": "Article 246A introduced concurrent taxation powers, granting both Parliament and state legislatures concurrent authority to make laws regarding GST. Consequently, Parliament's exclusive power to legislate on Union List subjects was made subject to Article 246A.",
+   "category": "Constitutional Amendments",
+   "scanPage": 212
+  }
+ ],
+ "answers": [
+  {
+   "question": "Discuss the changing trends in Centre-State financial relations and the impact of GST on Indian fiscal federalism.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Centre-State Financial Relations and Fiscal Federalism",
+   "scanPage": 211,
+   "intro": "Financial relations represent the most conflictual and dynamic domain of Indian federalism. Historically rooted in centralized planning under cooperative federalism, Centre-State financial dynamics have progressively evolved towards greater state autonomy, structured revenue sharing, and competitive cooperative federalism.",
+   "body": [
+    "The replacement of the Planning Commission by NITI Aayog dismantled a centralized 'super cabinet' that had historically undermined federalism. This facilitated the present PM's model of competitive cooperative federalism grounded in 'sabka sath, sabka vikas'.",
+    "Statutory devolution expanded progressively: following the 10th Finance Commission and the 80th Constitutional Amendment Act which made union taxes sharable, the 14th Finance Commission substantially enhanced states' fiscal room by raising the devolution share to 42% and trimming Centrally Sponsored Schemes.",
+    "Under the 101st Constitutional Amendment Act, GST introduced concurrent taxation powers under Article 246A and established the GST Council under Article 279A, unifying India into a single market to eliminate cascading taxes and boost national GDP by 2%.",
+    "However, manufacturing states like Gujarat, Maharashtra, and the Government of Tamil Nadu expressed strong resistance; Tamil Nadu argued that destination-based taxation and surrendering sales tax autonomy to the GST Council undermines federalism, which is fundamentally founded on unity in diversity."
+   ],
+   "scholars": [
+    "14th Finance Commission",
+    "10th Finance Commission",
+    "Planning Commission",
+    "NITI Aayog",
+    "Government of Tamil Nadu",
+    "GST Council"
+   ],
+   "conclusion": "While GST fosters an integrated national market and administrative efficiency, genuine fiscal federalism requires addressing vertical imbalances. Reconciling revenue predictability, sharing cesses, and preserving state policy priorities will ensure that economic integration harmonizes with India's constitutional federal ethos."
+  }
+ ]
+}

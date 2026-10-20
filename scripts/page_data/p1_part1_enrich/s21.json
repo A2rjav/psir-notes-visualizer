@@ -1,0 +1,95 @@
+{
+ "pages": [
+  {
+   "page": 191,
+   "title": "Constitutional provisions for resolving water disputes",
+   "summary": "Water is listed in both the State List (entry 17) and Union List (entry 56), though the Union has underutilized its powers to regulate inter-state rivers from a national perspective. The Constitution and extra-constitutional mechanisms provide multiple avenues—such as Articles 131, 136, 262, 263, and zonal councils—to address inter-state water disputes."
+  },
+  {
+   "page": 192,
+   "title": "Judicial and political resolution of water disputes",
+   "summary": "Under Article 262, Parliament enacted the Interstate River Water Disputes Act and River Boards Act in 1956, excluding the Supreme Court's original jurisdiction under Article 131, though the Court still hears petitions under special leave. Scholars and jurists debate whether legal adjudication or negotiated political settlements are superior, while Article 263 offers an underused inter-state council mechanism."
+  },
+  {
+   "page": 193,
+   "title": "Inter-State councils and water dispute tribunals",
+   "summary": "Although bodies like the Inter-State Council, Zonal Councils, and River Boards were conceived to foster cooperation and resolve disputes, they have remained largely unutilized. The tribunal system established under the Interstate Water Disputes Act has historically suffered from extreme delays in constitution and delivering awards, prompting a 2002 amendment setting a one-year limit to form a tribunal."
+  },
+  {
+   "page": 194,
+   "title": "Water dispute tribunal reforms and composition",
+   "summary": "The 2002 amendment set statutory time limits for tribunal awards, though gaps remain regarding clarification timelines and data bank implementation. Tribunals are composed of three judges appointed by the CJI, hold civil court powers, and their awards—including interim awards enforceable upon gazette publication—carry the weight of a Supreme Court decree."
+  },
+  {
+   "page": 195,
+   "title": "Judicial review of tribunals and future reforms",
+   "summary": "The Supreme Court affirmed in 2016 that it maintains supervisory jurisdiction to hear appeals against tribunal judgments, bringing awards under judicial review. Looking forward, resolving water disputes such as the Cauvery conflict requires participatory, equitable, and sustainable solutions rather than top-down bureaucratic or legalistic measures."
+  },
+  {
+   "page": 196,
+   "title": "Sutlej-Yamuna Link dispute and water tribunal cases",
+   "summary": "The Sutlej-Yamuna Link canal dispute between Punjab and Haryana highlights non-compliance with tribunal awards and Supreme Court directives despite agreements and rulings. While some disputes like Narmada succeeded due to proactive Union leadership and prior negotiated settlements, others like Krishna faced repeated tribunal formations and new inter-state complications."
+  },
+  {
+   "page": 197,
+   "title": "Inter-state disputes and Union-State legislative relations",
+   "summary": "Beyond water, inter-state conflicts include territorial boundaries, regional disparities, economic friction, and migration issues. In Union-State legislative relations under the Seventh Schedule, constitutional powers are tilted towards the Centre through expanding Union and Concurrent list entries and Union-held residuary powers."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does the Indian Constitution distribute legislative powers between the Union and the States regarding water?",
+   "back": "Water is placed in State List Entry 17, covering water use, consumption, irrigation, and dams. Union List Entry 56 empowers the Union regarding the regulation and development of interstate rivers and river valleys in the national interest.",
+   "category": "Constitutional Water Entries",
+   "scanPage": 191
+  },
+  {
+   "front": "What contrasting views did H.M. Seervai and Ramaswami Iyer express regarding the resolution of interstate water disputes?",
+   "back": "H.M. Seervai asserted that it is a misconception to believe political settlements are more satisfactory than adjudication. In contrast, Ramaswami Iyer argued that adjudication is divisive and leads to exaggerated claims, making negotiated settlements infinitely superior.",
+   "category": "Dispute Resolution Schools",
+   "scanPage": 192
+  },
+  {
+   "front": "What was the proactive objective behind enacting the River Boards Act, 1956?",
+   "back": "The River Boards Act, 1956 adopted a proactive approach to make states habitual of cooperation. It provided for establishing river boards under Union leadership for joint planning and development across states sharing a river basin.",
+   "category": "River Board Framework",
+   "scanPage": 193
+  },
+  {
+   "front": "What institutional reforms did the Punchhi Commission recommend for interstate water dispute tribunals?",
+   "back": "The Punchhi Commission recommended establishing multi-disciplinary tribunals rather than purely judicial bodies. It proposed including members of civil society, such as social scientists, environmentalists, and panchayat representatives.",
+   "category": "Punchhi Commission Recommendations",
+   "scanPage": 194
+  },
+  {
+   "front": "How did the Supreme Court define its jurisdiction over water dispute tribunal awards in December 2016?",
+   "back": "In December 2016, the Supreme Court ruled on the Kavery water issue that it retains unfettered power under Article 136 to hear appeals against tribunal judgments. It clarified that statutory bars apply only to original suits, thereby bringing tribunal awards within the scope of judicial review.",
+   "category": "Tribunal Judicial Review",
+   "scanPage": 195
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically evaluate the institutional and legal mechanisms for resolving interstate water disputes in India. To what extent has the tribunal system under Article 262 fulfilled its constitutional objectives?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Inter-State Water Disputes and Tribunal Mechanisms",
+   "scanPage": 193,
+   "intro": "Article 262 and the Inter-State River Water Disputes Act, 1956 established specialized tribunals to resolve river disputes outside Supreme Court original jurisdiction, yet prolonged adjudications, non-implementation, and federal friction reveal persistent institutional inadequacies in inter-state river governance.",
+   "body": [
+    "A central debate persists between H.M. Seervai, who critiqued political settlements as unsatisfactory, and Ramaswami Iyer, who warned that adjudication is divisive and provokes exaggerated claims, advocating negotiated political settlements as infinitely superior.",
+    "Tribunals suffer from extreme delays and endless litigation, exemplified by the Kavery water dispute taking twenty years to constitute and seventeen years for an award; as jurist Fali Nariman observed, bypassing Article 131 merely wastes resources because states persistently petition the Supreme Court.",
+    "Implementation remains a critical failure where states resist awards, illustrated by the Satlaj-Yamuna link canal dispute where Punjab unilaterally terminated agreements until invalidated under Article 143 advisory jurisdiction, contrasting with Narmada where prior political consensus enabled workable tribunal adjudication.",
+    "Reforming this rigid mechanism requires institutional diversification, as the Punchhi Commission recommended multi-disciplinary tribunals including environmentalists and panchayats, while the Supreme Court's December 2016 Kavery ruling affirmed unfettered appellate jurisdiction under Article 136, bringing tribunal awards firmly within judicial review."
+   ],
+   "scholars": [
+    "H.M. Seervai",
+    "Ramaswami Iyer",
+    "Fali Nariman",
+    "Punchhi Commission",
+    "Sarkaria Commission",
+    "Mark Twain"
+   ],
+   "conclusion": "Legalistic and bureaucratic solutions must give way to participatory democratic processes utilizing Inter-State or Zonal Councils. River basin management must ensure socially, politically equitable, and environmentally just outcomes that balance present and future inter-generational water needs."
+  }
+ ]
+}

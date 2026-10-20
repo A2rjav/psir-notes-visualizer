@@ -1,0 +1,144 @@
+{
+ "pages": [
+  {
+   "page": 214,
+   "title": "Historical Reasons for the Emergence of Behaviouralism",
+   "summary": "Behaviouralism emerged after the World Wars due to the decline of political theory, as scholars like David Easton and Robert Dahl blamed traditionalists for studying old ideas rather than contemporary problems. Unlike other disciplines that adopted scientific methods, political science lacked reliable and verifiable theories to address contemporary concerns, leading to political scientists being excluded from post-WWII conferences."
+  },
+  {
+   "page": 215,
+   "title": "Academic Reasons and Eight Features of Behaviouralism",
+   "summary": "Chicago school scholars and James Bryce provided academic impetus by emphasizing the study of politics as a process rooted in facts. In response, David Easton introduced the eight intellectual foundation stones of behaviouralism, emphasizing regularities, systematisation, verification, scientific techniques, measurement, interdisciplinary integration, value neutrality, and pure science."
+  },
+  {
+   "page": 216,
+   "title": "Achievements of Behaviouralism and Emergence of Post-Behaviouralism",
+   "summary": "Although behaviouralism produced works on electoral behaviour, it neglected normative issues and failed to address contemporary American protests, compromising the discipline's scope and relevance. Consequently, David Easton introduced post-behaviouralism in his 'Credo of Relevance' lecture, criticizing ivory-tower scholars and advocating for creative theory guided by action and relevance."
+  },
+  {
+   "page": 217,
+   "title": "Seven Features of Post-Behaviouralism",
+   "summary": "David Easton argued that political science is an applied rather than pure science where relevance and societal guidance outweigh the mere purity of technique. The page outlines the seven features of post-behaviouralism, stressing crisis-solving ability, human flourishing, welcoming unbiased values, and recognizing the social scientist's responsibility to society."
+  },
+  {
+   "page": 218,
+   "title": "Nature and Intellectual Influences on Post-Behaviouralism",
+   "summary": "Post-behaviouralism is described not as a counter-revolution to behaviouralism, but as a synthesis carrying behaviouralism forward from traditionalism's thesis and behaviouralism's anti-thesis. Its intellectual influences include Karl Popper's concept of falsification for critical investigation and Thomas Kuhn's view on paradigms and theory utility in problem solving."
+  },
+  {
+   "page": 219,
+   "title": "Traditionalist and Marxist Criticisms of Behaviouralism",
+   "summary": "Traditionalists criticized behaviouralism for costly research, complicated jargon, compromising relevance, and merely replicating through scientific methods what thinkers like Machiavelli deduced through logic. Marxists criticized behaviouralism as a status-quo ideology designed to counter Marxist analysis, bypass normative questions through value neutrality, and treat Western systems as ideal models."
+  },
+  {
+   "page": 220,
+   "title": "Assessment of Behaviouralism and Political Theory Crisis",
+   "summary": "While behaviouralists studied socialist countries through elitist theories of power, their primary motivation was a genuine desire to bring scientific techniques and credibility to political science. The page also explains that political theory entered a crisis of relevance post-WWII when historicists and institutionalists failed to generate new thinking to address contemporary issues."
+  },
+  {
+   "page": 221,
+   "title": "Second Crisis of Political Theory and Behavioural Utility",
+   "summary": "Political theory faced a second crisis when behaviouralists focused on purifying techniques while neglecting normative issues and social movements, leading David Easton to call for post-behavioural creative theory. Nonetheless, behaviouralism fostered empirical research, provided useful electoral data for political parties, and contributed frameworks like systems approach to comparative government and politics."
+  },
+  {
+   "page": 222,
+   "title": "Fact-Value Dichotomy and Resolution by Post-Behaviouralism",
+   "summary": "Traditional political theory focused on normative issues until calls for empirical facts led behaviouralists to pursue value neutrality and pure science. Post-behaviouralism resolved this fact-value dichotomy by treating political science as an applied policy science and recognizing, as Robert Dahl noted, a continuity where facts and values transform into each other."
+  },
+  {
+   "page": 223,
+   "title": "Political Theory as an Arduous Calling",
+   "summary": "The page notes that political theory is not an escape mechanism, but rather an arduous and difficult calling."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What historical circumstances led to the post-World War II realization that political science was in a state of decline?",
+   "back": "Political scientists were excluded from post-WWII reconstruction conferences because other disciplines had adopted scientific methods and produced reliable, verifiable theories. Scholars like David Easton and Robert Dahl noted that traditional political theory had failed to offer solutions for contemporary problems.",
+   "category": "Decline Of Political Theory",
+   "scanPage": 214
+  },
+  {
+   "front": "What are David Easton's eight intellectual foundation stones that define the behavioural approach in political science?",
+   "back": "Easton outlined regularities, systematisation, verification, techniques, measurement, integration, value neutrality, and pure science. These stones sought to base political theory on observable regularities and quantifiable, verifiable data.",
+   "category": "Intellectual Foundation Stones",
+   "scanPage": 215
+  },
+  {
+   "front": "Why did post-behaviouralism emerge in the 1960s, and what was David Easton's central argument in his 'Credo of Relevance'?",
+   "back": "During the 1960s protests in the USA, political scientists sitting in ivory towers were unable to address social issues because they had neglected normative questions for technical purity. In 'Credo of Relevance', Easton demanded creative theory guided by action and relevance, treating political science as an applied rather than pure science.",
+   "category": "Credo Of Relevance",
+   "scanPage": 216
+  },
+  {
+   "front": "How did Karl Popper and Thomas Kuhn influence the methodological assumptions of post-behaviouralism?",
+   "back": "Karl Popper contributed the criterion of falsification, showing that social theories need critical investigation rather than laboratory verification. Thomas Kuhn demonstrated that scientists work within paradigms without finality in knowledge, emphasizing that theories must be evaluated by their utility in solving crises.",
+   "category": "Post-Behavioral Intellectual Influences",
+   "scanPage": 218
+  },
+  {
+   "front": "On what grounds did traditionalist thinkers criticize the behavioural revolution in political science?",
+   "back": "Traditionalists argued that behaviouralism was a costly cosmetic change that overburdened the discipline with complicated jargon without expanding genuine insight. They noted that behaviouralists merely reached through expensive methods what traditionalists like Machiavelli had already established through logical reasoning.",
+   "category": "Traditionalist Critique",
+   "scanPage": 219
+  },
+  {
+   "front": "How did Marxist scholars critique the behavioural movement and its systems approach?",
+   "back": "Marxists argued that behaviouralism emerged to counter Marxist analysis by promoting value neutrality to divert attention from normative questions and justify the capitalist status quo as an 'end of ideology'. They maintained that models like systems approach falsely treated Western political systems as an ideal type while elitist theories depicted oligarchy as an iron law.",
+   "category": "Marxist Critique",
+   "scanPage": 219
+  },
+  {
+   "front": "How does post-behaviouralism resolve the fact-value dichotomy according to Robert Dahl and David Easton?",
+   "back": "Post-behaviouralism established that political science is an applied policy science that must incorporate values rather than treating techniques as an end. Robert Dahl emphasized that facts and values are not separate dichotomies, but share continuity where facts become values and values become facts.",
+   "category": "Fact-Value Debate",
+   "scanPage": 222
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the factors leading to the transition from Behaviouralism to Post-Behaviouralism in Political Theory. How did David Easton bridge the gap between technique and relevance?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Decline and Resurgence of Political Theory: Behaviouralism to Post-Behaviouralism",
+   "scanPage": 216,
+   "intro": "Political theory experienced recurring crises of relevance in the twentieth century. While behaviouralism emerged to overcome traditionalism's armchair historicism, its excessive obsession with pure science prompted David Easton to pioneer post-behaviouralism to restore social purpose.",
+   "body": [
+    "David Easton and Robert Dahl lamented traditionalism's decline, rebuking historicists like Sabine and Dunning for endlessly debating century-old ideas rather than producing theories capable of resolving contemporary post-Second World War reconstruction challenges.",
+    "Consequently, Chicago school scholars like Catlin and Lasswell, alongside James Bryce who demanded 'facts, facts and facts', pioneered behaviouralism around eight intellectual foundation stones, emphasizing quantifiable measurement, systematisation, and strict value neutrality.",
+    "However, traditionalists and Marxists criticized behaviouralism as costly cosmetic research that served the status quo, while the 1960s American civil protests proved that scholars in ivory towers studying electoral behaviour lacked social relevance.",
+    "Delivering his lecture 'Credo of Relevance', David Easton redirected the discipline toward creative theory, asserting that technique is subordinate to purpose and that social scientists bear the responsibility of guiding society as an applied science.",
+    "Influenced by Thomas Kuhn's paradigms and Karl Popper's falsification criterion, post-behaviouralism became a synthesis that invited progressive human values, proving that political theory is not an escape mechanism but an arduous calling."
+   ],
+   "scholars": [
+    "David Easton ('Credo of Relevance')",
+    "Robert Dahl",
+    "Sabine & Dunning",
+    "Catlin and Lasswell",
+    "Karl Popper",
+    "Thomas Kuhn"
+   ],
+   "conclusion": "Ultimately, post-behaviouralism successfully reconciled methodology with social commitment. By transforming political inquiry from a detached pure science into problem-solving policy research, it restored the discipline's credibility and capacity to navigate crises in human civilisation."
+  },
+  {
+   "question": "Examine the Fact-Value dichotomy in the evolution of political theory. To what extent did post-behaviouralism succeed in reconciling empirical facts with normative values?",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Fact-Value Dichotomy and Post-Behavioural Synthesis",
+   "scanPage": 222,
+   "intro": "The fact-value debate reflects the methodological tension between normative philosophy and empirical science. While behaviouralism championed absolute value neutrality, post-behaviouralism ended this rigid dichotomy by recognizing that facts and values operate in dynamic, continuous interaction.",
+   "body": [
+    "Traditional political theory originated as political philosophy, focusing primarily on normative ideals such as rights, liberty, equality, and justice, but suffered crisis when characterized as speculative armchair theorizing.",
+    "Reacting against this decline, scholars like James Bryce demanded 'facts, facts and facts', inspiring behaviouralists to pursue value neutrality and statistical techniques to turn political study into a pure science.",
+    "However, traditionalists cited Machiavelli to demonstrate that substantive insights on power require logical reasoning rather than costly jargons, while Marxists exposed value neutrality as a defense of Western capitalist status quo.",
+    "David Easton's post-behaviouralism ended this dichotomy by redefining political science as an applied policy science, asserting that scientific technique cannot be an end in itself but must serve constructive human values.",
+    "Finally, Robert Dahl resolved this dichotomy by demonstrating that facts and values are never completely separate but maintain continuity, where empirical facts become values and existing values become facts in political inquiry."
+   ],
+   "scholars": [
+    "Lord Bryce",
+    "David Easton",
+    "Robert Dahl",
+    "Machiavelli"
+   ],
+   "conclusion": "By harmonizing rigorous empirical techniques with ethical commitments, post-behaviouralism rescued political science from sterile scholasticism. This integrated framework ensures that political inquiry remains empirically grounded yet normative enough to guide human civilisation through societal crises."
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "pages": [
+  {
+   "page": 45,
+   "title": "Schools of Marxism, Orthodox Marxism, and Leninism",
+   "summary": "The notes categorize post-Marx schools into orthodox and neo-Marxism, detailing orthodox Marxism's scientific view of history based on historical materialism. They also introduce Lenin's contributions, notably his concept of the communist party as the vanguard of revolution."
+  },
+  {
+   "page": 46,
+   "title": "Features of Communist Party and Leninism",
+   "summary": "Lenin characterizes the communist party as a clandestine, democratically centralist organization distinct from trade unions and bourgeois parties. He also incorporated the peasantry into the revolutionary class within a semi-feudal society and formulated his theory of imperialism."
+  },
+  {
+   "page": 47,
+   "title": "Lenin's Theory of Imperialism and Capitalism",
+   "summary": "Lenin expanded Marxist theory to international relations by identifying imperialism, with its finance capitalism, as the highest stage of capitalism and the cause of World War I. He also supported anti-imperialist nationalist movements, viewing colonies as potential starting points for communist revolutions."
+  },
+  {
+   "page": 48,
+   "title": "Maoism and Mao's Modifications to Marxism",
+   "summary": "Mao adapted Marxism to Asian and feudal conditions in China by placing the peasantry, rather than the working class, at the center of the revolution. He also reinterpreted dialectics to distinguish between antagonistic contradictions with imperialists and feudal classes, and non-antagonistic contradictions with the indigenous bourgeoisie."
+  },
+  {
+   "page": 49,
+   "title": "Mao's Revolutionary Strategy and Comparison with Gandhi",
+   "summary": "Mao promoted permanent revolution, guerrilla warfare, and violent struggle, maintaining that political power flows through the barrel of a gun. This approach is contrasted with Gandhi's non-violent Satyagraha, emphasizing that violent revolutions fail to empower the masses because means and ends are interconnected."
+  },
+  {
+   "page": 50,
+   "title": "Neo-Marxism and the Frankfurt Critical School",
+   "summary": "Neo-Marxism includes the Frankfurt Critical School, which was influenced by Marx, Hegel, and Freud before relocating to Columbia University due to Hitler's policies. Its thinkers critique capitalism, Enlightenment rationalism, and Soviet Marxism, arguing that Marx's genuine purpose was human emancipation and freedom rather than mere class struggle."
+  },
+  {
+   "page": 51,
+   "title": "Critical School on Alienation and Culture Industry",
+   "summary": "Critical theorists argue that alienation persists in modern society through instrumental rationality, consumerism, and a culture industry that manufactures false needs. They propose viewing Marxism as an open framework to examine how commodified culture functions as a primary mechanism of exploitation."
+  },
+  {
+   "page": 52,
+   "title": "Structural Marxism: Marx, Gramsci, and Althusser",
+   "summary": "Structural Marxism evolved from Marx's economic determinism through Gramsci's emphasis on the superstructure to Althusser's concept of multiple structures. Althusser argued that economic factors are overdetermined in Marx and illustrated that revolutions, such as Russia's, can originate from political rather than economic structures."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Lenin introduce the concept of the communist party as the 'vanguard of revolution' in 'What is to be done?'?",
+   "back": "Lenin argued that the working class cannot develop revolutionary consciousness on its own and only acquires trade union consciousness. Therefore, a secretive, disciplined communist party is required to act as the vanguard of revolution.",
+   "category": "Leninist Party Vanguard",
+   "scanPage": 45
+  },
+  {
+   "front": "How does Lenin's theory of imperialism expand Karl Marx's analysis of capitalism?",
+   "back": "While Marx confined his analysis to the domestic context, Lenin analyzed external aspects in 'Imperialism, the Highest Stage of Capitalism'. He explained finance capitalism and colonial exploitation as the drivers of inter-capitalist war.",
+   "category": "Lenin Theory of Imperialism",
+   "scanPage": 47
+  },
+  {
+   "front": "What distinction did Mao make between antagonistic and non-antagonistic dialectics in China?",
+   "back": "Antagonistic dialectics involve irreconcilable contradictions where compromise is impossible, such as between the people and feudal or foreign imperialist classes. Non-antagonistic dialectics can be resolved, such as contradictions with the indigenous bourgeoisie.",
+   "category": "Maoist Contradiction Theory",
+   "scanPage": 48
+  },
+  {
+   "front": "How does Mao's revolutionary strategy differ fundamentally from Mahatma Gandhi's approach to mass struggle?",
+   "back": "Mao advocated guerrilla warfare and held that power flows through the barrel of a gun. In contrast, Gandhi treated non-violence as an article of faith and advocated Satyagraha, arguing that violent means cannot achieve moral ends.",
+   "category": "Mao versus Gandhi Strategy",
+   "scanPage": 49
+  },
+  {
+   "front": "How does Herbert Marcuse characterize modern consumer society in 'One Dimensional Man'?",
+   "back": "Marcuse argued that science and instrumental rationality eliminate critical reasoning, making people behave like a herd of sheep and goats. Modern consumerist society survives by fabricating false needs, reducing man's personality to a single consumer dimension.",
+   "category": "Frankfurt School Consumerism",
+   "scanPage": 51
+  },
+  {
+   "front": "How did Louis Althusser's structuralism modify Karl Marx's concept of economic determinism?",
+   "back": "Althusser argued that the economic factor was overdetermined in Marx and advanced the concept of multiple structures. Under this view, historical transformations can originate from any structure, as seen in the Russian Revolution starting from the political structure.",
+   "category": "Althusserian Structural Marxism",
+   "scanPage": 52
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the Critical School's critique of advanced capitalism, instrumental rationality, and Orthodox Marxism. How did it reorient the Marxist project towards human emancipation?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Critical School and Neo-Marxism",
+   "scanPage": 51,
+   "intro": "Originating in Frankfurt and influenced by Hegel, Freud, and Marx, the Critical School sought human emancipation by rejecting Soviet Marxist orthodoxy, focusing on Marx's concept of alienation, and analyzing new forms of exploitation within advanced capitalist societies.",
+   "body": [
+    "Herbert Marcuse argued that science promotes instrumental rationality and erodes critical reasoning, making humans behave like sheep and goats. In 'One Dimensional Man', he demonstrated that capitalism manufactures false needs, confining human personality entirely to the dimension of consumption.",
+    "Max Horkheimer formulated negative dialectics to show that the Enlightenment is reversing into slavery rather than advancing freedom. Both Soviet totalitarianism and Western capitalism deepened human subjugation, proving that alienation has strengthened rather than dissolved in contemporary societies.",
+    "Theodore Adorno and Horkheimer exposed how the culture and advertisement industries reduce individuals to a mass society. Adorno observed that commercialized music acts as seismographic traumatic shocks that extinguish sensitivity, transforming culture into an economic commodity within the basic structure.",
+    "Rejecting orthodox closed thinking, these scholars insisted Marxism must remain open to analyze novel modes of domination. Since modern exploitation operates primarily through culture and manufactured desires, revolutionary theory must integrate fresh conceptual tools beyond rigid economic determinism."
+   ],
+   "scholars": [
+    "Max Horkheimer",
+    "Theodore Adorno",
+    "Herbert Marcuse ('One Dimensional Man')",
+    "Eric Fromm",
+    "Antonio Gramsci",
+    "Karl Marx"
+   ],
+   "conclusion": "By relocating exploitation to culture and consciousness, the Frankfurt School enriched Marxism into an adaptable critique of modern hegemony. However, its profound pessimism regarding technological rationality necessitates synthesizing critical insights with viable, constructive strategies for authentic human liberation."
+  }
+ ]
+}

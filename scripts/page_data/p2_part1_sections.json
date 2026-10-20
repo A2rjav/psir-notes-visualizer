@@ -1,0 +1,323 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Title Cover | Syllabus Index | Notebook Front Matter",
+   "start": 1,
+   "end": 4,
+   "keyScholars": [
+    "Subhra Ranjan"
+   ],
+   "coreTheories": []
+  },
+  {
+   "title": "India - USA Relations: Strategic Partnership and Bilateral Agreements",
+   "subtitle": "Strategic Partnership Overview | Historical Evolution & Cold War Phases | Civil Nuclear Cooperation & Liability Act | Trade Disputes & Compulsory Licensing | Defense Pacts & Foundational Agreements",
+   "start": 5,
+   "end": 26,
+   "keyScholars": [
+    "George Verghese",
+    "Rakesh Sood",
+    "James Mattis",
+    "Jeff Davis"
+   ],
+   "coreTheories": [
+    "Strategic Partnership",
+    "America First",
+    "Suppliers Liability",
+    "Compulsory Licensing",
+    "LEMOA"
+   ]
+  },
+  {
+   "title": "India - Russia Relations: Strategic Vision and Bilateral Evolution",
+   "subtitle": "Strategic Partnership & High-Level Dialogues | Historical Evolution & 1971 Treaty | Defense Cooperation & Technology Transfer | Nuclear Energy Partnership | Russia-Pakistan Rapprochement",
+   "start": 27,
+   "end": 41,
+   "keyScholars": [
+    "Kanwal Sibal",
+    "Ian Bremmer",
+    "Nikitin",
+    "Yeltsin"
+   ],
+   "coreTheories": [
+    "Pivot State",
+    "Mutual Security Guarantee",
+    "Sino-Soviet Rift",
+    "Transfer of Technology"
+   ]
+  },
+  {
+   "title": "India - China Relations: Border Disputes and Strategic Competition",
+   "subtitle": "Strategic Partnership & Asian Century | Panchsheel & 1962 Border War | McMahon Line & Sectoral Disputes | Guiding Principles & BDCA 2013 | Trans-Himalayan River Disputes & Neighborhood Rivalry",
+   "start": 42,
+   "end": 59,
+   "keyScholars": [
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Dalai Lama",
+    "Rajiv Gandhi",
+    "Manmohan Singh"
+   ],
+   "coreTheories": [
+    "Asian Century",
+    "Realist School of Thought",
+    "Hindi Chini Bhai Bhai",
+    "Balance of Power",
+    "Appeasement"
+   ]
+  },
+  {
+   "title": "Asia-Pacific Geopolitics: Maritime Strategy, South China Sea and OBOR",
+   "subtitle": "US Pivot to Asia & Rebalance | Maritime Security & Naval Diplomacy | South China Sea Dispute | Belt and Road Initiative (OBOR) | Strategic Implications for India",
+   "start": 60,
+   "end": 73,
+   "keyScholars": [
+    "Robert D. Kaplan",
+    "Sushant Sareen",
+    "Barack Obama"
+   ],
+   "coreTheories": [
+    "Asia Rebalance",
+    "Naval Diplomacy",
+    "Soft Power",
+    "Act East Policy",
+    "Silk Route Economic Belt"
+   ]
+  },
+  {
+   "title": "India - Japan Relations: Special Strategic and Global Partnership",
+   "subtitle": "Special Strategic & Global Partnership | Civilizational Links & Cold War Divergence | Post-1991 Economic Engagements | Make in India & Infrastructure Investments | Article 9 & Japanese Security Policy",
+   "start": 74,
+   "end": 80,
+   "keyScholars": [
+    "Narendra Modi"
+   ],
+   "coreTheories": [
+    "Special Strategic and Global Partnership",
+    "Economic Liberalisation",
+    "Make in India",
+    "Article 9 Pacifism",
+    "Self Defence Forces"
+   ]
+  },
+  {
+   "title": "India - European Union Relations: Strategic and Economic Engagements",
+   "subtitle": "Strategic Partnership Overview | Nature of EU as a Trading Bloc | Broad-based Trade & Investment Agreement | Intellectual Property & Data Security | Bilateral Relations vs EU Framework",
+   "start": 81,
+   "end": 85,
+   "keyScholars": [],
+   "coreTheories": [
+    "Strategic Partnership",
+    "Loveless Arranged Marriage",
+    "Free Trade Agreement",
+    "Intellectual Property Rights"
+   ]
+  },
+  {
+   "title": "US Hegemony and the Changing International World Order",
+   "subtitle": "Hegemonic Stability Theory | Declinist Debate & Post-American World | Offensive Realism & Rise of China | Structural Determinants of US Power | Demographic Dynamics & US Hegemony",
+   "start": 86,
+   "end": 96,
+   "keyScholars": [
+    "Fareed Zakaria",
+    "Samuel P. Huntington",
+    "John Mearsheimer",
+    "Henry Kissinger"
+   ],
+   "coreTheories": [
+    "Hegemonic Stability Theory",
+    "Post-American World",
+    "Offensive Realism",
+    "Containment",
+    "One China Policy"
+   ]
+  },
+  {
+   "title": "Non-Aligned Movement and South-South Cooperation",
+   "subtitle": "Origins of NAM & Bandung Conference | Post-Cold War Relevance Crisis | Structural Deficits & Reform Demands | Doha Development Agenda | IBSA Dialogue Forum vs BRICS",
+   "start": 97,
+   "end": 106,
+   "keyScholars": [],
+   "coreTheories": [
+    "Non-Alignment",
+    "Afro-Asian Solidarity",
+    "South-South Cooperation",
+    "Doha Development Agenda",
+    "IBSA Dialogue Forum"
+   ]
+  },
+  {
+   "title": "India's Relations with Africa and Latin America",
+   "subtitle": "Africa's Economic Potential & Global Competition | India-Africa Historical Solidarity | Trade Rivalry: India vs China in Africa | India-Latin America Bilateral Relations | Soft Power Diplomacy & Challenges",
+   "start": 107,
+   "end": 116,
+   "keyScholars": [
+    "Manmohan Singh",
+    "Narendra Modi",
+    "Mahatma Gandhi"
+   ],
+   "coreTheories": [
+    "Two Ways Street",
+    "South-South Cooperation",
+    "Gandhian Approach",
+    "Soft Power"
+   ]
+  },
+  {
+   "title": "Non-Alignment as India's Foreign Policy Strategy",
+   "subtitle": "Relevance of Non-Alignment | Choice vs Compulsion Debate | Ideological Underpinnings | Domestic Consensus Contestation | Strategic Autonomy in Foreign Policy",
+   "start": 117,
+   "end": 119,
+   "keyScholars": [
+    "C. Raja Mohan"
+   ],
+   "coreTheories": [
+    "Non-Alignment",
+    "Choice vs Compulsion",
+    "Strategic Autonomy",
+    "Domestic Consensus"
+   ]
+  },
+  {
+   "title": "United Nations Reforms and International Court of Justice",
+   "subtitle": "Relevance of the United Nations | UNSC Reform Debates & Veto Power | India's Bid for Permanent Membership | General Assembly & Secretariat Reforms | ICJ Jurisdiction & Compulsory Reservations",
+   "start": 120,
+   "end": 135,
+   "keyScholars": [
+    "Gareth Evans",
+    "Shyam Saran",
+    "Ramesh Thakur"
+   ],
+   "coreTheories": [
+    "UNSC Reform",
+    "Veto Reform",
+    "Compulsory Jurisdiction",
+    "Multilateralism",
+    "High Level Panel on Threats"
+   ]
+  },
+  {
+   "title": "World Trade Organization and Global Trade Governance",
+   "subtitle": "Dispute Settlement Body & Principles | Multilateralism vs Bilateralism | Agreement on Agriculture & Subsidies | Food Security & Public Stockholding | NAMA, GATS Modes & TRIPS Patents",
+   "start": 136,
+   "end": 146,
+   "keyScholars": [],
+   "coreTheories": [
+    "Agreement on Agriculture",
+    "Dispute Settlement Body",
+    "Special and Differential Treatment",
+    "Nairobi Package",
+    "Compulsory Licensing"
+   ]
+  },
+  {
+   "title": "Bretton Woods Institutions: IMF and World Bank",
+   "subtitle": "Role of IMF in Liberal Economic Order | Structural Conditionalities & Sovereignty Concerns | Quota Reforms & Governance Deficit | G7 Dominance & Leadership Selection | World Bank Group Five Institutions",
+   "start": 147,
+   "end": 151,
+   "keyScholars": [],
+   "coreTheories": [
+    "Liberal International Economic Order",
+    "IMF Conditionalities",
+    "Quota Reforms",
+    "Governance Deficit",
+    "World Bank Group"
+   ]
+  },
+  {
+   "title": "European Union: Regional Integration and Contemporary Crises",
+   "subtitle": "Theoretical Foundations: Functionalism & Integration | Maastricht Treaty & Monetary Union | Copenhagen Criteria & EU Expansion | Eurozone Crisis & German Austerity | Brexit & Contemporary Challenges",
+   "start": 152,
+   "end": 164,
+   "keyScholars": [],
+   "coreTheories": [
+    "Functionalism",
+    "Liberal Institutionalism",
+    "Economic Interdependence",
+    "Monetary Union",
+    "Copenhagen Criteria"
+   ]
+  },
+  {
+   "title": "ASEAN, Regional Architecture and India's Act East Policy",
+   "subtitle": "ASEAN Evolution: ZOPFAN, Bali Concord & TAC | Three Pillars of ASEAN Community | India's Look East to Act East Policy | Sub-regional Platforms: MGC & FIPIC | APEC and Open Regionalism",
+   "start": 165,
+   "end": 177,
+   "keyScholars": [
+    "P. V. Narasimha Rao",
+    "Narendra Modi"
+   ],
+   "coreTheories": [
+    "ZOPFAN",
+    "Three Pillars of ASEAN",
+    "Look East Policy",
+    "Act East Policy",
+    "Open Regionalism"
+   ]
+  },
+  {
+   "title": "North American Free Trade Agreement (NAFTA)",
+   "subtitle": "Genesis & Structure of NAFTA | IPR & Labour Dispute Mechanisms | US-Canada Trade Grievances | US-Mexico Border & Migration Disputes | Trump Administration Protectionism",
+   "start": 178,
+   "end": 181,
+   "keyScholars": [
+    "Donald Trump"
+   ],
+   "coreTheories": [
+    "Regional Free Trade",
+    "Protectionism",
+    "Dispute Settlement Mechanism",
+    "Rules of Origin"
+   ]
+  },
+  {
+   "title": "Regional Cooperation in South Asia: SAARC and BIMSTEC",
+   "subtitle": "SAARC Genesis & Power Asymmetry | Obstacles to Intra-Regional Trade | SAPTA to SAFTA Transition | Pakistan's Obstructionism & Identity Crisis | BIMSTEC Revitalization & Sub-regionalism",
+   "start": 182,
+   "end": 187,
+   "keyScholars": [],
+   "coreTheories": [
+    "Regional Integration",
+    "SAPTA",
+    "SAFTA",
+    "Sub-regionalism",
+    "Sectoral Cooperation"
+   ]
+  },
+  {
+   "title": "India - Pakistan Relations: Strategic Doctrines and Disputes",
+   "subtitle": "Structural Asymmetry & Military Rule | Gujral & Manmohan Doctrines | Modi's Strategic Approach & Isolation | Kashmir & Indus Waters Treaty | Siachen & Sir Creek Territorial Disputes",
+   "start": 188,
+   "end": 206,
+   "keyScholars": [
+    "Brahma Chellaney",
+    "Pratap Bhanu Mehta",
+    "Stephen P. Cohen",
+    "I. K. Gujral",
+    "Manmohan Singh"
+   ],
+   "coreTheories": [
+    "Gujral Doctrine",
+    "Manmohan Doctrine",
+    "Strategic Restraint",
+    "Composite Dialogue",
+    "Nuclear Blackmail"
+   ]
+  },
+  {
+   "title": "India - Afghanistan Relations: Geopolitics and Security Dynamics",
+   "subtitle": "Geostrategic & Geoeconomic Importance | Historical Overview of Indian Policy | US-Pakistan Nexus & Wahhabism | Opium Trade & Terrorism Financing | Post-Withdrawal Dynamics & Taliban Resurgence",
+   "start": 207,
+   "end": 214,
+   "keyScholars": [],
+   "coreTheories": [
+    "Geostrategic Importance",
+    "Geoeconomics",
+    "Wahhabism",
+    "Non-State Actors in Foreign Policy",
+    "Strategic Realism"
+   ]
+  }
+ ]
+}

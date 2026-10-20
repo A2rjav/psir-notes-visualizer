@@ -1,0 +1,153 @@
+{
+ "pages": [
+  {
+   "page": 87,
+   "title": "Planning syllabus and Gandhian approach to development",
+   "summary": "This page outlines the syllabus for planning and economic development and introduces the Gandhian approach based on 'Hind Swaraj'. It notes Gandhi's critique of the Western model and outlines the pillars of economic growth, redistributive justice, and moral regeneration."
+  },
+  {
+   "page": 88,
+   "title": "Gandhian seven sins and the Gandhian plan",
+   "summary": "It lists Gandhi's seven sins defining his way of life and details the Gandhian plan proposed by S.N. Agarwal and Sriman Narayan for agriculture and cottage industries. It clarifies that Gandhi did not oppose machines, but opposed copying Western models in India."
+  },
+  {
+   "page": 89,
+   "title": "Village self-sufficiency and the Nehruvian development approach",
+   "summary": "The page discusses Gandhi's concerns about machines, his vision of self-sufficient village republics, and the negative consequences of neglecting his model. It then introduces the Nehruvian approach of progressive socialism and the Second Five-Year Plan's Nehru-Mahalanobis model."
+  },
+  {
+   "page": 90,
+   "title": "Features of the Nehru-Mahalanobis development model",
+   "summary": "This page outlines the features of the Nehruvian model, emphasizing heavy industry investments for capital formation, self-reliance, and autonomy. It also highlights centralized planning, public sector dominance to prevent wealth concentration, rationing, and short-term sacrifices."
+  },
+  {
+   "page": 91,
+   "title": "Nehruvian model weaknesses and planning public sector",
+   "summary": "The page highlights failures of Nehruvian policies like black marketing, inefficient public sectors, License Permit Quota Raj, and persistent poverty under 'Garibi Hatao'. It also introduces the role and structural weaknesses of planning and the public sector."
+  },
+  {
+   "page": 92,
+   "title": "Public sector crisis and economic liberalisation",
+   "summary": "This page describes structural problems in PSUs that precipitated India's foreign exchange and balance of payments crisis, citing Vimal Jalan's 'family silver' metaphor. It introduces economic liberalisation, describing India as a 'caged tiger' whose crisis was accelerated by the Gulf War and USSR disintegration."
+  },
+  {
+   "page": 93,
+   "title": "Economic Survey evaluation of liberalisation and reforms",
+   "summary": "The page notes debates on economic reforms by Amartya Sen and Vimal Jalan before reviewing the 2016-17 Economic Survey. It evaluates liberalisation through trade openness and foreign capital inflows, noting substantial annual foreign direct investment."
+  },
+  {
+   "page": 94,
+   "title": "PSU rollbacks, expenditure, and reform impacts",
+   "summary": "This page discusses the reduction of PSUs, normal government expenditure levels, and welfare scheme miscalculations in emerging India. It then introduces Montek Singh Ahluwalia's assessment of economic reforms and baseline poverty statistics from 1989."
+  },
+  {
+   "page": 95,
+   "title": "Poverty trends and failures of economic reforms",
+   "summary": "The page tracks poverty changes from 1993-94 to 2011-12 based on the Tendulkar Committee estimates, noting declining percentages alongside large absolute numbers of poor. It identifies failures in public services like health and education, growth requirements, and poor employment generation."
+  },
+  {
+   "page": 96,
+   "title": "Middle income trap and Amartya Sen's critique",
+   "summary": "This page presents recommendations to avoid the middle-income trap, including investing in human capital and tackling corruption. It also covers Amartya Sen's critique of the uneven growth pattern, persistent poverty, and neglect of basic human capabilities compared to China."
+  },
+  {
+   "page": 97,
+   "title": "Land Reforms: Purpose, Daniel Thorner, Constitutional Provisions",
+   "summary": "While economic reforms accelerated growth despite poor social indicators, state-led land reforms aimed to eradicate rural poverty and redistribute land based on socialist justice and Congress promises. Daniel Thorner highlighted India as a notable case study due to extensive legislation and widespread poverty, supported constitutionally by Directive Principles Article 39(B&C)."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What were the core pillars and environmental rationale of the Gandhian approach to economic development?",
+   "back": "According to 'Hind Swaraj', Gandhi argued that adopting the Western model would require at least nine more Earths, emphasizing non-violence towards nature and minimization of needs. The three core pillars of his approach were economic growth, redistributive justice, and moral regeneration.",
+   "category": "Gandhian Development Perspective",
+   "scanPage": 87
+  },
+  {
+   "front": "Who proposed the Gandhian Plan at the time of independence, and what were its primary priorities?",
+   "back": "The Gandhian Plan was formulated by S.N. Agarwal and Sriman Narayan. It prioritized agricultural reform through land reforms, cooperatives, and rural credit, alongside reviving cottage industries like Khadi to fulfill basic necessities and alleviate rural hunger and unemployment.",
+   "category": "Gandhian Economic Planning",
+   "scanPage": 88
+  },
+  {
+   "front": "Why did the Nehru-Mahalanobis model prioritize heavy industries during the Second Five-Year Plan?",
+   "back": "Investment in heavy industries was designed to promote capital formation and make India independent of essential foreign imports. It was also intended to protect India from Western bargaining pressure and secure strategic autonomy in external affairs.",
+   "category": "Nehruvian Development Model",
+   "scanPage": 90
+  },
+  {
+   "front": "What structural weaknesses characterized public sector undertakings (PSUs) prior to the 1991 economic reforms?",
+   "back": "PSUs suffered from overmanning, low work ethics, low capacity utilization, excessive expenditure, fiscal deficits, negative rates of return, and an absence of rational pricing. Vimal Jalan compared them to family silver where households spent excessively merely to keep it shining.",
+   "category": "Public Sector Performance",
+   "scanPage": 92
+  },
+  {
+   "front": "On which four standard measures did the Economic Survey 2016-17 evaluate the success of India's liberalisation?",
+   "back": "The Survey evaluated liberalisation through openness to trade, openness to foreign capital with $75 billion in annual FDI, significant rollback of PSUs in sectors like telecom and aviation, and government expenditure remaining normal for India's development level.",
+   "category": "Post-Reform Economic Evaluation",
+   "scanPage": 93
+  },
+  {
+   "front": "What poverty trends following the 1991 reforms were identified by Montek Singh Ahluwalia using Tendulkar committee data?",
+   "back": "Between 1993-94 and 2004-05, poverty declined from 45.3% to 37.2% while absolute numbers increased to 407 million. Subsequently, between 2004-05 and 2011-12, poverty declined faster to 21.9%, reducing the absolute number of poor to 269 million for the first time.",
+   "category": "Poverty Alleviation Trends",
+   "scanPage": 95
+  },
+  {
+   "front": "What was Amartya Sen's central critique of India's post-reform economic growth trajectory?",
+   "back": "Sen argued that uncaging the tiger failed to generate a tiger-like sprint because growth did not improve living standards or social indicators. He highlighted agricultural stagnation, persistent poverty in BIMARU states, and hunger amidst plenty, unfavourably contrasting India with China's investment in human capabilities.",
+   "category": "Liberalisation Social Critique",
+   "scanPage": 96
+  },
+  {
+   "front": "How did Daniel Thorner describe Indian land reforms, and what is their constitutional foundation?",
+   "back": "Daniel Thorner characterized India as the most interesting case study of land reforms given its vast body of legislation alongside widespread poverty and hunger. Indian land reforms sought state-led institutional redistribution of land to the landless, grounded in Directive Principles Articles 39(b) and 39(c).",
+   "category": "Agrarian Land Reforms",
+   "scanPage": 97
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically evaluate the Nehruvian model of planning and industrialisation in India. Did it successfully establish a self-reliant economy, or did it precipitate structural crises?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Nehruvian Model of Planning and Economic Development",
+   "scanPage": 90,
+   "intro": "Inspired by USSR achievements, Jawaharlal Nehru championed progressive socialism and centralised planning through the Second Five-Year Plan's Nehru-Mahalanobis strategy, positioning the public sector at the commanding heights to foster capital formation and national self-reliance.",
+   "body": [
+    "The Nehru-Mahalanobis model under the Second Five-Year Plan concentrated state investment in heavy basic industries to accelerate capital formation, eliminate dependence on foreign imports of essential goods, and safeguard India's sovereign autonomy against Western economic bargaining.",
+    "However, centralized planning compromised federalism and neglected consumer industries; rationing and administered pricing provoked black marketing, while uncompetitive import substitution failed to generate exportable manufactures, transforming the developmental state into an overdeveloped License Permit Quota and Inspector Raj.",
+    "Public sector undertakings suffered from severe structural problems including overmanning, low work ethics, low capacity utilisation, fiscal deficits, and negative rates of return, leading former RBI Governor Vimal Jalan to remark that PSUs resembled family silver requiring excessive expenditure to keep shining.",
+    "Successors of Nehru pursued populist rhetoric like Garibi Hatao without correcting structural weaknesses, leaving 45% below poverty line; combined with the Gulf War and USSR disintegration, this triggered a severe sovereign debt and balance-of-payments crisis with foreign exchange lasting barely one week."
+   ],
+   "scholars": [
+    "Jawaharlal Nehru",
+    "Nehru-Mahalanobis model",
+    "Vimal Jalan",
+    "S.N. Agarwal",
+    "Sriman Narayan"
+   ],
+   "conclusion": "While the Nehruvian framework built heavy industrial foundations and sovereign self-reliance, its insensitivity to market efficiency and rural-urban parity necessitated the 1991 structural adjustments to dismantle bureaucratic bottlenecks and unleash economic potential."
+  },
+  {
+   "question": "Has the post-1991 economic liberalisation fulfilled its promise of transforming India into an economic tiger? Discuss in light of post-reform developmental outcomes.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Impact of Liberalisation and Economic Reforms",
+   "scanPage": 94,
+   "intro": "The 1991 liberalisation sought to uncage the Indian tiger from populist controls, transitioning from a closed, listless economy into an open, thriving emerging market, yet igniting intense debate regarding growth trajectories versus equitable human development.",
+   "body": [
+    "According to the Economic Survey 2016-17, India transitioned into a standard Asian emerging market, recording 4.5% per capita income growth since 1980, achieving trade openness, attracting $75 billion annual FDI, and rolling back PSUs within a competitive democracy.",
+    "In 'Economic Reforms a Retrospective view', Montek Singh Ahluwalia noted that while Tendulkar committee estimates showed poverty falling from 45.3% to 21.9% by 2011-12, absolute poverty remained high at 269 million alongside poor delivery of basic services like health and education.",
+    "Amartya Sen argued that uncaging the tiger produced an uneven growth pattern rather than a genuine sprint; agricultural stagnation, unskilled labour, and rising poverty in BIMARU states created hunger amidst plenty, contrasting unfavourably with China's prior investments in human capabilities.",
+    "In 'Emerging India - Economics, Politics & Reform', Vimal Jalan observed that accelerated productivity coexists with bottom-tier social indicators; Ahluwalia similarly warned of a middle-income trap unless India tackles corruption, ends red tapism, and rehabilitates state capacity through job inclusion."
+   ],
+   "scholars": [
+    "Economic Survey 2016-17",
+    "Montek Singh Ahluwalia ('Economic Reforms a Retrospective view')",
+    "Tendulkar committee",
+    "Amartya Sen",
+    "Vimal Jalan ('Emerging India - Economics, Politics & Reform')"
+   ],
+   "conclusion": "While economic reforms successfully dismantled the listless license regime and generated macroeconomic dynamism, sustainable progress demands transforming raw growth into human development by heavily investing in health, education, and state capacity to avert the middle-income trap."
+  }
+ ]
+}

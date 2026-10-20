@@ -1,0 +1,158 @@
+{
+ "pages": [
+  {
+   "page": 7,
+   "title": "Schools of Liberalism and Classical Liberalism",
+   "summary": "This page outlines the evolution of liberalism across different eras and introduces classical liberalism as the ideology of the emerging bourgeois class. It details the classical liberal view of man as rational, individualistic, and utilitarian, and society as a contractual market model."
+  },
+  {
+   "page": 8,
+   "title": "Classical Liberal View of State and Rights",
+   "summary": "Classical liberalism regards the state as a necessary evil that should perform only minimal police functions under the principle of survival of the fittest. It advocates negative liberty as the absence of state interference along with equality before the law and of opportunity."
+  },
+  {
+   "page": 9,
+   "title": "Classical Liberal Justice and Liberty Versus Equality",
+   "summary": "The page contrasts the Marxist critique of procedural equality with the classical liberal principle of justice based on merit. It also explains that classical liberals view socio-economic equality as antithetical to liberty, considering absolute equality to be injustice."
+  },
+  {
+   "page": 10,
+   "title": "Evolution of Modern Positive Liberalism",
+   "summary": "This page traces how negative liberalism transformed into positive liberalism under the challenge of socialism and reforms using idealism. It notes J.S. Mill's modification of utilitarianism and identifies T.H. Green as the father of positive liberty who defined freedom in terms of capacity."
+  },
+  {
+   "page": 11,
+   "title": "Basic Assumptions of Positive Liberalism",
+   "summary": "Positive liberalism redefines liberty as capacity enhanced by state intervention, viewing man as moral and society as more than a mere aggregate of individuals. It treats the state as an institution of virtue and balances liberty with equality through affirmative action inspired by Kantian human dignity."
+  },
+  {
+   "page": 12,
+   "title": "T.H. Green's Concept of Positive Liberty",
+   "summary": "T.H. Green defines positive liberty as the capacity to do something worth doing, arguing that state intervention for the poor aids capacity building rather than limiting liberty. He grounds freedom in human dignity inspired by Kant and distinguishes universal rights from mere privileges."
+  },
+  {
+   "page": 13,
+   "title": "T.H. Green on Liberty, Rights, and State",
+   "summary": "T.H. Green's three-part statement links human consciousness to liberty, rights, and the state as a guarantor of rights. Positive liberalism seeks an equilibrium among the competing claims of the individual, society, and the state without sacrificing one for another."
+  },
+  {
+   "page": 14,
+   "title": "T.H. Green on Political Obligation",
+   "summary": "The page reviews various theories of political obligation and presents T.H. Green's argument that will, not force, is the basis of the state. Because the state performs useful functions like hindering hindrances without facing revolution, it demonstrates people's will for its existence."
+  },
+  {
+   "page": 15,
+   "title": "Habermas on Welfare State Legitimation Crisis",
+   "summary": "Marx characterizes the state as an instrument of the capitalist class, prompting Western countries to introduce the welfare state to avoid working-class revolution. Habermas argues that welfare states merely postpone crises, inevitably facing a legitimation crisis manifested in protests and declining governing capacity."
+  },
+  {
+   "page": 16,
+   "title": "Causes of Habermas's Legitimation Crisis",
+   "summary": "According to Habermas, the legitimation crisis arises from the contradiction between political socialism and economic capitalism in welfare states. When rising public expectations exceed the economy's capacity to finance social security, the state must roll back benefits, triggering a crisis of legitimacy."
+  },
+  {
+   "page": 17,
+   "title": "Harold Laski's Political Ideas and Rights",
+   "summary": "Laski was a positive liberal with socialist leanings whose ideas on social and economic rights influenced Pandit Nehru and Part IV of the Indian Constitution. After observing both Western liberty and Soviet achievements, he advocated that the state build capacity and intervene in industry to regulate wages, working hours, and worker benefits."
+  },
+  {
+   "page": 18,
+   "title": "Laski's Functional Theory of Rights",
+   "summary": "Laski posited that the state should maintain rights and that rights and duties are correlated, a concept known as the functional theory of rights. For instance, while capitalists have the right to make profit, they also have a duty to ensure the wellbeing of their workers."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why do classical liberals define the state as a 'necessary evil', and what functions do they assign to it?",
+   "back": "Classical liberals consider the state an evil because it limits individual liberty, but necessary because man is selfish by nature. Consequently, the state must be a minimal nightwatchman state restricted to police functions, specifically internal and external security along with law and order.",
+   "category": "Classical Minimal State",
+   "scanPage": 8
+  },
+  {
+   "front": "How does T.H. Green define positive liberty, and how does state intervention relate to it?",
+   "back": "T.H. Green defines liberty as the capacity of doing something worth doing to fulfill the law of one's being. He asserts that when the state intervenes for the capacity building of the poor, it enhances rather than restricts individual liberty.",
+   "category": "Positive Liberty Concept",
+   "scanPage": 12
+  },
+  {
+   "front": "How does T.H. Green summarize the relationship between liberty, rights, and the state in positive liberalism?",
+   "back": "Green summarizes positive liberalism through the proposition: 'Human consciousness postulates liberty. Liberty involves rights. Rights demand state.' Here, liberty is necessary for personality development, rights require societal moral recognition, and the state acts as the guarantor rather than the originator of rights.",
+   "category": "Green Rights Philosophy",
+   "scanPage": 13
+  },
+  {
+   "front": "Why did T.H. Green argue in 'Principles of Political Obligation' that will, not force, is the basis of the state?",
+   "back": "Green argues that people obey the state because it embodies their will and performs useful functions, such as hindering hindrances to the good life. Its continuous historical survival without revolution demonstrates that sovereign authority is grounded in popular will rather than coercive force.",
+   "category": "Basis Political Obligation",
+   "scanPage": 14
+  },
+  {
+   "front": "What is Jürgen Habermas's core argument regarding the structural causes of the legitimation crisis in welfare states?",
+   "back": "Habermas argues that the welfare state is built on two contradictory principles: socialism in politics and capitalism in economics. When rising public expectations surpass industry's capacity to finance welfare benefits, the state is forced to roll back social security, precipitating a crisis of legitimacy.",
+   "category": "Legitimation Crisis Analysis",
+   "scanPage": 16
+  },
+  {
+   "front": "What evidence does the text cite to illustrate the manifestations of a legitimation crisis in a modern state?",
+   "back": "The text identifies increasing public protests and a decreasing ability of the state to govern as direct indications of a legitimation crisis. A prominent example cited is the widespread public protests in Greece after its government introduced austerity measures to navigate its sovereign debt crisis.",
+   "category": "Welfare Crisis Manifestations",
+   "scanPage": 15
+  },
+  {
+   "front": "What is Harold Laski's functional theory of rights and its view on the relationship between rights and duties?",
+   "back": "Laski maintains that rights and duties are correlated, meaning rights are claims but not empty of duties. Under this functional theory of rights, if a capitalist has the right to make profits, he also has the reciprocal duty to ensure the wellbeing of his workers.",
+   "category": "Laski Functional Rights",
+   "scanPage": 18
+  },
+  {
+   "front": "What is the classical liberal principle of justice and its perspective on the relationship between liberty and equality?",
+   "back": "Classical liberals base justice on merit, rewarding individuals according to socially valued talent. They view social and economic equality as antithetical to liberty, arguing that efforts to enforce material equality reduce freedom and that absolute equality is injustice.",
+   "category": "Classical Liberal Justice",
+   "scanPage": 9
+  }
+ ],
+ "answers": [
+  {
+   "question": "\"Will, not force, is the basis of the state.\" (T.H. Green). Examine this statement with reference to the foundation of political obligation and its radical critiques.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "T.H. Green on Political Obligation and the State",
+   "scanPage": 14,
+   "intro": "In 'Principles of Political Obligation', T.H. Green asserts that the authority of the state rests on the willing consent of citizens rather than coercive force, because the state embodies moral purpose and advances the common welfare.",
+   "body": [
+    "Plato and Aristotle established political obligation by demonstrating that the state is an institution of virtue indispensable for a good life, whereas modern social contractarians like Hobbes justified obedience through the security of life and Locke through removing inconveniences of the state of nature.",
+    "Drawing inspiration from Rousseau's proposition that state legislation expresses the General Will, while steering clear of Hegel's absolutist claim that the state is the march of God on Earth, Green firmly anchors rightful authority in collective moral consciousness rather than coercion.",
+    "T.H. Green maintains that the positive state functions as an enabler to 'hinder the hindrances' to human flourishing; its continuous existence without working-class revolution provides empirical proof that popular will, rather than armed force, forms the authentic basis of political obligation.",
+    "Challenging this liberal harmony, Karl Marx dismissed the state as an executive committee of the bourgeoisie and an instrument of class exploitation, whereas Antonio Gramsci highlighted that popular will is not spontaneous but ideologically manufactured by ruling elites."
+   ],
+   "scholars": [
+    "T.H. Green ('Principles of Political Obligation')",
+    "Plato & Aristotle",
+    "Thomas Hobbes",
+    "John Locke",
+    "Jean-Jacques Rousseau",
+    "Karl Marx",
+    "Antonio Gramsci"
+   ],
+   "conclusion": "Green's formulation successfully humanized the liberal state by reconciling individual liberty with social obligation, demonstrating that enduring democratic stability requires active state promotion of moral personality and public welfare rather than reliance on coercive state power."
+  },
+  {
+   "question": "Examine Jürgen Habermas's thesis of 'legitimation crisis' in the context of the welfare state. Can welfare capitalism permanently resolve the structural contradictions of capitalism?",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Welfare State and the Legitimation Crisis",
+   "scanPage": 16,
+   "intro": "Neo-Marxist philosopher Jürgen Habermas conceptualized the 'legitimation crisis' to demonstrate that the modern welfare state cannot resolve the endemic crisis of capitalism, but merely manages to temporarily postpone systemic breakdown through redistributive social security concessions.",
+   "body": [
+    "Karl Marx originally established that the state acts as the executive committee of the bourgeoisie to enforce capitalist exploitation, prompting Western industrial states to institute welfare measures and social security schemes to preempt imminent working-class socialist revolutions.",
+    "Habermas explains that the welfare model embodies two inherently contradictory principles: political socialism through mass universal franchise and economic capitalism based on private profit, forcing competitive electoral parties to make escalating social promises to secure votes from poorer classes.",
+    "Because popular expectations continuously rise, the financial burden outstrips what the capitalist economy can generate, reaching an objective threshold where domestic industry cannot finance further redistribution, leaving state rollback of social security as the sole remaining alternative.",
+    "When social benefits are rolled back, the welfare state suffers a profound crisis of legitimacy, marked by decreasing governing capacity and surging public unrest, demonstrated by widespread citizen protests in Greece following harsh austerity measures after its sovereign debt crisis."
+   ],
+   "scholars": [
+    "Jürgen Habermas",
+    "Karl Marx",
+    "Antonio Gramsci"
+   ],
+   "conclusion": "Thus, as Habermas diagnoses, welfare concessions merely postpone rather than resolve the contradictions of capitalism; enduring democratic legitimacy requires harmonizing economic productivity with sustainable social security to prevent recurrent crises of state authority."
+  }
+ ]
+}

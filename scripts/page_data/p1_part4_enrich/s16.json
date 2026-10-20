@@ -1,0 +1,158 @@
+{
+ "pages": [
+  {
+   "page": 126,
+   "title": "Democracy, Democratic Culture, and Constitutionalism",
+   "summary": "Democracy can be understood narrowly as a form of government or broadly as a cultural way of life rooted in human dignity, individuality, and rights. Fareed Zakaria emphasizes that constitutionalism and the rule of law must precede democracy to ensure its success."
+  },
+  {
+   "page": 127,
+   "title": "Samuel Huntington's Three Waves of Democracy",
+   "summary": "Samuel P. Huntington explains the global expansion and contraction of democracy through three distinct waves and two reverse waves. The notes also critique the Western discourse of 'Arab Exceptionalism' in light of the Arab Spring."
+  },
+  {
+   "page": 128,
+   "title": "Globalization and David Held's Cosmopolitan Democracy",
+   "summary": "Joseph Stiglitz highlights the democratic deficits of global governance under globalization, noting that a rise in democracies has not democratized the world order. In response to weakened nation-states, David Held proposes a cosmopolitan model of democracy featuring global governance and institutional reforms."
+  },
+  {
+   "page": 129,
+   "title": "Cosmopolitan Reforms and the Lee Thesis",
+   "summary": "This page lists David Held's short-term democratic reforms before examining the relationship between democracy and development. Lee Kuan Yew argues that democracy hinders economic development through indiscipline and slow decision-making, claiming Asian societies instead require distinct Asian values."
+  },
+  {
+   "page": 130,
+   "title": "Critiques of Democracy: Lee Thesis and Larry Diamond",
+   "summary": "Lee Kuan Yew critiques Indian leadership and bureaucracy for favoring populist policies over development-oriented governance. Larry Diamond outlines key paradoxes of democracy, such as political conflict and leaders' fear of losing consent, which can allow autocracies to perform better."
+  },
+  {
+   "page": 131,
+   "title": "Amartya Sen on Democracy and Development Models",
+   "summary": "Amartya Sen argues that democracy is an essential precondition for development and that state investment in health and education builds human capabilities. He illustrates this by contrasting Kerala's social achievements with the social weaknesses of the Gujarat model."
+  },
+  {
+   "page": 132,
+   "title": "Amartya Sen's Democratic Development and India's Practice",
+   "summary": "Amartya Sen maintains that development must be democratized to be inclusive and that people are made fit through democracy. While democracy does not automatically produce development without political will, India's diverse society fundamentally requires strengthening grassroots democracy."
+  },
+  {
+   "page": 133,
+   "title": "Classical and Modern Elitist Theories of Democracy",
+   "summary": "C.B. Macpherson analyzes classical normative models of democracy, comprising the protective model of Locke and Bentham and the developmental model of J.S. Mill. It also introduces modern elitist theories, including Schumpeter's market model and Downs' economic theory, which view democracy as oligarchy."
+  },
+  {
+   "page": 134,
+   "title": "Elitist Theory, Pluralism, and Empirical Theories",
+   "summary": "Elitist scholars define democracy procedurally as the mass election and circulation of competing elites rather than mass empowerment. Robert Dahl introduces pluralist theory as an empirical, procedural model, contrasting normative values with empirical observations."
+  },
+  {
+   "page": 135,
+   "title": "Robert Dahl's Polyarchy and Features of Democracy",
+   "summary": "Robert Dahl presents polyarchy as a realistic approximation of liberal democracy through interest group politics rather than pure oligarchy or ideal democracy. He outlines key institutional requirements of polyarchy, including the rule of law, fundamental rights, free elections, independent judiciary, and the right to dissent."
+  },
+  {
+   "page": 136,
+   "title": "MacPherson's Theory of Democracy",
+   "summary": "MacPherson combines empirical and normative dimensions to argue that liberalism lacks a monopoly over democracy, allowing for socialist and one-party models. He critiques Western democracies as non-egalitarian and introduces two dimensions of power: coercive extractive power and developmental power."
+  },
+  {
+   "page": 137,
+   "title": "MacPherson on Power in Western Democracies",
+   "summary": "In Western countries, capitalists possess maximum extractive and developmental power while workers have neither, resulting in non-egalitarian democracies. MacPherson argues that democracies should transition toward eliminating extractive power while providing equal developmental power, defined as creative freedom, to all."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does Fareed Zakaria argue that constitutionalism must precede the introduction of democracy?",
+   "back": "Zakaria argues that constitutionalism, understood as the rule of law, must come first because democracy's chances of success increase when constitutionalism is already part of the culture, as in Britain. The absence of prior constitutionalism explains why democracy failed in many Third World countries.",
+   "category": "Democratic Culture",
+   "scanPage": 126
+  },
+  {
+   "front": "According to the notes, what was the 'Arab Exceptionalism' discourse and how was it challenged?",
+   "back": "American political scholars formulated 'Arab Exceptionalism' to claim that democracy is incompatible with Islam, which served to justify Western support for Gulf monarchies and dictatorships in Egypt and Tunisia. This discourse was challenged by the Arab Spring, though it later turned into an 'Arab Summer' due to Western geopolitical objectives.",
+   "category": "Waves of Democracy",
+   "scanPage": 127
+  },
+  {
+   "front": "What short-term and long-term reforms does David Held propose in his Cosmopolitan model of democracy?",
+   "back": "In the long term, Held proposes establishing a global government and a global parliament. In the short term, he advocates reforming the UN Security Council, electing regional parliaments like the European Parliament, expanding press freedom, ensuring judicial independence, and strengthening grassroots democracy.",
+   "category": "Cosmopolitan Democracy",
+   "scanPage": 128
+  },
+  {
+   "front": "What is the core argument of the 'Lee Thesis' regarding democracy and economic development?",
+   "back": "Lee Kuan Yew argued that democracy is not conducive to development because it breeds indiscipline and slow decision-making, calling India 'A Nation of Unfulfilled Greatness' for choosing democracy and socialism. He maintained that Asian societies require 'Asian values' like discipline, respect for authority, and social solidarity rather than Western democratic obsessions.",
+   "category": "Democracy and Development",
+   "scanPage": 129
+  },
+  {
+   "front": "What three paradoxes of democracy does Larry Diamond identify as obstacles to stability and development?",
+   "back": "First, democratic competition and disagreements produce conflicts that harm stability. Second, swift administrative action gets paralysed. Third, democracy relies on consent, but leaders fear losing electoral consent and therefore hesitate to enact necessary reforms.",
+   "category": "Paradoxes of Democracy",
+   "scanPage": 130
+  },
+  {
+   "front": "Why do elitist scholars view Western democracies as more democratic than socialist countries?",
+   "back": "Socialist countries possess a monolithic elite operating under a one-party monopoly, whereas Western democracies feature a fractured elite structure across multiple parties. This multi-party fractured structure enables the circulation of elites and allows masses the procedural role of electing among competing elites.",
+   "category": "Elitist Democratic Theory",
+   "scanPage": 134
+  },
+  {
+   "front": "How does Robert Dahl define 'polyarchy' and what institutional features characterise it?",
+   "back": "Dahl defines polyarchy as 'approximate democracy', offering a realistic depiction of liberal democracies that are neither pure oligarchies nor ideal democracies. Its key features include the rule of law, fundamental rights, free and fair elections, freedom of the press, freedom to form associations, the right to dissent, and an independent judiciary.",
+   "category": "Pluralist Theory",
+   "scanPage": 135
+  },
+  {
+   "front": "How does C.B. Macpherson analyse extractive power and developmental power in Western capitalist democracies?",
+   "back": "Extractive power is coercive power forcing individuals to do what they would not otherwise do, while developmental power represents the development of human capacities and creative freedom. In Western capitalist societies, capitalists hold 99-100% of both powers while workers hold 0-1%, creating a non-egalitarian system that must transition toward zero extractive power and universal developmental power.",
+   "category": "Macpherson Democratic Theory",
+   "scanPage": 136
+  }
+ ],
+ "answers": [
+  {
+   "question": "Explain the relationship between democracy and development with reference to India and China. Is democracy a pre-condition or an obstacle to development?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Democracy and Development Debate",
+   "scanPage": 129,
+   "intro": "The relationship between democracy and development remains contested between authoritarian growth models and human-centric approaches. While skeptics view democratic procedures as hindrances to swift economic execution, proponents argue substantive development requires democratic empowerment and capability expansion.",
+   "body": [
+    "Lee Kuan Yew's 'Lee Thesis' contends that democracy impedes economic growth through indiscipline, demagogic leadership, and sluggish decision-making, branding India 'A Nation of Unfulfilled Greatness' while contrasting it with China's disciplined Asian values.",
+    "Larry Diamond underscores structural paradoxes of democracy wherein competitive disagreements generate social conflicts, swift administrative action gets paralysed, and leaders seeking electoral consent hesitate to enact critical long-term economic reforms.",
+    "Countering authoritarian claims, Amartya Sen argues democracy is an indispensable pre-condition for genuine development; China's progress in poverty eradication, health, and education reflected conscious elite human capital investment rather than autocratic virtue.",
+    "Sen examines Indian sub-national trajectories: the Kerala model successfully enhanced capabilities, poverty reduction, and gender equality via education and health spending, whereas the Gujarat model prioritised physical infrastructure while lagging in healthcare and educational indicators.",
+    "Sen concludes that economic growth must be democratised to ensure inclusion, asserting that citizens need not be made fit for democracy; rather, they are made fit through democratic participation, political will, and grassroots empowerment."
+   ],
+   "scholars": [
+    "Lee Kuan Yew",
+    "Amartya Sen",
+    "Larry Diamond"
+   ],
+   "conclusion": "Given India's immense diversity, democracy remains irreplaceable despite procedural frictions. Sustained developmental success requires transcending populist paralysis by strengthening grassroots democratic institutions, combining redistributive political will with capable governance to ensure growth remains genuinely egalitarian and inclusive."
+  },
+  {
+   "question": "Critically examine C.B. Macpherson's critique of contemporary empirical theories of democracy and his concept of developmental power.",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Macpherson's Theory of Democracy",
+   "scanPage": 136,
+   "intro": "While classical democratic theories remained purely philosophical and contemporary empirical models reduced democracy to mere electoral procedures, C.B. Macpherson sought a comprehensive synthesis by integrating normative egalitarian goals with an empirical analysis of power relations.",
+   "body": [
+    "Macpherson critiques elitist market models formulated by Joseph Schumpeter and Anthony Downs, which reduce democracy to procedural elite competition and treat oligarchy as an iron law while overlooking normative human empowerment.",
+    "He also evaluates Robert Dahl's pluralist polyarchy as realistic yet procedurally limited, arguing that Western liberal democracy cannot claim a monopoly over democratic forms, which may include socialist or dominant-party models with internal democracy.",
+    "Analysing Western capitalism, Macpherson exposes deep structural inequalities: capitalists monopolise 99-100% of extractive power (coercive capacity) and developmental power, whereas workers possess virtually none, rendering liberal democracies inherently non-egalitarian.",
+    "Echoing Amartya Sen's focus on creative freedom, Macpherson proposes transforming society so that coercive extractive power is eradicated entirely to zero, enabling every individual to achieve equal developmental power and full human capability.",
+    "By synthesising Locke and Mill's classical normative concerns for rights and personality development with modern empirical power metrics, Macpherson establishes that true democracy requires substantive social equality alongside procedural governance."
+   ],
+   "scholars": [
+    "C.B. Macpherson",
+    "Joseph Schumpeter",
+    "Anthony Downs",
+    "Robert Dahl",
+    "Amartya Sen"
+   ],
+   "conclusion": "Macpherson's synthesis reminds us that procedural elections alone cannot guarantee genuine self-realisation. Contemporary democracies must actively eliminate extractive economic coercion and expand universal developmental power, creating an egalitarian social order where political liberty harmonises with substantive human flourishing."
+  }
+ ]
+}

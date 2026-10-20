@@ -1,0 +1,108 @@
+{
+ "pages": [
+  {
+   "page": 51,
+   "title": "Constituent Assembly: Choice of Parliamentary Democracy",
+   "summary": "The Constituent Assembly evaluated partyless, presidential, and direct democracy options, with Gandhians advocating partyless democracy and modernists preferring parliamentary governance. Modernists chose parliamentary democracy due to past experience, day-to-day accountability, collegiate executive decision-making, and better representation of India's diversity."
+  },
+  {
+   "page": 52,
+   "title": "Morris Jones on Indian Parliamentary Democracy",
+   "summary": "Morris Jones noted early apprehensions regarding parliamentary democracy in India due to factors such as Western origins, limited experience, vast diversity, social cleavages, and intense political competition. He further outlined key weaknesses during the Nehru era, including a weak opposition, uncritical backbenchers, and Nehru's concealed dictatorship."
+  },
+  {
+   "page": 53,
+   "title": "Parliamentary Decline from the 1990s",
+   "summary": "This note highlights that the greatest amount of decline in parliamentary democracy occurred from the 1990s."
+  },
+  {
+   "page": 54,
+   "title": "Evolution and Decline of Parliamentary Democracy",
+   "summary": "Parliamentary democracy evolved through the Nehruvian phase and a subsequent phase from the 1960s to 1990s marked by defections, power concentration, and regional party rise. The 1970s saw social movements and the Emergency test democracy, followed by adversarial politics, regionalism, and law-and-order breakdowns."
+  },
+  {
+   "page": 55,
+   "title": "World Bank Parameters for Evaluating Legislatures",
+   "summary": "The World Bank established six parameters to assess legislative functioning: financial accountability, procedural compliance, and operational efficiency. It also evaluates legislative performance through effectiveness of presence, societal relevance, and overall institutional sustainability."
+  },
+  {
+   "page": 56,
+   "title": "Legislative Assessment, Electoral Reforms, and Systemic Alternatives",
+   "summary": "Despite unsatisfactory performance against benchmarks, Indian parliamentary democracy has enacted landmark laws and sustained public trust through high voter turnout. Addressing parliamentary decline requires urgent electoral reforms, while switching to a presidential system is dismissed in favor of reconsidering direct democracy."
+  },
+  {
+   "page": 57,
+   "title": "Direct Democracy Debate and Role of Opposition",
+   "summary": "Scholars like Dipankar Gupta and Neeraja Jayal advocate exploring direct democracy mechanisms in India. Additionally, the page outlines the constitutional role, rights, and statutory recognition of the opposition, noting its limited historical efficacy under the Congress system."
+  },
+  {
+   "page": 58,
+   "title": "Opposition Weaknesses and Proposed Parliamentary Reforms",
+   "summary": "The opposition's lack of solidarity, adversarial boycott tactics, and preference for investigative joint committees over standing committees have contributed to legislative decline. Suggested remedies include electoral reforms, reforming the Speaker and anti-defection laws, codifying parliamentary privileges, and setting minimum working hours."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did modernists like Nehru and Ambedkar choose a parliamentary system over a presidential system or direct democracy?",
+   "back": "They preferred a parliamentary system because of prior experience with its working, continuous day-to-day accountability to the legislature, and its collegiate cabinet executive. Furthermore, they considered it far better suited for representing India's immense diversity.",
+   "category": "Parliamentary System Rationale",
+   "scanPage": 51
+  },
+  {
+   "front": "What apprehensions and weaknesses regarding Indian parliamentary democracy were highlighted by Morris-Jones?",
+   "back": "In 'Parliament in India', Morris Jones argued that parliamentary democracy was western in origin and operated within traditional social cleavages that foster adversarial rather than consensual politics. For the Nehruvian period, he noted a lack of opposition, uncritical backbenchers, and Nehru's concealed dictatorship.",
+   "category": "Western Scholarly Critiques",
+   "scanPage": 52
+  },
+  {
+   "front": "What major factors led to the decline of parliamentary democracy between the 1960s and 1990s?",
+   "back": "The decline began with Nehru's death, the breakdown of the Congress system, rampant defections, and Indira Gandhi centralizing power at the expense of the cabinet system. It was further aggravated by economic failures, rising corruption, regional party emergence, and fading nationalist idealism.",
+   "category": "Decline of Parliament",
+   "scanPage": 54
+  },
+  {
+   "front": "What are the six parameters outlined by the World Bank to evaluate the functioning of a legislature?",
+   "back": "The World Bank evaluates legislatures through financial accountability and compliance with self-formulated procedural rules. It also assesses efficiency in terms of work quality, time, and cost, alongside institutional effectiveness, societal relevance, and long-term sustainability.",
+   "category": "Legislative Evaluation Parameters",
+   "scanPage": 55
+  },
+  {
+   "front": "What proposition do scholars Prof. Dipankar Gupta and Neeraja Jayal advance regarding direct democracy in India?",
+   "back": "Prof. Dipankar Gupta and Neeraja Jayal argue that India must give serious consideration to transitioning toward direct democracy. In their view, the core question is no longer whether India should adopt direct democracy, but rather how and when to do so.",
+   "category": "Direct Democracy Debate",
+   "scanPage": 57
+  },
+  {
+   "front": "What deficiencies characterize the functioning of the parliamentary opposition in India according to the notes?",
+   "back": "The opposition often violates the norm that it should have its say while the government has its way, resorting instead to walkouts and sabotaging governance. Furthermore, it neglects standing committees and prefers Joint Parliamentary Committees (JPCs) as investigative tools for scams.",
+   "category": "Role of Opposition",
+   "scanPage": 58
+  }
+ ],
+ "answers": [
+  {
+   "question": "Discuss the factors leading to the decline of Parliament in India, and evaluate the institutional and electoral reforms required to revitalize its constitutional role.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Union Parliament: Functioning, Decline, and Representation",
+   "scanPage": 54,
+   "intro": "The Constituent Assembly chose parliamentary democracy for accountability and representation of diversity. However, as evaluated against World Bank parameters, the functioning of the Union Parliament has witnessed significant institutional decline across successive phases of India's political development.",
+   "body": [
+    "Early Structural Concerns: Modernists Jawaharlal Nehru and B.R. Ambedkar preferred parliamentary democracy for accountability and diversity. However, Morris Jones in 'Parliament in India' noted early weaknesses, including absent opposition, uncritical backbenchers, and Nehru's concealed dominance within an adversarial traditional society.",
+    "Decline and Authoritarian Strain: Post-1960s breakdown of the Congress system, defections, and centralisation under Indira Gandhi weakened cabinet governance. Rising corruption, economic failure, and 1970s agitations like Chipko and Jay Prakash Narayan's Total Revolution led to the Emergency, severely testing parliamentary resilience.",
+    "Institutional Dysfunction: Evaluated against World Bank parameters of compliance, efficiency, and sustainability, parliament's record is deficient. The opposition frequently sabotages governance, stages walkouts, fuels ordinance raj, and favors Joint Parliamentary Committees to investigate scams over functional standing committees.",
+    "Reform Pathways: While Prof. Dipankar Gupta and Neeraja Jayal suggest deliberating direct democracy, reviving parliament demands urgent electoral reforms. Recommended interventions include barring criminal elements, adopting the British convention for the Speaker, codifying parliamentary privileges, and reforming anti-defection provisions."
+   ],
+   "scholars": [
+    "Morris Jones ('Parliament in India')",
+    "Jawaharlal Nehru",
+    "B.R. Ambedkar",
+    "Indira Gandhi",
+    "Jay Prakash Narayan",
+    "World Bank",
+    "Prof. Dipankar Gupta",
+    "Neeraja Jayal"
+   ],
+   "conclusion": "Despite operational decline, Parliament has delivered landmark legislations like Right to Education and RTI, while robust voter turnout reaffirms democratic trust. Prioritizing mother-of-all electoral reforms and strengthening institutional ethics will enable Indian parliamentary democracy to realize its full potential."
+  }
+ ]
+}

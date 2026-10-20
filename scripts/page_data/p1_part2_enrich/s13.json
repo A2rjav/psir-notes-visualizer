@@ -1,0 +1,73 @@
+{
+ "pages": [
+  {
+   "page": 105,
+   "title": "Concept and Scheme of Fundamental Rights",
+   "summary": "The page discusses the concept of Fundamental Rights as limiting state sovereignty based on natural rights, noting how India's scheme deviates by including state intervention, protections against society, and rights for non-citizens. It also lists the constitutional scheme of Fundamental Rights covering Articles 12 through 31."
+  },
+  {
+   "page": 106,
+   "title": "Fundamental Rights Scheme: Articles 31A to 35",
+   "summary": "This page continues the Fundamental Rights scheme from Article 31A through Article 35, highlighting constitutional amendments that shield certain laws and directive principles from legal challenge. It also notes that only Parliament can determine punishments for acts considered offences under Part III."
+  },
+  {
+   "page": 107,
+   "title": "Provisions and Doctrines of Judicial Review",
+   "summary": "The page introduces Judicial Review originating from the USA's Marbury vs Madison case and lists relevant constitutional articles such as 13, 32, 131–136, and 226. It also enumerates core doctrines of Judicial Review, including severability, eclipse, liberal and literal interpretation, and due process of law."
+  },
+  {
+   "page": 108,
+   "title": "Due Process and Judicial Review Doctrines",
+   "summary": "This page distinguishes procedural from substantive due process, citing the Shatrugan Chauhan case regarding commutation of death sentences due to mercy petition delays. It also covers the doctrine of prospective overruling from the Golaknath case, colorable legislation, pith and substance, basic structure, and the rejection of the doctrine of waiver in India."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does the Indian scheme of Fundamental Rights deviate from the classical philosophy of natural rights?",
+   "back": "The Indian scheme deviates in three specific ways: Part III contains clauses for state intervention rather than only prohibitions against the state, rights are enforceable against both the state and society, and certain rights extend to non-citizens.",
+   "category": "Fundamental Rights Concept",
+   "scanPage": 105
+  },
+  {
+   "front": "What immunity was granted to laws implementing Directive Principles under Article 31C through constitutional amendments?",
+   "back": "The 25th Amendment Act, 1971 introduced Article 31C ensuring that laws implementing Article 39(b) and 39(c) cannot be challenged for violating Articles 14, 19, or 31. Subsequently, the 42nd Amendment Act, 1976 stipulated that government implementation of any directive principle cannot be challenged.",
+   "category": "Constitutional Amendments and DPSP",
+   "scanPage": 106
+  },
+  {
+   "front": "What does the Doctrine of Severability entail, and what statutory examples are cited for its application?",
+   "back": "The Doctrine of Severability stipulates that an entire law is not to be declared invalid if unconstitutional portions can be separated. The notes cite the IT Act and the Anti-defection law as examples of its application.",
+   "category": "Doctrines of Judicial Review",
+   "scanPage": 107
+  },
+  {
+   "front": "How did the Supreme Court apply procedural due process in the Shatrugan Chauhan case?",
+   "back": "In the Shatrugan Chauhan case, the Supreme Court asserted procedural due process by questioning the wisdom of the executive. It held that an unnecessary delay in deciding a mercy petition empowers the court to convert a death sentence into life imprisonment.",
+   "category": "Due Process of Law",
+   "scanPage": 108
+  }
+ ],
+ "answers": [
+  {
+   "question": "Explain the concept of Judicial Review and analyze the various doctrines of Judicial Review applied by the Indian judiciary.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Judicial Review and Constitutional Doctrines",
+   "scanPage": 107,
+   "intro": "Tracing its lineage to the American Marbury vs Madison case, judicial review in India checks the arbitrary exercise of state power, protects individual sovereignty, and enforces constitutional supremacy through Articles 13, 32, and 226.",
+   "body": [
+    "Deriving its institutional roots from the United States precedent in the Marbury vs Madison case, the Indian judiciary initially restricted its supervisory jurisdiction under procedure established by law, relying strictly upon the doctrine of literal interpretation in the AK Gopalan case.",
+    "This mechanical reading transitioned into the doctrine of liberal interpretation in the Menaka Gandhi case, which incorporated due process of law grounded in natural justice, harmonizing substantive due process questioning legislative wisdom with procedural due process questioning executive actions.",
+    "In the Shatrugan Chauhan case, the Supreme Court concretely asserted procedural due process by questioning the wisdom of the executive, ruling that an unnecessary delay in deciding mercy petitions empowers the court to convert a death sentence into life imprisonment.",
+    "First applied in the Golaknath case, the American doctrine of prospective overruling enabled the Supreme Court to overrule constitutional interpretations prospectively rather than via review petitions, operating alongside basic structure, severability, and eclipse while rejecting the US doctrine of waiver."
+   ],
+   "scholars": [
+    "Marbury vs Madison case",
+    "AK Gopalan",
+    "Menaka Gandhi",
+    "Shatrugan Chauhan case",
+    "Golaknath case"
+   ],
+   "conclusion": "By harmonizing the presumption of constitutionality with dynamic doctrines like basic structure and due process, judicial review successfully checks arbitrary state power, protects individual sovereignty, and ensures the enduring supremacy of the rule of law."
+  }
+ ]
+}

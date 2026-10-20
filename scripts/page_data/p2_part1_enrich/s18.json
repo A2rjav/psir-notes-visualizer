@@ -1,0 +1,84 @@
+{
+  "pages": [
+    {
+      "page": 182,
+      "title": "SAARC objectives, principles and achievements",
+      "summary": "Opens by saying that, given the asymmetry in power, bilateral negotiation with India was not advisable, then lists SAARC's objective (peace and prosperity) and three principles: non-interference, no bilateral disputes, and consensus with a veto for every member. Assesses SAARC as achieving little, listing the satellite, food bank, South Asian University, milk grid, development fund, games and SAPTA."
+    },
+    {
+      "page": 183,
+      "title": "Low intra-regional trade, SAPTA and SAFTA",
+      "summary": "Compares intra-regional trade in the EU (over 64%), NAFTA (over 50%), ASEAN (over 26%) and Mercosur (over 17%), and blames low South Asian trade on illegal trade and SAPTA's restrictive positive list. Describes SAFTA, agreed at the 2004 Islamabad summit, with its negative list, LDC treatment, dispute settlement body and compensation to LDCs."
+    },
+    {
+      "page": 184,
+      "title": "SAFTA's promise and causes of SAARC's failure",
+      "summary": "Says SAFTA would have been a major achievement for a region of 1.6 bn people, over 60% of them under 30, that needs economic integration to face poverty and extremism. Lists causes of failure such as India-Pakistan rivalry, protectionism, external factors, asymmetry, pending disputes and weak political will."
+    },
+    {
+      "page": 185,
+      "title": "More causes of failure; SAARC's future and BBIN",
+      "summary": "Completes the causes of failure, including the lack of a shared South Asian identity, and notes the Indian government's low interest in SAARC and its two-speed proposal. After Pakistan's veto on the Motor Vehicle Agreement at the 2014 Kathmandu summit, India signed it with Bangladesh, Nepal and Bhutan, creating the BBIN platform, which Bhutan's parliament has not ratified."
+    },
+    {
+      "page": 186,
+      "title": "BIMSTEC: origins and significance",
+      "summary": "Traces BIMSTEC from its 1997 start as BIST to its present name after Nepal and Bhutan joined in 2004. Presents it as SAARC minus Pakistan and a bridge between South Asia and South East Asia, revived from 2014 with a secretariat in Dhaka."
+    },
+    {
+      "page": 187,
+      "title": "BIMSTEC priorities and economic case",
+      "summary": "Records BIMSTEC countries being invited on the sidelines of the BRICS summit in Goa and the 14 priority areas, including counter terrorism and disaster management. Argues a BIMSTEC FTA can be win-win, citing average growth of 6.9% against 3.1% for the world and a regional GDP of $3 tn."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What three principles govern SAARC, according to the notes?",
+      "back": "Non-interference in domestic affairs; no discussion of bilateral disputes or conflictual matters in SAARC; and a veto for each country, with decisions taken by consensus.",
+      "category": "SAARC principles",
+      "scanPage": 182
+    },
+    {
+      "front": "In what ways was SAFTA more ambitious than SAPTA?",
+      "back": "SAFTA used a sensitive (negative) list instead of SAPTA's restrictive positive list. It also gave differential treatment to LDCs, had a dispute settlement body, and provided compensation for LDC losses and capacity building.",
+      "category": "SAPTA versus SAFTA",
+      "scanPage": 183
+    },
+    {
+      "front": "How did the BBIN platform come into being?",
+      "back": "Pakistan used its veto on India's proposed Motor Vehicle Agreement at the 2014 Kathmandu summit, so India signed it with Bangladesh, Nepal and Bhutan. Bhutan's parliament has not yet ratified it.",
+      "category": "BBIN and sub-regionalism",
+      "scanPage": 185
+    },
+    {
+      "front": "Why is BIMSTEC described as significant for India?",
+      "back": "It is seen as SAARC minus Pakistan, with like-minded Thailand in Pakistan's place, and as a bridge between South Asia and South East Asia. Its focus on connectivity, trade and people-to-people contact resembles Mekong Ganga.",
+      "category": "BIMSTEC significance",
+      "scanPage": 186
+    }
+  ],
+  "answers": [
+    {
+      "question": "SAARC has failed to deliver regional integration despite a formal institutional framework. Examine the causes of its failure and assess whether BIMSTEC can be a pragmatic alternative.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "SAARC's failure and BIMSTEC",
+      "scanPage": 184,
+      "intro": "SAARC was created for peace and prosperity in South Asia on principles of non-interference, no bilateral disputes and consensus with a veto. Yet the notes show a poorly integrated region with stagnant trade, pushing India towards BIMSTEC and sub-regional groupings.",
+      "body": [
+        "Design limits: SAARC keeps bilateral disputes off its agenda and gives each member a veto, so India-Pakistan rivalry, between states holding 80% of land, 85% of population and 90% of GDP, blocks progress. Pakistan's veto on the Motor Vehicle Agreement at Kathmandu in 2014 shows this.",
+        "Weak economics: SAPTA's positive list covered items hardly traded, illegal trade exceeded legal trade, and intra-regional trade stagnated against the EU's 64%. SAFTA's negative list, LDC treatment and dispute body stalled when the 2016 Islamabad summit was called off.",
+        "Structural causes: size asymmetry, pending land, water and ethnic disputes, politics overwhelming economics, China's presence, no external push factor as the USA was for ASEAN and the EU, and young states unwilling to compromise sovereignty.",
+        "Cost of failure: a market of 1.6 bn people, over 60% under 30, faces poverty and extremism that only integration and jobs can address.",
+        "Alternatives: BBIN and BIMSTEC, seen as SAARC minus Pakistan and a bridge to South East Asia, with a Dhaka secretariat and 14 priority areas."
+      ],
+      "scholars": [
+        "SAPTA",
+        "SAFTA (2004 Islamabad summit)",
+        "BBIN Motor Vehicle Agreement",
+        "BIMSTEC",
+        "Mekong Ganga Cooperation"
+      ],
+      "conclusion": "SAARC's weakness is structural: a veto-bound consensus rule and India-Pakistan rivalry. BIMSTEC and BBIN offer pragmatic sub-regional routes to connectivity and trade, but lasting integration still depends on political will and on growth that creates youth employment."
+    }
+  ]
+}

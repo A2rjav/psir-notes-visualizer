@@ -56,6 +56,17 @@ export default function App() {
     setJumpTarget({ id: sectionId, nonce: Date.now() });
   };
 
+  const renderInspector = () => (
+    <ScanInspector
+      activeScanPage={activeScanPage}
+      setActiveScanPage={setActiveScanPage}
+      onClose={() => setShowScanInspector(false)}
+      currentVolume={currentVolume}
+      currentDataset={currentDataset}
+    />
+  );
+  const globalPaneVisible = showScanInspector && isDesktop && viewMode !== 'notes';
+
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 flex flex-col font-sans">
 
@@ -88,13 +99,13 @@ export default function App() {
       />
 
       {/* Main Workspace: Split View with Original Scan Inspector */}
-      <div className="flex-1 flex overflow-hidden relative">
+      <div className="flex-1 flex relative">
 
         {/* Left / Center: Interactive Learning Canvas.
             Every view is keyed by volume so per-volume UI state (section filter, card index,
             selected answer, active cluster) resets instead of leaking into the next volume. */}
-        <main className={`flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8 transition-all duration-300 ${
-          showScanInspector && isDesktop ? 'lg:max-w-[58%] xl:max-w-[62%]' : 'max-w-7xl mx-auto w-full'
+        <main className={`flex-1 min-w-0 p-4 sm:p-6 lg:p-8 transition-all duration-300 ${
+          globalPaneVisible ? 'lg:max-w-[58%] xl:max-w-[62%]' : 'max-w-7xl mx-auto w-full'
         }`}>
           {viewMode === 'notes' && (
             <UniversalVisualNotesView
@@ -105,6 +116,9 @@ export default function App() {
               searchQuery={searchQuery}
               jumpTarget={jumpTarget}
               onJumpHandled={() => setJumpTarget(null)}
+              activeScanPage={activeScanPage}
+              inspectorOpen={showScanInspector && isDesktop}
+              renderInspector={renderInspector}
             />
           )}
 
@@ -136,16 +150,12 @@ export default function App() {
           )}
         </main>
 
-        {/* Right Pane: Original Handwritten Scan Inspector (desktop split-screen) */}
-        {showScanInspector && isDesktop && (
-          <aside className="flex flex-col w-[42%] xl:w-[38%] border-l border-slate-800 bg-slate-900 shadow-2xl z-20">
-            <ScanInspector
-              activeScanPage={activeScanPage}
-              setActiveScanPage={setActiveScanPage}
-              onClose={() => setShowScanInspector(false)}
-              currentVolume={currentVolume}
-              currentDataset={currentDataset}
-            />
+        {/* Right Pane (mind map / flashcards / answers): sticky and exactly one viewport tall, so it
+            never stretches to the page height. In the notes view the inspector is embedded in the
+            section being read instead (see UniversalVisualNotesView). */}
+        {globalPaneVisible && (
+          <aside className="flex flex-col w-[42%] xl:w-[38%] sticky top-16 self-start h-[calc(100vh-4rem)] border-l border-slate-800 bg-slate-900 shadow-2xl z-20">
+            {renderInspector()}
           </aside>
         )}
 
@@ -154,13 +164,7 @@ export default function App() {
       {/* Mobile: full-screen scan overlay (the split pane above is hidden below lg) */}
       {showScanInspector && !isDesktop && (
         <div className="fixed inset-0 z-50 bg-slate-950">
-          <ScanInspector
-            activeScanPage={activeScanPage}
-            setActiveScanPage={setActiveScanPage}
-            onClose={() => setShowScanInspector(false)}
-            currentVolume={currentVolume}
-            currentDataset={currentDataset}
-          />
+          {renderInspector()}
         </div>
       )}
 

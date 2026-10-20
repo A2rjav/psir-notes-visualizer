@@ -1,0 +1,80 @@
+{
+ "pages": [
+  {
+   "page": 146,
+   "title": "Success of Indian Constitution and Democracy",
+   "summary": "India's democracy succeeded despite obstacles because its constitution is a flexible consensus document reconciling liberalism, socialism, Gandhism, and other perspectives. Part IV contains these diverse viewpoints, establishing the constitution as the cornerstone of the nation."
+  },
+  {
+   "page": 147,
+   "title": "Need for National Integration and Regionalism",
+   "summary": "National integration is a strategic and developmental necessity for India to realize its potential as a major power and overcome historical vulnerabilities. However, regionalism poses a major territorial challenge to both the idea and concrete existence of the nation."
+  },
+  {
+   "page": 148,
+   "title": "Regionalism, Autonomy, and Kashmir Conflict Resolution",
+   "summary": "Regionalism is viewed by scholars as a natural long-term trend in India driven by uneven development, scarcity, and modernization. While Tamil nationalism was resolved through democratic accommodation, resolving the multidimensional Kashmir issue was hindered by foreign involvement and excessive force, leading interlocutors to recommend greater regional autonomy."
+  },
+  {
+   "page": 149,
+   "title": "Regionalism as Developmental Crisis and Devolution",
+   "summary": "Regionalism is not inherently a challenge to national integration but reflects uneven development and a crisis of development. The Sarkaria and Punchhi commissions both emphasized the devolution of powers to address regional concerns."
+  },
+  {
+   "page": 150,
+   "title": "Topic List: Sovereignty, RSS, and Farmer Unions",
+   "summary": "This page outlines topics on sovereignty, including its types, monistic theory, and associated criticisms. It also prompts an examination of the RSS as a pressure group and a comparative note on the Bharatiya Kisan Union and Shetkari Sanghatan."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why is the Indian Constitution described as a 'corner stone of a nation' and how has it survived compared to other South Asian constitutions?",
+   "back": "The Indian Constitution survived because it is a consensus document that reconciled alternative perspectives such as socialism, Gandhism, multiculturalism, and environmentalism alongside liberalism in Part IV. This exceptional versatility and flexibility made it the cornerstone of the nation.",
+   "category": "Constitutional Consensus and Philosophy",
+   "scanPage": 146
+  },
+  {
+   "front": "How do liberal, Marxist, and cultural nationalist traditions differ in their conceptualization of the nation?",
+   "back": "Liberals conceptualize the nation as an evolutionary process linked with modernization, whereas Marxists view nationalism as an invented tradition. Conversely, cultural nationalists define the nation as natural and spiritual.",
+   "category": "Theories of Nationalism",
+   "scanPage": 147
+  },
+  {
+   "front": "What dual relationship between democracy and ethnic movements does Atul Kohli highlight?",
+   "back": "In his article 'Can democracies accommodate ethnic movements', Atul Kohli argues that democracy is the major factor fueling ethnic mobilization. However, he also maintains that democratic politics alone possesses the ultimate solution to accommodate these movements.",
+   "category": "Democracy and Ethnic Mobilization",
+   "scanPage": 148
+  },
+  {
+   "front": "According to the Kashmir Interlocutors report, what key grievances fueled the crisis of nation-building in the state?",
+   "back": "The Interlocutors report identified the lack of regional autonomy, excessive interference by the Union government in state administration, and the failure to observe the spirit of Article 370 as the core grievances. To address this crisis, the report recommended granting greater regional autonomy.",
+   "category": "Kashmir Regional Autonomy",
+   "scanPage": 148
+  }
+ ],
+ "answers": [
+  {
+   "question": "Keeping in view political developments in India, explain how the need for national integration and the urge for regional autonomy can be reconciled.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Indian Democracy, Regionalism, and National Integration",
+   "scanPage": 148,
+   "intro": "National integration and regional autonomy form dual imperatives of Indian nation-building. As Nehru conceptualized India as a nation in making, accommodating diverse regional aspirations becomes essential for securing internal unity, realizing developmental potential, and preserving democratic stability.",
+   "body": [
+    "Sanjiv Baruah argues that regionalism is natural for a subcontinental-sized polity like India, while Paul Brass demonstrates that regionalism represents a long-term trend in Indian politics, rooted in uneven development, a culture of scarcity, modernization in traditional society, and the politics of opposition.",
+    "In his article 'Can democracies accommodate ethnic movements', Atul Kohli demonstrates that democratic competition is the major factor driving ethnic mobilization, but emphasizes that democratic politics of accommodation provides the only viable institutional solution for resolving such tensions.",
+    "Divergent regional outcomes illustrate this dynamic: Tamil sub-nationalism achieved permanent resolution through democratic accommodation, whereas in Kashmir and Punjab, governmental reliance on excessive use of force fueled deep alienation and created a severe crisis of legitimacy.",
+    "The Kashmir Interlocutors report recommends regional autonomy, ending excessive Union interference, and observing the spirit of Article 370, while Sarkaria Commission and Punchhi Commission both urge devolution of powers to treat regionalism as a developmental challenge rather than a threat to national integration."
+   ],
+   "scholars": [
+    "Nehru",
+    "Sanjiv Baruah",
+    "Paul Brass",
+    "Atul Kohli ('Can democracies accommodate ethnic movements')",
+    "Kashmir Interlocutors Report",
+    "Sarkaria Commission",
+    "Punchhi Commission"
+   ],
+   "conclusion": "Reconciling national integration with regional autonomy demands moving from coercive centralization to genuine federal devolution. By managing regionalism as a crisis of development and embracing democratic accommodation, India can fulfill its strategic potential and strengthen national unity."
+  }
+ ]
+}

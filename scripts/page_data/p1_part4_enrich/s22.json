@@ -1,0 +1,162 @@
+{
+ "pages": [
+  {
+   "page": 202,
+   "title": "Evolution of Political Science: Ancient Greek Stage",
+   "summary": "Political science originated in Ancient Greece from the word polis and was termed a master science by Aristotle and Barker. In its first stage, it began as a branch of ethics or philosophy where Plato held that politics and ethics cannot be separated."
+  },
+  {
+   "page": 203,
+   "title": "Stages in the Evolution of Political Science",
+   "summary": "The discipline evolved through medieval religious scholastics, Machiavelli's establishment of political autonomy, and a subsequent focus on the state. After World War II, American behavioralists sought to make it a pure science, leading to post-behavioralism in the 1960s to protect its subject matter and relevance."
+  },
+  {
+   "page": 204,
+   "title": "Post-Behavioralism and Nature of Political Science",
+   "summary": "Post-behavioralists viewed political science as an applied science, while modern developments expanded the discipline to include post-modernism, post-colonialism, family, environment, and hybrid fields. Debates over the discipline's nature contrast normative philosophical approaches with behavioralism's push for scientific, non-normative theories."
+  },
+  {
+   "page": 205,
+   "title": "Scientific Status and Utility of Political Science",
+   "summary": "Post-modernism and Foucault established that theories are discourses tied to power, making contemporary political science an interpretative discipline. According to Sabine, political theory functions as a disciplined investigation to solve group problems, interpret political practices, and alter them for a better life."
+  },
+  {
+   "page": 206,
+   "title": "Traditional Approaches and the Philosophical Approach",
+   "summary": "The notes outline traditional approaches to political science and introduce the philosophical approach as the oldest among them. Plato, recognized as the father of political philosophy, defined philosophy as the study of ideas and asserted its supremacy over science."
+  },
+  {
+   "page": 207,
+   "title": "Philosophical Approach: Features, Limitations, and Revival",
+   "summary": "The philosophical approach deals with normative issues and logical reasoning about what ought to be, but faces criticism for producing biased, unverified armchair theories. Despite declining under behavioralism, it experienced a revival following Rawls's theory of justice and critiques of science by post-modernism and the critical school."
+  },
+  {
+   "page": 208,
+   "title": "Historical Approach: Exponents, Features, and Limitations",
+   "summary": "The historical approach views politics and history as deeply intertwined, with thinkers like Machiavelli, Sabine, and Laski arguing that political ideas must be understood within their historical contexts. Limitations include the vastness of history, difficulty in identifying relevant data, and important political concepts that never existed in history."
+  },
+  {
+   "page": 209,
+   "title": "Historical Approach Criticisms and Contextual Approach",
+   "summary": "The historical approach faces criticisms such as unscientific bias, selective historical use by thinkers like Machiavelli, and Karl Popper's critique of historicism in Hegel and Marx. After declining under behavioralism, interest in historical study revived through the contextual approach to interpreting texts."
+  },
+  {
+   "page": 210,
+   "title": "Textual Approach versus Contextual Approach",
+   "summary": "The textual approach advocates literal interpretation where meaning does not change, while the contextual approach interprets texts based on historical contexts of the author and reader. Thinkers like Gadamer and Tully emphasize contextual factors such as effective history and historical circumstances to comprehend political writings."
+  },
+  {
+   "page": 211,
+   "title": "Linguistic Context and Legal Institutional Approach",
+   "summary": "Cambridge school scholars and Derrida highlight linguistic context and deconstruction in text interpretation, noting changing word meanings. The legal-constitutional and institutional approaches focused on state constitutions and institutions until behavioralism caused their decline by prioritizing political behavior and processes."
+  },
+  {
+   "page": 212,
+   "title": "New Institutionalism and the Empirical Approach",
+   "summary": "March and Olson revived the Institutional Approach by arguing that institutions constrain choices, which also led to the structural-functional approach. The Empirical Approach focuses on studying facts through observation and experience, as reflected in the ideas of Plato, Aristotle, Machiavelli, and John Locke."
+  },
+  {
+   "page": 213,
+   "title": "Normative versus Empirical Approaches and Behaviouralism",
+   "summary": "The page contrasts the Normative Approach with the Empirical Approach across criteria such as values versus observable facts, prescription versus description, and what ought to be versus what is. It also introduces the Behavioural movement, describing it as a scientific revolution that altered the discipline's scope, methods, and basic assumptions."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Aristotle and Barker characterize Political Science as a 'master science'?",
+   "back": "Aristotle designated political science as a master science originating from the study of the polis. Barker explained that it is architectonic in character, serving as the master science from which all other practical sciences take their cue and directions.",
+   "category": "Evolution of Discipline",
+   "scanPage": 202
+  },
+  {
+   "front": "How did Machiavelli establish the autonomy of Political Science as an independent discipline?",
+   "back": "Machiavelli was the first thinker to separate politics from ethics and religion, establishing disciplinary autonomy. He argued that political inquiry must rely on empirical observation and historical understanding rather than moral or scholastic doctrines.",
+   "category": "Disciplinary Autonomy",
+   "scanPage": 203
+  },
+  {
+   "front": "How does postmodernism re-evaluate scientific theories and political theory according to Foucault?",
+   "back": "Postmodernism establishes that all theories are discourses and interpretations rather than objective scientific truths. Michel Foucault demonstrates a knowledge-power connection, showing that even scientific theories are not free from the phenomenon of power.",
+   "category": "Nature of Discipline",
+   "scanPage": 205
+  },
+  {
+   "front": "What are the core features and limitations of the philosophical approach in political theory?",
+   "back": "The philosophical approach uses logical reasoning to analyze prescriptive normative issues like justice, equality, and liberty. Its limitation is that in the absence of verifiable data, it risks producing biased armchair theories.",
+   "category": "Philosophical Approach",
+   "scanPage": 207
+  },
+  {
+   "front": "According to Sabine, what three conditions does a sound historical approach satisfy in political study?",
+   "back": "Sabine stated that the historical approach serves all three conditions of an effective approach. These conditions are the factual (what happened), the explanatory (what should happen), and the evaluative (what would have happened).",
+   "category": "Historical Approach",
+   "scanPage": 208
+  },
+  {
+   "front": "Why did David Easton and Karl Popper criticize historical approaches to political theory?",
+   "back": "David Easton blamed historicists like Sabine and Dunning for the decline of political theory by ignoring contemporary empirical reality. Karl Popper criticized Hegel and Karl Marx for committing the guilt of historicism through the ideological use of history.",
+   "category": "Critique of Historicism",
+   "scanPage": 209
+  },
+  {
+   "front": "How do Gadamer and Tully justify the necessity of a contextual approach to political texts?",
+   "back": "Gadamer argues that we live in effective history requiring a fusion of horizons to understand texts. Tully demonstrates that grasping the author's right context reveals Locke's advocacy of property rights as protection for religious dissenters.",
+   "category": "Contextual Textual Debate",
+   "scanPage": 210
+  },
+  {
+   "front": "How did March and Olsen justify the revival of the institutional approach against behaviouralism?",
+   "back": "In 'The New Institutionalism' and 'Rediscovering Institutions', March and Olsen argued that focusing solely on behaviour is insufficient. They asserted that political actors are not completely free because institutions, norms, and procedures constrain their choices.",
+   "category": "Legal Institutional Approach",
+   "scanPage": 212
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically evaluate the normative and empirical approaches in political theory. How do their methodologies, ontological assumptions, and epistemological goals differ?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Normative and Empirical Approaches",
+   "scanPage": 213,
+   "intro": "Political inquiry fundamentally oscillates between normative valuation and empirical observation. Originating with classical thinkers like Plato and Aristotle, these two approaches establish distinct epistemic foundations regarding whether political theory should prescribe ideal arrangements or describe existing political realities.",
+   "body": [
+    "Ontological Focus and Goals: As Plato and Leo Strauss argue, normative approaches prioritize values like justice and equality, prescribing what ought to be through logical reasoning. Conversely, empirical approaches focus on observable facts and what is, maintaining a descriptive orientation.",
+    "Epistemological Criteria and Methods: John Locke establishes empiricism by viewing the human mind as a tabula rasa, deriving knowledge from sensory observation. Consequently, empirical theory evaluates claims as true or false, whereas normative theory evaluates political arrangements as right or wrong.",
+    "Critiques and Limitations: Behaviouralists rejected normative philosophy as unverified armchair theories marked by subjective bias. However, empirical approaches face criticism for inherent status-quoism, whereas normative frameworks remain inherently change-oriented and transformative, seeking ethical improvement rather than static description.",
+    "Revival and Interdependence: While behaviouralists sought pure science, Rawls revived normative theory through his theory of justice. Furthermore, Aristotle and Machiavelli demonstrated that normative theories depend on empirical observation, showing that both approaches remain complementary rather than mutually exclusive."
+   ],
+   "scholars": [
+    "Plato",
+    "Aristotle",
+    "Machiavelli",
+    "John Locke",
+    "Leo Strauss",
+    "Rawls"
+   ],
+   "conclusion": "Ultimately, political science transcends rigid dichotomies between empirical observation and normative prescription. As contemporary critical theory and post-behaviouralism reveal, meaningful political inquiry must synthesize factual empirical grounding with normative valuation to address complex human governance problems effectively."
+  },
+  {
+   "question": "Discuss the significance and limitations of the Historical approach in political theory, and evaluate the contemporary debate between textual and contextual approaches to political texts.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Historical Approach and Textual versus Contextual Interpretation",
+   "scanPage": 209,
+   "intro": "The historical approach asserts that political ideas are deeply embedded in their temporal milieu. As Laski argued, every thinker is a child of their times, making historical understanding indispensable for analyzing the evolution of political concepts.",
+   "body": [
+    "Methodological Foundations: Sabine asserted that the historical approach satisfies three essential conditions: factual (what happened), explanatory (what should happen), and evaluative (what would have happened). Thinkers like Machiavelli considered history, rather than ethical philosophy, the premier guide for political statecraft.",
+    "Inherent Limitations: David Easton criticized historicists like Sabine and Dunning for causing political theory's decline. Karl Popper attacked Hegel and Karl Marx for historicism's ideological distortions, while Machiavelli demonstrated selective bias by utilizing only historical cases that corroborated his preexisting political conclusions.",
+    "Textualism versus Contextualism: While textualists claim repetitive reading reveals unalterable meaning, contextualists insist texts cannot be understood without context. For example, Hobbes's justification of absolute sovereignty remains incomprehensible without examining his era's civil crisis, demonstrating that meaning is inherently contextual.",
+    "Contextualist Extensions: Cambridge scholars Pocock and Skinner advocate linguistic contextualism to capture shifting word definitions, such as Locke's concept of trust. Similarly, Gadamer urges a fusion of horizons, Tully highlights Locke's defense of religious dissenters, and Derrida proposes deconstructive reading."
+   ],
+   "scholars": [
+    "Laski",
+    "Machiavelli",
+    "Sabine",
+    "David Easton",
+    "Karl Popper",
+    "Skinner",
+    "Gadamer",
+    "Derrida"
+   ],
+   "conclusion": "Consequently, the historical approach has transitioned from uncritical historicism to nuanced hermeneutic contextualism. Synthesizing textual reading with linguistic and contextual sensitivity enables contemporary political theory to recover past insights while addressing contemporary democratic dilemmas."
+  }
+ ]
+}

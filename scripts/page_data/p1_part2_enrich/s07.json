@@ -1,0 +1,145 @@
+{
+ "pages": [
+  {
+   "page": 59,
+   "title": "Union Executive: Constitutional and Parliamentary Role of President",
+   "summary": "The page introduces questions on the Union Executive and outlines the President's constitutional role under Article 54 as head of the executive. It also explains the parliamentary theory of having both nominal and real heads for administrative continuity and symbolic neutrality."
+  },
+  {
+   "page": 60,
+   "title": "Nature and Inconsistencies in the Indian Presidency",
+   "summary": "It contrasts the Indian presidency with the British monarchy, highlighting that the Indian president is elected, represents states, and is subject to impeachment under Article 61. It also details inconsistencies in the original constitution regarding ministerial advice under Article 74, assent to amendment bills, and immunity under Article 361 versus accountability under Article 61."
+  },
+  {
+   "page": 61,
+   "title": "Constitutional Inconsistencies, Hindu Code Bill, and Case Law",
+   "summary": "It discusses constitutional provisions regarding the presidential oath and messaging powers, leading to the historical dispute over the Hindu Code Bill between Dr. Rajendra Prasad and the Prime Minister. The issue was clarified by Attorney General M.C. Setalvad and reinforced by Supreme Court rulings in the Samsher Singh and Ram Jawaya cases."
+  },
+  {
+   "page": 62,
+   "title": "24th and 42nd Constitutional Amendments on Presidency",
+   "summary": "The page explains how the 24th and 42nd Amendments made presidential assent to constitutional amendments and acting on ministerial advice mandatory. It notes that the 42nd Amendment codified parliamentary conventions and clarified that violating the constitution entails failing to follow cabinet advice."
+  },
+  {
+   "page": 63,
+   "title": "44th Amendment and R. Venkataraman's View",
+   "summary": "The 44th Amendment Act gave the President partial discretion by allowing advice to be sent back once, reflecting political motivations to check the Prime Minister. Former President R. Venkataraman articulated the President's actual role in a coalition era as a 'copybook President' and an emergency lamp."
+  },
+  {
+   "page": 64,
+   "title": "Co-habitation and Examples of Presidential Activism",
+   "summary": "It defines co-habitation as a situation where the President and Prime Minister belong to different parties, noting how this fosters presidential activism in India. Examples cited include Dr. Rajendra Prasad, Gyani Zail Singh's pocket veto, and K.R. Narayanan's independent actions regarding speeches and Article 356."
+  },
+  {
+   "page": 65,
+   "title": "Abdul Kalam, Bagehot's Executive Theory, and Prime Minister",
+   "summary": "It discusses A.P.J. Abdul Kalam as a populist president and introduces Walter Bagehot's concepts of the dignified and real executive. The text highlights Article 78's role in balancing the Prime Minister and President before introducing the topic of the Prime Minister."
+  },
+  {
+   "page": 66,
+   "title": "Evolution and Models of the Prime Minister's Office",
+   "summary": "The page outlines the nature of the Prime Minister's office in a cabinet government and describes two relationship models with the council of ministers: primus inter pares and inter stellas luna minores. It also notes the historical concentration of executive authority and the shift of power toward the Prime Minister's Office during Lal Bahadur Shastri's tenure."
+  },
+  {
+   "page": 67,
+   "title": "Coalition Politics and the Changing Prime Ministerial Role",
+   "summary": "It describes how the Prime Minister's office centralized under Indira Gandhi and Rajiv Gandhi, followed by the post-1989 rise of coalition governments that fragmented executive power. It notes that while coalitions can reduce a Prime Minister to managing factions, strong political leadership by leaders like Atal Bihari Vajpayee and Manmohan Singh enabled full-term governance."
+  },
+  {
+   "page": 68,
+   "title": "Coalition Dharma and Conclusion on Prime Ministerial Power",
+   "summary": "The page notes that while Prime Minister Manmohan Singh's government secured a second term, it faced difficulties due to a lack of coalition dharma. It concludes that although a Prime Minister in a coalition is less powerful than one with a single-party majority, coalitions do not inevitably weaken the institution."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does the institution of the President in India differ fundamentally from the British Monarch according to the notes?",
+   "back": "India is a republic with an elected President who represents states at the union level, whereas Britain is a monarchy and unitary state. Furthermore, the Indian President can be impeached under Article 61 for violating the Constitution, unlike the British King who enjoys absolute autonomy.",
+   "category": "Constitutional Status of President",
+   "scanPage": 60
+  },
+  {
+   "front": "How was the early constitutional dispute between Dr. Rajendra Prasad and Jawaharlal Nehru resolved regarding presidential powers?",
+   "back": "First Attorney General M.C. Setalvad resolved the Hindu Code Bill controversy by holding that the President has no real powers in a parliamentary system. This principle was subsequently affirmed by the Supreme Court in the Samsher Singh and Ram Jawaya cases, which held that the President is merely a constitutional head.",
+   "category": "Executive Powers and Judgments",
+   "scanPage": 61
+  },
+  {
+   "front": "How did the 42nd Amendment Act clarify the President's constitutional position and the grounds for impeachment?",
+   "back": "The 42nd Amendment amended Article 74 to make ministerial advice binding on the President, clearly establishing the office as a figurehead. It also clarified that violation of the Constitution under Article 61 occurs when the President fails to act according to the advice of the Council of Ministers headed by the Prime Minister.",
+   "category": "Constitutional Amendments",
+   "scanPage": 62
+  },
+  {
+   "front": "How did former President R. Venkataraman characterize the role and discretion of the Indian President during the coalition era?",
+   "back": "Calling himself a 'copybook President', R. Venkataraman established conventions to minimize presidential discretion during hung parliaments. He held that the President in India is like an emergency lamp which comes to power only when the main switch is turned off.",
+   "category": "Discretionary Powers and Conventions",
+   "scanPage": 63
+  },
+  {
+   "front": "What specific actions illustrated the activist presidency of K. R. Narayanan according to the lecture notes?",
+   "back": "President K. R. Narayanan became the first to reject a recommendation for the imposition of Article 356 in Uttar Pradesh. Additionally, he preferred giving a Doordarshan interview over reading the government's Republic Day eve speech and insisted on reading his own speech during US President Bill Clinton's visit.",
+   "category": "Presidential Activism",
+   "scanPage": 64
+  },
+  {
+   "front": "What two models describe the relationship between the Prime Minister and the Council of Ministers in Indian political history?",
+   "back": "The first model is primus inter pares (first among equals), exemplified when Jawaharlal Nehru served alongside Home Minister Sardar Patel. The second model is inter stellas luna minores (moon among lesser stars), which characterized Nehru's preeminent standing after Patel's death when no other minister possessed comparable charisma.",
+   "category": "Prime Minister Models",
+   "scanPage": 66
+  },
+  {
+   "front": "According to M.P. Singh, how does coalition politics alter the authority of the Prime Minister?",
+   "back": "M.P. Singh observed that in coalition politics there is no single Prime Minister but many Prime Ministers, as coalition governance is a fragmented bargain where even the smallest fraction punches beyond its weight. Consequently, the Prime Minister's position is weakened, reducing the officeholder to a manager of the coalition.",
+   "category": "Coalition Politics and Executive",
+   "scanPage": 67
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the constitutional position of the President of India. To what extent is it appropriate to characterize the President as a mere rubber stamp?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Constitutional Position of the President",
+   "scanPage": 62,
+   "intro": "Article 54 designates the President as the nominal head of the Union Executive, while real power resides in the Council of Ministers. Though designed as a constitutional figurehead, historical tensions and institutional ambiguities have repeatedly challenged the rubber-stamp characterization.",
+   "body": [
+    "Early constitutional ambiguities emerged during the Hindu Code Bill controversy when Dr. Rajendra Prasad asserted discretionary powers under Article 60 to protect the Constitution, but Attorney General M.C. Setalvad affirmed that a parliamentary executive permits no independent presidential authority.",
+    "The Supreme Court reinforced this parliamentary logic in the landmark Samsher Singh and Ram Jawaya cases by declaring the President a constitutional head, leading the 42nd Amendment to place conventions into black and white by making ministerial advice binding.",
+    "As scholar James Manor noted, the Constituent Assembly left the office's nature unsettled; however, the 44th Amendment restored partial discretion by empowering the President to return cabinet advice once, enabling activist interventions against hasty legislative or executive measures.",
+    "Former President R. Venkataraman demonstrated that hung parliaments activate vital discretion, functioning like an emergency lamp, while Walter Bagehot's conceptualization shows the dignified executive operates effectively as a vital friend, philosopher, and guide to the political executive."
+   ],
+   "scholars": [
+    "M.C. Setalvad",
+    "Samsher Singh Case",
+    "Ram Jawaya Case",
+    "James Manor",
+    "R. Venkataraman",
+    "Walter Bagehot"
+   ],
+   "conclusion": "Far from being a mere rubber stamp, the Indian President balances constitutional dignity with substantive vigilance. By exercising moral influence under Article 78 and cautious reserve powers, the office ensures democratic continuity without undermining parliamentary cabinet supremacy."
+  },
+  {
+   "question": "Examine the impact of coalition politics on the institution of the Prime Minister in India. Does coalition governance inevitably erode prime ministerial authority?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Prime Minister and Coalition Politics",
+   "scanPage": 67,
+   "intro": "In India's parliamentary architecture, the Prime Minister functions as the keystone of the cabinet arch. The advent of multi-party coalition governance since 1989 fundamentally altered this executive dynamic from unilateral dominance into continuous political bargaining and consensus-building.",
+   "body": [
+    "The office historically fluctuated from Jawaharlal Nehru's primus inter pares alongside Sardar Patel to an inter stellas luna minores model, followed by the shift of power toward the PMO under Lal Bahadur Shastri and personalized rule under Indira Gandhi.",
+    "Since 1989, regular coalition governance fragmented union authority into continuous bargaining where minor fractions punch beyond their weight; as scholar M.P. Singh observed, coalition politics produces not one Prime Minister but many Prime Ministers, reducing the leader to a coalition manager.",
+    "However, institutional authority is not dictated solely by parliamentary numbers; Atal Bihari Vajpayee proved that skillful statecraft, political culture, and accommodation can effectively manage an extensive coalition to complete its full five-year term.",
+    "Similarly, Manmohan Singh demonstrated that effective prime ministerial leadership could complete a full term in UPA-1, though his second tenure highlighted acute institutional erosion when fragmented regional partners defied collective cabinet responsibility due to a deficit of coalition dharma."
+   ],
+   "scholars": [
+    "M.P. Singh",
+    "Jawaharlal Nehru",
+    "Sardar Patel",
+    "L.B. Shastri",
+    "Indira Gandhi",
+    "Atal Bihari Vajpayee",
+    "Manmohan Singh"
+   ],
+   "conclusion": "While coalition politics inevitably curtails unbridled prime ministerial supremacy, it does not inherently weaken the institution. Leadership efficacy ultimately hinges on personal political skill, negotiation capacity, and fostering mutual adherence to coalition dharma within India's federalized parliamentary democracy."
+  }
+ ]
+}

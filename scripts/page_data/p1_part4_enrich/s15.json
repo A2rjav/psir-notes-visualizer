@@ -1,0 +1,158 @@
+{
+ "pages": [
+  {
+   "page": 115,
+   "title": "Concept and History of Ideology",
+   "summary": "Ideology can be understood as a tool to comprehend reality or as a programme of action to organise people and access power. Coined by Count de Tracy as a scientific study of ideas, the term ultimately became politicised."
+  },
+  {
+   "page": 116,
+   "title": "Marxist, Liberal, and Postmodern Views on Ideology",
+   "summary": "Karl Marx distinguished ideology from science and linked it to false consciousness, while Lenin, Gramsci, Popper, and Arendt offered competing Marxist, liberal, and totalitarian perspectives. The term became politicised as thinkers labelled their own ideas scientific and opponents' ideological, leading Foucault to view knowledge and science as discourses."
+  },
+  {
+   "page": 117,
+   "title": "Mannheim's Sociology of Knowledge and End of Ideology",
+   "summary": "Karl Mannheim developed the sociology of knowledge and distinguished between dominant-class ideology and exploited-class utopia. Western scholars like Daniel Bell later proposed the 'End of Ideology' thesis during Detente, arguing that technocratic development and welfare states diminished ideological conflict."
+  },
+  {
+   "page": 118,
+   "title": "End of Ideology Proponents and Critics",
+   "summary": "Thinkers like W.W. Rostow and S.M. Lipset argued that economic growth stages and liberal democracy rendered ideology obsolete. Conversely, critics such as C. Wright Mills, C.B. Macpherson, and Alasdair MacIntyre maintained that inequality persists and that the end of ideology thesis is itself an ideology."
+  },
+  {
+   "page": 119,
+   "title": "End of History and Introduction to Postmodernism",
+   "summary": "The End of History thesis revives the End of Ideology by asserting that liberalism is the final point of human ideological evolution. Postmodernism arose as a movement and school of thought challenging modernity's assumptions, with Nietzsche regarded as its father for questioning enlightenment."
+  },
+  {
+   "page": 120,
+   "title": "Nietzsche's Philosophy and Einstein's Relativity",
+   "summary": "Nietzsche argued that morality is dead, truth is subjective perception, and the dominant will to power connects power with knowledge. Similarly, Einstein's theory of relativity challenged traditional views of objective reality by demonstrating that observation depends on time, space, and the observer."
+  },
+  {
+   "page": 121,
+   "title": "Thomas Kuhn's Paradigms and Critiques of Modernity",
+   "summary": "Thomas Kuhn argued that scientific progress occurs through shifting conceptual paradigms rather than final, unchanging knowledge. In addition, postmodernism challenges modernity's foundational assumptions of foundationalism and universalism."
+  },
+  {
+   "page": 122,
+   "title": "Contrasting Modernism and Postmodernism",
+   "summary": "While modernism envisions an orderly universe and relies on objective reality, science, and totalising meta-narratives, postmodernism views the universe as chaotic. Consequently, postmodernism advocates for subjective experience, local narratives, diversity, decentralisation, and radical democracy."
+  },
+  {
+   "page": 123,
+   "title": "Postmodern Thinkers: Foucault, Lyotard, and Derrida",
+   "summary": "Modernity prioritises control and transcendental truth, whereas postmodernism champions freedom and multiple individual truths. Key postmodern thinkers include Foucault with his theory of discourse, Lyotard who defined postmodernism as incredulity toward meta-narratives, and Derrida who proposed deconstruction."
+  },
+  {
+   "page": 124,
+   "title": "Postmodern Ideology Critique and Post-Colonialism",
+   "summary": "Postmodernists criticize ideology and science as power-serving discourses and meta-narratives rather than objective truths. Influenced by postmodernism, post-colonialism and Edward Said's concept of Orientalism critique Eurocentrism and Western hegemonic constructions of the East."
+  },
+  {
+   "page": 125,
+   "title": "Postcolonial thinkers: Bhabha, Said, and Spivak",
+   "summary": "Homi Bhabha questions modernity's binaries and introduces hybridity to counter depictions justifying Western domination over the East, while Edward Said links knowledge of the Orient to power relations. Gayatri Spivak argues that Eurocentric academia excludes peripheral perspectives and questions whether the subaltern has the capacity to speak."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Who coined the term 'ideology', and what was its original intended purpose?",
+   "back": "The term was coined by French scholar Count d Tracy during the enlightenment and scientific revolution. Tracy intended to establish a school for the scientific and systematic study of ideas.",
+   "category": "Origins of Ideology",
+   "scanPage": 115
+  },
+  {
+   "front": "How does Karl Mannheim distinguish between 'ideology' and 'utopia' in his sociology of knowledge?",
+   "back": "Mannheim explains that all knowledge is rooted in class interests, defining ideology as ideas representing the dominant class, such as liberalism. In contrast, utopia represents ideas advancing the interests of the exploited class, such as communism.",
+   "category": "Sociology of Knowledge",
+   "scanPage": 117
+  },
+  {
+   "front": "What are the core arguments of Daniel Bell's 'End of Ideology' thesis?",
+   "back": "Bell argued that politics has moved to the backseat while economics and development are at the forefront, with bureaucratic and technocratic systems emerging in both East and West. Furthermore, the conflict between labour and capital was largely resolved by the welfare state in Western nations.",
+   "category": "End of Ideology",
+   "scanPage": 117
+  },
+  {
+   "front": "How did C. Wright Mills, C.B. Macpherson, and Alasdair MacIntyre critique the End of Ideology thesis?",
+   "back": "Mills argued Western societies never established an equilibrium between rich and poor, while Macpherson asserted these societies remain far from egalitarian. MacIntyre contended that declaring the end of ideology is itself an ideology.",
+   "category": "Critique of Ideology",
+   "scanPage": 118
+  },
+  {
+   "front": "How does Thomas Kuhn explain the development and crisis of scientific paradigms?",
+   "back": "In 'The structure of scientific Revolution', Kuhn explains that scientists work within conceptual frameworks called paradigms that answer existing questions. When unresolved questions accumulate, the paradigm enters crisis and is eventually rejected for a new one, showing that scientific knowledge lacks finality.",
+   "category": "Scientific Revolutions",
+   "scanPage": 121
+  },
+  {
+   "front": "How does Lyotard define meta-narratives and post-modernity?",
+   "back": "Lyotard defines meta-narratives as totalising theories that attempt to provide comprehensive explanations across various events and spheres of life. In 'The Post Modern condition', he describes postmodernism as incredulity towards meta-narratives, advocating instead for local and multiple narratives.",
+   "category": "Postmodern Political Theory",
+   "scanPage": 123
+  },
+  {
+   "front": "What is Jacques Derrida's concept of de-construction and why does he propose double reading?",
+   "back": "Derrida views de-construction as an approach to understanding meanings, arguing that human language cannot perfectly communicate what a person intends nor can recipients receive it without distortion. Because texts have multiple possible interpretations, he suggests double reading.",
+   "category": "Deconstruction Approach",
+   "scanPage": 123
+  },
+  {
+   "front": "What is Edward Said's concept of Orientalism and its relationship to power?",
+   "back": "Said explains that Orientalism describes how the West constructed representations of the East to establish hegemony and justify its civilising mission. Drawing on Foucault, he asserts that knowing the Orient was never free from relations of power and acted as an ally of capitalism.",
+   "category": "Postcolonial Theory",
+   "scanPage": 124
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the 'End of Ideology' debate. How was this thesis critiqued by contemporary political thinkers?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "End of Ideology Debate",
+   "scanPage": 117,
+   "intro": "The 'End of Ideology' thesis emerged in the 1960s and 1970s during the Detente era, asserting that major ideological struggles were over as economic development, technocratic governance, and bureaucratic welfare states superseded traditional politics across both East and West.",
+   "body": [
+    "Daniel Bell asserted that development displaced politics to the backseat, showing that Western welfare states resolved conflict between labour and capital while technocratic, bureaucratic institutions emerged across both the West and Soviet East.",
+    "W.W. Rostow reinforced this developmental thesis through stages of economic growth, arguing ideology ceases to matter across societies, while S.M. Lipset claimed universal acknowledgement exists that liberal democracy provides the only viable way of life.",
+    "Socialist critics rejected the thesis as a concealed defence of Western capitalism, with C. Wright Mills demonstrating that Western societies failed to establish genuine equilibrium between the rich and the poor.",
+    "C.B. Macpherson argued that Western societies remain far from egalitarian, meaning politics has not lost its importance, while Alasdair MacIntyre asserted that declaring the end of ideology is itself an ideological stance.",
+    "Francis Fukuyama revived this perspective through his End of History thesis, asserting far more aggressively that Western liberal democracy represents the final end point of mankind's ideological evolution."
+   ],
+   "scholars": [
+    "Daniel Bell ('End of Ideology')",
+    "W.W. Rostow",
+    "S.M. Lipset",
+    "C. Wright Mills",
+    "C.B. Macpherson",
+    "Alasdair MacIntyre",
+    "Francis Fukuyama"
+   ],
+   "conclusion": "While managerial consensus characterized the Detente era, ideology remains indispensable for political contestation. Far from disappearing, ideological debate continuously evolves to articulate structural inequalities, alternative futures, and competing visions of human emancipation."
+  },
+  {
+   "question": "What are meta-narratives? Discuss how postmodernism critiques totalising ideologies and challenges the foundational premises of modernity.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Modernism, Postmodernism, and Meta-narratives",
+   "scanPage": 122,
+   "intro": "Coined by Lyotard, meta-narratives represent totalising, comprehensive theoretical frameworks explaining human events across all spheres of life, which postmodernism vigorously challenges by rejecting modern assumptions of foundationalism, universalism, objective reality, and scientific authority.",
+   "body": [
+    "Nietzsche challenged Enlightenment claims of human emancipation, asserting that morality is dead, truth is merely perception, and the will to power inextricably binds knowledge systems to relations of domination.",
+    "Scientific epistemologies were fundamentally questioned by Einstein's theory of relativity and Thomas Kuhn's concept of paradigms in 'The Structure of Scientific Revolutions', proving that scientific frameworks experience crises without possessing ultimate finality.",
+    "Postmodernism directly repudiates modernity's foundationalism and universalism, maintaining that the universe is in chaos and flux rather than order, thereby replacing universalist claims with subjective experience, diversity, and radical democratic dispersal of power.",
+    "In 'The Post Modern Condition', Lyotard defined postmodernism as incredulity towards meta-narratives like Marxism and religion, championing local narratives, while Derrida introduced de-construction and double reading to reveal multiple textual meanings.",
+    "Foucault conceptualized knowledge and science as discourses entwined with power, demonstrating that ideologies operate not to discover objective truth, but to advance the power interests of specific social groups."
+   ],
+   "scholars": [
+    "Nietzsche",
+    "Einstein",
+    "Thomas Kuhn ('The structure of scientific Revolution')",
+    "Lyotard ('The Post Modern condition')",
+    "Derrida",
+    "Foucault"
+   ],
+   "conclusion": "While postmodernism successfully decentralizes dogmatic meta-narratives and sensitizes political theory to plural voices, constructive political action still requires shared ethical baselines to protect human freedoms and counter systemic marginalization in an interconnected world."
+  }
+ ]
+}

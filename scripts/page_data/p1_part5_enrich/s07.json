@@ -1,0 +1,112 @@
+{
+ "pages": [
+  {
+   "page": 55,
+   "title": "Aristotle's Theory of Justice and Merit",
+   "summary": "Aristotle divides justice into distributive justice executed by the legislature according to merit and rectificatory justice administered by courts. He rejects absolute equality in favor of proportionate equality, stating rewards should match the societal value of a person's work."
+  },
+  {
+   "page": 56,
+   "title": "Aristotle's Theory of Justice and Meritocracy",
+   "summary": "Aristotle links justice with proportionate equality and warns that feeling unequal or treated unjustly triggers revolutions and seditions. While he advocates for a meritocratic society, modern perspectives like Rawls and the Indian Constitution note that merit alone cannot define justice without a level playing field."
+  },
+  {
+   "page": 57,
+   "title": "Aristotle's Theory and Classification of Constitutions",
+   "summary": "Aristotle classifies constitutions by the number of rulers and their purpose, contrasting normal rule in the public interest with corrupt self-interested rule. Regarded as the father of constitutionalism, he presents polity as the best practicable form of government based on the golden mean."
+  },
+  {
+   "page": 58,
+   "title": "Aristotle's Six Constitutions and Defense of Polity",
+   "summary": "After analyzing 158 constitutions, Aristotle identifies polity—governance by the middle class—as the best practicable system and the golden mean between oligarchy and democracy. He notes that the rich suffer from arrogance and the poor from ignorance, whereas both groups trust the middle class."
+  },
+  {
+   "page": 59,
+   "title": "Middle Class Stability and Aristotle's Rule of Law",
+   "summary": "Aristotle argues that a large middle class stabilizes society by embodying the golden mean and avoiding the extremes of wealth and poverty. He establishes the superiority of the rule of law over Plato's philosopher king, defining law as reason without passion."
+  },
+  {
+   "page": 60,
+   "title": "Aristotle's Defense of the Rule of Law",
+   "summary": "Aristotle equates law with reason, noting that written law is an impersonal guide to right and wrong that excludes passion. He asserts that the rule of law embodies collective wisdom and the wisdom of ages, warning against sacrificing the achievable good for the unachievable best."
+  },
+  {
+   "page": 61,
+   "title": "Aristotle's Theory and General Causes of Revolution",
+   "summary": "Aristotle defines revolution as any change in a political system, whether minor, major, peaceful, or violent, emphasizing political stability. Drawing from 158 constitutions, he identifies the psychological feeling of inequality or injustice as the primary general cause of revolutions, alongside corruption and class rivalry."
+  },
+  {
+   "page": 62,
+   "title": "Regime Revolutions and Aristotle's Political Science",
+   "summary": "Aristotle outlines regime-specific causes of revolution with preventive solutions like civic virtue and obedience to law, before being evaluated as the father of political science. Unlike Plato's detached theory of ideas, Aristotle adopts a practical approach where forms and ideas remain inherent in material reality."
+  },
+  {
+   "page": 63,
+   "title": "Aristotle's Legacy and Centrality of Constitutions",
+   "summary": "Utilizing empirical methods inspired by his physician father, Aristotle emerged as the father of political science, constitutionalism, and the rule of law. His systematic study and classification of 158 constitutions proves that constitutional analysis forms the central foundation of his Politics."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What is the distinction between desert and merit in Aristotle's theory of distributive justice?",
+   "back": "Desert refers to a person's individual talent and what they deserve, whereas merit is a social concept reflecting the value that society places upon a particular work. Under distributive justice, Aristotle advocates the principle of merit, meaning rewards should correspond to the importance of a person's work for society.",
+   "category": "Theory of Justice",
+   "scanPage": 55
+  },
+  {
+   "front": "How does Aristotle link proportionate equality to justice and the prevention of revolution?",
+   "back": "Aristotle argues that it is unjust to treat equals unequally and unequals equally, rejecting absolute equality in favor of proportionate equality. If a state discriminates against meritorious individuals or treats unequals equally, it generates a feeling of injustice, which is the most common cause of revolution.",
+   "category": "Equality and Justice",
+   "scanPage": 56
+  },
+  {
+   "front": "What two parameters does Aristotle use to classify constitutions into normal and perverted forms?",
+   "back": "Aristotle classifies constitutions based on two parameters: the objective of governance and the number of persons ruling. Rule can be in the common interest of the people (normal) or in self-interest (perverted), producing six forms across rule by one, few, or many.",
+   "category": "Constitutional Classification",
+   "scanPage": 58
+  },
+  {
+   "front": "Why does Aristotle consider polity to be the best practicable form of government?",
+   "back": "Polity is the rule of the middle class in the interest of the people, representing the golden mean between oligarchy and democracy. It avoids the extremes of arrogance found in the rich and ignorance found in the poor, ensuring stability because both classes trust the middle class.",
+   "category": "Polity and Governance",
+   "scanPage": 58
+  },
+  {
+   "front": "Why does Aristotle consider the rule of law superior to the rule of a philosopher king?",
+   "back": "Aristotle defines law as reason without passion, making it impersonal and immune to emotional bias. Unlike a single philosopher king who may act with passion, law represents collective wisdom and the wisdom of ages, which should not be sacrificed for an unachievable ideal.",
+   "category": "Rule of Law",
+   "scanPage": 60
+  },
+  {
+   "front": "How does Aristotle define revolution, and what does he identify as its most common general cause?",
+   "back": "For Aristotle, revolution means any change in the political system, whether big or small, peaceful or violent, or a change in the constitution. The commonest general cause of revolution across all regimes is the feeling of inequality, real or imagined, which is directly linked to the feeling of injustice.",
+   "category": "Theory of Revolution",
+   "scanPage": 61
+  }
+ ],
+ "answers": [
+  {
+   "question": "Central to Aristotle's political thought is his classification of the different types of Political constitutions in the politics. Evaluate.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Aristotle's Classification of Constitutions",
+   "scanPage": 63,
+   "intro": "In The Politics, Aristotle establishes the classification of constitutions as the foundation of political science. By empirically studying 158 constitutions, he departs from Plato's speculative idealism to identify practicable governance rooted in constitutionalism, stability, and proportionate justice.",
+   "body": [
+    "Aristotle establishes a six-fold taxonomy based on ruling numbers and ethical purpose, contrasting normal rule in the public interest with corrupt self-interest. While Plato favored an absolute philosopher king, Aristotle demonstrates that unchecked monarchy degenerates into tyranny, requiring institutional constitutional restraints.",
+    "Applying his doctrine of the golden mean, Aristotle identifies polity as the best practicable government, avoiding oligarchical and democratic extremes. Citing Solon, he highlights that middle-class rulers possess reason and moderate wealth, earning obedience and trust from both rich and poor.",
+    "Diverging from Karl Marx's conception of revolution as systemic class overthrow, Aristotle treats revolution as any constitutional change. In The Politics, he demonstrates that perceived inequality and injustice universally provoke sedition, whether driven by oligarchical neglect or democratic demagoguery.",
+    "Aristotle establishes the supremacy of the rule of law over Plato's philosopher king, defining law as reason without passion and collective wisdom. Modern systems like the Constitution of India embody this legacy, balancing Aristotelian merit with John Rawls's fairness principle."
+   ],
+   "scholars": [
+    "Aristotle",
+    "Plato",
+    "Solon",
+    "Karl Marx",
+    "John Rawls",
+    "White Head",
+    "The Politics"
+   ],
+   "conclusion": "As White Head observed, Western thought footnotes Plato and Aristotle. Aristotle's classification remains foundational because it harmonizes constitutional design with human nature, proving that enduring political stability rests upon institutional moderation, the rule of law, and social justice."
+  }
+ ]
+}

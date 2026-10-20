@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import {
   BookOpen,
   Sparkles,
@@ -8,6 +8,8 @@ import {
   GraduationCap,
   ScrollText
 } from 'lucide-react';
+import VisualExplainer from './VisualExplainer';
+import { visualExplainers } from '../data/visualExplainers';
 
 export default function UniversalVisualNotesView({ 
   currentVolume, 
@@ -15,7 +17,10 @@ export default function UniversalVisualNotesView({
   onSelectScanPage, 
   searchQuery,
   jumpTarget,
-  onJumpHandled
+  onJumpHandled,
+  activeScanPage,
+  inspectorOpen,
+  renderInspector
 }) {
   const [activeSectionId, setActiveSectionId] = useState('all');
 
@@ -67,6 +72,45 @@ export default function UniversalVisualNotesView({
     })
     .filter(({ concepts }) => !q || concepts.length > 0);
   const matchedConceptTotal = visibleSections.reduce((a, v) => a + v.concepts.length, 0);
+
+  // Visual explainers for this volume: placed in the section holding their first anchor page,
+  // just before the first page-card they refer to (or at the top of the section's pages).
+  const volumeExplainers = visualExplainers.filter(
+    (x) => x.volumeId === currentVolume.id && (x.image || x.video || x.variants?.some((v) => v.image)) &&
+      (!q || has(x.title) || (x.beats || []).some((b) => has(b.label) || has(b.text)))
+  );
+  const explainerSlots = (sec, concepts) => {
+    const slots = {};
+    volumeExplainers
+      .filter((x) => (sec.scanPages || []).includes(x.anchorPages[0]))
+      .forEach((x) => {
+        const i = concepts.findIndex((c) => x.anchorPages.includes(c.scanPage));
+        const at = i === -1 ? 0 : i;
+        (slots[at] = slots[at] || []).push(x);
+      });
+    return slots;
+  };
+
+  // The scan inspector lives INSIDE the section that contains the open scan page, as a sticky pane
+  // that stays beside that section's text while you scroll through it. When the section ends the
+  // pane ends with it, and the following sections use the full width again.
+  const paneSectionId = inspectorOpen && visibleSections.length
+    ? (visibleSections.find(({ sec }) => (sec.scanPages || []).includes(activeScanPage)) || visibleSections[0]).sec.id
+    : null;
+
+  // If opening a scan moves the pane to another section that is off-screen, bring it into view.
+  const prevPaneSection = useRef(paneSectionId);
+  useEffect(() => {
+    const prev = prevPaneSection.current;
+    prevPaneSection.current = paneSectionId;
+    if (!prev || !paneSectionId || prev === paneSectionId) return;
+    const el = document.getElementById(paneSectionId);
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    if (r.bottom < 80 || r.top > window.innerHeight - 80) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }, [paneSectionId]);
 
   return (
     <div className="space-y-12 max-w-5xl mx-auto pb-20">
@@ -175,9 +219,13 @@ export default function UniversalVisualNotesView({
 
       {/* Topics Content Sections */}
       <div className="space-y-16">
-        {visibleSections.map(({ sec, concepts }) => (
-          <section key={sec.id} id={sec.id} className="space-y-8">
-            
+        {visibleSections.map(({ sec, concepts }) => {
+          const hasPane = sec.id === paneSectionId;
+          return (
+          <section key={sec.id} id={sec.id} className="scroll-mt-20">
+            <div className={hasPane ? 'flex items-start gap-6' : ''}>
+            <div className="min-w-0 flex-1 space-y-8">
+
             {/* Section Header */}
             <div className="p-5 rounded-2xl bg-slate-900 border border-slate-800 flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-lg">
               <div className="space-y-1">
@@ -245,9 +293,12 @@ export default function UniversalVisualNotesView({
 
             {/* Concepts in this Section */}
             <div className="space-y-8">
-              {concepts.map((concept, cIdx) => (
-                <div 
-                  key={cIdx} 
+              {(() => { const slots = explainerSlots(sec, concepts); return concepts.map((concept, cIdx) => (
+                <React.Fragment key={cIdx}>
+                {(slots[cIdx] || []).map((x) => (
+                  <VisualExplainer key={x.id} explainer={x} onSelectScanPage={onSelectScanPage} />
+                ))}
+                <div
                   className="p-6 rounded-2xl bg-slate-900/80 border border-slate-800/90 shadow-xl space-y-6 hover:border-slate-700 transition"
                 >
                   {/* Concept Header */}
@@ -300,11 +351,21 @@ export default function UniversalVisualNotesView({
                     </details>
                   )}
                 </div>
-              ))}
+                </React.Fragment>
+              )); })()}
             </div>
 
+            </div>
+
+            {hasPane && (
+              <aside className="w-[42%] shrink-0 sticky top-[4.5rem] h-[calc(100vh-5.5rem)] rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
+                {renderInspector()}
+              </aside>
+            )}
+            </div>
           </section>
-        ))}
+          );
+        })}
 
         {visibleSections.length === 0 && (
           <div className="p-12 text-center rounded-2xl bg-slate-900/50 border border-slate-800 space-y-3">

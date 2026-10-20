@@ -1,0 +1,94 @@
+{
+ "pages": [
+  {
+   "page": 38,
+   "title": "Defining Socialism and Its Varieties",
+   "summary": "Socialism is difficult to define because it resembles a hat that has lost its shape from everyone wearing it due to its political utility among poor voters. Its varied forms arise from endless country- and person-specific models supporting either peaceful or violent routes, though the core concept remains recognizable."
+  },
+  {
+   "page": 39,
+   "title": "Basic Assumptions and Core Concepts of Socialism",
+   "summary": "Socialism arose from criticizing laissez-faire capitalism's inequality and exploitation, holding social and economic equality as its core value. It views human nature as inherently social, society as an organic entity, rights as socio-economic, liberty as freedom from necessities, and equality as absolute equality of outcomes."
+  },
+  {
+   "page": 40,
+   "title": "Post-Marx Socialisms: Evolutionary Socialism and Fabianism",
+   "summary": "Socialists diverge on the state and transition methods, giving rise to post-Marx traditions like Evolutionary Socialism and Fabianism. Eduard Bernstein advocated parliamentary reform over revolution in Germany, while British Fabianism promoted gradual, peaceful preparation of society for socialism."
+  },
+  {
+   "page": 41,
+   "title": "Fabian Socialism and Guild Socialism",
+   "summary": "Fabianism seeks socialism through educated middle-class awareness and state action without class struggle or revolution, influencing Nehruvian socialism. Guild socialism, advocated by G.D.H. Cole, emphasizes economic representation through a functional parliament and industrial democracy where workers participate in management."
+  },
+  {
+   "page": 42,
+   "title": "Syndicalism and Historical Popularity of Socialism",
+   "summary": "Syndicalism is a French revolutionary variety influenced by Marx and Georges Sorel that advocates workers' strikes, economic rule without a political state, and syndicates instead of broad guilds. Historically, socialism challenged liberalism during the Cold War and exerted strong influence over the non-aligned Third World."
+  },
+  {
+   "page": 43,
+   "title": "Decline and Potential Re-emergence of Socialism",
+   "summary": "Socialism appealed strongly to Third World countries due to collectivist traditions and colonial history, but lost dominance after the USSR collapsed and neoliberalism gained hegemony. Despite this decline, scholars like Ralph Miliband argue socialism remains relevant and can re-emerge as twenty-first-century anti-capitalism."
+  },
+  {
+   "page": 44,
+   "title": "Scholarly Arguments for Socialism's Continued Relevance",
+   "summary": "Marxist thinkers such as Immanuel Wallerstein and Terry Eagleton argue that rising inequalities under capitalist globalization make socialism an enduring necessity. Even if not a full alternative, socialism remains vital as a critique of capitalism to keep it humane, reflected in the left's post-financial-crisis resurgence in Europe."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why is socialism metaphorically described as a hat that has lost its shape?",
+   "back": "Socialism is described as a hat that has lost its shape because everyone wears it due to its political utility in countries where the poor have voting rights. It has lost its shape because of endless varieties, including country-specific, person-specific, peaceful, and violent models.",
+   "category": "Defining Socialism",
+   "scanPage": 38
+  },
+  {
+   "front": "What are the core socialist assumptions regarding human nature, society, and freedom?",
+   "back": "Socialists view man as naturally social, maintaining that no man is an island and each is part of a continent. They reject an aggregative view of society in favor of an organic entity, and define real freedom as freedom from necessities rather than bourgeois liberty.",
+   "category": "Core Socialist Assumptions",
+   "scanPage": 39
+  },
+  {
+   "front": "What strategy did Eduard Bernstein advocate for achieving socialism under Evolutionary Socialism?",
+   "back": "Eduard Bernstein argued that revolution is neither possible nor necessary for the working classes. Instead, because workers constitute the majority, they should pursue a parliamentary road to socialism to fulfill their interests through institutional methods.",
+   "category": "Evolutionary Socialism",
+   "scanPage": 40
+  },
+  {
+   "front": "What core institutional proposals did G.D.H. Cole advance under Guild Socialism?",
+   "back": "G.D.H. Cole proposed establishing a Functional Parliament alongside a Political Parliament and functional representation alongside territorial representation. He also advocated for industrial democracy through direct participation of workers in management.",
+   "category": "Guild Socialism",
+   "scanPage": 41
+  },
+  {
+   "front": "How does Syndicalism distinguish itself from Guild Socialism in its composition and methods?",
+   "back": "Syndicalism is a French variety that embraces violence through strikes, lockouts, and slow work, seeking a confederation of syndicates where power rests solely with workers' organizations without a political state. In contrast, Guild Socialism is a peaceful British model representing diverse economic groups including farmers, traders, consumers, and workers.",
+   "category": "Syndicalism vs Guild Socialism",
+   "scanPage": 42
+  }
+ ],
+ "answers": [
+  {
+   "question": "Do you think socialism can re-emerge in the twenty-first century as anti-capitalism? Discuss.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Relevance of Socialism in the 21st Century",
+   "scanPage": 43,
+   "intro": "Socialism emerged as a critique of laissez-faire capitalism, prioritizing social and economic equality. Although the collapse of the Soviet Union established neoliberal hegemony, escalating global inequalities have revived socialist ideas as potent anti-capitalist resistance.",
+   "body": [
+    "Historically, socialism formed the primary ideological challenge to liberalism across the Second and Third Worlds, finding immense resonance in Asia, Africa, Latin America, and Middle Eastern Baathist parties due to collective values, mass poverty, and anti-colonialism before the USSR's disintegration.",
+    "Though 1990s neoliberal hegemony dismissed Marx as a 'God that has failed', Ralph Miliband in 'Socialism for Skeptical Age' argued that celebrating capitalism as the ultimate human achievement constitutes a dreadful slur on humanity, refusing to consign socialism to history's dustbin.",
+    "Immanuel Wallerstein highlighted the systemic necessity of socialism, affirming that mankind possesses only two historical options: either socialism or barbarianism, demonstrating that socialist critique remains vital in the contemporary era.",
+    "Terry Eagleton notes that eighteenth- and nineteenth-century inequalities are re-emerging through capitalist globalisation, a trend corroborated by Thomas Piketty in 'Capital in 21st century', while post-financial crisis Europe demonstrates the resurgence of left politics and anti-capitalist, anti-globalisation movements."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "Ralph Miliband ('Socialism for Skeptical Age')",
+    "Immanuel Wallerstein",
+    "Terry Eagleton",
+    "Thomas Piketty ('Capital in 21st century')"
+   ],
+   "conclusion": "While twenty-first-century states may not adopt wholesale socialist models, socialism endures as a vital critique of capitalism. By channeling anti-globalisation sentiments and rising inequalities, it plays an indispensable role in ensuring that global capitalism remains humane."
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "pages": [
+  {
+   "page": 138,
+   "title": "Representative democracy and models of representation",
+   "summary": "Representative democracy is presented as inevitable in modern complex societies despite concerns over the tyranny of the majority. The page outlines the delegate model associated with Bentham and Locke alongside the enlightened model supported by Mill and Burke."
+  },
+  {
+   "page": 139,
+   "title": "Types of electoral systems and majoritarian representation",
+   "summary": "The page categorises electoral systems into majoritarian and proportional types with the purpose of ensuring representativeness. It details the plurality system used in India and begins outlining the second ballot system used in France."
+  },
+  {
+   "page": 140,
+   "title": "Alternative vote and proportional representation systems",
+   "summary": "The page finishes explaining the second ballot system, describes Australia's alternative vote system, and introduces proportional representation. It details the single transferable vote and the list system, noting the list system is the most representative."
+  },
+  {
+   "page": 141,
+   "title": "Criticisms of representative democracy",
+   "summary": "The page records criticisms of representative democracy, highlighting Rousseau's view that Englishmen are free only once every five years. It also mentions Indian leaders like Gandhi, M.N. Roy, and Jayaprakash Narayan who advocated for direct partyless democracy."
+  },
+  {
+   "page": 142,
+   "title": "Participatory democracy concepts, benefits, and methods",
+   "summary": "Participatory democracy is defined as direct democracy, increased public participation in governance, and democratic decentralisation. The notes outline its rationale, key methods like referendums and citizen charters, and the distinction between non-binding plebiscites and binding referendums."
+  },
+  {
+   "page": 143,
+   "title": "Exponents of participatory democracy and Habermas",
+   "summary": "Key exponents of participatory democracy are listed, including Rousseau, George Washington, Gandhi, J.S. Mill, and Benjamin Barber. The page also introduces radical democracy and details Habermas's concepts of communicative action and the public sphere."
+  },
+  {
+   "page": 144,
+   "title": "Radical democracy thinkers and Indian decentralisation",
+   "summary": "The notes discuss radical democracy theorists such as Nancy Fraser on counter-publics and Jacques Rancière on marginalized groups. It also highlights Amartya Sen's view on capacity building and critiques the implementation of India's 73rd Constitutional Amendment Act."
+  },
+  {
+   "page": 145,
+   "title": "Deliberative democracy and historical thinkers",
+   "summary": "Deliberative democracy is introduced as prioritizing dialogue, debate, and argument over voting and the tyranny of the majority. Historical and contemporary thinkers supporting deliberation are noted, including Pericles, Aristotle, Rousseau, J.S. Mill, and John Rawls."
+  },
+  {
+   "page": 146,
+   "title": "Amartya Sen's public reasoning and Habermas",
+   "summary": "The page examines Amartya Sen's concept of public reasoning and debate as necessary conditions for sound policies and well-ordered societies. It also lists the conditions for Habermas's ideal speech situation, emphasizing the force of argument and equal speaking rights."
+  },
+  {
+   "page": 147,
+   "title": "Joshua Cohen's elements of deliberative democracy",
+   "summary": "After brief references to communicative action and Hannah Arendt, the page details Joshua Cohen's five elements of deliberative democracy. It further enumerates the benefits Cohen attributes to deliberative democracy, including consensus, human dignity, and improved policy making."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What distinguishes the delegate model of representation from the enlightened model?",
+   "back": "Under the delegate model supported by Bentham and John Locke, representatives have no freedom for independent action and must strictly follow the voters' mandate. In contrast, the enlightened model advocated by J.S. Mill and Edmund Burke grants representatives autonomy to act based on their experience and national perspectives rather than local interests.",
+   "category": "Models of Representation",
+   "scanPage": 138
+  },
+  {
+   "front": "How does the Alternative Vote system operate, and what is its main advantage over the Second Ballot system?",
+   "back": "In the Alternative Vote system, voters rank candidates by preference, and if no candidate secures an absolute majority, the lowest candidate is eliminated and preferences are redistributed. Its main advantage is avoiding a costly second round of elections while still ensuring the winning candidate receives an absolute majority.",
+   "category": "Electoral Systems",
+   "scanPage": 140
+  },
+  {
+   "front": "What is the critical legal difference between a plebiscite and a referendum in participatory democracy?",
+   "back": "Both mechanisms seek the direct opinion of the people on a public issue. However, the opinion gathered through a plebiscite is not binding to make law, whereas the decision in a referendum is legally binding on the government.",
+   "category": "Participatory Democracy",
+   "scanPage": 142
+  },
+  {
+   "front": "How does Jürgen Habermas conceptualize the public sphere and its role in western democracy?",
+   "back": "Habermas defines the public sphere as a space where people come together for discussions and debates to identify problems and formulate solutions. He argues that the democratic culture of western countries originated in coffee houses and public debate rather than in formal parliamentary assemblies.",
+   "category": "Radical Democracy",
+   "scanPage": 143
+  },
+  {
+   "front": "Why did the 73rd Constitutional Amendment Act in India fail to realize true participatory democracy according to the notes?",
+   "back": "Although the 73rd Amendment Act provided reservations for weaker sections, reservation alone does not ensure effective participation. It failed to achieve its objectives because the government did not take adequate measures for the capacity building of the people.",
+   "category": "Democratic Decentralisation",
+   "scanPage": 144
+  },
+  {
+   "front": "What are the four essential conditions of Jürgen Habermas's 'ideal speech situation'?",
+   "back": "An ideal speech situation requires: no force existing other than the force of argument, equal rights to speech for all participants, equal opportunities for everyone to present their thoughts, and that all presented ideas must be honest and natural.",
+   "category": "Deliberative Democracy",
+   "scanPage": 146
+  },
+  {
+   "front": "What five core elements define deliberative democracy according to Joshua Cohen?",
+   "back": "According to Joshua Cohen, deliberative democracy requires an ongoing association of people with expected continuity, acceptance of deliberation as the deciding factor in policy, a non-coercive environment recognizing everyone's capacity to speak, respect for value pluralism, and deliberation serving as the source of legitimacy.",
+   "category": "Deliberative Democracy",
+   "scanPage": 147
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine participatory democracy as a corrective to the deficits of representative democracy. Why does mere institutional representation fail without citizen capacity building?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Participatory Democracy and Citizen Empowerment",
+   "scanPage": 142,
+   "intro": "Participatory democracy embodies direct democracy and democratic decentralisation, evolving as the next logical step beyond representative democracy. It seeks to replace episodic voting with continuous citizen involvement, ensuring transparency, accountability, and the educative cultivation of civic responsibility in governance.",
+   "body": [
+    "Critiquing representative systems where citizens are free only during elections, Rousseau asserted that direct participation filters the General Will. This skepticism of party politics was shared by George Washington and inspired Gandhi, M.N. Roy, and Jayaprakash Narayan to champion partyless direct democracy.",
+    "Participatory tools like referendums, recall, citizens' charters, and social auditing foster transparent governance. Benjamin Barber highlights participation to check corruption, while the Second ARC report advocates citizen-centric governance and Agenda 21 links local democratic involvement directly to sustainable development.",
+    "Within radical democracy, Habermas locates democratic vigor in civil society's public sphere rather than formal parliaments. Expanding this, Nancy Fraser advocates counter-publics for marginalised groups, while Jacques Ranciere demonstrates that active participation from the margins overcomes structural domination.",
+    "Amartya Sen notes that participatory democracy requires systematic capacity building. In India, the 73rd Constitutional Amendment Act failed to achieve its true objective because extending reservations to weaker sections without building their political capacity cannot ensure effective democratic decentralisation."
+   ],
+   "scholars": [
+    "Rousseau",
+    "Benjamin Barber",
+    "Jürgen Habermas",
+    "Nancy Fraser",
+    "Jacques Ranciere",
+    "Amartya Sen",
+    "2nd ARC Report",
+    "Agenda 21"
+   ],
+   "conclusion": "Participatory democracy must not replace representation but enrich it by bridging the state-citizen divide. Institutionalising tools like social audits while actively building civic capacities ensures democratic decentralisation evolves into genuine, citizen-centric, and sustainable governance."
+  },
+  {
+   "question": "Deliberative democracy shifts the focus of democratic legitimacy from the 'game of numbers' to the 'force of argument'. Discuss in the light of contemporary political theory.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Deliberative Democracy and Public Reasoning",
+   "scanPage": 145,
+   "intro": "Deliberative democracy reclaims the essence of democratic rule by substituting the mere aggregation of votes with reasoned dialogue. Countering the tyranny of the majority, it privileges public argument over numerical strength to secure genuine political legitimacy.",
+   "body": [
+    "Rooted in Pericles's view that deliberation is indispensable to wise action and Aristotle's faith in collective deliberation over philosopher kings, J.S. Mill defended dissenting voices against majoritarian suppression, while John Rawls demonstrated that rational citizens achieve an 'overlapping consensus' through public reason.",
+    "Amartya Sen advances 'public reasoning' as an essential mode of deliberation for sound policymaking. In 'Uncertain Glory', Sen argues that democratic inaction—such as the neglect of public health—persists when issues lack public debate, requiring an active public sphere and capable citizens.",
+    "Jürgen Habermas formalises communicative action within an 'ideal speech situation' where only the force of argument prevails. This requires equal rights to speech, equal opportunities to present thoughts, and honest communication, revitalising the public sphere where democratic culture originally flourished outside formal assemblies.",
+    "Joshua Cohen outlines key elements of deliberative democracy—non-coercive debate, respect for pluralism, and deliberation as the source of legitimacy. Deliberation makes democracy consociational and grounds it in human dignity by prioritizing debate over mere voting and collective consensus over numerical domination."
+   ],
+   "scholars": [
+    "Pericles",
+    "Aristotle",
+    "J.S. Mill",
+    "John Rawls",
+    "Amartya Sen",
+    "Jürgen Habermas",
+    "Joshua Cohen",
+    "Hannah Arendt"
+   ],
+   "conclusion": "Deliberative democracy elevates citizens from passive voters to active partners in governance. By institutionalising inclusive public reasoning and protecting free expression, modern polities can counter majoritarian distortion and achieve socially just, enduring collective decisions."
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "pages": [
+  {
+   "page": 148,
+   "title": "Introduction to Rights and Natural Rights Theory",
+   "summary": "Introduces the concept and syllabus of rights as modern liberal claims that take priority over others, citing Dworkin's view of rights as trumps. It outlines the Theory of Natural Rights championed by Locke and Paine, which grounds rights in nature and reason to limit state action."
+  },
+  {
+   "page": 149,
+   "title": "Bentham and Burke's Criticisms of Natural Rights",
+   "summary": "Bentham criticizes natural rights from a utilitarian and legal perspective, arguing that rights originate solely from state law and that natural rights lead to anarchy. Burke presents a conservative critique, viewing natural rights as metaphysical abstractions and identifying societal customs and traditions as the true source of rights."
+  },
+  {
+   "page": 150,
+   "title": "Theories and Types of Rights and Generations",
+   "summary": "Outlines the moral theory of rights by Kant and Green and the functional theory by Laski, which views rights and duties as interdependent. It also categorizes types of rights, listing Karel Vasak's three generations of human rights along with key debate topics."
+  },
+  {
+   "page": 151,
+   "title": "Definition, Features, and History of Human Rights",
+   "summary": "Defines human rights and their five fundamental features—equality, universality, inalienability, permanence, and individuality. It details their historical emergence following Hitler's atrocities, leading to the 1948 UDHR, along with criticisms from communist and developing nations citing cultural imperialism."
+  },
+  {
+   "page": 152,
+   "title": "International Bill of Rights and Conceptual Challenges",
+   "summary": "Describes the International Bill of Rights, UN oversight bodies, and the role of national governments and the International Criminal Court in human rights enforcement. It highlights conceptual challenges and Amartya Sen's critique, noting the lack of consensus on defining who qualifies as human."
+  },
+  {
+   "page": 153,
+   "title": "Conceptual Disagreements and Western Selectivity in Rights",
+   "summary": "Examines global disagreements over human rights, including definitions of terrorism, the beginning of life, individual versus collective priorities, and the status of women. It notes accusations of Western double standards and the view among non-Western states that human rights agendas target regime change."
+  },
+  {
+   "page": 154,
+   "title": "Third World Challenges and Multicultural Human Rights",
+   "summary": "Discusses the domestic dilemmas third-world states face when using force against insurgents while tasked with upholding human rights. It presents alternative multicultural perspectives and Bhikhu Parekh's proposal for inter-civilizational dialogue centered on human dignity."
+  },
+  {
+   "page": 155,
+   "title": "Contemporary Democratic Theory and Macpherson's Models",
+   "summary": "Introduces the evolution of democracy from ancient concepts to modern Huntington waves, noting contemporary debates and democratic confusion. It reviews C.B. Macpherson's analysis of democratic models, contrasting classical theories with modern elitist and pluralist perspectives."
+  },
+  {
+   "page": 156,
+   "title": "Critiques and Contemporary Debates on Democratic Values",
+   "summary": "Discusses Marxist and critical liberal views of Western democracies as inegalitarian, alongside the debate between Lee Kuan Yew's Asian values and Amartya Sen's three universal values of democracy. It covers concerns regarding majoritarianism, deliberative democracy, Habermas's public sphere, and democratic paradoxes."
+  },
+  {
+   "page": 157,
+   "title": "Democratic Paradoxes and Evolution of Human Rights",
+   "summary": "Concludes democratic discussions with Churchill's quote on democracy before addressing the evolution of human rights from natural rights to collective and environmental rights. It highlights the philosophical origins from Locke and Kant, alongside Karel Vasak's three generations of rights."
+  },
+  {
+   "page": 158,
+   "title": "Human Dignity and Challenges to Human Rights",
+   "summary": "Scholars like Thomas Paine, Immanuel Kant, T.H. Green, and Allen Gewirth support human dignity, while Jack Donnelly supports Lockean ideas, and challenges from the communist bloc led to the recognition of social and economic rights. Following decolonization, Third World nations in the UN General Assembly demanded collective rights such as development and environmental protection, along with culture-specific rights."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does Ronald Dworkin define the concept of rights in liberal discourse?",
+   "back": "According to Dworkin, rights are trumps, meaning that they are claims that possess priority over all other claims. An individual can enjoy a right when others perform their corresponding duties.",
+   "category": "Theories of Rights",
+   "scanPage": 148
+  },
+  {
+   "front": "On what grounds did Jeremy Bentham criticize the doctrine of natural rights in 'Anarchical Fallacies'?",
+   "back": "Bentham declared that rights are properly the creations of law, dismissing natural rights as 'nonsense upon stilts' and a terrorist language leading to anarchy. Drawing on Hobbes, he argued that rights cannot exist in a state of nature and that rights against the state carry no meaning.",
+   "category": "Legal Rights Theory",
+   "scanPage": 149
+  },
+  {
+   "front": "What is Edmund Burke's conservative critique of natural rights, and what does he identify as their true origin?",
+   "back": "Edmund Burke rejected natural rights as metaphysical abstractions having no real existence. For conservatives, the real source of rights is society's customs and traditions, meaning no one can enjoy rights unless they conform to these traditions.",
+   "category": "Conservative Rights Theory",
+   "scanPage": 149
+  },
+  {
+   "front": "How do T. H. Green and Harold Laski explain the basis and nature of rights?",
+   "back": "T. H. Green anchored rights in human consciousness and moral awareness of right and wrong, holding that consciousness postulates liberty and liberty involves rights. Harold Laski proposed a functional theory asserting that rights and duties are interdependent.",
+   "category": "Theories of Rights",
+   "scanPage": 150
+  },
+  {
+   "front": "What are the five fundamental features of human rights, and why is equality considered essential?",
+   "back": "Human rights are characterized by equality, universality, inalienability, permanence, and individuality. Equality is essential because removing it destroys the idea of human rights, implying that someone is being treated as less than human.",
+   "category": "Concept of Human Rights",
+   "scanPage": 151
+  },
+  {
+   "front": "What three generations of human rights were formulated by Karel Vasak?",
+   "back": "Karel Vasak classified human rights into three generations: first-generation civil and political rights, second-generation social and economic rights, and third-generation group rights comprising cultural, developmental, and environmental rights.",
+   "category": "Generations of Rights",
+   "scanPage": 150
+  },
+  {
+   "front": "Which three documents constitute the International Bill of Rights according to the notes?",
+   "back": "The International Bill of Rights consists of the Universal Declaration of Human Rights (1948), the Covenant on Civil and Political Rights (1966), and the Covenant on Social and Educational Rights (1966). These documents are supplemented by international conventions on minorities, refugees, women, and children.",
+   "category": "Human Rights Regime",
+   "scanPage": 152
+  },
+  {
+   "front": "How does Bhikhu Parekh suggest overcoming the accusation of Western cultural imperialism in human rights?",
+   "back": "Bhikhu Parekh advocates adopting a multicultural approach and cultural relativism, asserting that rights cannot be detached from societal culture. He proposes a dialogue between civilizations to build consensus around foundational common values such as human dignity.",
+   "category": "Multicultural Rights Perspective",
+   "scanPage": 154
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically evaluate the theory of natural rights in light of the criticisms advanced by utilitarian, conservative, and moral theorists.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Theories of Rights and Critiques",
+   "scanPage": 149,
+   "intro": "The liberal concept of rights views them as modern claims of individuals, famously described by Ronald Dworkin as trumps. Originating as natural rights inherent to human personality, the doctrine faced rigorous criticisms from utilitarian, conservative, and moral traditions.",
+   "body": [
+    "John Locke and Thomas Paine established natural rights theory, asserting that rights are given by nature as integral parts of human personality. They maintained that reason and intuition, rather than institutions, form the source of rights that limit state power.",
+    "Jeremy Bentham rejected natural rights as 'nonsense upon stilts' and terrorist language, aligning with Thomas Hobbes's view that might is right without the state. In 'Anarchical Fallacies', Bentham affirmed that rights are creations of law, rendering rights against the state meaningless.",
+    "Edmund Burke articulated the conservative critique, dismissing natural rights as metaphysical abstractions lacking reality. Burke argued that the real source of rights is society's customs and traditions, meaning that no one can enjoy rights unless they accord with these traditions.",
+    "Immanuel Kant and T.H. Green formulated the teleological moral theory, proposing that human consciousness postulates liberty and the sense of right and wrong, while Harold Laski contributed a functional theory showing that rights and duties are strictly interdependent."
+   ],
+   "scholars": [
+    "John Locke",
+    "Thomas Paine",
+    "Jeremy Bentham",
+    "Thomas Hobbes",
+    "Edmund Burke",
+    "Immanuel Kant",
+    "T. H. Green",
+    "Harold Laski"
+   ],
+   "conclusion": "While utilitarian and conservative critiques highlight the necessity of legal enforcement and social stability, the foundational moral insight of natural rights endures, providing the necessary normative basis for contemporary human rights against state authoritarianism."
+  },
+  {
+   "question": "Discuss the evolution of human rights from natural rights to collective rights and examine the conceptual and institutional challenges facing the global human rights regime.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Evolution of Human Rights and Contemporary Challenges",
+   "scanPage": 157,
+   "intro": "Human rights represent modern claims inherent to all individuals, originating in natural rights and human dignity after Hitler's atrocities. While codified globally through the International Bill of Rights, human rights remain a contested and conflictual concept.",
+   "body": [
+    "Tracing their lineage to John Locke's natural rights grounded in reason and Immanuel Kant's concept of human dignity, Karel Vasak conceptualized three generations of rights: civil and political rights, social and economic rights, and collective developmental and environmental rights.",
+    "In contemporary political theory, Jack Donnelly defends the Lockean framework while Alan Gewirth champions human dignity; however, communist countries historically challenged Western liberalism, dismissing civil-political entitlements as mere bourgeois rights and asserting that social and economic rights must take precedence.",
+    "With decolonization, Third World states demanded collective rights and cultural diversity, while Amartya Sen characterized human rights as ambiguous moral guarantees; additionally, Western enforcement is undermined by double standards, exemplified by the USA censuring Syria while overlooking violations in Saudi Arabia and Israel.",
+    "Enforcement also faces domestic dilemmas and conceptual disagreements over terrorism and abortion, leading scholars like Bhikhu Parekh to reject cultural imperialism, urging a multicultural dialogue between civilizations to build consensus around the shared value of human dignity."
+   ],
+   "scholars": [
+    "John Locke",
+    "Immanuel Kant",
+    "Karel Vasak",
+    "Jack Donnelly",
+    "Alan Gewirth",
+    "Amartya Sen",
+    "Bhikhu Parekh"
+   ],
+   "conclusion": "To overcome institutional double standards and cultural imperialism, the global human rights regime must evolve beyond selective Western universalism through cross-cultural dialogue, reconciling individual civil liberties with collective developmental rights rooted in universal human dignity."
+  }
+ ]
+}

@@ -13,6 +13,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -45,6 +46,42 @@ def short(s, n):
 
 def as_list(v, limit):
     return [clean(x) for x in (v or []) if clean(x)][:limit]
+
+
+def fallback_title(d, p):
+    """Title for a page without an AI label: its heading, else its first underlined or first real line."""
+    if clean(d["heading"]):
+        return clean(d["heading"])
+    text = re.sub(r"~~.*?~~|\[[^\]]*\]", "", WATERMARK.sub("", d["text"]))  # drop struck-out words, [notes]
+    m = re.search(r"__([^_]{4,80})__", text)
+    if m:
+        return clean(m.group(1)).strip(":-. ")
+    for line in text.splitlines():
+        line = re.sub(r"^[^A-Za-z]+", "", line).strip()
+        if len(line) >= 8 and not line.lower().startswith(("lecture", "page")):
+            return short(line, 70)
+    return f"Handwritten page {p}"
+
+
+def legacy_flashcards(name):
+    """Old deck for a volume, used only while its AI enrichment is missing. Scan links are dropped
+    because the old datasets mapped topics to the wrong pages."""
+    f = os.path.join(ROOT, "backup_legacy_data", f"{name}.js")
+    if not os.path.exists(f):
+        return []
+    url = "file:///" + f.replace(os.sep, "/")
+    res = subprocess.run(
+        ["node", "-e", f"import({json.dumps(url)}).then(m => process.stdout.write(JSON.stringify(m.{name})))"],
+        capture_output=True, text=True, encoding="utf-8")
+    data = json.loads(res.stdout) if res.returncode == 0 and res.stdout else {}
+    out = []
+    for i, c in enumerate(data.get("flashcards", []), 1):
+        front, back = clean(c.get("front") or c.get("question")), clean(c.get("back") or c.get("answer"))
+        if front and back:
+            topic = short(c.get("category") or c.get("mnemonic") or "General", 40)
+            out.append({"id": i, "front": front, "back": back, "category": topic, "mnemonic": topic,
+                        "badge": "Active Recall", "legacy": True})
+    return out
 
 
 def load_enrich(vol, count):
@@ -90,7 +127,7 @@ def build(vol):
         for p in range(start, end + 1):
             d = pages[p]
             m = meta_by_page.get(p, {})
-            title = clean(m.get("title")) or clean(d["heading"]) or f"Handwritten page {p}"
+            title = clean(m.get("title")) or fallback_title(d, p)
             page_title[p] = short(title, 90)
             if d["kind"] == "blank" or not d["text"].strip():
                 continue
@@ -142,6 +179,9 @@ def build(vol):
                     "conclusion": clean(a["conclusion"]),
                 },
             })
+
+    if not flashcards:
+        flashcards = legacy_flashcards(name)
 
     catalog, last_nb = [], 1
     for p in range(1, n + 1):

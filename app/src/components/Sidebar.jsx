@@ -133,6 +133,7 @@ export default function Sidebar({
                     {sec.scanPages && sec.scanPages.length > 0 && (
                       <button
                         onClick={() => {
+                          scrollToSection(sec.id);
                           onSelectScanPage(sec.scanPages[0]);
                           onClose();
                         }}

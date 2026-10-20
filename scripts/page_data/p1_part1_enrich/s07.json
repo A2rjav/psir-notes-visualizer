@@ -1,0 +1,153 @@
+{
+ "pages": [
+  {
+   "page": 39,
+   "title": "Introduction to M. K. Gandhi and Gandhism",
+   "summary": "Introduces M. K. Gandhi as the Father of the Nation and examines whether he was a politician or philosopher, while confirming the existence of Gandhism. It also lists his prominent ideas, including non-violence, Satyagraha, Swaraj, and Sarvodaya."
+  },
+  {
+   "page": 40,
+   "title": "Influences on Gandhi and Theory of Non-violence",
+   "summary": "Outlines religious and philosophical influences on Gandhi from his mother, various religions, and Western thinkers like Tolstoy and Ruskin. It presents the theory of non-violence (Ahimsa) as the foundational principle and means to realize truth or God through love and sacrifice."
+  },
+  {
+   "page": 41,
+   "title": "Practicing Ahimsa and Theory of Satyagraha",
+   "summary": "Discusses the practice of Ahimsa through self-suffering, universal love, and extension to thoughts, speech, and nature. It also introduces Satyagraha as a Dharmayudha between good and evil, noting its historical application from South Africa to national movements."
+  },
+  {
+   "page": 42,
+   "title": "Satyagraha Versus Passive Resistance",
+   "summary": "Distinguishes Satyagraha from passive resistance, explaining that Satyagraha treats non-violence as an article of faith and harbors no enmity toward evil-doers. It emphasizes that Satyagraha is a weapon of the morally strong, while noting violence is chosen over cowardice."
+  },
+  {
+   "page": 43,
+   "title": "Gandhi's Theory and Dimensions of Swaraj",
+   "summary": "Explores the evolution of Swaraj from political freedom to spiritual self-control inspired by the Mundaka Upanishad. It outlines Gandhi's multidimensional conception of Swaraj at the individual, societal, cultural, and economic levels."
+  },
+  {
+   "page": 44,
+   "title": "Political Swaraj and Theory of Sarvodaya",
+   "summary": "Describes political Swaraj through mass empowerment, oceanic circles of power, and Panchayati Raj. It introduces Sarvodaya from Ruskin's work, detailing bread labour to cultivate respect and equal dignity for all physical work."
+  },
+  {
+   "page": 45,
+   "title": "Trusteeship and Economic Thought of Gandhi",
+   "summary": "Explains Gandhi's doctrine of trusteeship, which rejects Marxist class struggle in favor of class harmony and viewing wealth as social production. It also highlights his advocacy for cottage industries, the charkha economy, and land to the tiller over mechanization."
+  },
+  {
+   "page": 46,
+   "title": "Gandhi's Critique of Modern Civilisation",
+   "summary": "Details Gandhi's critique of modern civilisation in 'Hind Swaraj' as a satanic system driven by materialism, consumerism, and appetite reduction. It links modernity to imperialism and warns that western development patterns would require multiple earths if globally replicated."
+  },
+  {
+   "page": 47,
+   "title": "True Civilisation and Theory of State",
+   "summary": "Defines true civilisation as the minimization of wants to establish counter-hegemony against the British civilizing mission. It also outlines Gandhi's theory of the state as a coercive, soulless machine incompatible with Ahimsa and Swaraj, proposing a stateless Ramrajya."
+  },
+  {
+   "page": 48,
+   "title": "Ramrajya and Gandhi on Ends and Means",
+   "summary": "Compares Gandhi's Ramrajya to the Marxist communist utopia and contrasts his view on ethics with Machiavellianism. It underscores the spiritualization of politics through pure means, maintaining that righteous ends cannot be achieved through improper means."
+  },
+  {
+   "page": 49,
+   "title": "Gandhi on Rights, Duties, Women, Education, Relevance",
+   "summary": "Gandhi's conception of rights and duties is based on the Geeta's Nishkama Karma, asserting that rights exist in duties in embryonic form and are obtained by performing duties. The notes also detail Gandhi's view of Seeta and Droupadi as moral ideals for women, his 'Nayee Taalim' concept emphasizing vocational education, and authors on his relevance."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How did Prof. Humayun Kabir and Bipin Chandra characterize Gandhi's political leadership?",
+   "back": "Prof. Humayun Kabir stated that Gandhi was not a political philosopher in the conventional sense, but a politician with an exceptional understanding of mass psychology. Bipin Chandra described him as a master strategist who left the British clueless.",
+   "category": "Nature of Gandhian Thought",
+   "scanPage": 39
+  },
+  {
+   "front": "Why did Gandhi argue that Ahimsa is the essential path to realize God or Truth?",
+   "back": "Gandhi believed in the continuity of ends and means, asserting that attaining God requires adopting means represented by God, who is a symbol of love and sacrifice. Therefore, Ahimsa is not merely non-violence, but a deep feeling of love and fraternity.",
+   "category": "Theory of Non-violence",
+   "scanPage": 40
+  },
+  {
+   "front": "How did Gandhi differentiate Satyagraha from passive resistance regarding the use of violence and feelings toward opponents?",
+   "back": "Unlike passive resistance, where non-violence is shaped by conditions and ill feelings may persist, Gandhi held non-violence as an unconditional article of faith. A Satyagrahi harbors no enmity and fights against the evil rather than the evil-doer.",
+   "category": "Satyagraha vs Passive Resistance",
+   "scanPage": 42
+  },
+  {
+   "front": "How did the Mundaka Upanishad influence Gandhi's multidimensional conception of Swaraj?",
+   "back": "Gandhi drew from the Mundaka Upanishad to define Swaraj at the individual level as control over oneself and one's desires. He considered this personal self-control essential for realizing Swaraj holistically across society.",
+   "category": "Theory of Swaraj",
+   "scanPage": 43
+  },
+  {
+   "front": "What is the purpose of Gandhi's concept of 'Bread Labour' derived from John Ruskin's 'Unto This Last'?",
+   "back": "Gandhi proposed that everyone must perform physical labour before taking bread to understand the hardships of manual workers and develop respect for them. He argued that while people cannot be equal in income, they can be equal in dignity, making the work of a barber as important as that of a lawyer.",
+   "category": "Theory of Sarvodaya",
+   "scanPage": 44
+  },
+  {
+   "front": "Why did Gandhi condemn modern civilization as a 'Satanic Civilization' in 'Hind Swaraj'?",
+   "back": "Gandhi criticized modern civilization because it is based on materialism, utilitarianism, consumerism, militarism, and individualism, reducing humans to appetite-driven animals. He also warned that if others adopted the West's developmental path of the last 100 years, at least nine more earths would be required.",
+   "category": "Critique of Modernity",
+   "scanPage": 46
+  },
+  {
+   "front": "Why did Gandhi characterize the state as a 'soulless machine' and advocate a stateless Ramrajya?",
+   "back": "Influenced by Leo Tolstoy's 'Kingdom of God Within You', Gandhi believed individuals can control themselves without external agencies. Because even a minimal state relies on coercive force and lacks a soul to practice Ahimsa, he proposed a stateless society.",
+   "category": "Theory of State",
+   "scanPage": 47
+  },
+  {
+   "front": "How did Gandhi's ends and means theory reject Machiavellianism in politics?",
+   "back": "Influenced by Gokhale, Gandhi rejected the Machiavellian separation of politics and ethics, asserting that politics without ethics or religion is a death trap. Emphasizing the purity of means, he noted in 'Hind Swaraj' that it is illogical to expect rose flowers by sowing the seed of babul.",
+   "category": "Ends and Means",
+   "scanPage": 48
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Gandhi's concept of Satyagraha as an instrument of political struggle and distinguish it from passive resistance.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Satyagraha and Passive Resistance",
+   "scanPage": 42,
+   "intro": "Mahatma Gandhi conceived Satyagraha not merely as a political tactic, but as a spiritualized technique of mass action grounded in absolute Ahimsa. As Bipin Chandra noted, Gandhi functioned as a master strategist, mobilizing masses through the moral idiom of Dharmayudha.",
+   "body": [
+    "Gandhi first applied Satyagraha in South Africa and refined it through Champaran, Kheda, and anti-Rowlatt agitations. Prof. Humayun Kabir highlighted his exceptional grasp of mass psychology, which allowed Gandhi to frame the anti-imperial struggle as a Dharmayudha between truth and evil.",
+    "Unlike Aurobindo Ghosh, who advocated passive resistance without ruling out violence under favorable conditions, Gandhi treated non-violence as an inviolable article of faith. Satyagraha rejects physical coercion entirely, operating through voluntary self-suffering to awaken the conscience of the opponent.",
+    "Drawing upon Jesus Christ's ideal of love and sacrifice, Gandhi maintained that a Satyagrahi bears no personal enmity toward the evil-doer. The conflict targets the evil empire rather than the British individuals, seeking to transform the adversary into a friend through moral appeal.",
+    "Gandhi asserted that Satyagraha is the weapon of the morally strong, not the weak. While passive resistance may stem from situational weakness, Satyagraha demands supreme courage; Gandhi famously affirmed that between cowardice and violence, he would choose violence."
+   ],
+   "scholars": [
+    "Aurobindo Ghosh",
+    "Bipin Chandra",
+    "Prof. Humayun Kabir",
+    "Jesus Christ",
+    "Dennis Dalton"
+   ],
+   "conclusion": "Ultimately, Satyagraha elevated mass resistance from physical confrontation to moral dialogue. As Dennis Dalton and Bhikhu Parekh emphasize in their assessments of Gandhi's relevance, Satyagraha offers an enduring non-violent paradigm for resolving socio-political conflicts and resisting injustice globally."
+  },
+  {
+   "question": "Discuss Gandhi's critique of modern civilization in 'Hind Swaraj'. Why did he characterize it as a 'satanic civilization'?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Critique of Modern Civilization",
+   "scanPage": 46,
+   "intro": "In 'Hind Swaraj', Gandhi launched a profound critique of Western modernity, denouncing it as a 'satanic civilization'. Gandhi challenged the colonial civilising mission by demonstrating that modernity prioritizes unrestrained materialism over moral growth and human dignity.",
+   "body": [
+    "In 'Hind Swaraj', Gandhi denounced modern civilization as a 'Satanic Civilization' driven by materialism, utilitarianism, consumerism, militarism, and individualism. He argued that modernity undermines human dignity, reducing individuals to appetite-driven animals whose souls sleep while exploiting fellow human beings.",
+    "Influenced by Edward Carpenter's critique of modern medicine and health, Gandhi questioned unchecked industrial progress. He warned that if other societies adopted the developmental model pursued by the West over the last century, at least nine more earths would be required.",
+    "As analyzed by Ashish Nandi, Gandhi identified imperialism and fascism as two manifestations of modernity. Contrasting this with true civilization, Gandhi asserted that authentic civilizational progress lies not in multiplying wants, but in minimizing desires to cultivate moral humanity.",
+    "Strategically, this critique represented Gandhi's war of position to construct counter-hegemony. By demonstrating that Britishers misunderstood civilization, Gandhi dismantled the colonial justification of the civilising mission and white man's burden, asserting that Indians needed no tutelage from colonial masters."
+   ],
+   "scholars": [
+    "Hind Swaraj",
+    "Edward Carpenter",
+    "Ashish Nandi",
+    "Ramchandra Guha",
+    "Bhikhu Parekh"
+   ],
+   "conclusion": "Gandhi's critique remains remarkably prescient in an era of environmental crisis and hyper-consumerism. As Ramchandra Guha and Bhikhu Parekh observe, his alternative vision of sustainable living, ethical restraint, and decentralized production provides vital pathways for contemporary human development."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {"page": 117, "title": "Non-alignment as principled distance", "summary": "Poses the question of non-alignment's relevance as a foreign policy option. The USA saw it as immoral opportunism and Stalin held that those not with us are against us, but Nehru rejected the isolationism comparison and defined it as principled distance, taking stands on right and wrong rather than prior commitments."},
+    {"page": 118, "title": "Non-alignment: choice, compulsion and genuineness", "summary": "Argues non-alignment was a compulsion because a democratic India could not join the socialist bloc and the proximity of communist giants made the western bloc dangerous, so it hoped for aid from both. It brought some aid but not territorial integrity, both blocs doubted India's genuineness, and in 1971 India entered a quasi-alliance."},
+    {"page": 119, "title": "Domestic consensus, strategic autonomy, Non-alignment 2.0", "summary": "C. Raja Mohan says there was never a domestic consensus, as the right preferred the West and the left the Soviets, and that after 1990 the left took up non-alignment. Non-alignment survives for lack of a grand idea, officials prefer the term strategic autonomy, and the Non-alignment 2.0 document advises multiple alignment."}
+  ],
+  "flashcards": [
+    {"front": "How did Nehru define non-alignment and distinguish it from isolationism and equidistance?", "back": "Nehru rejected the isolationism comparison and said India would take an active role in international affairs. Non-alignment is neither indifference nor equidistance but principled distance, meaning stands taken on right and wrong rather than prior commitments.", "category": "Meaning of non-alignment", "scanPage": 117},
+    {"front": "Why do the notes call non-alignment a compulsion rather than a choice?", "back": "As a democracy India could not join the socialist bloc, and the proximity of communist giants made joining the western bloc dangerous. Remaining non-aligned with an independent foreign policy was the way out, hoping for aid from both blocs.", "category": "Choice or compulsion", "scanPage": 118},
+    {"front": "Did non-alignment serve India's interests, and was India genuinely non-aligned?", "back": "India got some aid from both blocs but failed to secure territorial integrity. Under Nehru it was genuinely non-aligned, yet Soviets saw it as against them and Americans as tilted to the USSR, and in 1971 India entered a quasi-alliance.", "category": "Assessment of non-alignment", "scanPage": 118},
+    {"front": "What does C. Raja Mohan say about domestic consensus on non-alignment, and what is Non-alignment 2.0?", "back": "Raja Mohan says there was never a domestic consensus, as the right preferred the West and the left the Soviets, and that non-alignment continues for lack of a grand idea. The Non-alignment 2.0 document says alliance is not an option and recommends multiple alignment for flexibility.", "category": "Strategic autonomy", "scanPage": 119}
+  ],
+  "answers": [
+    {"question": "Non-alignment was a compulsion rather than a choice for India. Critically examine, and discuss its relevance as a foreign policy option today.", "marks": "15 Marks (250 Words)", "topic": "Non-alignment as foreign policy", "scanPage": 118,
+     "intro": "Non-alignment was India's contribution to the theory and practice of international politics. Initially misread as immoral opportunism or isolationism, Nehru clarified it as principled distance, yet the notes argue it was a compulsion rather than a choice.",
+     "body": [
+       "Meaning: the USA saw it as immoral and opportunistic and Stalin held that those not with us are against us; Nehru denied it was isolationism, asserting an active international role and a principled distance that judges right and wrong rather than prior commitments.",
+       "Compulsion: as a democracy India could not join the socialist bloc, while the proximity of communist giants made the western bloc dangerous, so independence in foreign policy and aid from both blocs seemed the best way out.",
+       "Results: India got some aid from both blocs but failed to secure territorial integrity. Nehru's India was genuinely non-aligned, yet the Soviets saw hostility, Nehru was called a bourgeois comprador for joining the Commonwealth, Americans saw a Soviet tilt, and 1971 brought a quasi-alliance.",
+       "Present relevance: C. Raja Mohan says there was never domestic consensus and non-alignment continues for want of a grand idea; officials prefer strategic autonomy, and the Non-alignment 2.0 document advises multiple alignment for flexibility."
+     ],
+     "scholars": ["Nehru", "Stalin", "C. Raja Mohan", "Non-alignment 2.0 document"],
+     "conclusion": "Non-alignment began as constrained necessity and survives as rhetoric and strategy. Its core idea, independent judgement without prior commitments, remains valuable, but multiple alignment under the label of strategic autonomy suits India's current flexibility needs better than a literal reading."}
+  ]
+}

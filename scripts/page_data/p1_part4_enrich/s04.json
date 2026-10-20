@@ -1,0 +1,142 @@
+{
+ "pages": [
+  {
+   "page": 19,
+   "title": "Neoliberalism: Definition, Emergence, Thatcherism, and Reagonomics",
+   "summary": "Neoliberalism represents market fundamentalism and the revival of the laissez-faire state, expanding market principles to all aspects of life. It emerged in Britain under Thatcher and the USA under Reagan as the welfare state became an unsustainable 'nanny state' suffering from fiscal deficits, necessitating a state roll-back."
+  },
+  {
+   "page": 20,
+   "title": "Global Spread of Neoliberalism and Washington Consensus",
+   "summary": "Neoliberalism expanded globally through shock therapy, structural adjustment programs, and the establishment of the WTO. Its core principles are outlined in John Williamson's ten-point Washington Consensus, supported by prominent philosophers including Hayek, Nozick, and Friedman."
+  },
+  {
+   "page": 21,
+   "title": "Hayek: Planning, Markets, Social Justice, and Freedom",
+   "summary": "Hayek opposed centralized planning, arguing that market-based allocation is optimal because the market acts like a central nervous system. He viewed social justice as an unachievable mirage, termed progressive taxation bonded labour, and defined freedom simply as the absence of coercion."
+  },
+  {
+   "page": 22,
+   "title": "Robert Nozick on the Minimal State",
+   "summary": "In 'Anarchy, State and Utopia', Robert Nozick defends the minimal or night-watchman state whose only role is ensuring property is rightfully acquired or transferred. Rejecting welfare functions and distributive justice, he considers progressive taxation as bonded labour and argues that forcing individuals to work against their wishes is unethical."
+  },
+  {
+   "page": 23,
+   "title": "Neoliberal Philosophers and the Crisis of Neoliberalism",
+   "summary": "Milton Friedman argued that markets are necessary for freedom, while Isaiah Berlin separated liberty from capacity and Murray Rothbard condemned the state and central bank. Neoliberalism has entered a crisis marked by financial instability, rising disparities, and anti-globalization movements."
+  },
+  {
+   "page": 24,
+   "title": "Social Liberalism, Liberal Egalitarianism, and Key Thinkers",
+   "summary": "Social liberalism revives positive liberalism through a tripartite partnership among the private sector, state, and civil society, focusing on capacity building. Key proponents include John Rawls, Amartya Sen who advocates humane governance, and Joseph Stiglitz who critiques neoliberal globalization and calls for institutional reforms."
+  },
+  {
+   "page": 25,
+   "title": "Post-Washington Consensus and Challenges to Liberal Hegemony",
+   "summary": "Joseph Stiglitz introduced the Post-Washington Consensus prioritizing inclusive growth and distributive justice. Although Francis Fukuyama proclaimed the 'End of History' after the Cold War, liberalism faces ongoing philosophical and political challenges from ideologies like communitarianism, religious fundamentalism, and reviving extremes."
+  },
+  {
+   "page": 26,
+   "title": "The Liberal Concept and Context of Toleration",
+   "summary": "Toleration, derived from the Latin 'tolerare', is described as the substantive heart of liberalism and a deliberate exercise of self-restraint toward disapproved behaviors. The debate emerged around managing diversity, reflected in Locke's freedom of conscience, Mill's harm principle, and Rawls's idea of accommodating multiple comprehensive doctrines."
+  },
+  {
+   "page": 27,
+   "title": "Evolution of Western Toleration and Secular Neutrality",
+   "summary": "Western toleration evolved through state religious neutrality, universal citizenship, and models of assimilation like the French strict separation and US melting pot. However, modern resurgence of identity consciousness has brought religion back into the public and political spheres."
+  },
+  {
+   "page": 28,
+   "title": "Rise of Identity Consciousness and Multiculturalism Models",
+   "summary": "Will Kymlicka identifies demographic changes, human rights awareness, minority assertiveness, and the securitisation of ethnic relations as drivers of identity consciousness. Consequently, traditional French and American toleration models face challenges, leading countries like Canada, Australia, India, and the EU to embrace multiculturalism."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Friedrich Hayek characterize social justice as a 'mirage'?",
+   "back": "Hayek argued that social justice is unachievable because justice is a virtue of individuals rather than the state. He maintained that state enforcement of justice expands state power, misallocates resources to a parallel economy run by politicians and bureaucrats, and unjustifiably coerces the rich.",
+   "category": "Hayek on Justice",
+   "scanPage": 21
+  },
+  {
+   "front": "How does Robert Nozick justify the minimal state in Anarchy, State and Utopia?",
+   "back": "Nozick argued that the minimal or night-watchman state is inspiring and right because it motivates individuals to work hard while protecting property rights. He rejected state involvement in distributive justice, equating progressive taxation to bonded labour and suggesting even security could be private.",
+   "category": "Nozick Minimal State",
+   "scanPage": 22
+  },
+  {
+   "front": "What were the primary policy prescriptions of John Williamson's Washington Consensus?",
+   "back": "The ten points centered on fiscal deficit reduction, pro-industry tax reforms, targeted pro-growth subsidies, and market-determined interest and competitive exchange rates. It further mandated trade liberalisation, promotion of FDI, deregulation, privatization of PSUs, and protection of property rights.",
+   "category": "Washington Consensus Reforms",
+   "scanPage": 20
+  },
+  {
+   "front": "How did Milton Friedman link the concept of freedom to the market in Capitalism and Freedom?",
+   "back": "Friedman held that freedom is not merely needed by the market, but rather the market is indispensable for freedom itself. In societies where capitalism does not exist, there is no scope for individuals to genuinely enjoy freedom.",
+   "category": "Neoliberal Market Freedom",
+   "scanPage": 23
+  },
+  {
+   "front": "How does the social liberal governance model differ from modern positive liberalism?",
+   "back": "While modern liberals relied on direct state intervention and state-run PSUs, social liberalism advocates a tripartite partnership among the private sector, state, and civil society. Under this model, the private sector drives growth, the state facilitates capacity building, and civil society ensures accountability.",
+   "category": "Social Liberal Governance",
+   "scanPage": 24
+  },
+  {
+   "front": "What is the liberal definition and scope of toleration?",
+   "back": "Deriving from the Latin 'tolerare', toleration is the deliberate exercise of self-restraint toward disapproved behaviors where force could otherwise have been used. Regarded as the substantive heart of liberalism, it operates as a personal, social, and political virtue indispensable for realizing liberty.",
+   "category": "Liberal Toleration Concept",
+   "scanPage": 26
+  },
+  {
+   "front": "What four factors did Will Kymlicka identify as contributing to the rise of identity consciousness?",
+   "back": "Kymlicka identified demographic changes accompanied by large-scale immigration, growing consciousness about human rights, and the assertion of historically neglected minorities. Additionally, he highlighted the securitisation of ethnic relations as challenging traditional models of toleration.",
+   "category": "Identity Consciousness Factors",
+   "scanPage": 28
+  }
+ ],
+ "answers": [
+  {
+   "question": "Neoliberalism represents a revival of laissez-faire market fundamentalism that views the state as an obstacle to liberty and efficiency. Critically examine with reference to its core proponents.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Neoliberalism and the Minimal State",
+   "scanPage": 21,
+   "intro": "Neoliberalism emerged in the 1970s as market fundamentalism, reviving laissez-faire principles to dismantle the unsustainable welfare 'nanny state'. Proponents advocated state roll-back, elevating market mechanisms across economic and social life as the ultimate guarantor of individual freedom.",
+   "body": [
+    "In Constitution of Liberty, Friedrich Hayek condemned centralized planning as an irrational exercise bound to fail, asserting that the market acts like a central nervous system coordinating millions of signals. He deemed social justice a mirage, rejected positive liberty, and argued that progressive taxation amounts to bonded labour.",
+    "Robert Nozick in Anarchy, State and Utopia defended the minimal night-watchman state as inspiring and right. Opposing John Rawls, Nozick maintained that the state's sole legitimate role is protecting property acquisitions and transfers, repudiating distributive justice and suggesting private sector provision for security.",
+    "Milton Friedman argued in Capitalism and Freedom that capitalism is indispensable for freedom, while Murray Rothbard denounced state officials as a gang of thieves. Neoliberals relied on trickle-down economics to address poverty, prioritizing deregulation, property rights, and disinvestment over state-led redistribution.",
+    "Adopted via Thatcherism, Reaganomics, and Williamson's Washington Consensus, neoliberal structural adjustment programs spread globally. However, crises across Russia, Mexico, Argentina, and Southeast Asia, coupled with post-2008 Western stagnation, exposed severe inter-state and intra-state disparities."
+   ],
+   "scholars": [
+    "Hayek (Constitution of Liberty)",
+    "Robert Nozick (Anarchy, State and Utopia)",
+    "Milton Friedman (Capitalism and Freedom)",
+    "Murray Rothbard",
+    "John Williamson",
+    "Joseph Stiglitz"
+   ],
+   "conclusion": "Consequently, market fundamentalism triggered anti-globalisation movements and intellectual correctives like Stiglitz's Post-Washington consensus. Sustained legitimacy requires balancing market dynamism with human development, social safety nets, and democratic institutional accountability rather than total state roll-back."
+  },
+  {
+   "question": "Toleration is described as the substantive heart of liberalism. Analyze its philosophical evolution and explain why traditional Western models of toleration are being challenged by multiculturalism.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Liberal Toleration and Multiculturalism",
+   "scanPage": 26,
+   "intro": "Originating from the Latin 'tolerare', toleration represents the substantive heart of liberalism, requiring deliberate self-restraint toward disapproved practices. It provides the essential ethical foundation for individual liberty and peaceful coexistence amid deep moral, cultural, and religious diversity.",
+   "body": [
+    "Early liberal toleration emerged to manage religious conflict. John Locke in Letter Concerning Toleration advocated state neutrality and freedom of conscience, while J.S. Mill formulated the harm principle, asserting that state intervention in individual liberty is justified solely to prevent concrete harm.",
+    "John Rawls demonstrated that citizens adhering to diverse comprehensive doctrines can establish an overlapping consensus on a political conception of justice. Historically, European states managed diversity through universal citizenship and secular nationalism, utilizing French strict separation or the American melting-pot assimilation.",
+    "Will Kymlicka identified modern challenges to these assimilationist models: demographic shifts via large-scale immigration, rising human rights awareness, minority assertiveness against historical neglect, and the securitisation of ethnic relations. Consequently, religious and cultural assertions have resurfaced forcefully within the public sphere.",
+    "Faced with these pressures, Western nations moved away from rigid uniformity. Canada in the 1970s and Australia in the 1980s adopted multiculturalism policies, mirrored by the European Union, while India's constitution stands as an early pioneer in constitutionalizing multicultural coexistence."
+   ],
+   "scholars": [
+    "John Locke (Letter Concerning Toleration)",
+    "J.S. Mill",
+    "John Rawls",
+    "Will Kymlicka"
+   ],
+   "conclusion": "Ultimately, toleration must evolve from passive endurance and forced assimilation toward proactive multicultural accommodation. Upholding democratic stability demands protecting plural identities while securing common civic solidarity under an inclusive constitutional framework."
+  }
+ ]
+}

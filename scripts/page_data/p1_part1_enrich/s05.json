@@ -1,0 +1,69 @@
+{
+ "pages": [
+  {
+   "page": 28,
+   "title": "Sir Syed Ahmed Khan: Social Reform and Modernisation",
+   "summary": "Sir Syed Ahmed Khan sought to modernize the Muslim community through education and scientific inquiry, critiquing outdated customs through his magazine Tehzib-ul-Akhlaq. He founded the Scientific Society and a research journal, encouraging Muslim youth to balance religious faith with the study of science."
+  },
+  {
+   "page": 29,
+   "title": "Sir Syed Ahmed Khan: Political Views and Transition",
+   "summary": "Following the Awadh language controversy, Sir Syed shifted from advocating Hindu-Muslim unity to suggesting both communities remain separate, becoming recognized as the originator of the two-nation theory. Despite facing orthodox criticism and controversy for advising Muslims not to join Congress, he secured British support to establish the Mohammedan Anglo-Oriental College."
+  },
+  {
+   "page": 30,
+   "title": "Present Relevance of Sir Syed Ahmed Khan",
+   "summary": "Although Sir Syed Ahmed Khan remains a controversial figure, the notes state that the Muslim community in present times needs such a leader while facing similar frustration and exclusion."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Through which journal and institutional initiatives did Sir Syed Ahmed Khan seek to modernize the Muslim community and promote scientific research?",
+   "back": "He aimed at the modernization of Muslims and attacked outdated customs through his magazine Tehzib-ul-Akhlaq. He also founded the Scientific Society at Gazipur (later shifted to Aligarh) and published the journal 'Indian Institute & Gazette' to promote scientific research.",
+   "category": "Modernisation and Scientific Reform",
+   "scanPage": 28
+  },
+  {
+   "front": "What was Sir Syed Ahmed Khan's view on Islam's compatibility with modern science, and what was his advice to Muslim youth?",
+   "back": "He believed that Islam can easily adopt science and a scientific way of life. His message to the Muslim youth was to carry the Quran in one hand and the book of science in the other hand.",
+   "category": "Islamic Modernism",
+   "scanPage": 28
+  },
+  {
+   "front": "What caused the shift in Sir Syed Ahmed Khan's thought from advocating Hindu-Muslim unity to originating the two-nation theory?",
+   "back": "The shift occurred after the language controversy in Awadh over replacing Urdu in Persian script with Hindi in Devanagari script as the official language. Convinced that mutual agreement was impossible and differences would increase, he concluded that Hindus and Muslims should stay as separate communities.",
+   "category": "Two Nation Theory",
+   "scanPage": 29
+  },
+  {
+   "front": "How did Sir Syed Ahmed Khan seek British support for Muslim education following the 1857 revolt?",
+   "back": "In 'Asbab-i-bagawate hind', he argued that the 1857 revolt was caused by flawed British administrative policies rather than a Muslim conspiracy, and in 'The Loyal Mohammaden's of India', he gave assurances of Muslim loyalty. This secured British backing to establish the Mohammedan Anglo-Oriental College, which later became Aligarh University.",
+   "category": "British Engagement and Education",
+   "scanPage": 29
+  }
+ ],
+ "answers": [
+  {
+   "question": "Discuss the transition in Sir Syed Ahmed Khan's thought from an advocate of Hindu-Muslim unity to the originator of the two-nation theory, highlighting his role as an Islamic moderniser.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Sir Syed Ahmed Khan and Islamic Modernism",
+   "scanPage": 29,
+   "intro": "Sir Syed Ahmed Khan occupies a position among Muslims akin to Raja Rammohan Roy among Hindus. Witnessing the downfall of Mughal power, he sought to rescue his community from frustration through rational education, social reform, and scientific modernization.",
+   "body": [
+    "As an Islamic moderniser, Sir Syed Ahmed Khan attacked outdated customs and rituals through his magazine Tehzib-ul-Akhlaq, arguing that Islam could easily assimilate science. He established the Scientific Society at Gazipur and published the 'Indian Institute & Gazette', famously advising Muslim youth to hold the Quran in one hand and the book of science in the other.",
+    "Initially, he was an advocate of Hindu-Muslim unity, even advising Muslims not to eat beef respecting the sentiments of their Hindu neighbours.",
+    "A decisive transition occurred after the Awadh language controversy over replacing Urdu with Hindi. Convinced that mutual agreement was impossible and differences would grow, he urged Muslims to avoid the Indian National Congress, originating the two-nation theory.",
+    "Recognizing British power as an enduring force, he wrote 'Asbab-i-bagawate hind' to attribute the 1857 revolt to British administrative failures rather than Muslim conspiracy. Through 'The Loyal Mohammaden's of India', he secured British backing to establish the Mohammaden Anglo-Oriental College, later Aligarh University."
+   ],
+   "scholars": [
+    "Sir Syed Ahmed Khan",
+    "Raja Rammohan Roy",
+    "Tehzib-ul-Akhlaq",
+    "Indian Institute & Gazette",
+    "Asbab-i-bagawate hind",
+    "The Loyal Mohammaden's of India"
+   ],
+   "conclusion": "Though Sir Syed Ahmed Khan remains controversial for advising Muslims against Congress and originating two-nation ideas, his emphasis on modern scientific education makes him the leadership model needed by the community currently facing frustration and exclusion."
+  }
+ ]
+}

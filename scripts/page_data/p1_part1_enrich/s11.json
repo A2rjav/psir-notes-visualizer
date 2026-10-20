@@ -1,0 +1,85 @@
+{
+ "pages": [
+  {
+   "page": 87,
+   "title": "Imperialist and Nationalist Perspectives on National Movement",
+   "summary": "Imperialist historians and administrators viewed India as merely a geographical expression and described political activities between 1857 and 1947 as communal movements guided by power brokers. In contrast, early nationalists rejected this view, with Surendranath Banerjee asserting that India was a nation in making."
+  },
+  {
+   "page": 88,
+   "title": "Cultural Nationalist and Marxist Perspectives on Nationalism",
+   "summary": "Aurobindo Ghosh and nationalist historians like Dr. Tarachand and R.C. Majumdar defended the existence of India as a nation and the Congress movement as a genuine nationalist struggle. The page also introduces the Marxist interpretation, describing nationalism as an invented tradition and an instrument of the bourgeoisie."
+  },
+  {
+   "page": 89,
+   "title": "Marxist Interpretations of the Indian National Movement",
+   "summary": "Marxist thinkers including Karl Marx, M.N. Roy, A.R. Desai, and R.P. Dutt viewed the 1857 revolt as feudal and considered Congress and Gandhi to be bourgeois. However, Sumit Sarkar noted Congress had no conscious strategy against the masses, and Bipin Chandra maintained that it was a spectacular mass national movement."
+  },
+  {
+   "page": 90,
+   "title": "Dalit and Subaltern Perspectives on National Movement",
+   "summary": "Dalit thinkers like Jyotiba Phule, B.R. Ambedkar, and Periyar critiqued Brahmanism and rejected the Congress-led struggle as a true national movement. Phule and Ambedkar preferred British rule of law over Peshwa rule, while Periyar founded the Self-Respect Movement and Dravid khadgam to seek a separate Dravidian state."
+  },
+  {
+   "page": 91,
+   "title": "Socialist and Radical Humanist Perspectives",
+   "summary": "The socialist perspective within Congress, represented by figures like Nehru, Bose, and the Congress Socialist Party, sought to radicalize the political programme without opposing the party. Meanwhile, M.N. Roy offered a Radical Humanist perspective, arguing that nationalism suppresses man and calling for a cosmopolitan union of liberated persons."
+  },
+  {
+   "page": 92,
+   "title": "Capitalist Encirclement and the Domino Theory",
+   "summary": "The text outlines communist debates over capitalist encirclement, contrasting Stalin's socialism in one country with Trotsky's call for permanent revolution. It also compares this encirclement concept to the American domino theory formulated to justify the containment of communism."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How did Imperialist and Cambridge School historians characterize the political activities of the Indian National Movement?",
+   "back": "Imperialist historians such as Percival Spear, Louis Namier, and Anil Seal claimed that political activities between 1857 and 1947 were not a national movement because a nation must exist prior to such a movement. They described these activities as communal movements led by power brokers seeking British favors and driven by animal instincts rather than grand ideas.",
+   "category": "Imperialist Historiography",
+   "scanPage": 87
+  },
+  {
+   "front": "How did cultural nationalist Aurobindo Ghosh contest the early nationalist view regarding Indian nationhood?",
+   "back": "Early nationalists like Surendranath Banerjee conceded that India was not yet a nation but viewed it as a 'Nation in Making'. In contrast, Aurobindo Ghosh rejected this defensive stance, asserting that India was a nation from the beginning and combining nationalism with patriotism to challenge British discourse.",
+   "category": "Nationalist Interpretation",
+   "scanPage": 88
+  },
+  {
+   "front": "How did Marxist scholars assess the class character of the Congress and its leadership?",
+   "back": "In 'India in Transition', M.N. Roy characterized the Congress as a bourgeois party and Gandhi as a bourgeois leader, an assessment supported by A.R. Desai in 'Social Background of Indian Nationalism' and R.P. Dutt in 'India Today'. However, Sumit Sarkar argued Congress lacked a conscious anti-mass strategy, while Bipin Chandra affirmed it was a genuine and spectacular mass movement.",
+   "category": "Marxist Interpretation",
+   "scanPage": 89
+  },
+  {
+   "front": "Why did B.R. Ambedkar reject the Congress-led national movement?",
+   "back": "Influenced by Jyotiba Phule's preference for British rule of law over Peshwa Raj, Ambedkar rejected India's claim to nationhood and refused to participate in Congress-led movements. Influenced by the French Revolution, he held that a nation requires fraternity, ultimately demanding British presence remain and opposing the Quit India movement.",
+   "category": "Dalit Subaltern Perspective",
+   "scanPage": 90
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically evaluate the Marxist interpretation of the Indian National Movement, contrasting it with imperialist and nationalist perspectives.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Perspectives on the Indian National Movement",
+   "scanPage": 89,
+   "intro": "The nature of the Indian National Movement remains a contested historiographical terrain. While imperialist administrators reduced it to communal power-broking, Marxist and nationalist scholars offered structural and ideological frameworks to assess whether it was genuinely popular or bourgeois-led.",
+   "body": [
+    "Cambridge imperialists like Percival Spear and Anil Seal dismissed Indian nationalism as communal patronage politics. While Karl Marx interpreted the 1857 revolt as a feudal uprising rather than a national war of independence, Benedict Anderson framed nationalism as an invented tradition serving bourgeois dominance.",
+    "Orthodox Marxists critiqued Congress hegemony. In 'India in Transition', M.N. Roy categorized Congress as a bourgeois party and Gandhi as a bourgeois leader, an analysis reinforced by A.R. Desai ('Social Background of Indian Nationalism') and R.P. Dutt ('India Today').",
+    "Nationalists refuted these arguments. Dr. Tarachand and R.C. Majumdar maintained Congress pursued a genuine, inspiring national mission. Earlier, Surendranath Banerjee acknowledged India as a 'Nation in Making', whereas Aurobindo Ghosh asserted India was an eternal nation, blending nationalism and patriotism against imperialist denial.",
+    "Nuancing Marxist critique, Sumit Sarkar in 'Modern India' highlighted that Congress had no conscious strategy against the masses. Furthermore, Bipin Chandra affirmed the struggle was an authentic, spectacular mass national movement whose unifying warmth continues to define India's survival."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "M.N. Roy ('India in Transition')",
+    "A.R. Desai ('Social Background of Indian Nationalism')",
+    "R.P. Dutt ('India Today')",
+    "Sumit Sarkar ('Modern India')",
+    "Bipin Chandra",
+    "Dr. Tarachand and R.C. Majumdar"
+   ],
+   "conclusion": "Ultimately, while Marxist perspectives expose the class limitations of the leadership, Bipin Chandra's assessment reminds us of its popular mass character. India's post-independence survival against external and internal challenges vindicates the enduring strength of its national movement."
+  }
+ ]
+}

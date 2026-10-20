@@ -1,0 +1,96 @@
+{
+  "pages": [
+    {
+      "page": 97,
+      "title": "Interdependence and the Golden Arches theory",
+      "summary": "Interdependence means economic interdependence, inspired by Kant's promotion of free trade, and Thomas Friedman's Golden Arches theory says countries with McDonald's chains will not fight because wars become less attractive. Scholars see India-China relations improving through economic interdependence, with the LAC almost peaceful compared with the Line of Control."
+    },
+    {
+      "page": 98,
+      "title": "Pakistan, Manmohan Doctrine and trading states",
+      "summary": "With little economic interdependence, India and Pakistan have no stakes in each other's stability, so breaking relations and low intensity warfare are easy, and the Manmohan Doctrine sought MFN status, investment, trade, cross-LoC trade and visa liberalisation. Richard Rosecrance proposes trading states like Germany and Japan over military states, citing the overstressed USSR and the decline of US hegemony."
+    },
+    {
+      "page": 99,
+      "title": "Peaceful Rise; complex interdependence defined",
+      "summary": "China has pursued Peaceful Rise to emerge as a major power. Complex interdependence is a descriptive theory (the others were prescriptive) of the post-Cold War order, in which countries are interlinked so complicatedly that they cannot pursue an independent path."
+    },
+    {
+      "page": 100,
+      "title": "Keohane and Nye features; liberal order elements",
+      "summary": "Old conflicts continue, but climate change and global terrorism force cooperation, and Nye and Keohane say economic security now dominates military security, politics is pluralistic, relations mix struggle and cooperation, and the world is not complete anarchy. The liberal world order, an alternative to Westphalian order, comprises free trade, freedom of navigation, promotion of democracy, human rights and rule of law."
+    },
+    {
+      "page": 101,
+      "title": "Liberal world order: Ikenberry's three phases",
+      "summary": "The liberal world order rests on Kant's ideas and was first formally presented in Wilson's 14 points speech. John Ikenberry gives three phases: liberalism 1.0 with the League of Nations, 2.0 after the Second World War with the UN, IMF, World Bank and UDHR, and 3.0 after the Cold War with the WTO, UNHRC and ICC."
+    },
+    {
+      "page": 102,
+      "title": "Crisis of the liberal world order since 2001",
+      "summary": "The order has been in crisis since 2001 due to Islamic fundamentalism (Huntington), contradiction by globalisation (Wallerstein), decline of US hegemony and revisionist states such as Russia, China, Iran and ISIS. It is at its worst time, with rollback under President Trump, EU crisis and rise of right and left, and Ian Bremmer and Robert Kagan describe geopolitical recession and fragmentation."
+    },
+    {
+      "page": 103,
+      "title": "Munich Security Conference and India's stake",
+      "summary": "The Munich Security Conference (Feb 2017) worried about liberal democracy, open economies and multilateralism such as trade deals and the Paris Climate Agreement. The notes argue the liberal order is always beneficial for India and can be protected only if liberal countries show real commitment and reform institutions."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What is Thomas Friedman's Golden Arches theory?",
+      "back": "It says two countries with McDonald's chains will not go to war, because people prefer standing in a queue for burgers. In effect, economic interdependence grows so much that wars become less attractive.",
+      "category": "Economic interdependence",
+      "scanPage": 97
+    },
+    {
+      "front": "What does Richard Rosecrance propose and why?",
+      "back": "He proposes promoting trading states like Germany and Japan, powerful on economic basis, over military states. He cites the USSR, which overstressed itself militarily, and the USA, whose reliance on military power contributed to its hegemony's decline.",
+      "category": "Trading states",
+      "scanPage": 98
+    },
+    {
+      "front": "What features of complex interdependence do Joseph Nye and Robert Keohane describe?",
+      "back": "Security issues stay relevant but economic security dominates military security, politics is pluralistic with several actors, relations include cooperation as well as struggle, and the world is complex interdependence rather than complete anarchy.",
+      "category": "Complex interdependence",
+      "scanPage": 100
+    },
+    {
+      "front": "How does John Ikenberry describe the three phases of the liberal world order?",
+      "back": "Liberalism 1.0 was the League of Nations and collective security after the First World War, ending as the USA withdrew. Liberalism 2.0 followed the Second World War (UN, IMF, World Bank, UDHR) and 3.0 emerged strongest after the Cold War (WTO, UNHRC, ICC).",
+      "category": "Liberal order phases",
+      "scanPage": 101
+    },
+    {
+      "front": "What challenges have put the liberal world order in crisis since 2001?",
+      "back": "Islamic fundamentalism (Huntington), contradiction by globalisation (Wallerstein), decline of US hegemony, and revisionist states: Russia in Europe, China in Asia Pacific, and Iran and ISIS in the Middle East. Rollback under President Trump and the EU crisis worsen it.",
+      "category": "Crisis of liberal order",
+      "scanPage": 102
+    }
+  ],
+  "answers": [
+    {
+      "question": "Examine the present status of the liberal world order. Should it survive from the perspective of India?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Crisis of liberal world order",
+      "scanPage": 102,
+      "intro": "The liberal world order, an alternative to the Westphalian order, comprises free trade, freedom of navigation, promotion of democracy, human rights and rule of law. It rests on Kant's ideas and has been the US vision since Wilson.",
+      "body": [
+        "John Ikenberry traces three phases: liberalism 1.0 with the League of Nations, 2.0 after the Second World War with the UN, IMF, World Bank and UDHR, limited to the west, and 3.0 after the Cold War with the WTO, UNHRC and ICC.",
+        "Since 2001 it has been in crisis through Islamic fundamentalism (Huntington), contradictions of globalisation (Wallerstein), decline of US hegemony, and revisionist states: Russia challenges the order in Europe, China in Asia Pacific, and Iran and ISIS in the Middle East.",
+        "Present status is the worst time: rollback in core areas under President Trump, EU crisis over economic recession and migration, and the rise of right and left. Ian Bremmer speaks of geopolitical recession and Robert Kagan of fragmentation.",
+        "The Munich Security Conference (Feb 2017) voiced concern over liberal democracy, open economy and multilateralism such as trade deals and the Paris Agreement. The notes say the order always benefits India, which gains if multilateralism strengthens."
+      ],
+      "scholars": [
+        "Immanuel Kant",
+        "Woodrow Wilson",
+        "John Ikenberry",
+        "Samuel Huntington",
+        "Immanuel Wallerstein",
+        "Ian Bremmer",
+        "Robert Kagan"
+      ],
+      "conclusion": "The liberal order faces its sharpest test, yet India has good reason to want it preserved. It can survive only if liberal countries show real commitment to liberal values and carry out necessary institutional reforms."
+    }
+  ]
+}

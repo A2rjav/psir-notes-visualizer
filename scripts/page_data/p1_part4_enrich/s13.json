@@ -1,0 +1,83 @@
+{
+ "pages": [
+  {
+   "page": 98,
+   "title": "Concept, views, and theories of power",
+   "summary": "Power is a contested concept viewed conventionally as domination or coercion and non-conventionally by Hannah Arendt as empowerment. The page also presents Steven Lukes' three dimensions of power and lists major theoretical perspectives."
+  },
+  {
+   "page": 99,
+   "title": "Elitist theory of power and Pareto",
+   "summary": "Elitist theory posits that power resides with an extraordinary elite class rather than the masses. Pareto describes history as a cyclical circulation of elites (foxes and lions), which serves as the foundation for the elitist theory of democracy where masses only elect elites."
+  },
+  {
+   "page": 100,
+   "title": "Mosca, Robert Michels, and Raymond Aron",
+   "summary": "Mosca links elite status to organizational ability, while Robert Michels formulates the Iron Law of Oligarchy showing power inevitably concentrates in small groups. Raymond Aron argues liberal democracies are more democratic than socialist regimes because multiple parties create a fractured elite structure offering choice."
+  },
+  {
+   "page": 101,
+   "title": "Economic democracy and C. Wright Mills",
+   "summary": "Downs and Schumpeter present an economic model of democracy where politicians act as entrepreneurs and voters as consumers selecting elites. C. Wright Mills argues that power in the USA is concentrated in institutional power elites comprising federal politicians, corporate leaders, and military officials."
+  },
+  {
+   "page": 102,
+   "title": "Robert Dahl's pluralist theory and polyarchy",
+   "summary": "Robert Dahl argues that the USA is a polyarchy where citizens exercise power through interest group politics rather than an oligarchy. He later introduced the concept of deformed polyarchy, acknowledging that corporate groups exert disproportionately greater power than other groups."
+  },
+  {
+   "page": 103,
+   "title": "Neo-pluralism, Marxism, and Arendtian power",
+   "summary": "The text distinguishes neo-pluralists, who view corporate influence as limited to the economic sphere, from Marxists, who argue the economically dominant control the entire superstructure. It also notes Gramsci's view of soft power and Hannah Arendt's conception of political power as civil society acting in concert for empowerment."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "According to Vilfredo Pareto, how does power circulate between different types of elites?",
+   "back": "In 'Mind & Society', Pareto explains that history is cyclical and power flows in a closed loop between two types of elites: foxes and lions. There is no trickle-down effect to the masses, making history the graveyard of aristocracy.",
+   "category": "Circulation of Elites",
+   "scanPage": 99
+  },
+  {
+   "front": "What does Robert Michels's 'Iron law of Oligarchy' demonstrate about political parties?",
+   "back": "Michels argues in 'Political Parties' that power inevitably becomes concentrated in the hands of a small section of elites in both democratic and communist nations. His analysis revealed no fundamental difference in operation between socialist parties and bourgeois or liberal parties.",
+   "category": "Iron Law of Oligarchy",
+   "scanPage": 100
+  },
+  {
+   "front": "Who constitutes the 'power elite' in the United States according to C. Wright Mills?",
+   "back": "C. Wright Mills asserts that power in the USA is monopolized by a tripartite elite occupying top positions in key institutions: federal politicians, corporate big houses, and military officials. These power elites make monumental national decisions in their own sectional interest, such as dropping the atomic bomb.",
+   "category": "Power Elite Theory",
+   "scanPage": 101
+  },
+  {
+   "front": "How does Robert Dahl characterize the distribution of power in his concept of 'polyarchy'?",
+   "back": "In 'Who governs', Robert Dahl argues that the USA is a polyarchy where power is dispersed among the many rather than concentrated in an oligarchy. Ordinary people exercise power not as isolated individuals, but through active membership in competing interest groups and associations that lobby for their members.",
+   "category": "Concept of Polyarchy",
+   "scanPage": 102
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the Pluralist critique of Elitist theories of power, with special reference to Robert Dahl's concepts of polyarchy and deformed polyarchy.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Theories of Power: Elitist and Pluralist Perspectives",
+   "scanPage": 102,
+   "intro": "Power is political science's central, contested concept concerning the location of power. While classical elitists assert that power concentrates exclusively within an elite minority, pluralists argue power is dispersed among multiple organized associations in society.",
+   "body": [
+    "Classical elitists Pareto ('Mind & Society') and Mosca ('The Ruling Class') established that power resides solely in elites possessing natural qualities or organizational skills, while Robert Michels formulated the 'Iron law of Oligarchy', showing power inevitably concentrates in few hands across parties.",
+    "C. Wright Mills contextualized elitism within the USA, demonstrating that power elites comprising federal politicians, corporate big houses, and top military officials control key institutions and take monumental decisions, such as dropping the atomic bomb, in their own sectional interest.",
+    "Challenging Mills in 'Who governs', Robert Dahl asserted that the USA is a polyarchy rather than an oligarchy, proving through field surveys that power is distributed among the many as ordinary citizens secure influence via active interest group politics.",
+    "Dahl subsequently modified his thesis into 'deformed polyarchy', acknowledging corporate groups exert disproportionate power over regular groups; nevertheless, neo-pluralists maintain corporate dominance affects economic policy without controlling every superstructure sphere as Marxists claim."
+   ],
+   "scholars": [
+    "Vilfredo Pareto ('Mind & Society')",
+    "Gaetano Mosca ('The Ruling Class')",
+    "Robert Michels ('Political Parties')",
+    "C. Wright Mills",
+    "Robert Dahl ('Who governs')"
+   ],
+   "conclusion": "Ultimately, the evolution from classical elitism to polyarchy and neo-pluralism reveals that while power is neither fully concentrated nor equally shared, democratic systems endure through fractured elite competition and active interest group participation."
+  }
+ ]
+}

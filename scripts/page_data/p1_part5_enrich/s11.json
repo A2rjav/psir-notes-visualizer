@@ -1,0 +1,79 @@
+{
+ "pages": [
+  {
+   "page": 112,
+   "title": "Introduction to Rousseau's Philosophy and Human Nature",
+   "summary": "Rousseau is introduced as a thinker of paradoxes whose central political concern is reconciling liberty and authority. He considers human nature to be essentially good with self-love and sympathy, arguing that society is bad and needs to be changed."
+  },
+  {
+   "page": 113,
+   "title": "State of Nature, Reason, and the Contract",
+   "summary": "In the state of nature, man was a noble savage living in bliss until reason and settled civilization corrupted him into a depraved animal. People enter into a contract to change this situation and recover the true happiness and real freedom of the state of nature."
+  },
+  {
+   "page": 114,
+   "title": "Rousseau's Concept of the General Will",
+   "summary": "Because returning to the state of nature is not feasible, individuals enter a contract to form a body politic where they act according to their real will. The sum of these essentially good real wills constitutes the General Will, which represents the people as the state."
+  },
+  {
+   "page": 115,
+   "title": "General Will, Sovereignty Types, and Hobbes's Leviathan",
+   "summary": "The General Will is indivisible, always right, and holds absolute power to force men to be free, functioning like Hobbes's Leviathan with its head chopped off where power is diffused throughout the body politic. The notes also contrast legal sovereignty in Hobbes, political sovereignty in Locke, and popular sovereignty where power lies with the people."
+  },
+  {
+   "page": 116,
+   "title": "Rousseau: Direct Democracy and Positive Liberty",
+   "summary": "Rousseau is presented as a champion of direct, participatory, and deliberative democracy inspired by Switzerland, where the General Will only emerges through direct participation in lawmaking. He also introduces positive liberty or moral freedom, proposing that man is free only when obeying the state."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does Rousseau define freedom, and what constitutes the original nature of man?",
+   "back": "According to Rousseau, freedom means acting according to one's choice, will, or true nature. Man's original nature is essentially good, characterized by both self-love and sympathy for others.",
+   "category": "Human Nature and Freedom",
+   "scanPage": 112
+  },
+  {
+   "front": "Why did man transition from a 'Noble Savage' to a 'depraved animal' according to Rousseau?",
+   "back": "Man was originally a 'Noble Savage' enjoying bliss, but the growth of civilization and reason taught him to calculate self-interest, profit, pleasure, and the difference between 'mine and thine'. Consequently, rationality turned the thinking man into a depraved animal.",
+   "category": "State of Nature",
+   "scanPage": 113
+  },
+  {
+   "front": "How is the General Will formed, and how does Rousseau distinguish Real Will from Actual Will?",
+   "back": "Real will represents man's original, essentially good will, whereas actual will is shaped by societal norms. The General Will is formed as the sum of the real wills of all citizens and is represented in the state.",
+   "category": "Theory of General Will",
+   "scanPage": 114
+  },
+  {
+   "front": "How does Rousseau's concept of popular sovereignty differ from Hobbes's legal sovereignty and Locke's political sovereignty?",
+   "back": "Hobbes locates legal sovereignty in a third-party monarch, while Locke locates political sovereignty in parliament representing the people. In contrast, Rousseau advances popular sovereignty as an ideal philosophical notion where sovereignty lies directly with the people.",
+   "category": "Types of Sovereignty",
+   "scanPage": 115
+  }
+ ],
+ "answers": [
+  {
+   "question": "\"Rousseau's General Will is Hobbes's Leviathan with his head chopped off.\" Comment.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Jean-Jacques Rousseau: General Will, Popular Sovereignty and Freedom",
+   "scanPage": 115,
+   "intro": "Rousseau seeks to reconcile liberty and authority through his Social Contract. While aiming to establish popular sovereignty, his formulation of the General Will has led critics to describe it as Hobbes's Leviathan with its head chopped off.",
+   "body": [
+    "While Thomas Hobbes vests legal sovereignty in an external third-party monarch, Rousseau eliminates any separate head, diffusing sovereign power throughout the body politic where citizens themselves form the state.",
+    "Both frameworks grant absolute power: Hobbes gives Leviathan a monopoly over coercive force, while Rousseau similarly asserts that individuals can be forced to be free through the state's power to punish.",
+    "For Rousseau, obeying the General Will realizes positive liberty or moral freedom, because it reflects the collective sum of citizens' real, essentially good wills rather than selfish actual wills shaped by society.",
+    "Unlike John Locke's political sovereignty delegated to parliament, Rousseau envisions indivisible popular sovereignty, mirrored when bodies like India's Constituent Assembly work with their real wills to represent the general will of the people.",
+    "Rejecting state totalitarianism, Rousseau was inspired by direct democracy in Switzerland, demonstrating that the General Will differs from Leviathan because it emerges strictly through direct citizen participation and deliberation in law-making."
+   ],
+   "scholars": [
+    "Jean-Jacques Rousseau",
+    "Social Contract",
+    "Thomas Hobbes",
+    "Leviathan",
+    "John Locke"
+   ],
+   "conclusion": "While totalitarians have manipulated Rousseau's coercive General Will, reducing it to a headless Leviathan ignores his democratic vision. Rousseau remains a champion of popular sovereignty and participatory democracy, grounding authority in genuine moral freedom."
+  }
+ ]
+}

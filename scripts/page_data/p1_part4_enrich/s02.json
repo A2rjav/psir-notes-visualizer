@@ -1,0 +1,65 @@
+{
+ "pages": [
+  {
+   "page": 5,
+   "title": "Idealism: Exponents, Core Tenets, and Schools",
+   "summary": "Idealists regard the state and society as natural, organic, and prior to man, emphasizing duties over rights across Hegelian, Kantian, and British schools. While medieval divine rights theory justified state absolutism through religion, political idealism justified it using reason and logic."
+  },
+  {
+   "page": 6,
+   "title": "Idealist Rationalism and Modern Liberalism",
+   "summary": "Idealists are termed rationalists because they believe ideas are real and knowable through reason, which underpinned modern movements establishing human rationality and rights. Liberalism developed as a Western culture and claimed ideological victory in 1991, but has faced crisis since 2008 from communitarianism, multiculturalism, and Islamic fundamentalism."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What are the core propositions of philosophical Idealism regarding human nature, society, and individual rights?",
+   "back": "Idealists view man as social and moral by nature, holding that both society and the state are natural, organic, and prior to man. Consequently, idealists prioritize duties over rights, which may lead to the justification of collectivism and totalitarianism.",
+   "category": "Core Tenets of Idealism",
+   "scanPage": 5
+  },
+  {
+   "front": "How do the Hegelian and Kantian traditions differ regarding the locus of primacy in Idealism?",
+   "back": "The Hegelian school of the German tradition accords primacy to the state. In contrast, the Kantian school gives primacy to society rather than the state.",
+   "category": "Schools of Idealism",
+   "scanPage": 5
+  },
+  {
+   "front": "On what distinct grounds do Idealism and the medieval Theory of Divine Rights justify state absolutism?",
+   "back": "While both schools justify state absolutism, the medieval Theory of the Divine Rights of kings justifies it on the basis of religion. Idealism, conversely, justifies state absolutism on the grounds of reason and logic.",
+   "category": "Justification of State Absolutism",
+   "scanPage": 5
+  },
+  {
+   "front": "Why are idealist political thinkers also characterized as rationalists?",
+   "back": "Idealists are called rationalists because they believe that the idea is real. Furthermore, they assert that this idea can be understood only through the use of reason.",
+   "category": "Rationalism in Idealism",
+   "scanPage": 6
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the core tenets of philosophical Idealism and critically analyze how its conception of the state may lead to the justification of state absolutism and totalitarianism.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Political Ideologies: Idealism and State Absolutism",
+   "scanPage": 5,
+   "intro": "Idealism is a foundational political ideology expounded by classical thinkers like Socrates, Plato, and Aristotle, alongside modern philosophers like Rousseau, Hegel, Kant, and T.H. Green, positing that idea is real and comprehensible solely through human reason.",
+   "body": [
+    "For idealist thinkers such as Socrates, Plato, and Aristotle, man is inherently social and moral by nature. Idealists argue that society and state are natural and organic entities that are strictly prior to man, thereby prioritizing moral duties over individual rights.",
+    "Idealism bifurcated into distinct traditions: while the Hegelian school within the German tradition accorded ultimate primacy to the state, the Kantian school of Immanuel Kant prioritized society over the state, alongside the British school of Oxford idealists like T.H. Green.",
+    "Historically, medieval times justified state absolutism through the Theory of the Divine Rights of kings grounded in religion. In contrast, political idealism justified state absolutism through reason and logic, viewing idealists as rationalists who understand the real idea through reason.",
+    "Consequently, by subordinating the individual to an organic state that is prior to man, political idealism carries the profound consequence of providing philosophical justification for collectivism and totalitarianism, as seen in extreme manifestations of Hegelian state primacy."
+   ],
+   "scholars": [
+    "Socrates",
+    "Plato",
+    "Aristotle",
+    "Rousseau",
+    "Hegel",
+    "Immanuel Kant",
+    "T.H. Green"
+   ],
+   "conclusion": "While idealism elevates moral duty and reason above unbridled individualism, its organic elevation of state authority must be reconciled with individual rights and liberty, ensuring that rational collective order does not devolve into authoritarian state absolutism."
+  }
+ ]
+}

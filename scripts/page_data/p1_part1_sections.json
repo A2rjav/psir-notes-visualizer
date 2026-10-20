@@ -1,0 +1,435 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Course Overview | Reference Texts | Syllabus Index | Reading List",
+   "start": 1,
+   "end": 6,
+   "keyScholars": [
+    "Subhra Ranjan",
+    "V. R. Mehta",
+    "Bidyut Chakrabarty",
+    "V. P. Varma"
+   ],
+   "coreTheories": [
+    "Indian Political Thought"
+   ]
+  },
+  {
+   "title": "Ancient Indian Political Thought and Dharmashastra",
+   "subtitle": "Features of Indian Thinking | Dharmashastra vs Dandashastra | Cosmic Law and Shruti-Smriti | Manusmriti on Kingship and Varna",
+   "start": 7,
+   "end": 13,
+   "keyScholars": [
+    "Manu",
+    "Kautilya"
+   ],
+   "coreTheories": [
+    "Dharmashastra",
+    "Dandashastra",
+    "Purusharthas",
+    "Yogakshema",
+    "Varna Vyavastha"
+   ]
+  },
+  {
+   "title": "Kautilya's Arthashastra and Ancient Indian Statecraft",
+   "subtitle": "Saptanga Theory | Mandal Siddhant and Foreign Policy | Corruption and Governance | Kautilya and Machiavelli Comparison",
+   "start": 14,
+   "end": 24,
+   "keyScholars": [
+    "Kautilya",
+    "Jawaharlal Nehru",
+    "Max Weber",
+    "Niccolo Machiavelli"
+   ],
+   "coreTheories": [
+    "Saptanga Theory",
+    "Mandal Siddhant",
+    "Arthashastra Statecraft",
+    "Chakravartin",
+    "Machiavellian Realism"
+   ]
+  },
+  {
+   "title": "Buddhist Political Thought and Social Contract",
+   "subtitle": "Worldly vs Otherworldly Orientation | Origin of State and Property | Critique of Caste | Gender Equality in the Sangha",
+   "start": 25,
+   "end": 27,
+   "keyScholars": [
+    "Gautama Buddha"
+   ],
+   "coreTheories": [
+    "Buddhist Political Thought",
+    "Social Contract Theory of State Origin",
+    "Egalitarianism",
+    "Buddhist Sangha"
+   ]
+  },
+  {
+   "title": "Sir Syed Ahmed Khan and Islamic Modernism",
+   "subtitle": "Social Reform and Modernisation | Critique from Orthodox Sections | Attitude Towards Indian National Congress | Contemporary Relevance for Muslim Community",
+   "start": 28,
+   "end": 30,
+   "keyScholars": [
+    "Sir Syed Ahmed Khan"
+   ],
+   "coreTheories": [
+    "Islamic Modernism",
+    "Social Reform",
+    "Educational Modernisation"
+   ]
+  },
+  {
+   "title": "Sri Aurobindo: Spiritual Nationalism and Integral Yoga",
+   "subtitle": "Theory of Spiritual Nationalism | Nation as Divine Religion | Neo-Vedantism and Sanatan Dharma | Passive Resistance and Integral Yoga",
+   "start": 31,
+   "end": 38,
+   "keyScholars": [
+    "Aurobindo Ghosh",
+    "Rabindranath Tagore",
+    "Swami Vivekananda"
+   ],
+   "coreTheories": [
+    "Spiritual Nationalism",
+    "Neo-Vedantism",
+    "Sanatan Dharma",
+    "Passive Resistance",
+    "Integral Yoga"
+   ]
+  },
+  {
+   "title": "M. K. Gandhi: Satyagraha, Swaraj, and Critique of Modernity",
+   "subtitle": "Satyagraha vs Passive Resistance | Theory of Swaraj and Oceanic Circles | Trusteeship and Class Collaboration | Critique of Modern Civilisation | Concept of Rights and Duties",
+   "start": 39,
+   "end": 49,
+   "keyScholars": [
+    "M. K. Gandhi",
+    "Karl Marx"
+   ],
+   "coreTheories": [
+    "Satyagraha",
+    "Swaraj",
+    "Trusteeship",
+    "Ramrajya",
+    "Nishkama Karma"
+   ]
+  },
+  {
+   "title": "M. N. Roy: Radical Humanism and Critique of Congress",
+   "subtitle": "Marxist Phase and Critique of Gandhi | Transition to Radical Humanism | Philosophical Revolution of the Mind | Secular Ethics and Human Freedom",
+   "start": 50,
+   "end": 56,
+   "keyScholars": [
+    "M. N. Roy",
+    "Sudipta Kaviraj",
+    "Karl Marx",
+    "M. K. Gandhi",
+    "Thomas Hobbes",
+    "John Locke",
+    "Jeremy Bentham",
+    "Baruch Spinoza"
+   ],
+   "coreTheories": [
+    "Radical Humanism",
+    "New Humanism",
+    "Critique of Bourgeoisie Class",
+    "Scientific Rationalism",
+    "Secular Ethics"
+   ]
+  },
+  {
+   "title": "B. R. Ambedkar: Caste Annihilation and Constitutional Democracy",
+   "subtitle": "Critique of Brahmanism and Untouchability | Ambedkar-Gandhi Debate on Varna | Ambedkar vs Marxism | Constitutional Methods and Liberal Democracy",
+   "start": 57,
+   "end": 69,
+   "keyScholars": [
+    "B. R. Ambedkar",
+    "Dhananjay Keer",
+    "M. K. Gandhi",
+    "Karl Marx",
+    "Kautilya",
+    "Manu"
+   ],
+   "coreTheories": [
+    "Annihilation of Caste",
+    "Graded Inequality",
+    "Constitutionalism",
+    "Liberal Democracy",
+    "Social Democracy"
+   ]
+  },
+  {
+   "title": "Political Strategies of India's Freedom Struggle",
+   "subtitle": "Moderate Constitutionalism | Gandhian Mass Satyagraha | Non-Cooperation and Civil Disobedience | Quit India Movement | Peasant and Trade Union Movements",
+   "start": 70,
+   "end": 86,
+   "keyScholars": [
+    "Gopal Krishna Gokhale",
+    "Bipan Chandra",
+    "M. K. Gandhi",
+    "B. R. Ambedkar"
+   ],
+   "coreTheories": [
+    "Constitutionalism",
+    "Mass Satyagraha",
+    "Non-Cooperation Movement",
+    "Civil Disobedience Movement",
+    "Quit India Movement"
+   ]
+  },
+  {
+   "title": "Perspectives on the Indian National Movement",
+   "subtitle": "Imperialist Historiography | Cultural and Nationalist Perspective | Marxist and Socialist Perspectives | Dalit and Subaltern Perspectives",
+   "start": 87,
+   "end": 92,
+   "keyScholars": [
+    "Lord Curzon",
+    "Lord Dufferin",
+    "Aurobindo Ghosh",
+    "V. D. Savarkar",
+    "Karl Marx",
+    "M. N. Roy",
+    "C. N. Annadurai",
+    "Vladimir Lenin"
+   ],
+   "coreTheories": [
+    "Imperialist Historiography",
+    "Cultural Nationalism",
+    "Marxist Perspective on 1857",
+    "Subaltern Perspective",
+    "Socialist Perspective"
+   ]
+  },
+  {
+   "title": "Colonial Legacies, Making of the Constitution, and Preamble",
+   "subtitle": "Legacy of British Rule | Constituent Assembly Debates | Parliamentary vs Presidential Debate | Status and Philosophy of the Preamble",
+   "start": 93,
+   "end": 104,
+   "keyScholars": [
+    "Granville Austin",
+    "K. M. Munshi",
+    "Jawaharlal Nehru",
+    "A. K. Gopalan",
+    "Kesavananda Bharati"
+   ],
+   "coreTheories": [
+    "Colonial Legacy",
+    "Soft State",
+    "Constituent Assembly Legitimacy",
+    "Parliamentary Democracy",
+    "Basic Structure Doctrine"
+   ]
+  },
+  {
+   "title": "Secularism in India: Theoretical Debates and Constitutional Framework",
+   "subtitle": "Western vs Indian Secularism | Rajiv Bhargava's Principled Distance | Essential Religious Practices | Debates Between Ashis Nandy, Achin Vanaik, and P.B. Mehta",
+   "start": 105,
+   "end": 116,
+   "keyScholars": [
+    "Niccolo Machiavelli",
+    "Rajiv Bhargava",
+    "Arun Shourie",
+    "Donald Eugene Smith",
+    "Ashis Nandy",
+    "Achin Vanaik",
+    "Pratap Bhanu Mehta"
+   ],
+   "coreTheories": [
+    "Principled Distance",
+    "Secularism",
+    "Essential Religious Practices Doctrine",
+    "Anti-Secularism Critique",
+    "Minority Rights"
+   ]
+  },
+  {
+   "title": "Communalism, Identity Politics, and the Uniform Civil Code",
+   "subtitle": "Evolution of Communalism | Institutionalised Riot Systems | Communal Politics and Identity | Uniform Civil Code and Gender Rights",
+   "start": 117,
+   "end": 130,
+   "keyScholars": [
+    "Romila Thapar",
+    "V. D. Savarkar",
+    "Selig Harrison",
+    "Paul Brass",
+    "Dipankar Gupta",
+    "C. P. Bhambhri",
+    "Asghar Ali Engineer",
+    "Flavia Agnes"
+   ],
+   "coreTheories": [
+    "Communalism",
+    "Hindutva",
+    "Institutionalised Riot Systems",
+    "Picnic Riots",
+    "Uniform Civil Code"
+   ]
+  },
+  {
+   "title": "Caste in Indian Politics: Mobilisation and Power Dynamics",
+   "subtitle": "Sanskritisation and Caste Hierarchy | Rajni Kothari on Politicisation of Caste | Horizontal vs Vertical Mobilisation | Jaffrelot's Silent Revolution",
+   "start": 131,
+   "end": 137,
+   "keyScholars": [
+    "M. N. Srinivas",
+    "Louis Dumont",
+    "Rajni Kothari",
+    "Christophe Jaffrelot",
+    "Andre Beteille",
+    "Pratap Bhanu Mehta",
+    "C. P. Bhambhri"
+   ],
+   "coreTheories": [
+    "Sanskritisation",
+    "Politicisation of Caste",
+    "Secularisation of Caste",
+    "Horizontal Mobilisation",
+    "Silent Revolution"
+   ]
+  },
+  {
+   "title": "Regionalism and Ethnicity in Indian Politics",
+   "subtitle": "Causes of Regionalism | Asymmetrical Federalism | Secessionist and Autonomy Movements | Ethnic Conflict and State Response",
+   "start": 138,
+   "end": 146,
+   "keyScholars": [
+    "Sanjib Baruah",
+    "Jawaharlal Nehru",
+    "Iqbal Narain",
+    "Donald Horowitz",
+    "S. D. Muni",
+    "Paul Brass"
+   ],
+   "coreTheories": [
+    "Regionalism",
+    "Asymmetrical Federalism",
+    "Secessionism",
+    "Ethnic Conflict",
+    "Ethnic Politics"
+   ]
+  },
+  {
+   "title": "Indian Party System: Congress Dominance to Coalition Era",
+   "subtitle": "One-Party Dominant System and Congress System | Breakdown of Congress Hegemony | Regionalisation and Multi-Party System | Dynamics of Coalition Politics",
+   "start": 147,
+   "end": 160,
+   "keyScholars": [
+    "George Washington",
+    "Paul Brass",
+    "W. H. Morris-Jones",
+    "Rajni Kothari",
+    "Jawaharlal Nehru",
+    "Indira Gandhi"
+   ],
+   "coreTheories": [
+    "One-Party Dominance",
+    "Congress System",
+    "Coalition Politics",
+    "Regionalisation of Party Politics",
+    "Polarised Multi-Party System"
+   ]
+  },
+  {
+   "title": "Contemporary Party Politics: Rise of BJP, Left, and AAP",
+   "subtitle": "Rise and Ideology of BJP | Integral Humanism and Cultural Nationalism | Decline and Crisis of Left Parties | Aam Aadmi Party and Grassroots Democracy",
+   "start": 161,
+   "end": 168,
+   "keyScholars": [
+    "Thomas Blom Hansen",
+    "Milan Vaishnav",
+    "Praful Bidwai"
+   ],
+   "coreTheories": [
+    "Cultural Nationalism",
+    "Integral Humanism",
+    "Saffron Wave",
+    "Crisis of the Left",
+    "Grassroots Democracy"
+   ]
+  },
+  {
+   "title": "Pressure Groups, Legislative Profiles, and Electoral Behaviour",
+   "subtitle": "Role of Pressure Groups | Plebeianisation of Legislators | Minority and Gender Representation | Determinants of Voting Behaviour and CSDS Surveys",
+   "start": 169,
+   "end": 178,
+   "keyScholars": [
+    "Anand Chakravarti",
+    "Christophe Jaffrelot"
+   ],
+   "coreTheories": [
+    "Pressure Groups as Invisible Empires",
+    "Plebeianisation of Democracy",
+    "Descriptive Representation",
+    "Voting Behaviour Analysis",
+    "Survey Research and Psephology"
+   ]
+  },
+  {
+   "title": "Indian Federalism: Conceptual Debates and State Reorganisation",
+   "subtitle": "Cooperative vs Quasi-Federal Debate | Impact of Party System and Globalisation | Linguistic Reorganisation of States | Demand and Debate on Smaller States",
+   "start": 179,
+   "end": 190,
+   "keyScholars": [
+    "Granville Austin",
+    "M. P. Singh",
+    "Sudha Pai"
+   ],
+   "coreTheories": [
+    "Cooperative Federalism",
+    "Quasi-Federalism",
+    "Linguistic Reorganisation",
+    "State Reorganisation Theory"
+   ]
+  },
+  {
+   "title": "Inter-State Disputes and Institutional Dispute Resolution",
+   "subtitle": "Inter-State River Water Disputes | Constitutional Mechanisms Under Article 262 and 131 | Inter-State and Zonal Councils | Territorial Disputes and SYL Canal",
+   "start": 191,
+   "end": 197,
+   "keyScholars": [
+    "V. P. Singh"
+   ],
+   "coreTheories": [
+    "Inter-State Dispute Resolution",
+    "Water Federalism",
+    "Inter-State Council Framework",
+    "Judicial Review of Tribunals"
+   ]
+  },
+  {
+   "title": "Centre-State Relations, Article 356, and Office of Governor",
+   "subtitle": "Legislative and Administrative Relations | Misuse and Judicial Scrutiny of Article 356 | S.R. Bommai Guidelines | Role and Discretionary Powers of the Governor",
+   "start": 198,
+   "end": 208,
+   "keyScholars": [
+    "M. M. Punchhi",
+    "R. S. Sarkaria",
+    "Jawaharlal Nehru",
+    "S. R. Bommai",
+    "Shamsher Singh"
+   ],
+   "coreTheories": [
+    "President's Rule (Article 356)",
+    "Doctrine of Floor Test",
+    "Governor as Federal Lynchpin",
+    "Doctrine of Pleasure",
+    "Harmonious Construction"
+   ]
+  },
+  {
+   "title": "Centre-State Financial Relations and Fiscal Federalism Under GST",
+   "subtitle": "Trends in Centre-State Financial Relations | Statutory vs Discretionary Grants | Finance Commission Recommendations | 101st Amendment and GST Council",
+   "start": 209,
+   "end": 214,
+   "keyScholars": [],
+   "coreTheories": [
+    "Fiscal Federalism",
+    "Goods and Services Tax (GST)",
+    "Statutory vs Discretionary Grants",
+    "GST Council Decision-Making",
+    "Seventh Schedule Division of Powers"
+   ]
+  }
+ ]
+}

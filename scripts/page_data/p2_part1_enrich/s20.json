@@ -1,0 +1,95 @@
+{
+  "pages": [
+    {
+      "page": 207,
+      "title": "Afghanistan's geo-strategic importance for India",
+      "summary": "Says Afghanistan is extremely important for India's security because invasions from the north came through the Khyber Pass and the two form an integrated strategic space. Friendly governments in Afghanistan and Central Asia would give India a second front against Pakistan, while a hostile Afghanistan could become a safe haven for terrorists."
+    },
+    {
+      "page": 208,
+      "title": "Geo-economic value, Great Game, Soviet phase",
+      "summary": "Calls Afghanistan a transit hub with oil and minerals such as copper, iron and lithium, and a pivot of the Great Game surrounded by major powers. In its first phase after the Second World War it was under USSR influence with a communist government, which the USA and Pakistan opposed by promoting the Mujahiddin."
+    },
+    {
+      "page": 209,
+      "title": "Mujahiddin rule, strategic depth, rise of Taliban",
+      "summary": "India built ties with the Mujahiddin government under Rabbani, while Pakistan sought strategic depth by controlling Afghanistan because of the Durand Line and the Pashtun demand for a separate state. Describes the Taliban as a student movement of Afghan refugee children who sheltered in Pakistan."
+    },
+    {
+      "page": 210,
+      "title": "Taliban ideology, India's non-recognition, 2001 war",
+      "summary": "Says Pakistan indoctrinated the Taliban in Wahabism and that, recognised only by Pakistan, Saudi Arabia and the UAE, they pushed the Mujahiddin north. The notes call India's non-recognition a strategic blunder paid for by the IC-814 hijacking, then begin the 2001 US war, citing Osama Bin Laden's shelter and control of the opium trade."
+    },
+    {
+      "page": 211,
+      "title": "Opium trade, Bonn conference, India's aid projects",
+      "summary": "Says opium funds terrorism and the USA wants to manage rather than end the trade, and that India joined the war on terrorism and supported the Northern Alliance. After the Bonn conference of December 2001, India was limited to soft power, giving $2 bn in aid and building projects such as the Parliament, Salma Dam and Zaranj-Delaram highway."
+    },
+    {
+      "page": 212,
+      "title": "Current scenario: Taliban resurgence and India's policy",
+      "summary": "Says the Taliban has re-emerged, with Russia and China diplomatically supporting it, and that India is isolated with the Afghan government as its only friend. India signed a strategic partnership with Afghanistan from 2011 against US wishes, after being isolated at the 2010 London conference."
+    },
+    {
+      "page": 213,
+      "title": "Afghan government objected to reconciliation plan",
+      "summary": "A single line stating that the Afghan government also objected to the proposal of reconciliation with the good Taliban accepted at the 2010 London conference."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Why is Afghanistan geo-strategically vital for India?",
+      "back": "Invasions from the north came through the Khyber Pass, and friendly governments in Afghanistan and Central Asia would let India open a second front against Pakistan. Afghanistan could also become a safe haven for anti-India terrorists.",
+      "category": "Geo-strategic importance",
+      "scanPage": 207
+    },
+    {
+      "front": "What is Pakistan's 'strategic depth' in Afghanistan, and why does it want it?",
+      "back": "Strategic depth means that whoever rules Afghanistan should be controlled by Pakistan. The Durand Line divides Pashtuns who want a separate state, so Pakistan fears losing territory if India is present in Afghanistan.",
+      "category": "Strategic depth",
+      "scanPage": 209
+    },
+    {
+      "front": "How did India deal with the Taliban regime, and how do the notes judge it?",
+      "back": "India did not recognise the Taliban, whom only Pakistan, Saudi Arabia and the UAE recognised, and kept relations with the Rabbani government. The notes call this a strategic blunder, citing the IC-814 hijacking as the price.",
+      "category": "India and the Taliban",
+      "scanPage": 210
+    },
+    {
+      "front": "What was India's role in Afghanistan after the Bonn conference of 2001?",
+      "back": "The USA restricted India to soft power because Pakistan opposed even a peacekeeping role. India became Asia's leading donor with $2 bn in aid and a further $1 bn promised, building the Parliament, the Salma Dam and the Zaranj-Delaram highway linked to Chabahar.",
+      "category": "Post-Bonn reconstruction",
+      "scanPage": 211
+    },
+    {
+      "front": "Why did India enter a strategic partnership with Afghanistan from 2011?",
+      "back": "At the 2010 London conference India was isolated and the international community accepted Pakistan's proposal of reconciliation with the good Taliban, which the Afghan government also objected to. India signed even though the USA pressed it not to.",
+      "category": "Policy since 2011",
+      "scanPage": 212
+    }
+  ],
+  "answers": [
+    {
+      "question": "Discuss the geo-strategic and geo-economic importance of Afghanistan for India and trace the evolution of India's Afghanistan policy up to the present.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "India's Afghanistan policy",
+      "scanPage": 210,
+      "intro": "Afghanistan is central to India's security and economy, set among Pakistan, China, Iran, Russia and Central Asia. India's policy has moved from ties with communist and Mujahiddin governments to soft-power reconstruction and, today, a strategic partnership amid Taliban resurgence.",
+      "body": [
+        "Geo-strategic: invasions came through the Khyber Pass, and friendly governments in Afghanistan and Central Asia would allow a second front against Pakistan; Haqqani Network terrorism has targeted Indians. Geo-economically it is a transit hub with oil, copper, iron and lithium.",
+        "As the Great Game pivot, surrounded by major powers, it has suffered proxy wars. India stayed close to the USSR-backed communist government while the USA and Pakistan promoted the Mujahiddin, then built ties with Rabbani's government.",
+        "Pakistan sought strategic depth because of the Durand Line and Pashtun separatism, and backed the Taliban. India refused recognition and kept ties with Rabbani; the notes call this a strategic blunder that cost the IC-814 hijacking.",
+        "After 2001, India supported the Northern Alliance and, after Bonn, was confined to soft power, becoming Asia's leading donor with $2 bn in aid for the Parliament, Salma Dam and Zaranj-Delaram highway.",
+        "Today the Taliban is resurgent with Russian and Chinese diplomatic support, so India, isolated, signed a strategic partnership with Kabul from 2011."
+      ],
+      "scholars": [
+        "Rudyard Kipling (Great Game)",
+        "Burhanuddin Rabbani",
+        "Bonn Conference (December 2001)",
+        "Northern Alliance",
+        "Haqqani Network"
+      ],
+      "conclusion": "The notes stress that international politics has no permanent friends or enemies. India must protect its stake in Afghanistan's security through soft power and partnerships while adapting to a regional order in which the Taliban and rival powers loom larger."
+    }
+  ]
+}

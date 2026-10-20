@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "page": 75,
+   "title": "Environmental Movements in India and Ramchandra Guha",
+   "summary": "In India, environmental movements revolve around development and democracy, led primarily by the weakest sections of society like tribals dependent on nature. Ramchandra Guha contrasts Northern full-stomach environmentalism with Southern empty-stomach environmentalism, noting Indian movements challenge the state's development strategy across three phases."
+  },
+  {
+   "page": 76,
+   "title": "Environmental Movement Phases: 1970s and 1980s",
+   "summary": "Phase I in the 1970s traced the modern environmental movement's origins to Chipko in the Himalayas, during a time when environmentalists were viewed as interlopers or CIA agents. Phase II in the 1980s saw rising environmental consciousness, media attention from environmental journalists, and the establishment of the Department of Environment."
+  },
+  {
+   "page": 77,
+   "title": "Phase III Environmental Movement and Ecological Tragedies",
+   "summary": "In the 1990s Phase III, professionalism, scientific research, and NGOs grew, while New Economic Policy reforms intensified environmental degradation and left-wing extremism. With project clearances becoming a mere formality, Ramchandra Guha observes that forty years after Chipko, India has become a basket case of environmental tragedies."
+  },
+  {
+   "page": 78,
+   "title": "Ramchandra Guha: Three Strands in Environmental Movement",
+   "summary": "In 'Ecology & Equity', Ramchandra Guha critiques India's post-independence development model and identifies three strands in environmentalism: Crusading Gandhians, Appropriate Technology, and Ecological Marxists. The text emphasizes that technology cannot substitute for political view and social action, arguing that a change in value systems is needed."
+  },
+  {
+   "page": 79,
+   "title": "Sunita Narayan: New Environmentalism and Movement Challenges",
+   "summary": "Sunita Narayan categorizes Indian environmentalism as utilitarian conservatism and advocates 'New Environmentalism', which views the environment through democracy and community custodianship of natural resources. She highlights weaknesses such as the movement's fire-fighting approach and challenges including bureaucratic apathy, corruption, crony capitalism, and lack of resources."
+  },
+  {
+   "page": 80,
+   "title": "Social Ecology and Political Economy of Ecology Movements",
+   "summary": "Sunita Narayan emphasizes that the environment is about social ecology rather than just ecology. Vandana Shiva and Jayant Bandopadhyaya argue that resource-intensive development disrupted long-standing ecological stability and life-support systems, giving rise to environmental movements in India."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "According to Ramchandra Guha, how does environmentalism in the Global North differ from environmentalism in the Global South?",
+   "back": "Environmentalism in the North is led by scientists and represents a 'full stomach' movement focused on wilderness conservation. In contrast, environmentalism in the South is led by the poor and marginalized, representing an 'empty stomach' struggle for livelihood and survival.",
+   "category": "North-South Environmentalism",
+   "scanPage": 75
+  },
+  {
+   "front": "What are the three distinct ideological strands within the Indian environmental movement identified by Ramchandra Guha?",
+   "back": "Guha identifies Crusading Gandhians who propose alternative developmental models based on Indian tradition, Appropriate Technology advocates who seek technical solutions to ecological issues, and Ecological Marxists who mobilize at the grassroots level demanding radical democracy.",
+   "category": "Strands of Environmentalism",
+   "scanPage": 78
+  },
+  {
+   "front": "How does Sunita Narayan conceptualize 'New Environmentalism' and identify the primary weakness of Indian environmental movements?",
+   "back": "Sunita Narayan conceptualizes 'New Environmentalism' as utilitarian conservatism rooted in democracy, making local people custodians of natural resources rather than solely protecting wildlife. She highlights their biggest weakness as a reactive 'fire-fighting approach' that closes isolated factories but fails to alter overall development policy.",
+   "category": "New Environmentalism Concept",
+   "scanPage": 79
+  },
+  {
+   "front": "According to Vandana Shiva and Jayant Bandopadhyaya, what structural factor led to the emergence of environmental movements in India?",
+   "back": "In 'Political economy of ecology movements', they argue that India's developmental activity proceeded on a resource-intensive path that severely disrupted ecological stability and centuries-old life-support systems. Environmental movements emerged directly from this disruption as communities resisted resource degradation.",
+   "category": "Political Economy of Ecology",
+   "scanPage": 80
+  }
+ ],
+ "answers": [
+  {
+   "question": "Environmental movements in India are not merely struggles for conservation, but fundamental contestations over development and democracy. Discuss.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Social Movements: Environmental Movements in India",
+   "scanPage": 75,
+   "intro": "Environmental movements in India challenge the dominant developmental model, linking ecology directly with democracy. Unlike Western conservation, Indian environmentalism is driven by impoverished tribals and peasants waging an empty stomach struggle over survival, livelihood, and resources.",
+   "body": [
+    "Ramchandra Guha contrasts Northern full stomach environmentalism led by scientists with Southern empty stomach environmentalism led by the poor. In India, marginalized communities and tribals in Orissa exemplify this by fighting corporate giants like Vedanta and Posco to defend their survival.",
+    "In 'The Unquiet Woods', Guha traces modern activism to the 1970s Chipko movement. With Madhav Gadgil in 'Ecology and Equity', he identifies three strands: Crusading Gandhians offering traditional alternatives, Appropriate Technology advocates seeking technical solutions, and Ecological Marxists demanding radical grassroots democracy.",
+    "Vandana Shiva and Jayant Bandopadhyaya argue that state development followed a resource intensive path, disrupting ecological stability and life support systems maintained for centuries. Consequently, environmental movements arose not as romantic preservationism, but as collective resistance by affected communities.",
+    "Sunita Narayan highlights Indian environmentalism as utilitarian conservatism rooted in social ecology and democracy, making citizens custodians of nature. However, she critiques its fire fighting approach, observing that activists win localized battles against industrial units but remain constrained by bureaucratic apathy and crony capitalism."
+   ],
+   "scholars": [
+    "Ramchandra Guha ('The Unquiet Woods', 'Ecology & Equity')",
+    "Madhav Gadgil ('The Fissured Land')",
+    "Sunita Narayan (CSE)",
+    "Vandana Shiva ('Political economy of ecology movements')",
+    "Jayant Bandopadhyaya",
+    "Sundarlal Bahuguna"
+   ],
+   "conclusion": "As Sunita Narayan and Ramchandra Guha emphasize, technical fixes cannot substitute for social action and revised values. To transcend defensive fire fighting, environmentalism must integrate with electoral democracy and empower local communities as primary custodians of development."
+  }
+ ]
+}

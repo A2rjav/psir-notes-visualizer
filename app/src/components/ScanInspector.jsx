@@ -213,7 +213,7 @@ export default function ScanInspector({
         <span className="flex items-center gap-1.5 text-amber-400">
           <Sparkles className="w-3 h-3" /> {currentVolume?.shortTitle || 'Shubhra Ranjan IAS Lecture Notes'}
         </span>
-        <span className="text-slate-500 font-mono text-[10px]">{baseFolder}</span>
+        <span className="text-slate-500 font-mono text-[10px]">{cleanFolder}</span>
       </div>
 
     </div>

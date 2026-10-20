@@ -20,7 +20,6 @@ scans_paper1_part5/
 scans_part1/
 scans_part2/
 transcriptions/
-transcriptions_verbatim/
 
 # Temporary extraction scripts
 crop_inspect.py
@@ -36,3 +35,9 @@ Thumbs.db
 .idea/
 .claude/
 *.log
+
+# Rebuild pipeline scratch (agy prompt files, pre-rebuild data backup, Python caches)
+scripts/page_data/prompts/
+backup_legacy_data/
+__pycache__/
+*.err

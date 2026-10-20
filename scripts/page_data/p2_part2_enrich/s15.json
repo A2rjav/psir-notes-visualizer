@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "page": 118,
+      "title": "Elements of power and classifying superpowers",
+      "summary": "The determinants of power listed are geography, economy, military, technology, social structure, political stability and intelligence agencies, and elements become determinants only when used skilfully. Power is difficult but necessary to measure, with a risk of miscalculation, and the classification of nations begins with the superpower such as USA."
+    },
+    {
+      "page": 119,
+      "title": "Great, middle and small powers; types of power",
+      "summary": "Great powers such as Russia, India, China and Britain protect their interests on their own, middle powers such as Pakistan and Israel do so in combination with others, and small powers include Nepal and Sri Lanka. The page lists hard, soft, smart and fast power and sets assignments on India's soft power, public diplomacy and fast track diplomacy."
+    },
+    {
+      "page": 120,
+      "title": "Hard power versus soft power and Nye",
+      "summary": "Hard power is materialistic, state-controlled, compelling, resource based and quick in results, whereas soft power is idealistic, diffused through society, voluntary and long term. Joseph Nye holds that soft power is more relevant in the twenty-first century and sees the world as a three-dimensional chessboard of military, economic and social power."
+    },
+    {
+      "page": 121,
+      "title": "Why soft power is better; smart power",
+      "summary": "Soft power is cheaper, there is no guarantee hard power will work if soft power fails, and hard power makes others build coalitions against the user. Nye blames excessive reliance on hard power for US hegemony's decline and later proposed smart power, combining military power with alliances, partnerships and institutions, which Hillary Clinton and the Obama administration's three Ds reflect."
+    },
+    {
+      "page": 122,
+      "title": "Fast power and the polarity of power thesis",
+      "summary": "John Chipman argues that speed, not heft, now determines national power, summed up as survival of the fastest, though critics prefer well considered patient options. Structural realists Kenneth Waltz and Mearsheimer hold that bipolarity is best for stability and peace, and the page begins analysing unipolarity."
+    },
+    {
+      "page": 123,
+      "title": "Stability of unipolar, multipolar and bipolar worlds",
+      "summary": "Unipolarity is unstable because the single superpower overstretches, giving free riders a chance to challenge it, and megalomania leads it to destroy the order it built. Multipolarity is never stable because of more misunderstandings and wars, while bipolarity is most stable since fewer fingers on the nuclear button let deterrence work."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What is the difference between elements of power and determinants of power?",
+      "back": "Elements of power, such as geography, economy, military and technology, become determinants only when they are used skilfully to increase a country's power. Power is hard to measure but measurement is necessary, though miscalculation is always possible.",
+      "category": "Elements and determinants",
+      "scanPage": 118
+    },
+    {
+      "front": "How does hard power differ from soft power, according to the notes?",
+      "back": "Hard power is materialistic, resource based, controlled by the state, compelling, and gives immediate results. Soft power is idealistic, diffused throughout society and not at the state's will, voluntary, and its results are realised in the long term.",
+      "category": "Hard versus soft power",
+      "scanPage": 120
+    },
+    {
+      "front": "What is smart power in Joseph Nye's view, and how did US policy reflect it?",
+      "back": "Nye accepted that soft power alone will not work and defined smart power as stressing military power while investing heavily in alliances, partnerships and institutions. Hillary Clinton described it as skilful use of diplomatic, military, political, legal and cultural tools, and the Obama administration made defence, diplomacy and development its pillars.",
+      "category": "Smart power",
+      "scanPage": 121
+    },
+    {
+      "front": "Which polarity do structural realists consider most stable, and why?",
+      "back": "Kenneth Waltz and Mearsheimer hold bipolarity is best for stability and peace. The two superpowers set rules in their own spheres, fewer fingers are on the nuclear button so confusion is less, and deterrence works effectively.",
+      "category": "Polarity of power",
+      "scanPage": 123
+    }
+  ],
+  "answers": [
+    {
+      "question": "What is soft power? Compare it with hard power and examine why Joseph Nye considers it more relevant in the twenty-first century.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Soft power and smart power",
+      "scanPage": 120,
+      "intro": "The notes classify power into hard, soft, smart and fast types. Joseph Nye argues that in an age of complex interdependence the scope of soft power has increased considerably while the scope of hard power has reduced.",
+      "body": [
+        "Hard power is materialistic, resource based, controlled by the state and compelling, with immediate results; soft power is idealistic, diffused through society, voluntary and realised in the long term.",
+        "Nye describes the world as a three-dimensional chessboard: unipolar in military terms, multipolar in economic terms, and diffused in social power based on democracy, information technology and public diplomacy.",
+        "Soft power is cheaper, and if it fails there is no guarantee hard power will work; hard power makes others build coalitions against the user and breeds sympathy for the adversary, so Nye blames excessive reliance on it for the decline of US hegemony.",
+        "Nye later accepted that soft power alone will not work and proposed smart power, combining military power with investment in alliances, partnerships and institutions; the Obama administration made defence, diplomacy and development its three pillars.",
+        "John Chipman adds fast power, where speed and agility determine national power, though critics prefer well considered patient options to hasty ones."
+      ],
+      "scholars": ["Joseph Nye", "Hillary Clinton", "John Chipman", "Obama administration (3 Ds)"],
+      "conclusion": "Soft power suits an interdependent world, but the notes show it cannot replace military strength, so smart power combining both is the practical answer. Speed and agility add another test, so successful states will blend attraction, coercion and patience."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+ "pages": [
+  {
+   "page": 20,
+   "title": "Municipal Governance: Historical Context and Urban Growth",
+   "summary": "Despite ancient and colonial traditions of urban administration, modern Indian governments have neglected municipal governance even as urban population and growth rates surge. Urban areas are critical for economic growth and resource generation, as demonstrated by China's revival of its cities."
+  },
+  {
+   "page": 21,
+   "title": "Urban Challenges and 74th Amendment Act Issues",
+   "summary": "Urban areas face issues such as unplanned urbanization, slums, and pollution, while the 74th Amendment Act remains a half-hearted reform lacking direct democracy institutions like the Gram Sabha. Although municipalities face structural and financial deficits, recent government initiatives like JNNURM, AMRUT, HRIDAY, and Smart Cities aim to upgrade infrastructure and amenities."
+  },
+  {
+   "page": 22,
+   "title": "Isher Judge Ahluwalia on Smart Cities",
+   "summary": "The smart city initiative is progressing slowly because the government neglects municipalities and relies on special purpose vehicles instead. Isher Judge Ahluwalia notes that achieving smart cities is impossible without empowering municipal governance."
+  },
+  {
+   "page": 23,
+   "title": "73rd Amendment and Women's Reservation in Panchayats",
+   "summary": "The 73rd Amendment mandated reservations for women in Panchayats, overcoming initial concerns about proxy representation like 'Pati Panchayat' noted by Sudha Pai. Recent studies indicate that women representatives exercise real choice, bringing attitudinal changes, psychological empowerment, and support for legislative reservations."
+  },
+  {
+   "page": 24,
+   "title": "Women Sarpanches and Rise of Grassroots Movements",
+   "summary": "Women representatives such as Fatima Bie have improved panchayat performance in areas like economic empowerment, sanitation, and addressing declining sex ratios, though training remains essential. Meanwhile, D.L. Sheth observes that grassroots micro-movements have emerged since the 1970s representing economically marginalized and socially excluded groups."
+  },
+  {
+   "page": 25,
+   "title": "Rajni Kothari and Smitu Kothari on Micromovements",
+   "summary": "Rajni Kothari links the rise of micro-movements to dissatisfaction with representational politics, institutional decline, and political parties abandoning movement politics. Smitu Kothari highlights how globalization and the destructive aspects of development have revived grassroots movements globally for peace, human rights, and anti-corruption."
+  },
+  {
+   "page": 26,
+   "title": "Amrita Basu and Ranjitha Mohanty on Grassroots Movements",
+   "summary": "Amrita Basu attributes grassroots movement growth to the capitalist development model combined with democratic space. Ranjitha Mohanty outlines key functions of these movements, including fostering inclusive counter-narratives, expanding non-party social action spaces, and democratizing public space through rights discourse."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why was the 74th Amendment Act considered a half-hearted exercise compared to the 73rd Amendment Act?",
+   "back": "The 74th Amendment Act provides no institution of direct democracy at par with the Gram Sabha. Furthermore, urban administration remains chaotic across multiple agencies and continues the British legacy where real power lies with municipal commissioners rather than elected Mayors.",
+   "category": "Urban Local Governance",
+   "scanPage": 21
+  },
+  {
+   "front": "What critique did Isher Judge Ahluwalia raise regarding the government's approach to the Smart Cities mission?",
+   "back": "Isher Judge Ahluwalia argued that achieving smart cities is impossible without the empowerment of municipal governance. She observed that the government is neglecting municipalities and instead creating Special Purpose Vehicles to achieve its targets.",
+   "category": "Smart Cities Mission",
+   "scanPage": 22
+  },
+  {
+   "front": "What initial apprehensions and concepts were noted by Sudha Pai and Rohini Pandey concerning women's reservation under the 73rd Amendment?",
+   "back": "Sudha Pai highlighted the concept of 'Pati Panchayat', where women representatives acted merely as spokespersons for male family members. Rohini Pandey noted that there was an initial lack of clarity regarding the institutional role of women representatives.",
+   "category": "Women Panchayati Representation",
+   "scanPage": 23
+  },
+  {
+   "front": "How is the contribution of Fatima Bie highlighted in the context of women's leadership in Panchayats?",
+   "back": "Fatima Bie, Sarpanch of a village in the Kurnool district of Andhra Pradesh, performed exemplary work toward the economic empowerment of women. Her grassroots developmental contributions earned formal recognition from the UNDP.",
+   "category": "Grassroots Women Leadership",
+   "scanPage": 24
+  },
+  {
+   "front": "According to Ranjitha Mohanty, what key functions do grassroots movements perform in Indian democracy?",
+   "back": "Ranjitha Mohanty observes that grassroots movements replace exclusionary state-led development narratives with counter-narratives of inclusion and expand non-party political spaces. They continuously democratize public space, renegotiate people's relationship with the state, and reconstruct modernity through citizenship and rights.",
+   "category": "Grassroots Micro Movements",
+   "scanPage": 26
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the emergence and significance of grassroots micro-movements in India as a critique of state-led development and representational politics.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Grassroots Movements in India",
+   "scanPage": 25,
+   "intro": "Grassroots micro-movements emerged in India during the 1970s representing socially excluded and economically marginalized sections. They function as critical non-party democratic spaces resisting the destructive consequences of global capital and state-centric developmental paradigms.",
+   "body": [
+    "According to D.L. Sheth, grassroots micro-movements active since the 1970s mobilize disparate economically marginalized and socially excluded groups, forming national coalitions to act as countervailing forces against global capital and state power.",
+    "Rajni Kothari demonstrates that micro-movements led by educated middle classes reflect deep dissatisfaction with representational politics and parliamentary decline, as political parties abandoned movement aspects of politics, becoming mere electoral machines that reduced trade unions to junior bargaining counters.",
+    "Smitu Kothari explains that globalization revived grassroots mobilizations worldwide in reaction to the destructive forces of development, while simultaneously stimulating broader social movements demanding peace, human rights, and freedom from corruption.",
+    "Amrita Basu asserts that the rapid growth of grassroots movements in India is structurally driven by the contradictions of a capitalist development model operating alongside accessible democratic space.",
+    "Ranjitha Mohanty summarizes that these struggles replace exclusionary state narratives with inclusion, expand non-party political spaces, democratize public space, renegotiate popular relations with the state, and reconstruct modernity around citizenship and rights."
+   ],
+   "scholars": [
+    "D.L. Sheth",
+    "Rajni Kothari",
+    "Smitu Kothari",
+    "Amrita Basu",
+    "Ranjitha Mohanty"
+   ],
+   "conclusion": "Grassroots movements are vital democratic correctives rather than anti-developmental forces. By institutionalizing genuine inclusion and expanding non-party political spaces, they bridge the disconnect between the state and marginalized citizens, deepening substantive constitutional democracy."
+  }
+ ]
+}

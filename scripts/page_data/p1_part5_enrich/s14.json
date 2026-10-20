@@ -1,0 +1,155 @@
+{
+ "pages": [
+  {
+   "page": 141,
+   "title": "Principles of Marxism and Historical Materialism",
+   "summary": "Karl Marx outlines the core principles of Marxism, characterizing communism as a classless, stateless society that marks the end of history. He introduces historical materialism as his philosophy of history, arguing against Hegel that dialectical movement in matter rather than ideas shapes history."
+  },
+  {
+   "page": 142,
+   "title": "Marx's Scientific Approach and Priority of Production",
+   "summary": "Marx presents historical materialism as a scientific analysis of history, arguing that production precedes thinking because humans must eat and produce to live. Consequently, manual labor takes priority over intellectual labor, and Marx criticizes intellectuals for justifying unequal reward systems that disenfranchise producers."
+  },
+  {
+   "page": 143,
+   "title": "False Consciousness and the Economic Base Structure",
+   "summary": "Marx criticizes the intellectual class as exploiters whose ideas generate false consciousness, maintaining that human existence determines consciousness rather than the reverse. He identifies the economic structure as society's basic structure, grounded in production to satisfy human appetite."
+  },
+  {
+   "page": 144,
+   "title": "Base and Superstructure in Historical Materialism",
+   "summary": "Marx defines society as a division of labor where the economic base determines superstructural institutions like the state, religion, and family. Because these superstructural institutions reflect the base and serve the dominant economic class, workers cannot expect justice from them."
+  },
+  {
+   "page": 145,
+   "title": "Relations of Production and Class Struggle",
+   "summary": "Marx defines classes as relations of production divided into propertied owners (haves) and propertyless non-owners (have-nots) regarding the means of production. These two classes exist in dialectical, irreconcilable struggle, making class identity and class interest the foundation of all politics."
+  },
+  {
+   "page": 146,
+   "title": "Concept of Class Struggle and Primitive Communism",
+   "summary": "Marx declares that all history is the history of class struggle between reactionary exploiters and revolutionary exploited classes based on their relationship to the means of production. In outlining stages of Western history, he identifies primitive communism as an initial classless and stateless stage where property was held in common."
+  },
+  {
+   "page": 147,
+   "title": "Historical Stages from Slavery to Socialism",
+   "summary": "Marx traces Western historical stages through slave society, feudal society, and capitalism, noting each involves class struggle with the state serving property owners. He defines socialism as a temporary transitional dictatorship of the proletariat where the working class captures the state to prepare for communism."
+  },
+  {
+   "page": 148,
+   "title": "Transition from Socialism to Stateless Communism",
+   "summary": "In socialism, distribution follows work, whereas communism peacefully abolishes private property, causing classes and the state to wither away into a stateless society. Communism realizes an end to history and establishes distribution according to need within a caring society of perfect freedom."
+  },
+  {
+   "page": 149,
+   "title": "Emergence and Exploitative Nature of Capitalism",
+   "summary": "Capitalism arose with the industrial revolution, replacing individual human labor with mechanized mass production and forcing propertyless workers to sell their labor. Marx views capitalism as dehumanizing and exploitative because it treats labor as a commodity and prioritizes profit over human need."
+  },
+  {
+   "page": 150,
+   "title": "Capitalist Contradictions and Wage Reduction Dynamics",
+   "summary": "Capitalists reduce production costs and maximize profits by depressing wages to subsistence levels and replacing workers with machinery. This produces internal contradictions where surplus goods flood the market while impoverished workers lack purchasing power, causing depression cycles and eventual monopolization."
+  },
+  {
+   "page": 151,
+   "title": "Marx: Revolutionary and Class Consciousness",
+   "summary": "Imbalanced wealth concentration creates revolutionary conditions, leading to inevitable revolution once workers transition from false consciousness to true class consciousness. This class consciousness develops from a \"class in itself\" into a \"class for itself\" as capitalist exploitation and the number of exploited individuals grow."
+  },
+  {
+   "page": 152,
+   "title": "Marx: Revolution, Surplus Value, and Poverty",
+   "summary": "A \"class for itself\" sparks a spontaneous armed mass revolution, while surplus value represents profit and theft resulting from capitalists paying workers for only three of twelve hours worked. This surplus value increases capitalist power to exploit workers, with poverty ultimately caused by greed and wealth accumulation without giving others their dues."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does Karl Marx assert that Hegel's philosophy of history is standing on its head?",
+   "back": "Marx contradicts Hegel's idealist claim that history is shaped by the dialectical movement of ideas. According to Marx, it is the dialectical movement in matter that shapes history rather than ideas.",
+   "category": "Historical Materialism",
+   "scanPage": 141
+  },
+  {
+   "front": "Why does Karl Marx describe his analysis of history as scientific?",
+   "back": "Marx argues that a scientific understanding of history begins with man's first historical act. Because man must live and eat before he can think, material production has priority over contemplation, making manual labour fundamental.",
+   "category": "Scientific Materialism",
+   "scanPage": 142
+  },
+  {
+   "front": "How does Karl Marx explain the relationship between the economic base and the superstructure?",
+   "back": "The economic structure constitutes the basic structure of society, while superstructure institutions like the state, church, and media have no independent existence. The class that controls the economic base also controls the superstructure, making its institutions instruments of the dominant class.",
+   "category": "Base and Superstructure",
+   "scanPage": 144
+  },
+  {
+   "front": "Why does Karl Marx highlight primitive communism as the pre-historic stage of human society?",
+   "back": "Marx highlights primitive communism to demonstrate that property was initially held in common without class divisions or a state. This proves that humanity historically lived without private property and is capable of living without it again.",
+   "category": "Stages of History",
+   "scanPage": 146
+  },
+  {
+   "front": "How do the principles of distribution differ between socialism and communism in Karl Marx's theory?",
+   "back": "In socialism, the principle of distribution is 'from each according to his ability, to each according to his work.' In communism, distribution shifts to 'from each according to his ability, to each according to his need,' reflecting a caring society.",
+   "category": "Socialism and Communism",
+   "scanPage": 148
+  },
+  {
+   "front": "What internal contradiction causes cyclical depressions in capitalist economies according to Karl Marx?",
+   "back": "Capitalists maximize profit by reducing wages and replacing workers with machinery. While markets accumulate surplus production, the displaced and poorly paid working masses lack purchasing power, creating an imbalance that triggers recurring economic depressions.",
+   "category": "Contradictions of Capitalism",
+   "scanPage": 150
+  },
+  {
+   "front": "What is the distinction between 'class in itself' and 'class for itself' in Karl Marx's framework?",
+   "back": "'Class in itself' is a lower level of consciousness where a person merely realizes that he belongs to a distinct class. 'Class for itself' represents heightened revolutionary consciousness where workers recognize systemic exploitation, leading to spontaneous mass mobilization.",
+   "category": "Class Consciousness",
+   "scanPage": 151
+  },
+  {
+   "front": "How does Karl Marx define surplus value and explain its role in capitalist exploitation?",
+   "back": "Surplus value is the additional unpaid value generated by workers and retained by capitalists as profit. Marx characterizes surplus value as theft, which enhances the capitalist's bargaining power and forces the worker to labour against his own interests.",
+   "category": "Surplus Value",
+   "scanPage": 152
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Karl Marx's historical materialism and base-superstructure model. How does this framework challenge idealist conceptions of state and society?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Historical Materialism and Base-Superstructure Model",
+   "scanPage": 143,
+   "intro": "Karl Marx propounded historical materialism as a scientific philosophy of history, rejecting idealist metaphysics. By establishing production as man's primary historical act, Marx demonstrated that material economic structures, rather than disembodied ideas, fundamentally determine human consciousness and societal institutions.",
+   "body": [
+    "Karl Marx inverted the philosophy of Hegel, arguing that Hegel stood dialectics on its head by treating ideas as ultimate reality. For Marx, history advances through dialectical movements within material production rather than intellectual contemplation.",
+    "Formulating the base and superstructure model, Karl Marx established that the economic structure, comprising means, forces, and relations of production, forms society's foundation. Superstructural apparatuses like the state, church, school, and media possess no autonomy, acting as mere reflections of the base.",
+    "Critiquing philosophical tradition, Karl Marx targeted Plato for permanently delegitimizing producing classes while crowning intellectuals as rulers. Marx argued that Plato and subsequent intellectual classes generate false consciousness to justify exploitative divisions of labour and defend dominant class interests.",
+    "Overturning Hegel's premise, Karl Marx asserted that material existence determines human consciousness, not the reverse. Consequently, superstructural institutions cannot deliver justice to exploited workers, as their nature remains tethered to dominant economic interests until basic structures transform."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "Hegel",
+    "Plato"
+   ],
+   "conclusion": "Marx's materialist conception demystifies political authority by demonstrating that institutional reforms remain superficial without transforming basic relations of production, offering a vital analytical framework to interrogate structural inequalities and institutional neutrality in contemporary governance."
+  },
+  {
+   "question": "Analyze Karl Marx's theory of class struggle and the inevitable crisis of capitalism. How do internal contradictions pave the way for a socialist transition?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Class Struggle and Capitalism's Contradictions",
+   "scanPage": 150,
+   "intro": "Karl Marx conceptualized all recorded history as the history of class struggle between exploiters and exploited. Under capitalism, profit-driven mechanization and wage suppression inevitably heighten structural contradictions, propelling the working class toward revolutionary consciousness and systemic transformation.",
+   "body": [
+    "Karl Marx asserted that all hitherto existing society is the history of class struggle, applying dialectics to material classes rather than Hegel's abstract ideas. Polarized into property owners and propertyless workers, irreconcilable economic interests render class conflict the moving engine of history.",
+    "Analyzing capitalism's engine, Karl Marx demonstrated how capitalists maximize surplus value by depressing wages to subsistence levels and replacing human labour with machines. This extraction of surplus value amounts to theft, stripping workers of purchasing power while goods accumulate unsold in markets.",
+    "As monopolization ruins petty bourgeois strata, Karl Marx argued that misery concentrates alongside immense wealth, puncturing the false consciousness fostered by Plato's intellectual traditions. Driven by exploitation, workers advance from a class-in-itself to a revolutionary class-for-itself.",
+    "Following proletarian revolution, Karl Marx envisioned socialism as an intermediate transitional stage, popularized by Soviet Marxists as the dictatorship of the proletariat. This temporary proletarian state prepares the abolition of private property, culminating in a stateless, classless communist society governed by human need."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "Soviet Marxists",
+    "Hegel",
+    "Plato"
+   ],
+   "conclusion": "While historical socialist experiments distorted Marx's transitional dictatorship into bureaucratic party rule, his critique of capitalist monopolization, recurrent demand crises, and surplus value extraction remains remarkably prescient for analyzing contemporary economic precarity and wealth concentration."
+  }
+ ]
+}

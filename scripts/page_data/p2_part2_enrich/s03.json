@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {"page": 19, "title": "Political sociology: meaning, history, Marxist stream", "summary": "Political sociology was once an approach and now exists as a hybrid discipline; Aristotle is called its father for his theory of revolution. Modern political sociology split into Marxist and Weberian streams, and Marx held that politics is understood through the structure of society and class relations."},
+    {"page": 20, "title": "Marxist schools, Gramsci, and Weber's challenge", "summary": "Instrumentalists see the state as an instrument of the dominant class, while structuralists see relative autonomy; Gramsci stressed civil society through the integral state. Weber rejected Marx's economic determinism and two-class polarisation, and contributed ideal types, authority, bureaucracy and the concept of political parties."},
+    {"page": 21, "title": "Weberian scholars, research areas, loss of enthusiasm", "summary": "Andre Beteille and Christophe Jaffrelot use the Weberian approach for Indian politics, and political sociologists study caste, class, ethnicity, authority, revolution, parties, pressure groups and bureaucracy. Political scientists lost enthusiasm because sociological explanations threatened to make political science a sub-discipline of sociology."},
+    {"page": 22, "title": "Skocpol's call to bring the state back in", "summary": "Theda Skocpol urged scholars to bring the state back in and recognise its centrality. Political scientists lost enthusiasm while sociologists carried the approach forward, so political sociology is now a sub-discipline of sociology."},
+    {"page": 23, "title": "Political economy: Adam Smith and Marxist critique", "summary": "Political economy studies the economic policies of the state; Adam Smith, author of The Wealth of Nations, is its father and a critic of mercantilism who favoured laissez faire. Marx criticised Smith's school, producing two major schools, liberal and Marxist, each with sub-schools."},
+    {"page": 24, "title": "Political economy: policy science and developing-state scholars", "summary": "Marxist sub-schools are the instrumentalist and dependency school and the structuralist school. The approach combines scientific and normative elements, and the notes cite Amartya Sen on India and China, Hamza Alavi on Pakistan, Gunnar Myrdal's soft state and Atul Kohli on land reforms."},
+    {"page": 25, "title": "Political economy: usefulness and weaknesses", "summary": "Political economy helps understand flaws in the development model and make prescriptions. Its weaknesses are that it is normative, tied to a school of thought, and limited to the analysis of economic policy."}
+  ],
+  "flashcards": [
+    {"front": "Distinguish the instrumentalist and structural schools within Marxist political sociology.", "back": "Instrumentalists hold that the state is an instrument of the dominant class. Structuralists hold that in some situations the state gains relative autonomy. Gramsci highlighted civil society through his concept of the integral state.", "category": "Marxist political sociology", "scanPage": 20},
+    {"front": "Which assumptions of Karl Marx did Max Weber challenge?", "back": "Weber rejected economic structure as the determinant of everything in the superstructure, calling it mono-causal, and showed in The Protestant Ethic how protestant ethics led to capitalism. He also denied that society would polarise into two classes, expecting a growth of middle classes.", "category": "Weber versus Marx", "scanPage": 20},
+    {"front": "What contributions to political sociology are associated with Max Weber?", "back": "The method of ideal types, the concept of authority, the theory of bureaucracy and the concept of political parties.", "category": "Weberian contributions", "scanPage": 20},
+    {"front": "Why did political scientists lose enthusiasm for political sociology, and how did Skocpol respond?", "back": "Looking for sociological reasons behind political phenomena threatened to turn political science into a sub-discipline of sociology. Theda Skocpol suggested bringing the state back in, stressing the centrality of the state.", "category": "Decline of political sociology", "scanPage": 22},
+    {"front": "Who is considered the father of modern political economy, and what was his stance?", "back": "Adam Smith, whose book The Wealth of Nations is the first textbook of political economy. He criticised Mercantilism and supported a laissez faire state; Marx argued his policies would bring wealth only to a few.", "category": "Origins of political economy", "scanPage": 23}
+  ],
+  "answers": [
+    {
+      "question": "Examine the contribution of the Marxist and Weberian streams to political sociology. Why did political scientists lose enthusiasm for the approach?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Marxist and Weberian political sociology",
+      "scanPage": 20,
+      "intro": "Political sociology, once an approach to study, is now a hybrid discipline. Aristotle, through his theory of revolution, is called its father, while modern political sociology divided into two major streams, the Marxist and the Weberian.",
+      "body": [
+        "Karl Marx, father of modern political sociology, argued that politics can be understood only through the basic structure of society and relations between classes. Within Marxism, instrumentalists see the state as an instrument of the dominant class, while structuralists see its relative autonomy; Gramsci stressed civil society through the integral state.",
+        "Max Weber challenged Marx's economic determinism, which he called mono-causal, and showed in his Protestant Ethic work how protestant ethics led to capitalism. He expected a proliferation of classes and growth of middle classes, not two-class polarisation, and admired capitalism as most rational.",
+        "Weber contributed ideal types, the concept of authority, the theory of bureaucracy and the concept of political parties. Andre Beteille and Christophe Jaffrelot apply the Weberian approach to Indian politics.",
+        "After the Second World War scholars used field surveys and quantitative data. Yet enthusiasm among political scientists faded because sociological explanations threatened to make political science a sub-discipline of sociology, so Theda Skocpol urged them to bring the state back in."
+      ],
+      "scholars": ["Karl Marx", "Max Weber", "Gramsci", "Aristotle", "Andre Beteille", "Christophe Jaffrelot", "Theda Skocpol"],
+      "conclusion": "Marxist and Weberian streams enriched the study of class, authority and bureaucracy, especially in developing areas. Yet the identity concern behind Skocpol's call shows that political sociology is best used to complement, not replace, the study of the state."
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+ "sections": [
+  {
+   "title": "Contents & Front Matter",
+   "subtitle": "Notebook Cover | Vajiram and Ravi Notes | Subject Index | Syllabus Overview",
+   "start": 1,
+   "end": 4,
+   "keyScholars": [
+    "Subhra Ranjan"
+   ],
+   "coreTheories": [
+    "Western Political Thought",
+    "Political Theory"
+   ]
+  },
+  {
+   "title": "Political Ideologies: Idealism",
+   "subtitle": "Exponents of Idealism | Man as Social and Moral Entity | Idealism as Rationalism | Primacy of Ideas",
+   "start": 5,
+   "end": 6,
+   "keyScholars": [
+    "Socrates",
+    "Plato",
+    "Aristotle",
+    "Rousseau",
+    "Hegel",
+    "Immanuel Kant",
+    "T.H. Green"
+   ],
+   "coreTheories": [
+    "Idealism",
+    "Rationalism",
+    "Moral Theory of Man"
+   ]
+  },
+  {
+   "title": "Classical and Modern Positive Liberalism",
+   "subtitle": "Schools of Liberalism | State as Necessary Evil | Positive Liberalism and Welfare State | T.H. Green on Liberty and State | Laski's Functional Theory of Rights",
+   "start": 7,
+   "end": 18,
+   "keyScholars": [
+    "T.H. Green",
+    "Harold Laski",
+    "Antonio Gramsci",
+    "Jurgen Habermas",
+    "Jawaharlal Nehru"
+   ],
+   "coreTheories": [
+    "Classical Liberalism",
+    "Positive Liberalism",
+    "Negative and Positive Liberty",
+    "Legitimation Crisis",
+    "Functional Theory of Rights"
+   ]
+  },
+  {
+   "title": "Neoliberalism, Social Liberalism, and Toleration",
+   "subtitle": "Neoliberal Market Fundamentalism | Hayek and Nozick | Milton Friedman | Social Liberalism and Stiglitz | Principle of Toleration",
+   "start": 19,
+   "end": 28,
+   "keyScholars": [
+    "Friedrich Hayek",
+    "Robert Nozick",
+    "Milton Friedman",
+    "Joseph Stiglitz",
+    "John Rawls",
+    "Will Kymlicka"
+   ],
+   "coreTheories": [
+    "Neoliberalism",
+    "Market Fundamentalism",
+    "Social Liberalism",
+    "Post-Washington Consensus",
+    "Toleration"
+   ]
+  },
+  {
+   "title": "Multiculturalism, End of History, and Clash of Civilizations",
+   "subtitle": "Framework of Multiculturalism | Kymlicka and Minority Rights | Bhikhu Parekh on Intercultural Dialogue | End of Ideology and End of History | Huntington's Clash of Civilizations",
+   "start": 29,
+   "end": 37,
+   "keyScholars": [
+    "Will Kymlicka",
+    "Bhikhu Parekh",
+    "Isaiah Berlin",
+    "Daniel Bell",
+    "S.M. Lipset",
+    "Samuel P. Huntington"
+   ],
+   "coreTheories": [
+    "Multiculturalism",
+    "Value Pluralism",
+    "End of Ideology",
+    "End of History",
+    "Clash of Civilizations"
+   ]
+  },
+  {
+   "title": "Socialism: Evolution, Schools, and Global Spread",
+   "subtitle": "Definitions and Basic Assumptions | Socialist View of State | Fabianism | Syndicalism | Third World Socialism and Wallerstein",
+   "start": 38,
+   "end": 44,
+   "keyScholars": [
+    "Karl Marx",
+    "Immanuel Wallerstein",
+    "Terry Eagleton"
+   ],
+   "coreTheories": [
+    "Socialism",
+    "Social and Economic Equality",
+    "Fabianism",
+    "Syndicalism",
+    "Third World Socialism"
+   ]
+  },
+  {
+   "title": "Marxism, Leninism, Maoism, and Neo-Marxism",
+   "subtitle": "Schools of Marxism | Lenin on Imperialism and Communist Party | Mao's Concept of Revolution | Frankfurt Critical School and Alienation | Structural Marxism",
+   "start": 45,
+   "end": 52,
+   "keyScholars": [
+    "Karl Marx",
+    "Friedrich Engels",
+    "Vladimir Lenin",
+    "Mao Zedong",
+    "Antonio Gramsci"
+   ],
+   "coreTheories": [
+    "Orthodox Marxism",
+    "Vanguard Party",
+    "Imperialism",
+    "Permanent Revolution",
+    "Alienation"
+   ]
+  },
+  {
+   "title": "Fascism: Origins, Characteristics, and Critiques",
+   "subtitle": "Nature of Fascist Ideology | Palingenetic Ultra-Nationalism | Philosophical Influences of Plato and Machiavelli | Marxist Interpretation | Nolte on Rise of Fascism",
+   "start": 53,
+   "end": 59,
+   "keyScholars": [
+    "Plato",
+    "Niccolo Machiavelli",
+    "Ernst Nolte",
+    "Susan Moller Okin"
+   ],
+   "coreTheories": [
+    "Fascism",
+    "Palingenetic Ultra-Nationalism",
+    "Totalitarianism",
+    "Philosopher King",
+    "Majoritarianism"
+   ]
+  },
+  {
+   "title": "Feminism: Schools, Waves, and Core Concepts",
+   "subtitle": "Waves of Feminism | Radical and Socialist Feminism | Simone de Beauvoir and Betty Friedan | The Personal is Political | Missing Women and Foreign Policy",
+   "start": 60,
+   "end": 72,
+   "keyScholars": [
+    "Friedrich Engels",
+    "Jean-Paul Sartre",
+    "Simone de Beauvoir",
+    "Betty Friedan",
+    "Shulamith Firestone",
+    "Kate Millett",
+    "Cynthia Enloe",
+    "Amartya Sen"
+   ],
+   "coreTheories": [
+    "Feminism",
+    "Patriarchy",
+    "Radical Feminism",
+    "Personal is Political",
+    "Missing Women"
+   ]
+  },
+  {
+   "title": "Theories of the State: Sovereignty and Pluralism",
+   "subtitle": "Modern Nation-State and Sovereignty | Monistic vs Pluralist Sovereignty | Harold Laski's Pluralist Theory | Globalisation and State Autonomy | Responsibility to Protect",
+   "start": 73,
+   "end": 81,
+   "keyScholars": [
+    "Thomas Hobbes",
+    "Harold Laski",
+    "Susan Strange",
+    "Kenichi Ohmae"
+   ],
+   "coreTheories": [
+    "Monistic Sovereignty",
+    "Pluralist Theory of State",
+    "Federal State",
+    "Globalisation",
+    "Responsibility to Protect"
+   ]
+  },
+  {
+   "title": "Liberal, Marxist, and Feminist Theories of State",
+   "subtitle": "Liberal and Welfare State | Marxist Instrumentalist Theory | Relative Autonomy of State | Miliband-Poulantzas Debate | Feminist Critique of State",
+   "start": 82,
+   "end": 91,
+   "keyScholars": [
+    "Karl Marx",
+    "Vladimir Lenin",
+    "Louis Althusser",
+    "Ralph Miliband",
+    "Nicos Poulantzas",
+    "Iris Marion Young"
+   ],
+   "coreTheories": [
+    "Nightwatchman State",
+    "Welfare State",
+    "Instrumentalist Theory",
+    "Relative Autonomy of State",
+    "Differentiated Citizenship"
+   ]
+  },
+  {
+   "title": "Theories of the Post-Colonial State",
+   "subtitle": "Colonialism and Unequal Exchange | Gunnar Myrdal on Soft State | Dependency School of Underdevelopment | Hamza Alavi's Overdeveloped State | Bureaucratic-Military Oligarchy",
+   "start": 92,
+   "end": 97,
+   "keyScholars": [
+    "Vladimir Lenin",
+    "Gunnar Myrdal",
+    "Andre Gunder Frank",
+    "Celso Furtado",
+    "Raul Prebisch",
+    "Hamza Alavi"
+   ],
+   "coreTheories": [
+    "Unequal Exchange",
+    "Soft State",
+    "Dependency Theory",
+    "Overdeveloped State",
+    "Bonapartism"
+   ]
+  },
+  {
+   "title": "Theories of Power: Elitist and Pluralist Perspectives",
+   "subtitle": "Concept and Location of Power | Classical Elitist Theory | Mosca and Pareto | Economic Theory of Democracy | Robert Dahl's Pluralist Theory",
+   "start": 98,
+   "end": 103,
+   "keyScholars": [
+    "Gaetano Mosca",
+    "Joseph Schumpeter",
+    "Anthony Downs",
+    "Robert Dahl",
+    "C. Wright Mills"
+   ],
+   "coreTheories": [
+    "Elitist Theory of Power",
+    "Economic Theory of Democracy",
+    "Pluralist Theory of Power",
+    "Neo-Pluralism"
+   ]
+  },
+  {
+   "title": "Postmodern Power, Weberian Authority, and Legitimacy",
+   "subtitle": "Foucault's Concept of Power | Power-Knowledge Nexus and Genealogy | Panopticon and Disciplinary Power | Max Weber on Power and Authority | Legitimacy and Social Control",
+   "start": 104,
+   "end": 114,
+   "keyScholars": [
+    "Michel Foucault",
+    "Max Weber",
+    "Karl Marx",
+    "T.H. Green",
+    "Jurgen Habermas"
+   ],
+   "coreTheories": [
+    "Power-Knowledge Nexus",
+    "Genealogy",
+    "Disciplinary Power",
+    "Weberian Authority",
+    "Legitimacy"
+   ]
+  },
+  {
+   "title": "Concept of Ideology, Modernism, and Postmodernism",
+   "subtitle": "Debate on Nature of Ideology | Karl Mannheim on Ideology and Utopia | End of Ideology vs End of History | Modernism vs Postmodernism | Kuhn and Homi Bhabha",
+   "start": 115,
+   "end": 125,
+   "keyScholars": [
+    "Karl Marx",
+    "Karl Mannheim",
+    "Michael Oakeshott",
+    "Daniel Bell",
+    "Francis Fukuyama",
+    "Friedrich Nietzsche",
+    "Thomas Kuhn",
+    "Homi Bhabha"
+   ],
+   "coreTheories": [
+    "Ideology",
+    "End of Ideology",
+    "End of History",
+    "Postmodernism",
+    "Hybridity"
+   ]
+  },
+  {
+   "title": "Theories of Democracy: Classical, Contemporary, and Developmental",
+   "subtitle": "Waves of Democratization | Globalisation and Democracy | Amartya Sen on Democracy and Development | Procedural vs Substantive Democracy | C.B. Macpherson's Critique",
+   "start": 126,
+   "end": 137,
+   "keyScholars": [
+    "Samuel P. Huntington",
+    "Amartya Sen",
+    "C.B. Macpherson",
+    "Robert Dahl",
+    "Jawaharlal Nehru"
+   ],
+   "coreTheories": [
+    "Three Waves of Democracy",
+    "Procedural Democracy",
+    "Substantive Democracy",
+    "Polyarchy",
+    "Developmental and Extractive Power"
+   ]
+  },
+  {
+   "title": "Models of Democracy: Representative, Participatory, and Deliberative",
+   "subtitle": "Representative Democracy and Electoral Systems | Rousseau's Critique | Participatory Democracy | Nancy Fraser on Counter-Publics | Deliberative Democracy and Habermas",
+   "start": 138,
+   "end": 147,
+   "keyScholars": [
+    "Jean-Jacques Rousseau",
+    "Thomas Jefferson",
+    "Nancy Fraser",
+    "Jacques Ranciere",
+    "Amartya Sen",
+    "Jurgen Habermas",
+    "Hannah Arendt"
+   ],
+   "coreTheories": [
+    "Representative Democracy",
+    "Participatory Democracy",
+    "Counter-Publics",
+    "Deliberative Democracy",
+    "Communicative Action"
+   ]
+  },
+  {
+   "title": "Theories of Rights and Human Rights",
+   "subtitle": "Theories of Rights | Bentham's Legal Rights Critique | Kant and Green on Moral Rights | Universal Human Rights and Asian Values | Human Dignity and Democratic Debates",
+   "start": 148,
+   "end": 158,
+   "keyScholars": [
+    "Jeremy Bentham",
+    "Immanuel Kant",
+    "T.H. Green",
+    "Ralph Miliband",
+    "Winston Churchill",
+    "Thomas Paine",
+    "Jack Donnelly",
+    "Alan Gewirth"
+   ],
+   "coreTheories": [
+    "Natural Rights",
+    "Legal Theory of Rights",
+    "Moral Theory of Rights",
+    "Human Rights",
+    "Human Dignity"
+   ]
+  },
+  {
+   "title": "John Rawls: Theory of Justice as Fairness",
+   "subtitle": "Justice as Fairness | Original Position and Veil of Ignorance | Three Principles of Justice | Difference Principle and Maximin Rule | Priority of Right over Good",
+   "start": 159,
+   "end": 175,
+   "keyScholars": [
+    "John Rawls",
+    "Immanuel Kant",
+    "Amartya Sen"
+   ],
+   "coreTheories": [
+    "Justice as Fairness",
+    "Original Position",
+    "Difference Principle",
+    "Veil of Ignorance",
+    "Priority of Right over Good"
+   ]
+  },
+  {
+   "title": "Critiques of Rawls and Alternative Theories of Justice",
+   "subtitle": "Communitarian Critique of Rawls | Sandel on Unencumbered Self | Walzer's Spheres of Justice | Feminist and Marxist Critiques | Sen's Comparative Theory of Justice",
+   "start": 176,
+   "end": 190,
+   "keyScholars": [
+    "John Rawls",
+    "Susan Moller Okin",
+    "Michael Sandel",
+    "Michael Walzer",
+    "Amartya Sen",
+    "Pratap Bhanu Mehta",
+    "Plato"
+   ],
+   "coreTheories": [
+    "Communitarianism",
+    "Unencumbered Self",
+    "Complex Equality",
+    "Political Liberalism",
+    "Comparative Justice"
+   ]
+  },
+  {
+   "title": "Theories of Equality, Capability, and Affirmative Action",
+   "subtitle": "Dimensions of Equality | Dworkin's Equality of Resources | Amartya Sen's Capability Approach | Relationship Between Liberty and Equality | Affirmative Action and Positive Discrimination",
+   "start": 191,
+   "end": 201,
+   "keyScholars": [
+    "Ronald Dworkin",
+    "John Rawls",
+    "Amartya Sen",
+    "Michael Walzer",
+    "T.H. Green",
+    "Harold Laski"
+   ],
+   "coreTheories": [
+    "Equality of Resources",
+    "Capability Approach",
+    "Complex Equality",
+    "Complementarity of Liberty and Equality",
+    "Affirmative Action"
+   ]
+  },
+  {
+   "title": "Political Theory: Nature, Evolution, and Traditional Approaches",
+   "subtitle": "Evolution of Political Science | Philosophical and Normative Approach | Historical Approach | Cambridge School Contextualism | Institutional and Empirical Approaches",
+   "start": 202,
+   "end": 213,
+   "keyScholars": [
+    "Niccolo Machiavelli",
+    "F.W. Maitland",
+    "George Sabine",
+    "Harold Laski",
+    "William Dunning",
+    "Quentin Skinner",
+    "J.G.A. Pocock",
+    "James March"
+   ],
+   "coreTheories": [
+    "Normative Approach",
+    "Historical Approach",
+    "Textual and Contextual Approach",
+    "Cambridge School",
+    "New Institutionalism"
+   ]
+  },
+  {
+   "title": "Behavioralism, Post-Behavioralism, and the Fact-Value Debate",
+   "subtitle": "Behavioral Revolution | Chicago School | Post-Behavioralism and Credo of Relevance | Traditionalist Critique | Fact-Value Dichotomy",
+   "start": 214,
+   "end": 224,
+   "keyScholars": [
+    "David Easton",
+    "Harold Lasswell",
+    "George Catlin",
+    "James Bryce",
+    "Leo Strauss",
+    "Eric Voegelin"
+   ],
+   "coreTheories": [
+    "Behavioralism",
+    "Post-Behavioralism",
+    "Credo of Relevance",
+    "Fact-Value Dichotomy"
+   ]
+  }
+ ]
+}

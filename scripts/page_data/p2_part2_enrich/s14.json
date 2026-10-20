@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "page": 110,
+      "title": "Systems approach and Morton Kaplan's aims",
+      "summary": "The systems approach is associated with Morton Kaplan, influenced by General Systems Theory and David Easton's political system, and studies international politics as a system rather than separate foreign policies. Kaplan saw it as suited to interdisciplinary study and free of ideological preoccupation, aiming at a holistic grand theory of past, present and future."
+    },
+    {
+      "page": 111,
+      "title": "Kaplan's five variables and first three models",
+      "summary": "Kaplan developed ten models, each with five variables: essential rules, transformational rules, actor, capability and information variables. The page describes the balance of power system (Europe till the First World War), the bipolar world and the loose bipolar world with USA, USSR and NAM."
+    },
+    {
+      "page": 112,
+      "title": "Kaplan's models four to seven",
+      "summary": "The very loose bipolar model adds France and China as satellites beside USA, USSR and NAM. The universal actor model has a world government over 190+ countries, the hierarchical model has one state over all, and the unit veto model gives every country equal capacity to destroy."
+    },
+    {
+      "page": 113,
+      "title": "Last Kaplan models and criticisms of systems approach",
+      "summary": "The last models are detente (relaxation of tensions between superpowers, 1969 to 1979), the unstable bloc system and incomplete nuclear diffusion with around 14-15 nuclear states. Stanley Hoffmann calls the approach a parlour game and a victory of form over substance, while Lieber notes a theory-research gap, lack of operability and neglect of domestic and historical factors."
+    },
+    {
+      "page": 114,
+      "title": "Game theory: Schelling and the Chicken Game",
+      "summary": "Game theory, linked to Thomas Schelling and marked in the margin as not in the syllabus, predicts rational behaviour on realist assumptions and treats international politics as a strategy game with payoffs and a saddle point. The Chicken Game is based on the 1962 Cuban missile crisis, where the dilemma is to prevent catastrophe while avoiding loss of prestige."
+    },
+    {
+      "page": 115,
+      "title": "Prisoner's Dilemma and India-Pakistan nuclear choice",
+      "summary": "In the Prisoner's Dilemma states cannot understand each other's intentions, so a huge trust deficit makes them avoid the worst outcome rather than seek the best. The notes apply it to India and Pakistan, where mutual restraint would be win-win but the trust deficit pushes towards nuclear weapons."
+    },
+    {
+      "page": 116,
+      "title": "Decision-making approach and post-colonial approach begins",
+      "summary": "Richard Snyder, H W Bruck and Burton Sapin treat foreign policy as a decision-making process shaped by environmental and organisational factors. The post-colonial approach reacts against mainstream theories, says the post-colonial world borrows western concepts like security dilemma and anarchy, and notes that to a person in Baghdad international politics is western domination, not anarchy."
+    },
+    {
+      "page": 117,
+      "title": "Post-colonial critique: Eurocentrism and decolonising IR",
+      "summary": "Post-colonial scholars say the discipline remains Eurocentric, citing western claims by Stanley Hoffmann, Morgenthau and Kenneth Waltz, and say the post-colonial world is wilfully neglected. They want to decolonise IR, bring subaltern perspectives, put poverty, environmental degradation and MNC exploitation first, and develop concepts like insecurity dilemma."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Who is the systems approach to international politics associated with, and what is its core idea?",
+      "back": "It is associated with Morton Kaplan, influenced by General Systems Theory and David Easton's political system. The idea is to study international politics as a system rather than analyse independent foreign policies, aiming at a holistic grand theory.",
+      "category": "Kaplan systems approach",
+      "scanPage": 110
+    },
+    {
+      "front": "What are the five variables that every Kaplan model has?",
+      "back": "Essential rules of the system, transformational rules, actor variables, capability variables and information variables. Kaplan developed ten models and described the international system as complex, dynamic, adaptive and purposive.",
+      "category": "Kaplan's model variables",
+      "scanPage": 111
+    },
+    {
+      "front": "What criticisms did Stanley Hoffmann and Lieber make of the systems approach?",
+      "back": "Hoffmann called it a parlour game and a victory of form over substance that does not describe the system's characteristics, processes, boundary or environment. Lieber pointed to a gap between theory and research, lack of operability and neglect of domestic and historical ideological factors.",
+      "category": "Criticism of systems approach",
+      "scanPage": 113
+    },
+    {
+      "front": "On which crisis is the Chicken Game based, and what is the dilemma?",
+      "back": "It is based on the 1962 Cuban missile crisis, imagined as a head-on collision. The dilemma is to prevent catastrophe while also avoiding loss of prestige, and the rational course is not to worry about prestige.",
+      "category": "Game theory models",
+      "scanPage": 114
+    },
+    {
+      "front": "How does the Prisoner's Dilemma explain the India-Pakistan nuclear decision?",
+      "back": "If both cooperated and did not build weapons it would be win-win, but because of a huge trust deficit each fears the other defecting. Cooperation is not as beneficial as defection, so they opt for nuclear weapons.",
+      "category": "Prisoner's Dilemma",
+      "scanPage": 115
+    },
+    {
+      "front": "What are the main post-colonial objections to the discipline of international relations and what do they want?",
+      "back": "They say IR remains Eurocentric, shown by western scholars' arrogance and wilful neglect of the post-colonial world. They want to decolonise the discipline, bring subaltern perspectives, prioritise poverty, environmental degradation and MNC exploitation, and develop concepts like insecurity dilemma.",
+      "category": "Post-colonial approach",
+      "scanPage": 117
+    }
+  ],
+  "answers": [
+    {
+      "question": "Evaluate the scientific approaches to the study of international relations, with reference to Kaplan's systems approach and game theory.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Scientific approaches to IR",
+      "scanPage": 110,
+      "intro": "Scientific approaches seek an objective, predictive study of international politics. Morton Kaplan's systems approach builds models of the international system, while Thomas Schelling's game theory predicts rational behaviour of states, treating international politics as a game of strategy with payoffs.",
+      "body": [
+        "Kaplan, influenced by General Systems Theory and David Easton, studied international politics as a system rather than independent foreign policies, claiming interdisciplinary relevance and freedom from ideological preoccupation, with the aim of a holistic grand theory of past, present and future.",
+        "He developed ten models, each with five variables: essential rules, transformational rules, actor, capability and information variables. They range from balance of power and bipolar systems to detente, unstable bloc and incomplete nuclear diffusion.",
+        "Game theory rests on realist assumptions: the Chicken Game draws on the 1962 Cuban missile crisis, where the dilemma is avoiding catastrophe without losing prestige, and the Prisoner's Dilemma explains why the trust deficit between India and Pakistan favours nuclear weapons over cooperation.",
+        "Stanley Hoffmann called the systems approach a parlour game and a victory of form over substance, while Lieber pointed to the gap between theory and research, lack of operability and neglect of domestic and historical factors."
+      ],
+      "scholars": ["Morton Kaplan", "David Easton", "Thomas Schelling", "Stanley Hoffmann", "Lieber"],
+      "conclusion": "Scientific approaches add rigour, models and predictive tools, yet critics find them remote from reality and blind to domestic, historical and ideological factors. They are best used alongside other approaches rather than as a single grand theory of international politics."
+    }
+  ]
+}

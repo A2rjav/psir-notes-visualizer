@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {"page": 26, "title": "Political development: Pye's three parameters", "summary": "Political development is an approach that measures the level of political development, which must not be confused with economic development. Lucian Pye's parameters are equality, capacity and differentiation, and India is shown as strong on participation and differentiation but poor on state capacity, a soft state."},
+    {"page": 27, "title": "Huntington's political decay and critique", "summary": "Political decay arises when participation grows but institutions fail to stay adaptable and coherent; most third world countries, including India, are in decay, with de-institutionalisation from the 1970s. The political development approach is criticised as biased towards western democracies as the ideal type."},
+    {"page": 28, "title": "Political modernisation approach: Huntington and Apter", "summary": "Because political development was seen as biased, the modernisation approach compares scales of modernisation, measured by industrialisation, urbanisation, secularisation and rationalisation, instead of political systems. Modernisation was believed to bring democracy automatically, with mobilisation of people and nation building as consequences."},
+    {"page": 29, "title": "Political culture: Almond-Verba, parochial, subject, participant", "summary": "Almond and Verba's Civic Culture defines political culture as people's values, norms and orientations towards the political system, built on Easton's input-output model and Weber's ideal types. Three types are described: parochial (Andaman tribes), subject (most third world democracies) and participant (western countries, growing in India)."},
+    {"page": 30, "title": "Civic culture and stability of democracy", "summary": "Civic culture combines all three cultures, with a participant majority and some parochial and subject sections, and is most conducive to democratic stability. Very high participation may threaten democracy by producing demagogic leaders, as under Hitler in Germany."}
+  ],
+  "flashcards": [
+    {"front": "What are Lucian Pye's three parameters of political development, and how does India score?", "back": "Equality (level of political participation), capacity (state's ability to enforce laws and maintain discipline) and differentiation (functional specialisation). India scores well on participation and differentiation but poorly on capacity, being a soft state.", "category": "Lucian Pye's parameters", "scanPage": 26},
+    {"front": "What is political decay according to Samuel P. Huntington?", "back": "A mismatch between the level of participation and the level of institutionalisation. As participation rises, political institutions must be adaptable and coherent; most third world countries, including India, are in political decay.", "category": "Huntington's political decay", "scanPage": 27},
+    {"front": "Why was the political modernisation approach proposed, and what are its parameters?", "back": "Political development was seen as biased, so it was suggested to compare scales of modernisation, not political systems. Parameters are industrialisation, urbanisation, secularisation and rationalisation, and democracy was expected to follow.", "category": "Political modernisation approach", "scanPage": 28},
+    {"front": "What is civic culture in the Almond-Verba model, and why is it most conducive to democratic stability?", "back": "Civic culture combines parochial, subject and participant cultures, with a participant majority but some parochial and subject sections. It gives stability because very high participation can produce demagogic leaders, as under Hitler in Germany.", "category": "Civic culture and democracy", "scanPage": 30}
+  ],
+  "answers": [
+    {
+      "question": "Explain Almond and Verba's typology of political culture. Why is civic culture considered most conducive to democratic stability?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Political culture and civic culture",
+      "scanPage": 29,
+      "intro": "Political culture, a sub-set of culture, denotes people's values, norms and orientations towards the political system. Gabriel Almond and Sydney Verba, in Civic Culture, used it as a variable for comparison because culture is a long-term trend.",
+      "body": [
+        "Almond and Verba combined Easton's input-output model with Max Weber's ideal types to develop their models of political culture, which they described in their book Civic Culture as orientations towards the political system.",
+        "In parochial political culture people are indifferent towards the political system, as with tribes in the Andaman towards Indian political culture. In subject culture people feel insignificant as far as input is concerned but are influenced by output and policies; most third world democracies show this pattern.",
+        "In participant culture people play an active role as citizens, not merely as subjects. Western countries used to show participant culture, and India is witnessing its growth at present.",
+        "Civic culture is a combination of all three: the majority should be participant, but some sections should remain parochial and subject. This balance is most conducive to democratic stability, since very high participation may give rise to demagogic leaders, as happened in Germany under Hitler."
+      ],
+      "scholars": ["Gabriel Almond", "Sydney Verba", "David Easton", "Max Weber"],
+      "conclusion": "The typology shows that democracy rests on a balance of participation and deference, not participation alone. It remains useful for comparing countries, though India's growing participant culture shows political cultures change over time."
+    }
+  ]
+}

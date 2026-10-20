@@ -1,0 +1,155 @@
+{
+  "pages": [
+    {
+      "page": 62,
+      "title": "Realism's features and ancient precursors",
+      "summary": "Realism is the oldest, hegemonic school, based on the Westphalian billiard ball model, with statism, anarchy (absence of global governance), rational states seeking survival and the security dilemma. Its ancient precursors include Kautilya (mandal siddhant, four-fold policy, shat gunya) and Sun Tzu's The Art of War."
+    },
+    {
+      "page": 63,
+      "title": "Thucydides on power and the Thucydides Trap",
+      "summary": "Thucydides, in his history of the Peloponnesian war, held that man is power seeking, only self-help works, and the strong do what they can while the weak accept what they must. The Thucydides Trap says relations between a hegemonic power and a revisionist power move towards war, because the hegemon feels insecure and the revisionist wants to alter the rules."
+    },
+    {
+      "page": 64,
+      "title": "Thucydides Trap today; schools of realism",
+      "summary": "Sparta felt insecure as Athens gained power, causing the Peloponnesian war, and US scholars apply this to US-China relations, while Xi Jinping says it need not be destiny and proposes a New Model of Great Power Relation. The page also charts the schools of realism: classical (Morgenthau), structural (Waltz, Mearsheimer), neo-classical (Zakaria, Schweller) and third world realism (Acharya, Ayoob)."
+    },
+    {
+      "page": 65,
+      "title": "Classical Realism: Morgenthau as father of realism",
+      "summary": "Morgenthau is called the father of realism because Politics Among Nations (1949) gave the first systematic realist view, with six laws and the influence of Machiavelli. His book works as a manual warning American foreign policy makers against complacency after victory."
+    },
+    {
+      "page": 66,
+      "title": "Morgenthau's six principles: first five",
+      "summary": "Politics rests on power-seeking human nature (animus dominandi), and national interest is the prime motivation of foreign policy and is dynamic. Ethics has no relevance, with pragmatism as the ethics of politics, and nations should not impose their ideology on others."
+    },
+    {
+      "page": 67,
+      "title": "Sixth principle, types of states, critics",
+      "summary": "International politics is an autonomous field, neither ethics nor law nor economics, and Morgenthau classes states as status quoist (USA), revisionist (China) or imperialist (Hitler's Germany). Stanley Hoffman accuses him of power monism and Kenneth Waltz objects that a scientific theory cannot rest on human nature."
+    },
+    {
+      "page": 68,
+      "title": "Feminist criticism and conclusion on Morgenthau",
+      "summary": "Feminists say Morgenthau's understanding of human nature is masculinist, so his views on international politics cannot be correct. The conclusion states that despite criticism he remains a reference point, so international politics is a dialogue between Morgenthau and his critics, and Ann J. Tickner reformulates his six principles."
+    },
+    {
+      "page": 69,
+      "title": "Tickner's reformulation of principles one to five",
+      "summary": "Tickner holds that human nature is culturally defined by patriarchy, that national interest is defined too narrowly as national security and overlooks human security, and that power should mean collective empowerment, not only domination. She also holds that ethics matters in politics and that universal moral principles apply to states."
+    },
+    {
+      "page": 70,
+      "title": "Tickner's sixth principle; Hobbes; security dilemma",
+      "summary": "Tickner says international politics is not autonomous of ethics, while Machiavelli gives national interest and raison d'etat and Hobbes gives anarchy and power-seeking human nature. John Herz built the security dilemma on Hobbes: with no common authority and a trust deficit, states raise power, making others insecure, so war or preparation for war is constant."
+    },
+    {
+      "page": 71,
+      "title": "Jervis's four security dilemma scenarios",
+      "summary": "Robert Jervis says the intensity of the security dilemma depends on geography, technology and policy makers' calculations, and gives four scenarios. It is most intense when offence and defence are indistinguishable and offence seems advantageous, and least intense when they are distinguishable and defence is advantageous."
+    },
+    {
+      "page": 72,
+      "title": "Criticisms of security dilemma",
+      "summary": "Third world realists Amitav Acharya and Mohammad Ayoob call it eurocentric, as non-western states face an insecurity dilemma from civil wars and secessionism, and even Europe now faces it through transnational terrorism. Social constructivist Alexander Wendt sees security as a subjective, culture-made understanding and says the concept is losing relevance."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What are the basic features of the realist view of international politics?",
+      "back": "Statism (states are the only actors), anarchy meaning absence of global governance, states as rational actors whose core interest is survival, and the security dilemma as a vicious cycle of insecurity. The notes add that it rests on the Westphalian billiard ball model.",
+      "category": "Features of realism",
+      "scanPage": 62
+    },
+    {
+      "front": "What is the Thucydides Trap?",
+      "back": "It says relations between the hegemonic power and the revisionist power are bound to move towards war, because the hegemon feels insecure and the revisionist wants to change the rules. In Ancient Greece, Sparta and rising Athens fought the Peloponnesian war.",
+      "category": "Thucydides Trap",
+      "scanPage": 63
+    },
+    {
+      "front": "Why is Morgenthau known as the father of realism?",
+      "back": "He gave the first systematic realist view of international politics in Politics Among Nations (1949). He called his theory scientific, gave six laws of realism and was influenced by Machiavelli.",
+      "category": "Morgenthau's contribution",
+      "scanPage": 65
+    },
+    {
+      "front": "On what grounds did Stanley Hoffman and Kenneth Waltz criticise Morgenthau?",
+      "back": "Hoffman accuses him of power monism, since international politics shows cooperation as well as conflict. Waltz objects that Morgenthau bases analysis on human nature, and a scientific theory cannot be built on it.",
+      "category": "Critics of Morgenthau",
+      "scanPage": 67
+    },
+    {
+      "front": "How does Ann J. Tickner reformulate Morgenthau's views on human nature, national interest and ethics?",
+      "back": "She says his human nature is culturally defined and masculinist, not objective, and that his national interest is narrowly national security and overlooks human security. She insists ethics matters and politicians cannot be absolved of moral consequences.",
+      "category": "Feminist critique of Morgenthau",
+      "scanPage": 69
+    },
+    {
+      "front": "What is the security dilemma and how does it arise?",
+      "back": "It is the condition where states are never assured of their security because there is no common authority to punish the aggressor and there is a trust deficit. States increase power for survival, which makes others insecure, ending in war or preparation for war. John Herz developed it from Hobbes.",
+      "category": "Security dilemma",
+      "scanPage": 70
+    },
+    {
+      "front": "In which of Robert Jervis's scenarios is the security dilemma most intense?",
+      "back": "When offensive and defensive behaviours are indistinguishable and offence seems advantageous. Arms races are likely, cooperation is low and status quoist states behave aggressively.",
+      "category": "Jervis's scenarios",
+      "scanPage": 71
+    },
+    {
+      "front": "What are the criticisms of the security dilemma by third world realists and social constructivists?",
+      "back": "Acharya and Ayoob call it eurocentric and stress the insecurity dilemma from internal threats like civil wars and secessionism. Wendt's social constructivists say security is a subjective result of culture and the concept is losing relevance.",
+      "category": "Critiques of security dilemma",
+      "scanPage": 72
+    }
+  ],
+  "answers": [
+    {
+      "question": "Do you think the theory of International Politics is nothing but a dialogue between Morgenthau and his critics? Discuss.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Morgenthau and his critics",
+      "scanPage": 67,
+      "intro": "Morgenthau, father of realism, gave the first systematic realist view in Politics Among Nations (1949) through six principles. Later schools, from structural realism to feminism, respond to him, so international politics is a dialogue with his critics.",
+      "body": [
+        "Morgenthau rooted politics in power-seeking human nature, made national interest the prime motivation, rejected universal ethics in favour of pragmatism, and called international politics an autonomous field. He drew on Machiavelli and Hobbes, classed states as status quoist, revisionist or imperialist, and distrusted international organisations, trusting diplomacy and balance of power.",
+        "Stanley Hoffman accuses him of power monism, since international politics shows cooperation as well as conflict, making his view unsustainable empirically and theoretically. Kenneth Waltz objects that a scientific theory cannot be built on unpredictable human nature rather than structure.",
+        "Feminists call his human nature masculinist. Ann J. Tickner reformulates his six principles: human nature is culturally defined, national interest should include human security, power can mean collective empowerment, and ethics and universal moral principles apply to states.",
+        "Structural realists such as Waltz and Mearsheimer, and third world realists such as Acharya and Ayoob, all define their positions against his premises, which supports the dialogue claim."
+      ],
+      "scholars": [
+        "Morgenthau",
+        "Machiavelli",
+        "Thomas Hobbes",
+        "Stanley Hoffman",
+        "Kenneth Waltz",
+        "Ann J. Tickner"
+      ],
+      "conclusion": "Despite these criticisms Morgenthau remains a reference point for contemporary scholars, so the dialogue claim holds. Yet the theory also grows beyond him, through structure, culture and gender, and no single exchange exhausts the discipline."
+    },
+    {
+      "question": "Explain the concept of the security dilemma and examine the criticisms made of it.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Security dilemma",
+      "scanPage": 70,
+      "intro": "The security dilemma is a core concept of realism, developed by John Herz from Hobbes. The structure of international politics leaves states never secure about their security, which makes power competition and war a constant feature.",
+      "body": [
+        "States are not assured because there is no common authority to punish the aggressor and there is a trust deficit. They therefore increase power for survival. The concept draws on Hobbes's ideas of anarchy and power-seeking human nature.",
+        "When one state increases its power, others feel insecure and increase theirs; the ultimate consequence is war, so states are either in war or preparing for it.",
+        "Robert Jervis explains intensity through geography, technology and policy makers' calculations. The dilemma is most intense when offence and defence are indistinguishable and offence seems advantageous, with arms races likely and cooperation low; it eases when they are distinguishable and defence is advantageous, and defence budgets can fall.",
+        "Third world realists Acharya and Ayoob call it eurocentric and stress the insecurity dilemma from civil wars and secessionism, now visible even in Europe through transnational terrorism. Social constructivist Wendt says security is a culturally shaped, subjective understanding and the concept is losing relevance."
+      ],
+      "scholars": [
+        "John Herz",
+        "Thomas Hobbes",
+        "Robert Jervis",
+        "Amitav Acharya",
+        "Mohammad Ayoob",
+        "Alexander Wendt"
+      ],
+      "conclusion": "The security dilemma explains why power competition persists under anarchy, but its criticisms show it is not universal. Internal insecurity and subjective perceptions matter, so any analysis must test the concept against the region and period examined."
+    }
+  ]
+}

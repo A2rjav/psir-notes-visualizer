@@ -1,0 +1,84 @@
+{
+ "pages": [
+  {
+   "page": 81,
+   "title": "Pre-Independence Women's Movement and Phase I",
+   "summary": "Liberal men initiated women's movements in India leading to social legislation and organizations like the All India Women's Conference in 1927. Post-independence, Phase I up to the 1970s was termed the 'Grey Years' by Aparna Mahato as activism halted under the belief that the indigenous government would address women's concerns."
+  },
+  {
+   "page": 82,
+   "title": "Phase II Women's Movement: Revival and Activism",
+   "summary": "Phase II during the 1970s and 1980s marked a revival in activism prompted by the 1974 'Towards Equality' report, which highlighted issues like declining sex ratios and gender-based violence. This period drove government approaches to shift from welfare toward empowerment and saw the rise of diverse organizations protesting dowry deaths, the Mathura rape case, Deorala Sati, and the Shah Bano case."
+  },
+  {
+   "page": 83,
+   "title": "Phase III Women's Movement and Overall Assessment",
+   "summary": "In Phase III during the 1990s, radical feminist groups emerged but the movement experienced divisions along caste and religious lines. Madhu Kishwar critiqued women's organizations for only achieving bizarre legislation, while Neera Desai and Usha Thakkar identified identity challenges and the lack of a unified charter of demands."
+  },
+  {
+   "page": 84,
+   "title": "Opposition to Women's Reservation in Legislatures",
+   "summary": "Early leaders Pandit Nehru and Sarojini Naidu opposed women's reservation in parliament and assemblies on grounds of merit, irreversibility, and self-confidence. The 1974 'Towards Equality' report similarly opposed legislative reservation while favoring local bodies, asserting that men can represent women's interests and both genders should collaborate reformatively."
+  },
+  {
+   "page": 85,
+   "title": "Scholarly and Political Perspectives on Women's Reservation",
+   "summary": "Ela Bhatt and Shirin Rai oppose legislative reservation favoring economic empowerment or citing Pakistan's ineffective quotas, while major party politicians like Sonia Gandhi and Sushma Swaraj support it. Ministry of Panchayati Raj studies showed positive local results, and Laura Keenen advocates reservation due to stagnant female representation below 8% and patriarchal barriers."
+  },
+  {
+   "page": 86,
+   "title": "Conclusion: Women's Reservation and Comprehensive Empowerment",
+   "summary": "Reservation serves as a necessary catalyst to counteract a patriarchal social environment that hinders women from getting elected. While reservation makes democracy gender-inclusive, comprehensive empowerment also requires educational and economic empowerment."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What were the major achievements of the All India Women's Conference established in 1927?",
+   "back": "The All India Women's Conference, established in 1927, emerged as the most prominent women's organization during the freedom movement. Its key achievements included securing the passage of the Sharada Act in 1929 and establishing Lady Harding College in Delhi.",
+   "category": "Colonial Women's Movement",
+   "scanPage": 81
+  },
+  {
+   "front": "What were the major findings and recommendations of the 1974 'Towards Equality' report?",
+   "back": "The report highlighted declining sex ratios, gender-based violence, discrimination, and declining female participation in political and economic spheres. It recommended establishing a watchdog body like the National Commission for Women and shifted the government's approach from welfare to development.",
+   "category": "Towards Equality Report",
+   "scanPage": 82
+  },
+  {
+   "front": "What major challenges confronting the women's movement were identified by Neera Desai and Usha Thakkar?",
+   "back": "Neera Desai and Usha Thakkar identified the challenge of identity, the reality that women's issues are not solely women's issues, and divisions along ideological, caste, and religious lines. Additionally, they highlighted that the movement has never presented a unified charter of demands.",
+   "category": "Women's Movement Challenges",
+   "scanPage": 83
+  },
+  {
+   "front": "On what grounds did feminist scholar Laura Keenen justify legislative reservation for women in India?",
+   "back": "Laura Keenen emphasized that women's representation remained stagnant below 8% and that lack of election does not reflect an absence of talent. She noted that male parliamentarians do not hold office purely on merit, arguing that quotas are necessary catalysts against patriarchal environments.",
+   "category": "Legislative Reservation Debate",
+   "scanPage": 85
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the debate surrounding women's reservation in the Indian Parliament and State Legislative Assemblies.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Women's Political Representation and Legislative Reservation",
+   "scanPage": 84,
+   "intro": "The debate over legislative reservation for women in India reflects enduring tensions between formal equality and substantive representation, evolving from pre-independence nationalist deliberations to contemporary institutional arguments regarding gender-inclusive political democracy and social empowerment.",
+   "body": [
+    "Early leaders like Pandit Nehru opposed legislative reservation as compromising merit and irrevocability, while Sarojini Naidu argued it undermines female self-confidence. The 1974 'Towards Equality' report also rejected parliamentary reservation, adopting a reformative stance that progressive men can represent women's interests.",
+    "From civil society, Ela Bhatt of SEWA opposed legislative quotas, urging priority for economic empowerment instead. Feminist scholar Shirin Rai similarly opposed reservation, citing Pakistan's National Assembly where reserved seats failed to yield substantive improvements in women's status.",
+    "Conversely, leaders across party lines including Sonia Gandhi, Sushma Swaraj, and Vrinda Karat favored reservation. They drew support from Ministry of Panchayati Raj studies documenting positive governance outcomes from local panchayat quotas as a justification for parliamentary reform.",
+    "Feminist scholar Laura Keenen supported reservation because female representation remained stagnant below 8%. She argued that electoral absence does not denote lack of talent, nor do male legislators hold seats purely on merit, requiring quotas to counter patriarchal environments."
+   ],
+   "scholars": [
+    "Pandit Nehru",
+    "Sarojini Naidu",
+    "Towards Equality Report (1974)",
+    "Ela Bhatt (SEWA)",
+    "Shirin Rai",
+    "Laura Keenen"
+   ],
+   "conclusion": "Legislative reservation is necessary to render Indian democracy gender-inclusive. While an indispensable empowerment catalyst, political presence must be accompanied by broader structural transformations, notably comprehensive educational advancement and, most crucially, substantive economic empowerment."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "pages": [
+  {
+   "page": 60,
+   "title": "Feminism Meta-Ideology and First Wave Feminism",
+   "summary": "Feminism is a meta-ideology and movement that developed across three waves to end the exploitation of women. The first wave, known as liberal feminism, was initiated around the French Revolution with Mary Wollstonecraft and Seneca Falls demanding equal citizenship and voting rights."
+  },
+  {
+   "page": 61,
+   "title": "Socialist Feminism and Second Wave Radical Feminism",
+   "summary": "Socialist feminism drew inspiration from Engels's argument that capitalism exploits women, receiving support from Lenin while Stalin maintained traditional views. The second wave introduced radical feminism as real feminist theory led by thinkers like Simone de Beauvoir and Betty Friedan, who developed new concepts beyond masculinist liberal and Marxist discourses."
+  },
+  {
+   "page": 62,
+   "title": "Existentialism, Sartre, and Simone de Beauvoir on Gender",
+   "summary": "Sartre's existentialism asserts that existence precedes essence and individuals must be free to determine their own identity rather than being treated as teleological objects of religion. Applying this idea, Simone de Beauvoir argued that one becomes a woman in a gendered society, distinguishing natural biological sex from socially defined gender."
+  },
+  {
+   "page": 63,
+   "title": "Simone de Beauvoir's The Second Sex and Patriarchy",
+   "summary": "In 'The Second Sex', Simone de Beauvoir explains that patriarchal society treats women as secondary objects from birth, forcing them to abandon their subjectivity. She critiques medical science and Freudian psychology for perpetuating patriarchal myths, urging women to take responsibility and abandon the comforts of patriarchy."
+  },
+  {
+   "page": 64,
+   "title": "Betty Friedan and The Feminine Mystique",
+   "summary": "In 'The Feminine Mystique', Betty Friedan identified the dissatisfaction of well-off American women as the 'problem of no name', locating its root cause in patriarchy. She criticized societal and media myths that portray housewives as happy while pressuring women to leave education and careers to marry early."
+  },
+  {
+   "page": 65,
+   "title": "Radical Feminism: Firestone, Millett, and Brownmiller",
+   "summary": "Radical feminists like Shulamith Firestone and Kate Millett argued that patriarchy, rather than economic class, constitutes society's basic structure and politics exists between the sexes. Susan Brownmiller asserted that men cannot understand women and actually hate them, rejecting heterosexual families for sisterhood and characterizing rape as an institution of patriarchal fear."
+  },
+  {
+   "page": 66,
+   "title": "Third Wave Feminism, Post-Feminism, and Diverse Schools",
+   "summary": "Third-wave feminism and post-feminism emerged in the 1990s under thinkers like Susan Faludi, celebrating womanhood and rejecting radical feminist notions of subordination. The movement diversified into distinct schools including Bell Hooks' Black feminism, Chandra Talpade Mohanty's post-colonial feminism, and Vandana Shiva's eco-feminism."
+  },
+  {
+   "page": 67,
+   "title": "Basic Concepts: Gender, Inequality, and Patriarchy",
+   "summary": "Feminists emphasize gender as a fundamental concept, pointing to violence, landlessness, and lack of political representation documented in the 2014 Human Development Report. Highlighting Carole Hanisch's slogan 'Personal is Political', feminists challenge the historical division established by Aristotle and subsequent philosophers that excluded women from politics and citizenship."
+  },
+  {
+   "page": 68,
+   "title": "Personal is Political and Susan Moller Okin",
+   "summary": "Feminists argue that separating the personal and political enables the exploitation of women within the family, rejecting Hegel's view of family altruism and calling for state intervention. Susan Moller Okin presents four interpretations of 'personal is political', examining family violence, patriarchal state laws, and how heterosexual families normalize female subordination."
+  },
+  {
+   "page": 69,
+   "title": "Citizenship, Equality, and Liberal versus Radical Feminism",
+   "summary": "Beyond labor market disadvantages under patriarchy, feminists like Iris Marion Young advocate for differentiated citizenship and differentiated equality rather than simple equality. While first-wave liberal feminism focused on acquiring civil and political rights, second-wave radical feminism emerged from women's lived experience to dismantle patriarchy itself."
+  },
+  {
+   "page": 70,
+   "title": "Liberal vs Radical Feminism and Feminisation of Poverty",
+   "summary": "The page contrasts liberal feminism's focus on equality, legal reform, and privacy with radical feminism's emphasis on women's liberation, sisterhood, consciousness-raising, and personal politics. It also introduces Diana Pierce's concept of the feminisation of poverty, detailing how patriarchy, multiple deprivations, and state rollbacks under neo-liberal globalisation disproportionately leave women impoverished."
+  },
+  {
+   "page": 71,
+   "title": "Missing Women and Impact of Globalisation on Women",
+   "summary": "Amartya Sen's concept of missing women is introduced to explain adverse sex ratios in Asia and Northern Africa stemming from patriarchal practices like female infanticide and poor healthcare. The text further outlines the adverse impacts of neo-liberal globalisation, showing how unorganised sectors, agricultural disruption, and state health cutbacks push women into exploitative conditions."
+  },
+  {
+   "page": 72,
+   "title": "Feminist Foreign Policy and Sweden's Policy Objectives",
+   "summary": "The note discusses feminist foreign policy, highlighting Sweden as the first nation to adopt it and referencing Hillary Clinton's assertion that human rights are women's rights. It enumerates Sweden's foreign policy goals, including combating sexual violence during conflict, boosting women's participation in peace processes, and advancing their economic, reproductive, and human rights."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Which 1848 convention in the USA was the first to formally demand the right to vote for women?",
+   "back": "The Seneca Falls convention in the USA in 1848 was the first convention to formally demand the right to vote for women. Suffragettes were ultimately successful in securing voting rights for women in liberal countries.",
+   "category": "First Wave Feminism",
+   "scanPage": 60
+  },
+  {
+   "front": "Why do radical feminists consider their school to be the true or real feminist theory?",
+   "back": "Radical feminists argue they developed original concepts defining feminism from women's specific experiences. In contrast, liberal and socialist feminisms lacked originality, merely applying masculinist liberal and Marxist principles to women.",
+   "category": "Radical Feminist Theory",
+   "scanPage": 61
+  },
+  {
+   "front": "How does Simone de Beauvoir apply Jean-Paul Sartre's existentialist philosophy to the concept of gender?",
+   "back": "Drawing on Sartre's principle that existence precedes essence, Simone de Beauvoir argues that one is not born a woman, but becomes one. Gender is an artificial social identity imposed by society rather than a biological reality.",
+   "category": "Existentialism And Gender",
+   "scanPage": 62
+  },
+  {
+   "front": "What did Betty Friedan term 'the problem of no name' and what did she identify as its root cause?",
+   "back": "Betty Friedan identified 'the problem of no name' after interviewing well-off white American women who felt dissatisfied with domestic life. She identified patriarchy, sustained by societal and media myths, as the root cause of their dissatisfaction.",
+   "category": "The Feminine Mystique",
+   "scanPage": 64
+  },
+  {
+   "front": "How does Susan Brownmiller explain the phenomenon of rape within patriarchal society?",
+   "back": "Susan Brownmiller argues that rape has nothing to do with the satisfaction of sexual desire. Instead, rape functions as an institution of patriarchy designed to keep women in a permanent status of fear from men.",
+   "category": "Radical Feminist Perspectives",
+   "scanPage": 65
+  },
+  {
+   "front": "What is the dual burden faced by women according to post-colonial feminist Chandra Talpade Mohanty?",
+   "back": "According to Chandra Talpade Mohanty, women in post-colonial societies face problems distinct from women in the Western world. They carry a dual burden consisting of patriarchy alongside colonialism and neo-colonialism.",
+   "category": "Third Wave Schools",
+   "scanPage": 66
+  },
+  {
+   "front": "How does Susan Moller Okin interpret the slogan 'personal is political' regarding the state and family?",
+   "back": "Susan Moller Okin argues that there is no real separation between personal and political spheres, as the state actively regulates the family. Because the patriarchal state makes laws affecting the domestic realm, it often reinforces women's subordination.",
+   "category": "Personal Is Political",
+   "scanPage": 68
+  },
+  {
+   "front": "Who coined the term 'feminisation of poverty' and how has neo-liberal globalisation aggravated it?",
+   "back": "Diana Pearce coined the term in 1978 to show that women constitute the majority of the world's poor. Neo-liberal globalisation and the rollback of the state through subsidy withdrawals have intensified these deprivations.",
+   "category": "Feminisation Of Poverty",
+   "scanPage": 70
+  },
+  {
+   "front": "What does Amartya Sen's concept of 'missing women' highlight, and what causes it in India?",
+   "back": "Coined by Amartya Sen in 1990, the concept highlights an adverse sex ratio where over 100 million women are missing. In India, it is driven by patriarchal practices including female infanticide, sex-selective abortions, and poor healthcare.",
+   "category": "Concept Of Missing Women",
+   "scanPage": 71
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine the feminist critique of the public-private divide through the slogan 'the personal is political'.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "The Public-Private Divide and Personal is Political",
+   "scanPage": 68,
+   "intro": "Popularized by Carole Hanish, the slogan 'the personal is political' challenges the historical exclusion of the private sphere from political analysis. It exposes how patriarchal power dynamics and gendered subordination operate directly within the family.",
+   "body": [
+    "Feminists argue that political theory has been masculinist since Aristotle confined women to the domestic realm and denied them citizenship. Thinkers like John Locke and Karl Marx perpetuated this neglect, prompting Cynthia Enloe to question, 'Where are the women?'",
+    "Rejecting Hegel's assumption that the family represents altruism, feminists reveal an internal dialectics of sex and exploitation. State intervention is vital, reflected in India's Domestic Violence Act, which legally recognizes that violent oppression occurs inside the domestic household.",
+    "In 'Gender, Justice & Family', Susane Moller Okin demonstrates that the state continuously intervenes in personal life through patriarchal laws. Furthermore, heterosexual families socialize children into normalizing female subordination, making the abolition of patriarchal family structures essential for liberation.",
+    "Okin also emphasizes that patriarchal domestic division imposes a dual burden, leaving women with lower skill sets in the labor market. Consequently, institutional workplace discrimination reinforces women's subordinate status, binding personal domestic inequality directly to public economic disempowerment."
+   ],
+   "scholars": [
+    "Carole Hanish",
+    "Aristotle",
+    "Cynthia Enloe",
+    "Hegel",
+    "Susane Moller Okin ('Gender, Justice & Family')"
+   ],
+   "conclusion": "Dismantling the public-private divide demonstrates that genuine gender justice requires restructuring the domestic sphere. Transforming legal norms and ensuring state accountability within the family remain essential for dismantling entrenched patriarchal structures and securing substantive female emancipation."
+  },
+  {
+   "question": "Compare and contrast liberal and radical feminism. On what grounds do radical feminists claim their theory to be 'real feminism'?",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Comparison Between Liberal and Radical Feminism",
+   "scanPage": 69,
+   "intro": "While first-wave liberal feminism sought equal civil-political status within existing systems, second-wave radical feminism revolutionized political theory by identifying patriarchy as the fundamental social structure, calling for the total emancipation of women from male domination.",
+   "body": [
+    "Liberal feminists from Marry Wollstonecraft to the Seneca Falls convention pursued formal legal upliftment and voting rights within liberal frameworks. However, radical feminists argue that liberal feminism lacked conceptual originality, merely applying masculinist principles to women without challenging the underlying gendered order.",
+    "Pioneering 'real feminism', Simon de Beauvoir used existentialism in 'The Second Sex' to demonstrate that gender is socially constructed, while Betty Friedan in 'Feminine Mystique' unmasked patriarchy as the 'problem of no name' producing pervasive female dissatisfaction.",
+    "Kate Millet in 'Sexual Politics' and Shulamith Firestone in 'Dialectics of Sex' asserted that patriarchy, not economic class, forms society's basic structure. They refuted Engels's claim that ending capitalism automatically liberates women, emphasizing politics between sexes.",
+    "Whereas liberal feminists maintain the public-private divide and pursue individualist legal reforms, radical feminists demand consciousness-raising and sisterhood. Radicals like Susane Brown Miller reject heterosexual families altogether, analyzing rape as an institutional patriarchal weapon preserving male domination through fear."
+   ],
+   "scholars": [
+    "Marry Wollstonecraft",
+    "Simon de Beauvoir ('The Second Sex')",
+    "Betty Friedan ('Feminine Mystique')",
+    "Kate Millet ('Sexual Politics')",
+    "shulasmith Firestone ('Dialectics of sex')",
+    "Susane Brown Miller"
+   ],
+   "conclusion": "While liberal feminism achieved crucial legal and citizenship rights, radical feminism deepened theoretical inquiry by uncovering patriarchal power structures. A comprehensive feminist praxis requires integrating liberal institutional gains with radical insights to dismantle entrenched societal hierarchies."
+  }
+ ]
+}

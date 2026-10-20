@@ -1,0 +1,99 @@
+{
+  "pages": [
+    {
+      "page": 139,
+      "title": "Security: significance and instrumental theories",
+      "summary": "Poses the question on perspectives on security and the 21st-century approach, calling security the most important human value and a traditional concern of International Politics. Lists the questions security of what, from what and through what, then outlines realist, liberal and Marxist instrumental theories."
+    },
+    {
+      "page": 140,
+      "title": "Reflectivist security theories and Copenhagen school",
+      "summary": "Covers feminist (Cynthia Enloe), social constructivist, emancipatory (Andrew Linklater) and post-modernist views of security. The Copenhagen school treats security as a speech act, and Barry Buzan proposes five pillars: military, ecological, political, social and economic."
+    },
+    {
+      "page": 141,
+      "title": "National Interest: Morgenthau, subjectivity and Charles Beard",
+      "summary": "Introduces the question whether National Interest is a pseudo theory, noting that Morgenthau calls it the most important objective with power as the most reliable means. Stresses that the concept is subjective, with US examples (Asia Pacific, Carter Doctrine) and Charles Beard's early analysis."
+    },
+    {
+      "page": 142,
+      "title": "National Interest as pseudo theory; types and means",
+      "summary": "Raymond Aron, Joseph Frankel and Burchill Scott are cited as critics who find the concept vague or empty, while Mohammad Yunus shows the Pakistani army presenting its interests as national interest. Also lists Robinson's six types of national interest and eight means states use to promote it."
+    },
+    {
+      "page": 143,
+      "title": "Transnational actors: realist, liberal and Marxist views",
+      "summary": "Divides actors into state, international and transnational types such as terrorist groups, MNCs and NGOs. Realists see them as proxies, liberals as sources of development, and Marxists are critical of MNCs and date their role to the East India Company."
+    },
+    {
+      "page": 144,
+      "title": "Present status of transnational actors and MNCs",
+      "summary": "Notes a significant rise in the role of transnational actors, linked to Joseph Nye's three-dimensional chess board model, globalisation, the IT revolution and human rights consciousness. Describes MNCs as a source of friction between developed and developing countries, including the 1970s NAM call for a New Economic International Order."
+    },
+    {
+      "page": 145,
+      "title": "Role of NGOs and terrorist organisations",
+      "summary": "Describes Western-dominated NGOs, Article 71 of the UN Charter recognising them as consultative bodies, and the complaint by China, Russia and at times India that they interfere in domestic affairs. Traces the old use of terrorists and insurgents as proxies, from the PLO to US support against the communist government in Afghanistan."
+    },
+    {
+      "page": 146,
+      "title": "Transnational terrorism, GWOT and Nuclear Security Summit",
+      "summary": "States that terrorism will not end until interstate conflict ends, and that terrorist actors have become like a Frankenstein monster slipping out of their creators' control. Mentions the Global War on Terrorism since 2001 and the Nuclear Security Summit, with an assignment on its history and India's 2016 position."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What three questions do security theories ask, and into which two types are they divided?",
+      "back": "They ask security of what, security from what and security through what. The two types are instrumental theories (realist, liberal, Marxist) and reflectivist or post-positivist theories.",
+      "category": "Security Theory Basics",
+      "scanPage": 139
+    },
+    {
+      "front": "What does the Copenhagen school mean by saying security is a speech act, and what are Barry Buzan's five pillars of security?",
+      "back": "How politicians present an issue decides it: they securitise some issues and de-securitise others, and securitised issues get greater attention. Buzan's five pillars are military, ecological, political, social and economic.",
+      "category": "Copenhagen School",
+      "scanPage": 140
+    },
+    {
+      "front": "Why did Raymond Aron call National Interest a pseudo theory?",
+      "back": "Because it is a vague and ambiguous concept and no universally acceptable definition can be formulated. Joseph Frankel adds that it can be defined in many ways for many purposes, and Burchill Scott calls it devoid of substantive meaning.",
+      "category": "National Interest Critique",
+      "scanPage": 142
+    },
+    {
+      "front": "How do realists, liberals and Marxists differ on the role of transnational actors, and since when does each say they have mattered?",
+      "back": "Realists give them no significance beyond proxies and date no role; liberals welcome MNCs and NGOs as sources of development and stabilisation, mattering after the First World War. Marxists are critical of MNCs and say both are wrong, since such actors have played a role from the beginning, as with the East India Company.",
+      "category": "Transnational Actors Debate",
+      "scanPage": 143
+    },
+    {
+      "front": "Why did NAM countries raise the issue of MNCs at the UN General Assembly in the 1970s?",
+      "back": "Developing countries saw MNCs as a means of neo-colonialism and raised their exploitation at the UN General Assembly while calling for a New Economic International Order.",
+      "category": "Role of MNCs",
+      "scanPage": 144
+    },
+    {
+      "front": "What does the 'Frankenstein monster' remark mean for terrorism in the 21st century, and which initiative did nuclear terrorism prompt?",
+      "back": "Terrorist actors used by states as proxies are getting out of the control of the states that created them, and transnational terrorism has emerged. Concern about nuclear terrorism led the US government to start the Nuclear Security Summit.",
+      "category": "Terrorism and Proxies",
+      "scanPage": 146
+    }
+  ],
+  "answers": [
+    {
+      "question": "Discuss different perspectives on security. What should be the approach for security in the 21st century?",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Perspectives on security",
+      "scanPage": 139,
+      "intro": "Security is the most important human value and a traditional concern of International Politics. Theories ask security of what, from what and through what, and divide into instrumental and reflectivist theories, which point to different approaches for the twenty-first century.",
+      "body": [
+        "Instrumental theories: realists stress territorial integrity, military means and security from other states; liberals stress security of the state through functionalism, collective security and security community; Marxists stress human and economic security.",
+        "Reflectivist theories treat security as human security. Feminists, following Cynthia Enloe, find the state's perspective nowhere more gendered than in national security; social constructivists see the security dilemma as a product of culture and history and suggest community, dialogue and a new culture; Andrew Linklater offers an emancipatory vision.",
+        "The Copenhagen school calls security a speech act: politicians securitise some issues and de-securitise others, and securitised issues get greater attention. In India far more people die each year of simple diseases like diarrhoea, yet terrorism or Pakistan appears the major security issue.",
+        "For the twenty-first century, Barry Buzan argues that security must be comprehensive, taking an integrated view of human, national and global security across five pillars: military, ecological, political, social and economic."
+      ],
+      "scholars": ["Cynthia Enloe", "Andrew Linklater", "Barry Buzan", "Copenhagen school"],
+      "conclusion": "No single theory captures security fully. A twenty-first century approach should join the state-centred concerns of realists and liberals with human security, using Buzan's five pillars while staying alert to how politicians securitise some threats and ignore others."
+    }
+  ]
+}

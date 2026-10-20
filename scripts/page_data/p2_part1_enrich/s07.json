@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {"page": 81, "title": "India-EU: strategic partnership as 'loveless arranged marriage'", "summary": "India and the EU are strategic partners since 2004, but the notes call the partnership a 'love less arranged marriage' with nothing strategic in it. They cite divergence on Russia's annexation of Crimea, different strategic challenges (Russia for the EU, Pakistan and China for India), conflicts at the WTO and on climate change, and a partnership resting on weak ideas such as multipolarity, multilateralism and counter-terrorism."},
+    {"page": 82, "title": "The EU; India-EU history and FTA", "summary": "The EU is described as a trading block of 28 nations with common foreign and security policies. India-EU ties date from the 1950s, with a 1993 joint political statement, summits from 2000, strategic partnership from 2004 and a 2005 Joint Action Plan, and although the EU is India's largest trading partner India gets only 1% of EU's FDI, so a free trade agreement under talks since 2007 is seen as key."},
+    {"page": 83, "title": "FTA Agenda 2020 and Indian sectoral concerns", "summary": "Modi's 2016 Agenda 2020 aims for a Free Trade Agreement creating a market of 1.7 bn people, but talks are held out of public view and India's stand is protectionist. Sticking points include dairy (Amul, 3.5 mn producers), wine and spirits, and automobiles, where Indian lobbies oppose tariff cuts."},
+    {"page": 84, "title": "Pharma, data security, mode 4 and future prospects", "summary": "Indian pharmaceutical firms oppose EU demands on intellectual property, while India's grievances are the lack of data secure status and EU defensiveness on mode 4 movement of professionals. The notes add that the EU's complexity, India's federal set-up and the EU's preoccupation with the financial and Syrian crises weaken prospects, and that India's close bilateral ties with Britain, France and Germany also play a part."},
+    {"page": 85, "title": "Bilateral ties with Germany, Britain; no ownership", "summary": "The page notes India's major economic partnership with Germany and Britain. Because of this bilateral dimension both sides become complacent and there is a lack of ownership in India-EU relations."}
+  ],
+  "flashcards": [
+    {"front": "Why is the India-EU strategic partnership called a 'loveless arranged marriage'?", "back": "The notes find nothing strategic in it: India and the EU differ on Russia's annexation of Crimea, on strategic challenges (Russia for the EU, Pakistan and China for India) and on Kashmir human rights, and they clash at the WTO on IPR and agricultural subsidies and on climate change.", "category": "Strategic divergences", "scanPage": 81},
+    {"front": "Trace the milestones of India-EU relations and the FDI gap.", "back": "Diplomatic relations began in the 1950s, followed by a joint political statement in 1993, summits from 2000, strategic partnership in 2004 and a Joint Action Plan in 2005. The EU is India's largest trading partner, but India receives only 1% of EU's FDI, less than a tenth of China's share.", "category": "India-EU history", "scanPage": 82},
+    {"front": "What are the main sticking points in the India-EU FTA talks?", "back": "Indian resistance to tariff cuts in dairy (Amul, 3.5 mn producers), wine and spirits and automobiles, and pharmaceutical firms opposing EU demands on intellectual property rights. The FTA under Agenda 2020 is meant to create a market of 1.7 bn people.", "category": "FTA negotiations", "scanPage": 83},
+    {"front": "What grievances does India raise against the EU on data and services?", "back": "India wants data secure status from the EU, which would boost the BPO sector and the competitiveness of IT products, and liberalisation of mode 4 movement of professionals. European and American companies often do not recognise degrees from Indian universities.", "category": "Indian grievances", "scanPage": 84}
+  ],
+  "answers": [
+    {
+      "question": "Despite being strategic partners since 2004, India and the EU have not built a truly strategic relationship. Examine the reasons.",
+      "marks": "10 Marks (150 Words)",
+      "topic": "India-EU strategic partnership",
+      "scanPage": 81,
+      "intro": "India and the EU have been strategic partners since 2004, yet the notes call the partnership a 'loveless arranged marriage'. Strategic divergences, an unfinished trade agreement and structural weaknesses keep the relationship largely transactional.",
+      "body": [
+        "Strategic divergence: India and the EU hold opposite positions on Russia's annexation of Crimea; Russia is the EU's biggest challenge while Pakistan and China challenge India, and European states have good ties with both. The EU's stand on Kashmir human rights does not match India's.",
+        "Weak foundations: the partnership rests on a multipolar world order, multilateralism and counter-terrorism, but in concrete cases divergences dominate, including WTO conflicts over IPR and agricultural subsidies, and climate change.",
+        "Trade stalemate: the EU is India's largest trading partner, yet India gets only 1% of EU FDI. FTA talks since 2007 and Agenda 2020 are stuck on dairy, wine, automobiles and pharmaceuticals, while India seeks data secure status and mode 4 liberalisation.",
+        "Structural gaps: the EU is complicated, India's federal set-up has red tape, the EU is absorbed by the financial and Syrian crises, and India's close bilateral ties with Germany, Britain and France create complacency and lack of ownership."
+      ],
+      "scholars": ["Joint Political Statement (1993)", "Joint Action Plan (2005)", "Agenda 2020 (2016)", "Amul (dairy opposition)"],
+      "conclusion": "The partnership can become strategic only if both sides move from shared rhetoric to concrete bargains, starting with an early, balanced FTA. India must also fix domestic barriers, and both must take ownership beyond bilateral ties with member states."
+    }
+  ]
+}

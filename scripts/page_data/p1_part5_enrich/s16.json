@@ -1,0 +1,150 @@
+{
+ "pages": [
+  {
+   "page": 162,
+   "title": "Introduction to Gramsci and His Key Contributions",
+   "summary": "This page introduces Antonio Gramsci as an Italian Marxist who saved Marxism from crude economic determinism and wrote his prison notebooks while incarcerated. It lists his key concepts—including hegemony, civil society, and the integral state—and explains his disappointment with Marx's unfulfilled prediction of communist revolution."
+  },
+  {
+   "page": 163,
+   "title": "Gramsci's Three-Layered Model of History",
+   "summary": "Gramsci modified Marx's base-superstructure model by incorporating cultural factors and dividing the superstructure into civil society and the state. His three-layered structure establishes the superstructure as having its own autonomous structures rather than merely reflecting the economic base."
+  },
+  {
+   "page": 164,
+   "title": "Marx's Historical Materialism and Questioning His Relevance",
+   "summary": "Marx's historical materialism holds that economic structures constrain human choices, yet Marx optimistically believed workers would develop true consciousness to overthrow capitalism. The page also raises questions regarding Marx's relevance following the worldwide collapse of communism and the rise of market models."
+  },
+  {
+   "page": 165,
+   "title": "Neoliberal Hegemony and Continued Relevance of Marx",
+   "summary": "Despite declarations regarding the end of history and the hegemony of neoliberal ideas, growing global inequalities and economic crises have renewed interest in Marx. The text argues that Marx is not an enemy of open society and that his insights remain vital for critiquing capitalist contradictions."
+  },
+  {
+   "page": 166,
+   "title": "Humanizing Capitalism and the Importance of Utopias",
+   "summary": "Marx is viewed as necessary to ensure that capitalism remains humane. Although communism is an utopia, the text cites Karl Mannheim to note that utopias serve as important sources of inspiration for the poor and oppressed."
+  },
+  {
+   "page": 167,
+   "title": "Gramsci's Analysis of Superstructure and Hegemony",
+   "summary": "Gramsci asserts that elements of the superstructure are autonomous structures requiring deeper analysis, rather than automatically changing with the mode of production. He explains that the bourgeoisie establishes hegemony and leadership by controlling ideology and culture and building coalitions with other classes."
+  },
+  {
+   "page": 168,
+   "title": "Subaltern Coalitions, Hegemony, and State Typologies",
+   "summary": "Gramsci advocates that working classes form coalitions with subaltern classes to provide leadership, defining hegemony as soft, invisible power located in civil society that manufactures consent. He also contrasts transparent states, where the absence of civil society makes revolution easier, with opaque states where civil society conceals the state's nature."
+  },
+  {
+   "page": 169,
+   "title": "Integral State, Revolution, and Role of Intellectuals",
+   "summary": "The integral state comprises both civil society and political state, requiring a protracted war of position in civil society followed by a war of manoeuvre against the state. Gramsci also argues that intellectuals are not neutral truth-tellers, but rather manufacture consent to turn the dominant class's values into common sense."
+  },
+  {
+   "page": 170,
+   "title": "Organic and Traditional Intellectuals in Gramsci's Analysis",
+   "summary": "Gramsci categorizes intellectuals into organic intellectuals, whose emergence is tied to the dominant class, and traditional intellectuals, such as church figures who project neutrality. To establish counter-hegemony, the working class must develop its own organic intellectuals and win over traditional intellectuals."
+  },
+  {
+   "page": 171,
+   "title": "Hegemony as Ideological Power and Counter-Hegemony",
+   "summary": "Gramsci defines hegemony as intellectual and cultural domination situated in civil society, contrasting it with coercive state power. He underscores the necessity of building counter-hegemony through a two-stage revolution comprising a war of ideas and a war of manoeuvre."
+  },
+  {
+   "page": 172,
+   "title": "Gramsci: Concept of Historical Bloc",
+   "summary": "A historical bloc is a coalition of classes formed by a particular group in a specific phase of history. The working classes must also form a coalition in order to challenge the existing historical bloc."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did Antonio Gramsci reject Karl Marx's base-superstructure model of history?",
+   "back": "Gramsci rejected Marx's model because it reduced history to crude economic determinism and failed to explain why socialist revolutions did not occur as predicted. Influenced by Benedetto Croce, Gramsci argued that cultural factors and superstructural institutions possess autonomy and are structures in themselves rather than mere passive reflections of the economic base.",
+   "category": "Base-Superstructure Revision",
+   "scanPage": 163
+  },
+  {
+   "front": "What is Antonio Gramsci's concept of hegemony and how does it operate?",
+   "back": "Hegemony is an invisible, soft power based on intellectual and cultural leadership rather than coercive force. The dominant bourgeois class manufactures consent by shaping values so that their class interests appeal to common sense.",
+   "category": "Concept of Hegemony",
+   "scanPage": 168
+  },
+  {
+   "front": "How does Antonio Gramsci categorize states into transparent and opaque types?",
+   "back": "In a transparent state, civil society is absent, leaving state exploitation clearly visible and making revolution easier, as seen in China. In an opaque state like India or the USA, civil society acts as a shock absorber that conceals the true nature of the state, making revolution difficult.",
+   "category": "State Typology",
+   "scanPage": 168
+  },
+  {
+   "front": "What does Antonio Gramsci mean by the 'Integral State'?",
+   "back": "The Integral State comprises both civil society and the political state, viewing civil society as an arm of state power. The dominant class uses civil society to generate consent, relying on the coercive political state only when civil society fails.",
+   "category": "Integral State",
+   "scanPage": 169
+  },
+  {
+   "front": "How do the 'War of Position' and 'War of Manoeuvre' differ in Gramsci's theory of revolution?",
+   "back": "The War of Position is a protracted ideological battle fought within civil society to establish counter-hegemony. The War of Manoeuvre is a direct, frontal attack against the political state that can be easily won once the War of Position is achieved.",
+   "category": "Theory of Revolution",
+   "scanPage": 169
+  },
+  {
+   "front": "How does Gramsci distinguish between organic and traditional intellectuals?",
+   "back": "Organic intellectuals emerge alongside a rising class to perform its organizational and ideological functions, such as managers in capitalism or civil servants in British India. Traditional intellectuals predate the dominant class, like church fathers from feudalism, and project an aura of neutrality since they are not organically linked to the new ruling class.",
+   "category": "Intellectual Typology",
+   "scanPage": 170
+  },
+  {
+   "front": "What is Gramsci's concept of a 'Historical Bloc' and how must subaltern classes approach it?",
+   "back": "A Historical Bloc is a coalition of classes that establishes dominance during a specific phase of history. To challenge the bourgeois historical bloc, the working class must build its own coalition of subaltern classes by incorporating their common interests and providing leadership.",
+   "category": "Historical Bloc",
+   "scanPage": 172
+  },
+  {
+   "front": "Why does Gramsci argue that intellectuals are not neutral truth-tellers?",
+   "back": "Gramsci argues that intellectuals hide more truth than they reveal, acting as deputies of the dominant class. Rather than telling the truth, they manufacture the truth and generate consent by making the values of the ruling class appear as universal common sense.",
+   "category": "Role of Intellectuals",
+   "scanPage": 169
+  }
+ ],
+ "answers": [
+  {
+   "question": "Hegemony means something more specific than power and domination. Comment in the light of Gramsci's analysis of civil society and the state.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Gramsci's Concept of Hegemony and Integral State",
+   "scanPage": 168,
+   "intro": "Antonio Gramsci redefined power by transcending classical Marxism's focus on state coercion. He conceptualized hegemony as intellectual, cultural, and moral leadership where the dominant class manufactures consent through institutions of civil society, presenting class interests as universal common sense.",
+   "body": [
+    "Karl Marx viewed state power primarily as a coercive instrument serving bourgeois interests, whereas Gramsci, influenced by Benedetto Croce's cultural insights, argued that ruling classes govern through invisible, soft power and ideological attraction rather than mere coercion.",
+    "In his formulation of the Integral State, Gramsci posits that civil society, including schools, churches, and media, operates as a shock absorber near the economic base, manufacturing consent and protecting the political state from direct assault.",
+    "Gramsci illustrates state vulnerability through state typology: transparent states like China lack civil society, leaving exploitation exposed, whereas opaque states like India possess resilient civil institutions that conceal exploitation, making direct revolutionary overthrow far more difficult.",
+    "To overcome bourgeois hegemony, Gramsci asserts that subaltern classes must construct their own Historical Bloc and counter-hegemony. The working class must forge broad coalitions catering to common interests, generating their own organic intellectuals to challenge dominant cultural common sense, mirrored in the notes by Dalit struggles against Brahmanical hegemony."
+   ],
+   "scholars": [
+    "Antonio Gramsci ('Prison Notebooks')",
+    "Karl Marx",
+    "Benedetto Croce",
+    "Mussolini"
+   ],
+   "conclusion": "By demonstrating that power operates through consent rather than coercion alone, Gramsci rescues Marxism from crude economic determinism. His framework establishes that sustainable political transformation requires deconstructing ideological hegemony in civil society before capturing state power."
+  },
+  {
+   "question": "Explain Gramsci's two-stage theory of revolution. How do the 'War of Position' and 'War of Manoeuvre' redefine socialist strategy in modern societies?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Gramsci's Theory of Revolution and Intellectuals",
+   "scanPage": 169,
+   "intro": "Addressing the failure of classical Marxist revolutions, Antonio Gramsci reformulated revolutionary praxis. He conceptualized a two-stage strategy comprising the War of Position and War of Manoeuvre, recognizing that conquering the integral state requires conquering civil society first.",
+   "body": [
+    "Unlike Karl Marx, who prescribed a single revolution against the economic base, Gramsci incorporated Benedetto Croce's emphasis on cultural factors, arguing that elements of the superstructure possess independent autonomy and must be actively contested before executing any political takeover.",
+    "The War of Position represents a protracted ideological conflict fought within civil society institutions like media, schools, and churches. Subaltern classes must wage this long-drawn battle to establish counter-hegemony, dismantling bourgeois ideological control before confronting the state.",
+    "Once civil society is captured, the War of Manoeuvre follows as a direct, frontal assault to overthrow the coercive apparatus of the political state, ensuring that state power collapses rapidly once its cultural fortifications fall.",
+    "Crucial to this strategy are intellectuals who manufacture consent. Just as the British Raj utilized zamindars and civil servants, workers must nurture working-class organic intellectuals, win over feudal traditional intellectuals like church fathers, and convince industrial supervisors and floor managers to support their coalition."
+   ],
+   "scholars": [
+    "Antonio Gramsci ('Prison Notebooks')",
+    "Karl Marx",
+    "Benedetto Croce"
+   ],
+   "conclusion": "Gramsci's strategic formulation shifted revolutionary thought from spontaneous insurrection to meticulous cultural transformation. By emphasizing ideological struggle alongside political attack, his theory offers lasting insights into countering entrenched power structures in modern democratic societies."
+  }
+ ]
+}

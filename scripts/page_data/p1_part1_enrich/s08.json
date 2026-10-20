@@ -1,0 +1,96 @@
+{
+ "pages": [
+  {
+   "page": 50,
+   "title": "M.N. Roy: Revolutionary Phase and Ideational Journey",
+   "summary": "M.N. Roy transitioned from a revolutionary in the Anushilan Samiti to an admirer of Karl Marx after finding revolutionaries lacked a scientific program and mass base. Convinced that India required a mass revolution, he became a founding member of the Communist Party of Mexico and a prominent figure in the international communist movement."
+  },
+  {
+   "page": 51,
+   "title": "M.N. Roy: Critique of Gandhi and Lenin",
+   "summary": "As a Marxist, Roy criticized Gandhi as a conservative bourgeois leader and condemned his suspension of the Non-Cooperation Movement as violence against the masses. At the Second Communist International, Roy opposed Lenin's proposal to back nationalist parties, arguing instead for supporting communist, worker, and peasant movements."
+  },
+  {
+   "page": 52,
+   "title": "M.N. Roy: Congress Phase and Marxist Critique",
+   "summary": "After being expelled from the Communist International, Roy joined the Indian National Congress to radicalize it from within and acknowledged Gandhi's role in raising mass consciousness. Although still considering himself a Marxist, he criticized core Marxist doctrines including historical materialism, dialectical materialism, class struggle, and surplus value."
+  },
+  {
+   "page": 53,
+   "title": "M.N. Roy: Phase III and Radical Humanism",
+   "summary": "Roy argued that true revolution requires changing the mode of thinking through a mental revolution rather than merely altering the mode of production. Entering Phase III as a radical humanist, he advocated absolute freedom through scientific rationality and developed New Humanism centered on human beings."
+  },
+  {
+   "page": 54,
+   "title": "M.N. Roy: Core Components of Radical Humanism",
+   "summary": "Roy renamed New Humanism to Radical Humanism, describing it as a philosophy aiming for a cosmopolitan union of liberated individuals free from fear and insecurity. He identified freedom, reason, and ethics as its key components, asserting that human reason is materialistic in origin and arises from the struggle for survival."
+  },
+  {
+   "page": 55,
+   "title": "M.N. Roy: Ethics and Radical Democracy",
+   "summary": "Roy grounded ethics in human reason derived from the struggle for survival, calling for the rejection of outdated customs in favor of rationalized social norms. Rejecting party politics and parliamentary delegation of power, he advocated for grassroots radical democracy and proposed the People's Plan for popular industrial ownership."
+  },
+  {
+   "page": 56,
+   "title": "M.N. Roy: Influences and Comparison with Gandhi",
+   "summary": "Roy was influenced by thinkers such as Protagoras, Hobbes, Locke, Bentham, and Spinoza. The page also contrasts Roy and Gandhi, noting Roy as a Western-influenced materialist philosopher and remarkable failure compared to Gandhi as a spiritualist politician, while identifying their shared support for grassroots democracy."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why did M. N. Roy argue that Indian revolutionaries were bound to fail?",
+   "back": "Roy believed revolutionaries would fail because they lacked a scientific programme of action, relied on individual acts of revolution, and lacked a support base among the masses.",
+   "category": "Early Revolutionary Phase",
+   "scanPage": 50
+  },
+  {
+   "front": "What divergence emerged between Lenin and M. N. Roy at the Second Communist International?",
+   "back": "Lenin proposed supporting nationalist parties in colonial movements and helping establish communism after independence. Conversely, Roy opposed backing nationalist parties, asserting that Indian masses were already prepared for revolution through independent workers' and peasants' struggles.",
+   "category": "Communist International Debate",
+   "scanPage": 51
+  },
+  {
+   "front": "How did M. N. Roy critique Karl Marx's principles of historical materialism and class struggle?",
+   "back": "Roy argued that Marx underestimated the role of ideas in shaping history. Additionally, Roy rejected the idea that history is driven by class struggle, asserting instead that history is the product of class cooperation.",
+   "category": "Critique of Marxism",
+   "scanPage": 52
+  },
+  {
+   "front": "What are the three core components of Radical Humanism and how does Roy define them?",
+   "back": "The three components are freedom, reason, and ethics. Freedom implies liberation from all fears and insecurities, reason is materialistically derived from man's struggle for survival, and ethics originates from human reason rather than religious scriptures.",
+   "category": "Radical Humanism Principles",
+   "scanPage": 54
+  },
+  {
+   "front": "What were the major points of philosophical difference between Mahatma Gandhi and M. N. Roy?",
+   "back": "While Gandhi was a politician influenced by Indian religion and spiritualism, Roy was a philosopher influenced by western philosophy and materialism. Additionally, Gandhi rejected materialism and industrialization, whereas Roy embraced materialism and advocated popular industrialization.",
+   "category": "Gandhi Roy Comparison",
+   "scanPage": 56
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically examine M. N. Roy's critique of orthodox Marxism and evaluate his philosophy of Radical Humanism as an alternative vision of human freedom.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "M. N. Roy: Critique of Marxism and Radical Humanism",
+   "scanPage": 54,
+   "intro": "Described by Sudipto Kaviraj as a remarkable failure, Roy evolved from a revolutionary into a philosopher. Transcending orthodox Marxism, he formulated Radical Humanism to place individual reason and absolute freedom at the center of social life.",
+   "body": [
+    "Roy critiqued Karl Marx's Communist Manifesto, arguing that historical materialism underestimated ideas and dialectical materialism became idealism. Replacing class struggle with class cooperation, Roy insisted that genuine revolution requires a mental revolution changing human thinking rather than simply altering material modes of production.",
+    "At the Second Communist International, Roy opposed Lenin by asserting Indian masses were ready for revolution independently of bourgeois nationalists. Roy also condemned Mahatma Gandhi for abandoning the Non-cooperation Movement after Chauri Chaura, arguing Gandhi served bourgeoisie interests and suppressed mass revolutionary consciousness.",
+    "Influenced by Protagoras's humanism, Hobbes's materialism, and Spinoza's ethics, Roy anchored Radical Humanism in freedom, reason, and ethics. Roy rejected religious dogmas, arguing that reason arises from man's material struggle for survival and creates the foundation for rational ethics and human solidarity.",
+    "Rejecting parliamentary delegation and party politics, Roy advocated grassroots radical democracy and introduced the People's Plan, agreeing with Gandhi on partyless politics while promoting industrial modernization."
+   ],
+   "scholars": [
+    "Karl Marx",
+    "Sudipto Kaviraj",
+    "Mahatma Gandhi",
+    "Lenin",
+    "Protagoras",
+    "Hobbes",
+    "Spinoza"
+   ],
+   "conclusion": "Though Roy proved politically less successful than Gandhi, his Radical Humanism offers an enduring rationalist framework. By harmonizing scientific reason with individual freedom and ethics, Roy's cosmopolitan philosophy provides a timeless blueprint for decentralized participatory democracy."
+  }
+ ]
+}

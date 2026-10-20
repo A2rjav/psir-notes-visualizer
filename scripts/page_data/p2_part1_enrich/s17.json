@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "page": 178,
+      "title": "NAFTA origins, features and rules of origin",
+      "summary": "NAFTA came into existence in 1994, extending the 1989 Canada-US FTA by adding Mexico, and is the first trade agreement between developed and developing countries with a combined GDP of about 20 tn dollars. Its features are tariff elimination, MFN status, no better deal for non-NAFTA investors and procurement preference, and rules of origin require a significant share of an exported item to originate within the bloc."
+    },
+    {
+      "page": 179,
+      "title": "Nature of NAFTA and US grievances against Mexico",
+      "summary": "NAFTA covers dispute settlement, IPR and labour laws but is purely a trading block with no supranational features, and in reality it is two separate US agreements with Mexico and Canada. President Trump wants to renegotiate it, and the US complaints against Mexico are loss of manufacturing jobs, the Maquiladora policy and lower US wages."
+    },
+    {
+      "page": 180,
+      "title": "Grievances against Canada and why Trump opposes NAFTA",
+      "summary": "The USA complains about Canada's protectionism in dairy and its softwood exports, yet NAFTA has been a win-win: Mexico improved, US consumers get cheaper goods and oil prices stay low. The notes argue that Trump's opposition is driven by domestic politics, winning job-losing working classes and Republicans in states like California."
+    },
+    {
+      "page": 181,
+      "title": "NAFTA outlook; start of SAARC history",
+      "summary": "The notes judge that NAFTA faces no real threat because the USA gains more, China is growing in Latin America, Mexico is better placed to negotiate, and a border wall is impractical. The page then begins SAARC, formed in 1985 as a brain child of Zia ur Rehman, who sought a forum for small neighbours to balance India's hegemony."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "How did NAFTA originate and what makes it unique?",
+      "back": "The Canada-US FTA (CUFTA) came into existence in 1989, Mexico was added, and NAFTA began in 1994. It is the first trading agreement between developed and developing countries and represents a combined GDP of around 20 tn dollars.",
+      "category": "NAFTA origins",
+      "scanPage": 178
+    },
+    {
+      "front": "What are the main features of NAFTA, including its rules of origin?",
+      "back": "It eliminates tariffs, grants MFN status, bars members from giving a better deal to non-NAFTA investors and requires procurement preference for NAFTA countries. Under rules of origin, Mexican cars get tariff benefits in the USA only if a substantial share of items has been imported from the USA.",
+      "category": "NAFTA features",
+      "scanPage": 178
+    },
+    {
+      "front": "What are America's grievances against Mexico and Canada under NAFTA?",
+      "back": "Against Mexico: it has taken most manufacturing jobs, its Maquiladora policy shifted US industries and it has lowered US wages. Against Canada: protectionism in the dairy sector and softwood exports to the USA.",
+      "category": "US grievances",
+      "scanPage": 179
+    },
+    {
+      "front": "Why do the notes say NAFTA is not under real threat despite Trump's opposition?",
+      "back": "The USA benefits more, cannot ignore China's increasing presence in Mexico and Latin America, Mexico is better placed to negotiate, raising a tariff wall brings no advantage, and the border wall is impractical on ecological and topographical grounds.",
+      "category": "NAFTA outlook",
+      "scanPage": 181
+    }
+  ],
+  "answers": [
+    {
+      "question": "Examine the features of NAFTA and the reasons behind the Trump administration's opposition to it.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "NAFTA and Trump's opposition",
+      "scanPage": 180,
+      "intro": "NAFTA, in force since 1994, is the first and most ambitious regional trading agreement and the first between developed and developing countries. It has become controversial because President Trump opposes multilateral trade agreements and seeks renegotiation.",
+      "body": [
+        "Features: tariff elimination, MFN status, no better deal for non-NAFTA investors, and preference for NAFTA countries in government procurement. Rules of origin require a substantial share of an exported item to originate in the bloc, and the agreement covers dispute settlement, IPR and labour laws.",
+        "Nature: it is purely a trading block without supranational features, unlike the EU or ASEAN, and in reality consists of separate US agreements with Mexico and Canada.",
+        "US grievances: Mexico took manufacturing jobs and, through the Maquiladora policy, shifted US industry and lowered wages; Canada protects dairy and exports softwood.",
+        "Benefits: Mexico's economy improved, US consumers get cheaper groceries, oil imports keep prices low, and the three can compete with China and the EU.",
+        "Politics: the notes say domestic politics was the real determinant, winning working and lower middle classes who lost jobs and consolidating Republicans in states like California, with Mexico criticised most."
+      ],
+      "scholars": [
+        "NAFTA",
+        "CUFTA",
+        "Maquiladora policy",
+        "Rules of origin",
+        "Trump administration"
+      ],
+      "conclusion": "NAFTA has delivered gains to all three members, and the USA has more to lose than gain from collapse. Renegotiation is likely to adjust rules rather than end the agreement, given China's growing presence in Latin America."
+    }
+  ]
+}

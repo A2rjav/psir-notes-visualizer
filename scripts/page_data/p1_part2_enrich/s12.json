@@ -1,0 +1,97 @@
+{
+ "pages": [
+  {
+   "page": 98,
+   "title": "Types of Land Reforms in India",
+   "summary": "The page notes constitutional amendments concerning property rights and outlines four types of land reforms: zamindari abolition, tenancy reforms, land ceilings, and surplus land distribution. While tenancy reforms achieved comparative success in Kerala and West Bengal, land ceilings were weakened by legal loopholes, benami transfers, and family divisions."
+  },
+  {
+   "page": 99,
+   "title": "Land Reform Failures and Agricultural Stagnation",
+   "summary": "It highlights limited land distribution, the failure of cooperative farming, and the adverse impact of post-1990 liberalisation causing agricultural stagnation and rural hunger. Causes for the failure of land reforms include lack of political will, corruption, and India being a soft state as described by Gunnar Myrdal."
+  },
+  {
+   "page": 100,
+   "title": "Scholarly Views on Land Reforms and Suggestions",
+   "summary": "Atul Kohli, Francine Frankel, Sudipta Kaviraj, and Pranab Bardhan examine how bourgeois dominance, state capacity limits, and accommodative politics hindered Indian land reforms. The page also suggests that intellectuals must reintroduce land reforms into public reasoning and civil society must organize peasants to pressure the government."
+  },
+  {
+   "page": 101,
+   "title": "Land Reform Suggestions and Green Revolution Launch",
+   "summary": "The page proposes addressing land reform failures through legal reforms, Lok Adalats, preventing land transfers, and curbing left-wing extremism resulting from rural poverty. It also outlines the Green Revolution's capitalist, production-centered philosophy and its inception through the IADP and IAAP programmes."
+  },
+  {
+   "page": 102,
+   "title": "Outcomes and Debates on Green Revolution",
+   "summary": "The Green Revolution achieved foodgrain self-sufficiency and 3-5% agricultural growth, though V.K.R.V. Rao, Hansra, and Grewal highlight rising inequality, debt, and labor displacement. Conversely, economists G.S. Bhalla and G.K. Chadha argue that it quadrupled incomes, raised agricultural wages, and strengthened worker bargaining power."
+  },
+  {
+   "page": 103,
+   "title": "Green Revolution Critiques and Political Economy",
+   "summary": "Scholars including Rudolph and Rudolph, Vandana Shiva, and K.R. Narayanan discuss the Green Revolution's socio-political fallout, ecological damage, and risks of counter-revolution. The page introduces an analysis of India's political economy and distributive justice, contrasting its welfare state principles with persistent poverty and regional imbalances."
+  },
+  {
+   "page": 104,
+   "title": "Scholarly Perspectives on the Indian State",
+   "summary": "Thinkers such as Hamza Alavi, Gunnar Myrdal, and Atul Kohli analyze the Indian state's class character, governability crisis, and soft state limitations. Francine Frankel and Sudipta Kaviraj examine bourgeois interests and accommodative politics, while Rudolph and Rudolph describe the state as polymorphous in balancing social sections."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why was the abolition of Zamindari considered only a formal success according to the notes?",
+   "back": "Zamindari abolition proved only formally successful because zamindars received heavy compensation, retained land under the guise of self-cultivating tenants, and invested surplus capital into rural industries like rice mills.",
+   "category": "Zamindari Abolition Assessment",
+   "scanPage": 98
+  },
+  {
+   "front": "Why did land ceiling legislation fail to achieve meaningful land redistribution in India?",
+   "back": "Land ceiling was the weakest aspect of land reforms because legislations were riddled with loopholes. Landowners circumvented ceilings by dividing joint families, making benami transfers, and even formally divorcing their wives to protect property.",
+   "category": "Land Ceiling Weaknesses",
+   "scanPage": 98
+  },
+  {
+   "front": "How does Atul Kohli explain the differing success rates of land reforms across Indian states?",
+   "back": "Atul Kohli argues the Indian state lacked the capacity to confront propertied classes due to Congress representing dominant castes. In contrast, land reforms succeeded in Kerala and West Bengal because communist parties possessed an ideological commitment and a political base among the rural poor.",
+   "category": "State Capacity Analysis",
+   "scanPage": 100
+  },
+  {
+   "front": "What initial programmes launched the Green Revolution and what was its underlying economic philosophy?",
+   "back": "The Green Revolution was driven by a capital-intensive capitalist philosophy using high-yielding variety seeds, fertilisers, and machinery to achieve food self-sufficiency. It began in 1961 with 14 districts under the Intensive Agricultural Development Programme (IADP) and expanded to 114 districts under the Intensive Agricultural Area Programme (IAAP) in 1965.",
+   "category": "Green Revolution Origins",
+   "scanPage": 101
+  },
+  {
+   "front": "What socioeconomic and political drawbacks of the Green Revolution were highlighted by Rudolph and Rudolph, Vandana Shiva, and KR Narayanan?",
+   "back": "Rudolph and Rudolph observed that the Green Revolution created 'bullock capitalists' and reinforced caste in Indian politics. Meanwhile, Vandana Shiva underscored its destructive impact on society and nature in 'Violence in Green Revolution', and KR Narayanan warned that ignoring land reforms risks provoking a 'red revolution'.",
+   "category": "Green Revolution Critiques",
+   "scanPage": 103
+  }
+ ],
+ "answers": [
+  {
+   "question": "Critically analyze the political economy of agrarian transformation in India, examining the limitations of land reforms and the socioeconomic fallout of the Green Revolution.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Agrarian Transformation: Land Reforms and the Green Revolution",
+   "scanPage": 102,
+   "intro": "Post-independence India sought agrarian transformation through redistributive land reforms and technological modernisation via the Green Revolution. However, structural compromises and capital-intensive strategies entrenched rural inequalities, subordinating constitutional commitments of distributive justice under Article 39 to production-centric growth.",
+   "body": [
+    "Land reforms failed due to lack of political will and dominant-caste influence in Congress. Gunnar Myrdal termed India a 'soft state', and Francine Frankel showed accommodative politics undermined radical change. Atul Kohli emphasized that tenancy succeeded only in Kerala and West Bengal (Operation Barga) because communists mobilized the poor.",
+    "Sudipt Kaviraj and Pranab Bardhan show the state served propertied classes, stalling redistribution. Applying Hamza Alavi's thesis, the state negotiated between indigenous bourgeoisie, foreign capital, and feudal classes, reducing cooperatives into joint-stock firms of rich farmers.",
+    "While the Green Revolution ensured food self-sufficiency, VKRV Rao noted severe social costs and reversed reforms. Despite GS Bhalla and GK Chaddha observing wage gains, Hansra and SS Grewal demonstrated that mechanisation displaced labour without real wage growth, aggravating rural indebtedness.",
+    "Rudolph and Rudolph showed agrarian capitalism empowered 'bullock capitalists' and entrenched caste politics. Furthermore, Vandana Shiva highlighted socio-ecological violence, echoing K.R. Narayanan's caution that neglecting land reforms risks transforming the Green Revolution into a 'red revolution'."
+   ],
+   "scholars": [
+    "Gunnar Myrdal",
+    "Atul Kohli",
+    "Francine Frankel",
+    "Sudipt Kaviraj",
+    "Pranab Bardhan",
+    "Hamza Alavi",
+    "Rudolph & Rudolph",
+    "Vandana Shiva"
+   ],
+   "conclusion": "To prevent agrarian unrest and left-wing extremism, civil society and intellectuals must revive land reforms in public reasoning. Strengthening legal machinery, deploying Lok Adalats, and protecting agricultural lands remain essential to reconcile growth with redistributive justice."
+  }
+ ]
+}

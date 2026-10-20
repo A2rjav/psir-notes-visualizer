@@ -1,0 +1,158 @@
+{
+ "pages": [
+  {
+   "page": 104,
+   "title": "Michel Foucault's Theory of Power and Methodology",
+   "summary": "Michel Foucault views power as flowing throughout society like a network of capillaries and was heavily influenced by Nietzsche's critique of the enlightenment and the will to power. He introduces his methodology as archaeology and genealogy, defining archaeology as a specific method to study history through the evolution of knowledge systems."
+  },
+  {
+   "page": 105,
+   "title": "Foucault's Genealogy, Major Works, and Discourse",
+   "summary": "Foucault defines genealogy as studying present history to understand the knowledge-power connection and lists major works including Discipline and Punish. He introduces discourse as the way reality is explained, shaping norms, morality, and regimes of truth across different eras rather than revealing absolute truth."
+  },
+  {
+   "page": 106,
+   "title": "Foucault on Disciplinary Power and Punishment Systems",
+   "summary": "In Discipline and Punish, Foucault discusses disciplinary power, governmentality, and biopower, contrasting historical torturous punishments with modern prison systems. He argues that modern prison reforms aim to enhance state legitimacy and make criminals' bodies reusable for society rather than truly reforming the individual."
+  },
+  {
+   "page": 107,
+   "title": "Foucault on Disciplinary Institutions and Panopticon",
+   "summary": "Foucault examines disciplinary institutions like asylums, schools, and prisons, introducing governmentality and biopower as state mechanisms to control mass populations. He applies Bentham's Panopticon concept to demonstrate how central surveillance fosters self-regulation across both prisons and wider society."
+  },
+  {
+   "page": 108,
+   "title": "Salient Points of Foucault's Analysis of Power",
+   "summary": "Foucault presents a micro, multi-directional view of power circulating through capillaries in society, rejecting sovereign and Marxist economic models of power. He argues there is no knowledge without power and no power without knowledge, with dominant discourses establishing regimes of truth."
+  },
+  {
+   "page": 109,
+   "title": "Foucault on Knowledge/Power, Productive Power, and Resistance",
+   "summary": "Foucault posits that power is productive and embodied by people rather than merely coercive, with resistance serving as the basis for freedom. Notes on a question outline explain that knowledge is a discourse where majority acceptance creates dominant regimes of truth that represent power."
+  },
+  {
+   "page": 110,
+   "title": "Foucault's Mechanisms of Social Control and Gaze",
+   "summary": "Foucault outlines three mechanisms of social control: hierarchical observation, normalizing judgment, and examination. He also notes the concept of the gaze, where an individual keeps watch on himself."
+  },
+  {
+   "page": 111,
+   "title": "Max Weber's Concept of Power and Authority",
+   "summary": "Max Weber defines authority as legitimate power and argues that the state possesses a monopoly over the legitimate use of physical force in a territory. He categorizes authority into three ideal-type models: traditional authority, charismatic authority, and legal-rational authority."
+  },
+  {
+   "page": 112,
+   "title": "Legitimacy, Legality, and State Legitimacy Debate",
+   "summary": "Legitimacy reflects the consent of the governed, distinct from mere legality and serving as an essential precondition for governability. A debate over state legitimacy contrasts liberals, who view the state as representing popular will, with Marxists, who critique the state as a class instrument."
+  },
+  {
+   "page": 113,
+   "title": "Relationship Between Power, Authority, and Legitimacy",
+   "summary": "The notes contrast perspectives on state legitimacy from Karl Marx, T.H. Green, Antonio Gramsci, and Jürgen Habermas's legitimation crisis. They explore political power as conventional domination versus Hannah Arendt's concept of empowerment in concert, alongside Foucault's discourse-based power and liberal versus Marxist debates."
+  },
+  {
+   "page": 114,
+   "title": "Max Weber: Power, Authority, and Legitimacy",
+   "summary": "Max Weber distinguishes between naked power and authority, defining authority as legitimate power through the equation Authority = Power + Legitimacy. The page also lists indicators of legitimacy such as law obedience and methods for building legitimacy including maintaining the rule of law and holding regular elections."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How did Friedrich Nietzsche influence Michel Foucault's understanding of knowledge and power?",
+   "back": "Nietzsche criticized the Enlightenment for replacing religious control with scientific control and argued that God is dead while theories remain perceptions. He formulated the concept of the will to power, which leads to the will to knowledge because knowledge is power.",
+   "category": "Nietzschean Intellectual Foundations",
+   "scanPage": 104
+  },
+  {
+   "front": "According to Michel Foucault, what were the actual underlying purposes of modern prison reform?",
+   "back": "Rather than reforming the wrongdoer, modern prison reform was intended to improve the public image of the state. Furthermore, it aimed to make the criminal's body reusable for society.",
+   "category": "Modern Technologies of Power",
+   "scanPage": 106
+  },
+  {
+   "front": "How does Michel Foucault apply Jeremy Bentham's Panopticon to explain social discipline?",
+   "back": "Bentham's Panopticon uses a central surveillance tower to induce self-regulation among prisoners who believe they are constantly watched. Similarly, modern society acts as a panopticon where individuals regulate their own bodies and minds under perceived infinite societal surveillance.",
+   "category": "Disciplinary Power and Surveillance",
+   "scanPage": 107
+  },
+  {
+   "front": "How does Foucault's micro view of power differ from sovereign and Marxist conceptions?",
+   "back": "Foucault rejects Hobbes's sovereign view that power is localized in the state, as well as the Marxist view that power is held unidirectionally by economic controllers. Instead, Foucault conceives power as multidirectional, circulating throughout society in capillary networks.",
+   "category": "Post-Structural Power Conceptions",
+   "scanPage": 108
+  },
+  {
+   "front": "What three mechanisms of social control are identified by Michel Foucault in the notes?",
+   "back": "The three mechanisms are hierarchical observation, meaning observing people, and normalising judgement, meaning punishment of non-conformity. The third is examination, which tests an individual's quality and ability with respect to societal norms and values.",
+   "category": "Mechanisms of Social Control",
+   "scanPage": 110
+  },
+  {
+   "front": "What are Max Weber's three ideal types of legitimate authority?",
+   "back": "Weber identifies traditional authority based on customs and traditions, such as the British Queen, and charismatic authority based on personality, exemplified by Gandhi. The third type is legal-rational authority, which derives from legal-rational rules, such as modern public servants.",
+   "category": "Weberian Types of Authority",
+   "scanPage": 111
+  },
+  {
+   "front": "How does Jean-Jacques Rousseau explain the transformation of power into authority?",
+   "back": "According to Rousseau, even the strongest man is never strong enough until he converts his strength into right and his power into authority. Consequently, legitimacy becomes an essential pre-condition for governability.",
+   "category": "Theories of Political Legitimacy",
+   "scanPage": 112
+  },
+  {
+   "front": "What specific indicators of state legitimacy are listed in the lecture notes?",
+   "back": "The indicators include law obedience among citizens, payment of taxes, social discipline, and observing national festivals while respecting national symbols like the anthem and flag. Legitimacy is also reflected by a lesser number of crimes and protests.",
+   "category": "Indicators of State Legitimacy",
+   "scanPage": 114
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine Michel Foucault's conceptualization of power. How does his micro-physics of power challenge sovereign and Marxist understandings?",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Foucault's Theory of Power and Knowledge",
+   "scanPage": 108,
+   "intro": "Michel Foucault redefines political theory by conceptualizing power not as centralized state coercion, but as a multidirectional capillary network. Influenced by Friedrich Nietzsche, Foucault demonstrates in Discipline and Punish that knowledge and power embody mutually constitutive regimes of truth.",
+   "body": [
+    "Foucault provides a micro view of power, explicitly refuting the macro perspectives of Thomas Hobbes and Karl Marx. While Hobbes views power as sovereign coercion and Marxists see unidirectional economic domination, Foucault reveals power as multidirectional, circulating through capillary networks across society.",
+    "Influenced by Nietzsche's Genealogy of Morals, Foucault links knowledge directly with power. In works like Madness and Civilisation and Birth of a Clinic, he demonstrates how medical discourses created by doctors label individuals as mad or normal to serve capitalist production.",
+    "In Discipline and Punish, Foucault applies Jeremy Bentham's Panopticon to explain governmentality and biopower over human bodies. Disciplinary institutions enforce internal self-regulation and social discipline using three distinct mechanisms: hierarchical observation, normalizing judgement, and examination.",
+    "Power is productive rather than merely coercive, constructing personal identity as individuals embody power. Because power operates as an applied strategy rather than centralized property, it inherently stimulates resistance, which Foucault considers the essential basis for human freedom."
+   ],
+   "scholars": [
+    "Michel Foucault",
+    "Friedrich Nietzsche",
+    "Genealogy of Morals",
+    "Discipline & Punish",
+    "Madness & Civilisation",
+    "Thomas Hobbes",
+    "Karl Marx",
+    "Jeremy Bentham"
+   ],
+   "conclusion": "Foucault's micro-physics of power enriches modern political analysis by demystifying institutional neutrality and exposing everyday domination. By uncovering how discourse shapes compliance, his framework empowers democratic citizens to interrogate regimes of truth and sustain emancipatory resistance."
+  },
+  {
+   "question": "Examine the relationship between power, authority, and legitimacy in political theory.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Power, Authority, and Legitimacy",
+   "scanPage": 113,
+   "intro": "Power, authority, and legitimacy constitute the core triad of political theory. While power denotes the capacity to secure obedience, authority represents legitimate power, requiring moral consent from the governed to transform naked coercion into enduring, stable governability.",
+   "body": [
+    "While conventional political science views power as domination, Hannah Arendt conceptualizes power as empowerment through acting in concert. Max Weber differentiates naked power from authority, proposing that authority equals power plus legitimacy, wherein the state maintains a monopoly over legitimate physical coercion.",
+    "Weber outlines three ideal types of authority: traditional authority based on customs, charismatic authority rooted in personal magnetism like Gandhi, and legal-rational authority exemplified by public servants. Modern governance requires legal-rational mechanisms supplemented by societal consent to ensure stability.",
+    "As Rousseau observed, the strongest cannot maintain power without converting strength into right and power into authority. While T.H. Green argues that will, not force, forms the state's foundation, Gramsci contends that bourgeois political will is manufactured through ideological hegemony.",
+    "Marxist critique views the capitalist state as a coercive class instrument bound to face a legitimation crisis, as formulated by Habermas. In response, constitutional states sustain legitimacy through the rule of law, independent judiciary, social welfare schemes, and regular competitive elections."
+   ],
+   "scholars": [
+    "Max Weber",
+    "Jean-Jacques Rousseau",
+    "Hannah Arendt",
+    "Karl Marx",
+    "T.H. Green",
+    "Antonio Gramsci",
+    "Jürgen Habermas"
+   ],
+   "conclusion": "Ultimately, enduring political order cannot rely on coercive domination alone. As contemporary democratic states confront socioeconomic strains, cultivating substantive legitimacy through rule of law, public welfare, and institutional responsiveness remains indispensable for sustaining authority and avoiding systemic crisis."
+  }
+ ]
+}

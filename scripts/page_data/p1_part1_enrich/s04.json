@@ -1,0 +1,68 @@
+{
+ "pages": [
+  {
+   "page": 25,
+   "title": "Buddhist Political Thought and Core Principles",
+   "summary": "Although the status of Buddha as a political philosopher is contested, rulers sought his advice on governance, and scholars like Gopal Guru and Gail Omvedt consider him one. The page also outlines core Buddhist principles, including the three basic principles and the Four Noble Truths with the Eightfold Path."
+  },
+  {
+   "page": 26,
+   "title": "Buddhist Social Contract and Ideal Kingship",
+   "summary": "Buddhism traces the origin of the state to private property and social conflict, leading to a contract among men to elect Mahasammat within a republican tradition. It outlines the virtues and Ashokan duties of a king, contrasting Buddhism's love-based World Monarch with Hinduism's force-based Chakravarty Samrat."
+  },
+  {
+   "page": 27,
+   "title": "Equality and Deliberative Democracy in Buddhism",
+   "summary": "Buddhism upholds equality by opposing the caste system and advocating gender equality. It also identifies the Buddhist sangha as an early example of deliberative democracy."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "According to Buddhist political thought, what factor necessitated the creation of the state, and how was the first ruler chosen?",
+   "back": "The origin of the state was linked to the emergence of private property, which triggered social conflict and made political authority necessary. To resolve this, people entered into a contract among men to elect the noblest of all as Mahasammat.",
+   "category": "Origin of State",
+   "scanPage": 26
+  },
+  {
+   "front": "How does the Buddhist concept of the 'world monarch' contrast with the Hindu concept of 'chakravarty samrat'?",
+   "back": "While the Hindu chakravarty samrat seeks to acquire land through force, the Buddhist world monarch seeks to win hearts through love. Moreover, the chakra in Buddhism represents the Dhamma chakra rather than the chariot wheel of conquest.",
+   "category": "Kingship and Monarchy",
+   "scanPage": 26
+  },
+  {
+   "front": "Why has Buddha's status as a political philosopher been contested, and which modern scholars argue that he can be considered one?",
+   "back": "Buddha's status as a political philosopher remained contested because Buddhism is an otherworldly religion whereas politics belongs to the material world, and Buddha renounced his own kingdom. However, scholars like Professor Gopal Guru and Gail Omvedt maintain that Buddha can be considered a political philosopher.",
+   "category": "Buddhist Political Philosophy",
+   "scanPage": 25
+  },
+  {
+   "front": "What ideas in Buddhist thought reflect principles of social equality and democratic governance?",
+   "back": "Buddhism advanced social and political equality by opposing the caste system and championing gender equality. Additionally, the Buddhist sanghas functioned as the earliest historical examples of deliberative democracy.",
+   "category": "Deliberative Democracy and Equality",
+   "scanPage": 27
+  }
+ ],
+ "answers": [
+  {
+   "question": "Discuss the Buddhist ideas on the state and statecraft, contrasting its contractual basis of political authority and concept of the world monarch with the Hindu tradition.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Buddhist Ideas on State and Statecraft",
+   "scanPage": 26,
+   "intro": "Buddhism presents a distinct political philosophy linking the origin of the state to private property and human contract. Scholars like Professor Gopal Guru and Gail Omvedt recognize Buddha as a political philosopher addressing governance alongside material and social realities.",
+   "body": [
+    "Contractual Origin of the State: Buddhism links the state's origin to private property, which caused social conflict. Unlike Hinduism's contract between man and God with a hereditary divine ruler, Buddhism posits a horizontal contract among men electing the noblest as Mahasammat within a republican tradition.",
+    "Ethical Kingship and Ashokan Governance: A Buddhist king must be noble, gentle, modest, selfless, and liberal. Ashoka enriched statecraft by obliging rulers to live by Dhamma, serve humanity, build public utilities, forbid animal cruelty, respect diverse religions, maintain non-aggression, and dispatch envoys of peace.",
+    "World Monarch versus Chakravarty Samrat: In contrast to the Hindu Chakravarty Samrat who uses force to acquire territory, the Buddhist world monarch uses love to win hearts. The governing symbol is transformed from the chariot wheel of coercion into the moral Dhamma chakra.",
+    "Egalitarianism and Sangha Deliberation: Buddhist political thought rejects the caste hierarchy and upholds gender equality. Furthermore, Buddhist sanghas served as early institutions of deliberative democracy, reflecting the ethical core of eight-fold liberation from greed, hatred, and ignorance."
+   ],
+   "scholars": [
+    "Professor Gopal Guru",
+    "Gail Omvedt",
+    "Buddha",
+    "Ashoka",
+    "Mahasammat"
+   ],
+   "conclusion": "Buddhist political thought thus pioneered an enlightened republican alternative to divine hereditary monarchy. By championing social contract, welfare duties, Dhamma, and deliberative sanghas, it established an enduring normative paradigm for peaceful, egalitarian, and humane governance."
+  }
+ ]
+}

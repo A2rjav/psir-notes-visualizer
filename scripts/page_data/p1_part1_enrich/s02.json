@@ -1,0 +1,96 @@
+{
+ "pages": [
+  {
+   "page": 7,
+   "title": "Debate on Indian Political Thought and Values",
+   "summary": "This page explores whether Indian political thought exists and lists core Indian civilisational values like toleration, pluralism, and spiritualism. It explains the western perspective that Indians lacked political thinking due to being concerned with spiritualism rather than the material world."
+  },
+  {
+   "page": 8,
+   "title": "Defense of Indian Political Thought and Continuity",
+   "summary": "Scholars like Manu, Kautilya, Max Muller, and Alasdair MacIntyre defend the existence of Indian political thought against western ethnocentrism. Professor V.R. Mehta highlights that Indian thought emphasizes continuity—uniting Dharma and Dand or ethics and politics—rather than western dichotomies."
+  },
+  {
+   "page": 9,
+   "title": "Features of Indian Thinking and Major Traditions",
+   "summary": "The page lists six characteristic features of Indian thinking and outlines the Hindu and Buddhist traditions of ancient India. According to Bhikhu Parekh, Indian thought reflects continuity between traditions, with Hindu texts centering on Dharma and Danda."
+  },
+  {
+   "page": 10,
+   "title": "Dharmashastra, Dandashastra, and Origins of Manu",
+   "summary": "This page contrasts the primary focus of Dharmashastra on Dharma with Dandashastra on Dandaniti, and introduces Manu as the first king created by Brahma to end anarchy (Matsyanyaya). It defines Dharma as that which sustains the earth and traces its origin to Rta, the cosmic law governing the universe."
+  },
+  {
+   "page": 11,
+   "title": "Core Concepts of Manusmriti and State Origin",
+   "summary": "The page explains that cosmic law derives from shruti and outlines key concepts in Manusmriti: Purushartha, Ashrama, and Sanskara. It also details the quasi-contractual origin of the state, where God created the king in response to people's request to escape anarchy."
+  },
+  {
+   "page": 12,
+   "title": "Kingship, Varna Dharma, and Duties of King",
+   "summary": "Manusmriti describes the king as a Kshatriya with a divine personality whose primary role is enforcing Varna Dharma through Danda. However, the king lacks divine rights, is bound by Raj Dharma, and must adhere to strict personal discipline."
+  },
+  {
+   "page": 13,
+   "title": "King's Duties, Taxation, and Manusmriti Critiques",
+   "summary": "This page outlines the king's duties of protection and Yogshem, principles of taxation on agricultural produce and commodities, and varna-based punishments. It also notes divergent modern assessments of Manusmriti, from Dr. S. Radhakrishnan's admiration to severe criticisms by Dr. Ambedkar, Ramaswami Naikar, and feminists."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does Professor V.R. Mehta argue that the Western world fails to recognise Indian political thought?",
+   "back": "According to Professor V.R. Mehta, the West fails to recognise Indian thinking because the West looks at reality in terms of dichotomies, whereas Indians look in terms of continuity. While the West separates ethics from politics, Indian texts integrate Dharma and Danda together, meaning no text is considered purely political.",
+   "category": "Indian Political Thought",
+   "scanPage": 8
+  },
+  {
+   "front": "How does Bhikhu Parekh view the relationship between the Hindu and Buddhist traditions in ancient India?",
+   "back": "Bhikhu Parekh argues that ancient Indian thought reflects continuity rather than change, as Buddhism and Hinduism share fundamental assumptions including the concepts of Soul, Karma, and Rebirth. Consequently, Buddhism is best described as the rebel child of Hinduism or the protestantism of the east.",
+   "category": "Ancient Indian Traditions",
+   "scanPage": 9
+  },
+  {
+   "front": "What is the structural difference between Dharmashastra and Dandashastra regarding Dharma and Danda?",
+   "back": "In Dharmashastra, Dharma is the core idea discussed while Danda is of peripheral interest. Conversely, in Dandashastra, the core discussion focuses on Dandaniti, with Dharma treated as a peripheral matter.",
+   "category": "Dharmashastra and Dandashastra",
+   "scanPage": 10
+  },
+  {
+   "front": "Why is the origin of the state in Manusmriti described as a quasi-contractual theory?",
+   "back": "The theory is quasi-contractual because the contract is made between Man and God rather than among individuals alone. Facing prevailing anarchy (Matsyanyaya), the people requested God to deliver them, prompting God to create the king.",
+   "category": "Theory of State",
+   "scanPage": 11
+  },
+  {
+   "front": "Does the king in Manusmriti possess divine rights by virtue of his divine personality?",
+   "back": "No, although the king has a divine personality combining attributes of deities like Indra, Agni, and Varun, he does not possess divine rights. The king remains subordinate to Dharma, must follow Raj Dharma, and goes to hell if he fails to uphold Dharma.",
+   "category": "Duties of Kingship",
+   "scanPage": 12
+  }
+ ],
+ "answers": [
+  {
+   "question": "Do you agree that Indians lacked political thinking? Discuss the distinctive components and worldview of ancient Indian political thought.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Ancient Indian Political Thought",
+   "scanPage": 8,
+   "intro": "Western scholars often argue that ancient India lacked political thinking due to its preoccupation with spiritualism over material life. However, rich treatises by thinkers like Manu and Kautilya demonstrate profound engagement with statecraft, governance, and political reality.",
+   "body": [
+    "Western dismissal of Indian political thought reflects an ethnocentric bias; Alasdair MacIntyre cautioned that neglecting Indian political thinking leads to the impoverishment of the West, while Max Muller remarked that nowhere else has the mind tackled life's problems with such profound depth.",
+    "Professor V.R. Mehta argues that the West misinterprets Indian thinking because Western philosophy relies on rigid dichotomies between individual and community or ethics and politics, whereas Indian thinkers viewed life through continuity, integrating Dharma and Rajniti rather than creating a purely political text.",
+    "Ancient Indian thought was not purely spiritualistic but balanced material and spiritual domains; texts like Manusmriti articulated the four Purusharthas of Dharma, Artha, Kama, and Moksha alongside four Ashramas, ensuring that statecraft, taxation, and social order received systematic attention.",
+    "Bhikhu Parekh demonstrates that Indian political thought reflects continuity over change; both Dharmashastra and Dandashastra address Dharma and Danda with differences only of degree, while Buddhism serves as the rebel child of Hinduism by retaining foundational concepts like Soul, Karma, and Rebirth."
+   ],
+   "scholars": [
+    "Manu",
+    "Kautilya",
+    "Max Muller",
+    "Alasdair MacIntyre",
+    "Professor V.R. Mehta",
+    "Bhikhu Parekh",
+    "Manusmriti"
+   ],
+   "conclusion": "Indian political thought cannot be judged through Western dichotomies; its holistic integration of ethics, statecraft, and social duty provides an enduring civilizational framework whose inclusive and cosmopolitan traditions remain deeply relevant for modern political analysis."
+  }
+ ]
+}

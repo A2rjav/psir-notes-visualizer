@@ -1,0 +1,140 @@
+{
+ "pages": [
+  {
+   "page": 82,
+   "title": "Liberal Theory: Origin of the State",
+   "summary": "It outlines the liberal theory of the state, focusing on the origin of the state through social contract theory and evolutionary theory. MacIver rejects social contract theory, arguing that the state evolved from pre-existing associations like family and church."
+  },
+  {
+   "page": 83,
+   "title": "Functions, Nature, and Marxist State Theory",
+   "summary": "It covers the liberal view of state functions and its neutral nature, contrasting it with Hegel's universal altruism. It then introduces the Marxist theory of the state as an instrument of the capitalist class arising from force and economic structure."
+  },
+  {
+   "page": 84,
+   "title": "Marxist Instrumentalist Perspective and Lenin on State",
+   "summary": "It explains Karl Marx's instrumentalist view that the state is an executive committee executing the bourgeoisie's agenda without autonomy. It also notes Lenin's perspective that the state reflects the irreconcilability of class antagonisms as an instrument of the dominant class."
+  },
+  {
+   "page": 85,
+   "title": "Lenin on Class Antagonism and Revolution",
+   "summary": "It details Lenin's view that irreconcilable class antagonism between exploiters and the exploited necessitates the state as an instrument of force. Because the poor cannot receive justice from the state, revolution is required, leading to communism where the state withers away."
+  },
+  {
+   "page": 86,
+   "title": "Relative Autonomy Theory and Bonapartism",
+   "summary": "It contrasts instrumentalist theory with relative autonomy theory, explaining that the state can appear neutral while ultimately protecting the propertied class. It uses Bonapartism from Marx's 18th Brumaire to show how a strong executive gains autonomy when competing classes balance each other."
+  },
+  {
+   "page": 87,
+   "title": "Structural Marxism, Gramsci, and Relative Autonomy",
+   "summary": "It discusses historical examples of relative autonomy, such as Germany under Hitler and 19th-century France, where balancing classes enabled state independence. It also introduces Gramsci's concept of the integral state and Althusser's ideological and coercive state apparatuses within structural Marxism."
+  },
+  {
+   "page": 88,
+   "title": "Miliband-Poulanzas Debate and Managerial Revolution",
+   "summary": "It introduces the debate between Ralph Miliband and Nicole Poulanzas regarding the nature of post-capitalist welfare states. It also outlines liberal arguments regarding the managerial revolution, which claim decision-making power has shifted from capitalists to an open managerial class."
+  },
+  {
+   "page": 89,
+   "title": "Miliband and Poulanzas on Post-Capitalist State",
+   "summary": "Ralph Miliband argues that the managerial revolution is a myth and the state remains an instrument of the concentrated capitalist elite. Nicole Poulanzas counters that universal franchise and electoral competition compel the state to serve multiple classes, making it relatively autonomous."
+  },
+  {
+   "page": 90,
+   "title": "Feminist Theory of State and MacKinnon",
+   "summary": "It explains Catherine Mackinnon's critique that the state is an inherently patriarchal and masculinist institution where women struggle to achieve justice. It highlights feminism's ambivalent view of the state, balancing its patriarchal nature against its potential to improve the status of women."
+  },
+  {
+   "page": 91,
+   "title": "Feminist Theorists and Post-Colonial State Theory",
+   "summary": "It reviews feminist perspectives from Iris Marion Young on differentiated citizenship and Carole Pateman on the sexual contract. It then introduces post-colonial theory of the state, discussing neo-colonialism, continuing colonial legacies, and the distinction between interdependence and dependency."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "How does MacIver explain the origin and authority of the state in contrast to social contract theory?",
+   "back": "MacIver rejects social contract theory, arguing that the state is the result of evolution from associations like family, kinship groups, and church. As a pluralist sociologist, he asserts that multiple organizations are prior to the state and do not depend on it, justifying that other associations should also enjoy authority.",
+   "category": "Liberal Theory of State",
+   "scanPage": 82
+  },
+  {
+   "front": "What is the meaning and theoretical basis of Karl Marx's characterization of the state as an 'executive committee of the bourgeoisie'?",
+   "back": "According to Karl Marx, the executive committee has no autonomy to make decisions and exists simply to implement the agenda of the bourgeois class. This instrumentalist perspective is grounded in his theory of historical materialism, rejecting liberal claims of state neutrality.",
+   "category": "Marxist Instrumentalist Theory",
+   "scanPage": 84
+  },
+  {
+   "front": "Why does Lenin argue that the presence of the state proves the irreconcilability of class antagonisms?",
+   "back": "Lenin argues that the state is an instrument created by the bourgeoisie to use force against the poor in the interests of the dominant class. Since the conflicting interests of exploiters and exploited cannot be reconciled, the state exists as long as classes exist, and will only wither away when classes end under communism.",
+   "category": "Marxist Theory of State",
+   "scanPage": 85
+  },
+  {
+   "front": "Under what conditions does the state acquire relative autonomy according to Marx's concept of Bonapartism?",
+   "back": "In '18th Brumaire of Louis Bonaparte', Marx explains that relative autonomy arises when the executive is very strong and different social groups are equally balanced such that no single group dominates the basic structure. Both competing groups seek state support, giving the state temporary autonomy, though in crises it ultimately protects the propertied class.",
+   "category": "Marxist Structuralist Theory",
+   "scanPage": 86
+  },
+  {
+   "front": "How does Ralph Miliband refute the liberal claim that the managerial revolution transformed the capitalist state?",
+   "back": "In 'The State in Capitalist Society' (1969), Ralph Miliband argues that the managerial revolution is a myth because economic power remains concentrated in the capitalist class. Working-class entry into management is extremely rare due to unaffordable education, and institutions like the judiciary and bureaucracy remain elitist and unrepresentative.",
+   "category": "Miliband Poulantzas Debate",
+   "scanPage": 89
+  },
+  {
+   "front": "Why does Catharine MacKinnon argue that 'when I look at the state, state appears male to me'?",
+   "back": "MacKinnon asserts that the state is an institution of patriarchy whose underlying perspective is masculinist. Her analysis of laws related to women, such as rape laws and cumbersome judicial procedures, reveals loopholes designed for men, making it extremely difficult for women to obtain justice.",
+   "category": "Feminist Theory of State",
+   "scanPage": 90
+  },
+  {
+   "front": "What critique does Carole Pateman offer against classical social contract theorists in 'The Sexual Contract'?",
+   "back": "Pateman criticizes social contract scholars for taking the consent of women for granted without acknowledging their active participation in choosing the political system. She contends that women were forced into this arrangement and suggests the world would be better had the contract been based on the nature of women.",
+   "category": "Feminist Theory of State",
+   "scanPage": 91
+  }
+ ],
+ "answers": [
+  {
+   "question": "Examine the debate between Ralph Miliband and Nicos Poulantzas on the nature of the capitalist state.",
+   "marks": "15 Marks (250 Words)",
+   "topic": "Marxist Theory of the State: Miliband-Poulantzas Debate",
+   "scanPage": 89,
+   "intro": "The nature of the post-capitalist state is a central debate within Marxism. While liberals argue that universal franchise and welfare policies ensure state neutrality, Marxists interrogate whether the state remains an instrument of capital or attains relative autonomy.",
+   "body": [
+    "Ralph Miliband advances the instrumentalist view in 'The State in Capitalist Society' (1969), dismissing the managerial revolution as myth. He shows that economic power remains concentrated, management education is unaffordable for workers, and judiciary and bureaucracy remain elitist institutions serving bourgeois interests.",
+    "Conversely, Nicos Poulantzas champions structuralism, arguing that universal adult franchise and competitive party systems compel parties to seek broad social support. Consequently, policies cannot serve a single class exclusively, giving the state relative autonomy and an appearance of neutrality among conflicting classes.",
+    "This debate reflects Karl Marx's concept of Bonapartism in '18th Brumaire of Louis Bonaparte', where a strong executive balances equally matched social groups—seen in Hitler's Germany and nineteenth-century France—yet ultimately acts to defend propertied interests in crisis.",
+    "Althusser further highlights ideological state apparatuses within civil society, echoing Gramsci's integral state. Although civil society fosters an illusion of autonomy, coercive state apparatuses intervene when legitimacy falters, as demonstrated when the American state bailed out banks during the subprime crisis."
+   ],
+   "scholars": [
+    "Ralph Miliband",
+    "Nicole Poulanzas",
+    "Karl Marx",
+    "Louis Althusser",
+    "Antonio Gramsci"
+   ],
+   "conclusion": "Ultimately, both perspectives illustrate that the capitalist state is never entirely neutral. While Poulantzas captures modern welfare realities and electoral complexities, Miliband correctly identifies enduring structural inequalities, underscoring that genuine democracy requires addressing concentrated economic power."
+  },
+  {
+   "question": "Critically examine the feminist critique of the state as an institution of patriarchy.",
+   "marks": "10 Marks (150 Words)",
+   "topic": "Feminist Theory of the State",
+   "scanPage": 90,
+   "intro": "Feminist theory approaches the state with deep ambivalence. While viewing the state as an instrument of patriarchy, feminists simultaneously look toward state mechanisms for legal reforms, necessitating a more sophisticated theoretical analysis of power and gender.",
+   "body": [
+    "Catharine MacKinnon argues that 'when I look at the state, state appears male to me', exposing its masculinist perspective. As a lawyer, MacKinnon emphasizes that laws for women, such as rape laws and cumbersome judicial processes, contain structural loopholes that deny justice to women.",
+    "Carole Pateman in 'The Sexual Contract' critiques social contract theorists for taking women's consent for granted. She argues that women never actively chose this patriarchal system, asserting that a social order grounded in women's nature would produce a far more just society.",
+    "Iris Marion Young advances the concept of differentiated citizenship, challenging the assumption that a uniform liberal state ensures genuine equality. This supports the view that state bureaucracy and the judiciary operate under masculine biases rather than serving as neutral arbiters for marginalized groups.",
+    "Yet feminist engagement with the state remains ambivalent: while condemning the state as patriarchal, feminists concurrently demand welfare policies and legal remedies from it, highlighting the necessity to develop a more sophisticated theoretical understanding of state institutions."
+   ],
+   "scholars": [
+    "Catherine Mackinnon",
+    "Carole Pateman ('The Sexual Contract')",
+    "Iris Marion Young"
+   ],
+   "conclusion": "Moving beyond treating the state purely as an instrument of patriarchy or a benign benefactor, feminist theory must continuously interrogate institutional biases, transforming public institutions to foster genuine gender justice and inclusive democratic citizenship."
+  }
+ ]
+}

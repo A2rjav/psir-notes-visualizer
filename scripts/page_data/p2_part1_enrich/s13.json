@@ -1,0 +1,155 @@
+{
+  "pages": [
+    {
+      "page": 136,
+      "title": "WTO dispute body and fair-trade principles",
+      "summary": "A country violating its commitments can be dragged before the dispute settlement body. WTO principles aim at free and fair trade as a win-win: non-discrimination (MFN and national treatment), fairness tools (countervailing duties against dumping, lower subsidies, differential treatment) and predictability through binding commitments."
+    },
+    {
+      "page": 137,
+      "title": "WTO and developing countries: theory versus practice",
+      "summary": "In theory multilateralism, differential treatment, consensus decisions with a veto, capacity building and wide market access favour developing countries. In practice agriculture stagnated, food security suffered, Green Room Diplomacy bends the South, and no African country has used the costly dispute settlement body."
+    },
+    {
+      "page": 138,
+      "title": "Doha Development Agenda; GATT versus WTO",
+      "summary": "Protests against WTO policies forced the Doha Development Agenda, which puts development first and uses a single undertaking, while developed countries want it to collapse and the Nairobi declaration said it has lost relevance for some. GATT covered only goods, whereas WTO also covers agriculture, services, IPRs and investment."
+    },
+    {
+      "page": 139,
+      "title": "North-South debate on agriculture: Agreement on Agriculture",
+      "summary": "The Agreement on Agriculture has three parts: market access, export subsidies and domestic subsidies. Agriculture is a way of life for the South (about 70% of people, 30% of GDP, 14% in India) but a small sector in the North (4% of people, 3% of GDP), and Northern farmers use technology and huge subsidies."
+    },
+    {
+      "page": 140,
+      "title": "Farmers, food security and market access disputes",
+      "summary": "Exposure to price fluctuations, farmer suicides, a shift to cash crops and restrictions on PDS are linked to WTO policies. In market access India is defensive and the USA offensive, and they disagree on the Special Safeguard Mechanism trigger and on how many Special Products can be excluded."
+    },
+    {
+      "page": 141,
+      "title": "Export subsidies and Green, Blue, Amber boxes",
+      "summary": "The Nairobi Package ends export subsidies by 2016 for developed and 2018 for developing countries. Domestic subsidies are sorted into Green Box (no restriction), Blue Box and Amber Box (most controversial), with de minimis limits of 5% and 10% on 1986-88 prices that hurt India's PDS."
+    },
+    {
+      "page": 142,
+      "title": "PDS, MSP and India's food security concerns",
+      "summary": "MSP as an incentive counts under the Amber Box, so India's PDS is in crisis, the West suggests cash transfers, and the peace clause is extended until a final solution. India wants an exemption, Green Box status or a revised base price, and the three negotiating groups include Cairns group and G-20."
+    },
+    {
+      "page": 143,
+      "title": "G-30, NAMA and start of services negotiations",
+      "summary": "G-30 negotiates public stockholding programmes. On non-agricultural market access the North wants the South to cut tariffs, while the South sees customs duties as a development finance source and complains of Northern non-tariff barriers; the Swiss formula was agreed in 2005, and services liberalisation is voluntary and bottom-up."
+    },
+    {
+      "page": 144,
+      "title": "Four modes of services trade and IPR issues",
+      "summary": "Services talks run on four modes: India is interested in Mode I and aggressive on Mode IV (movement of natural persons), while developed countries prefer Modes II and III. IPR entered trade talks through the Dunkel Draft, hurt public health in Africa, and led to compulsory licensing under Doha."
+    },
+    {
+      "page": 145,
+      "title": "Compulsory licensing, GIs and where WTO is moving",
+      "summary": "The North wants to roll back compulsory licensing, and geographical indicators caused India-USA disputes over Basmati, Neem and Haldi. Doubts about WTO's future arise from US policies (TPP, TTIP, Trump protectionism) and regional trading blocks that go against non-discrimination."
+    },
+    {
+      "page": 146,
+      "title": "Doha stalemate, WTO 2.0 and India's priorities",
+      "summary": "Weak global economy, China's policies and the Doha talks going on since 2001 without outcome add to scepticism, and the West proposes WTO 2.0 and pragmatic multilateralism with new issues like e-commerce. India's priorities for Buenos Aires are the Special Safeguard Mechanism, a permanent food security solution and a trade facilitation agreement in services."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What does the principle of non-discrimination mean in the WTO, and which two rules does it include?",
+      "back": "It makes trade fair by treating trading partners equally. It includes Most Favoured Nation status and National Treatment.",
+      "category": "WTO principles",
+      "scanPage": 136
+    },
+    {
+      "front": "Why is WTO said to favour developing countries in theory?",
+      "back": "Multilateralism helps weaker countries who cannot win in bilateral talks, differential treatment is accepted, decisions are by consensus so even the smallest country has a veto, and WTO offers capacity building and the widest market.",
+      "category": "WTO and development",
+      "scanPage": 137
+    },
+    {
+      "front": "What is Green Room Diplomacy?",
+      "back": "A technique by which developed countries make countries of the South fall in line, so that the formal veto of every member does not work in practice.",
+      "category": "WTO decision-making",
+      "scanPage": 137
+    },
+    {
+      "front": "What is the Doha Development Agenda and what is the stand of developed countries on it?",
+      "back": "It is a new round of talks in which development rather than trade is the priority, covering many issues and accepted as a single undertaking. Developed countries want it to collapse and a new round to start, and the Nairobi declaration noted that some members think it has lost relevance.",
+      "category": "Doha Development Agenda",
+      "scanPage": 138
+    },
+    {
+      "front": "What is the India-USA disagreement over the Special Safeguard Mechanism and Special Products?",
+      "back": "SSM lets a country protect producers from an import surge: India wants even a small surge to trigger it, the USA wants a substantial one. For Special Products, the USA accepts only 5-7 products excluded from liberalisation while India wants more.",
+      "category": "Agriculture market access",
+      "scanPage": 140
+    },
+    {
+      "front": "How are domestic agricultural subsidies classified in WTO, and what is the de minimis rule?",
+      "back": "Green Box has no restriction (research and development), Blue Box is linked to production-limiting support, and Amber Box directly enhances production and is most controversial. De minimis allows 5% of the value of produce for developed and 10% for developing countries, on 1986-88 prices.",
+      "category": "Agricultural subsidies",
+      "scanPage": 141
+    },
+    {
+      "front": "What are India's three concerns on food security in WTO agriculture talks?",
+      "back": "Give complete exemption to developing countries' food security programmes, bring such programmes under the Green Box, or revise the 1986-88 base price so that food inflation is covered.",
+      "category": "India food security",
+      "scanPage": 142
+    },
+    {
+      "front": "How did IPR rules under WTO become a North-South conflict over public health?",
+      "back": "The 1995 agreements hurt developing countries, especially in health and in Africa, so the North was forced to accept compulsory licensing under Doha. Now the North wants it limited to the domestic market and not used for exports.",
+      "category": "IPR and health",
+      "scanPage": 145
+    }
+  ],
+  "answers": [
+    {
+      "question": "Discuss the North-South divide in the WTO Agreement on Agriculture and explain India's concerns on food security.",
+      "marks": "15 Marks (250 Words)",
+      "topic": "Agriculture and food security in WTO",
+      "scanPage": 141,
+      "intro": "Agriculture is the most protected and politicised sector in the WTO. The Agreement on Agriculture covers market access, export subsidies and domestic subsidies, and the North and South differ sharply because farming is livelihood for the South.",
+      "body": [
+        "Structural gap: about 4% of people in the North depend on agriculture against around 70% in the South, and agriculture is 3% of Northern GDP against about 30% in the South (14% in India). Southern farmers are subsistence producers facing subsidised commercial farmers.",
+        "Market access: India is defensive and the USA offensive. They disagree on the Special Safeguard Mechanism, where India wants a small import surge to trigger protection, and on Special Products, where the USA allows only 5-7 products.",
+        "Subsidies: Green Box is unrestricted, Amber Box is most controversial, and de minimis caps are 5% for developed and 10% for developing countries on 1986-88 prices. MSP is counted under Amber Box, which strains the PDS.",
+        "India's demands: exempt food security programmes, shift them to Green Box or revise the base price. The peace clause continues till a final solution, while Cairns group, G-20 and G-30 shape the bargaining and the West suggests cash transfers instead of PDS."
+      ],
+      "scholars": [
+        "Agreement on Agriculture",
+        "Nairobi Package",
+        "Special Safeguard Mechanism",
+        "Special Products",
+        "Cairns Group",
+        "G-20",
+        "G-30"
+      ],
+      "conclusion": "Agriculture shows why the Doha promise of development-first trade is unmet. A lasting settlement needs a permanent food security solution and a fair subsidy base so that livelihood concerns of the South are not treated as trade distortion."
+    },
+    {
+      "question": "Is the WTO in the interest of developing countries? Examine in theory and in practice.",
+      "marks": "10 Marks (150 Words)",
+      "topic": "WTO and developing countries",
+      "scanPage": 137,
+      "intro": "The WTO aims to make trade free and fair, a win-win for all. Developing countries gain on paper through multilateralism and differential treatment, but agriculture, dispute settlement and the Doha talks show a wide gap between theory and practice.",
+      "body": [
+        "In theory: multilateralism favours weaker countries who cannot bargain bilaterally, consensus gives even the smallest country a veto, and differential treatment, capacity building and the widest market are built in. MFN, national treatment and binding commitments promise fairness and predictability.",
+        "In practice: WTO policies have not benefited developing countries in general. Agriculture stagnated, food security suffered and PDS was restricted. Developed countries bring the South into line through Green Room Diplomacy, so the formal veto is hollow.",
+        "The dispute settlement body is extremely costly: no African country has used it, and African countries are even closing their offices in Geneva. Negative consequences became visible within a few years of the WTO's existence.",
+        "Protests forced the Doha Development Agenda, which put development first under a single undertaking. Yet developed countries want it to collapse, and the Nairobi declaration noted that some members consider it irrelevant."
+      ],
+      "scholars": [
+        "GATT",
+        "Doha Development Agenda",
+        "Nairobi Declaration",
+        "Green Room Diplomacy",
+        "Agreement on Agriculture"
+      ],
+      "conclusion": "The WTO serves developing countries only if its promises of differential treatment and development are honoured. Without real participation in decisions, access to dispute settlement and an agriculture deal, the system will keep favouring its stronger members."
+    }
+  ]
+}
