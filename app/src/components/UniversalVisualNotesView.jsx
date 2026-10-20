@@ -1,383 +1,427 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import {
-  BookOpen,
-  Sparkles,
   Eye,
-  Feather,
   Search,
   GraduationCap,
-  ScrollText
+  Sparkles,
+  ScrollText,
+  CheckCircle2,
+  Circle,
+  ChevronDown,
+  ChevronRight,
+  PlayCircle,
+  Layers,
+  PenTool,
+  BookOpen,
+  ArrowRight,
 } from 'lucide-react';
 import VisualExplainer from './VisualExplainer';
 import { visualExplainers } from '../data/visualExplainers';
+import { volumesByStep, isFrontMatter, sectionCardCategory, sectionAnswerMatch, topicNumber } from '../data/volumesCatalog';
 
-export default function UniversalVisualNotesView({ 
-  currentVolume, 
-  currentDataset, 
-  onSelectScanPage, 
+// One handwritten page: the plain-English summary first, the verbatim transcript one tap away.
+// The transcript is only rendered when opened, which keeps a 200-page volume light to scroll.
+function PageCard({ concept, onSelectScanPage, query }) {
+  const [open, setOpen] = useState(false);
+  const verbatimHit = !!query && (concept.verbatim || '').toLowerCase().includes(query);
+  const show = open || verbatimHit;
+  return (
+    <div className="p-4 sm:p-5 rounded-xl bg-slate-900/80 border border-slate-800/90 hover:border-slate-700 transition space-y-2.5">
+      <div className="flex flex-wrap items-start justify-between gap-2">
+        <h4 className="text-sm sm:text-base font-bold text-amber-300 leading-snug min-w-0">{concept.title}</h4>
+        <button
+          onClick={() => onSelectScanPage(concept.scanPage)}
+          className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-mono font-bold bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 transition cursor-pointer shrink-0"
+          title="Open the original handwritten page"
+        >
+          <Eye className="w-3 h-3" /> Scan P.{concept.scanPage}
+        </button>
+      </div>
+      {concept.summary && (
+        <p className="text-sm text-slate-200 leading-relaxed">{concept.summary}</p>
+      )}
+      {concept.verbatim && (
+        <div>
+          <button
+            onClick={() => setOpen(!open)}
+            className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-400 hover:text-amber-300 transition cursor-pointer"
+          >
+            {show ? <ChevronDown className="w-3.5 h-3.5" /> : <ChevronRight className="w-3.5 h-3.5" />}
+            <ScrollText className="w-3.5 h-3.5 text-amber-400" />
+            {show ? 'Hide the original notes' : 'Read the original notes for this page'}
+          </button>
+          {show && (
+            <pre className="mt-2 p-3 rounded-lg bg-slate-950/60 border border-slate-800/80 text-xs sm:text-[13px] leading-relaxed text-slate-300 whitespace-pre-wrap break-words font-sans">
+              {concept.verbatim}
+            </pre>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+const STEPS = [
+  { icon: BookOpen, title: 'Read the page summaries', text: 'Two minutes per topic. Open the original notes only when you want the detail.' },
+  { icon: Sparkles, title: 'Look at the picture', text: 'Hard topics have a visual explainer. Tap the numbers on it.' },
+  { icon: Layers, title: 'Test yourself', text: 'Flashcards for just this topic. Mark the ones you know.' },
+  { icon: PenTool, title: 'Write one answer', text: 'Use the model answer outline, then mark the topic done.' },
+];
+
+export default function UniversalVisualNotesView({
+  currentVolume,
+  currentDataset,
+  onSelectScanPage,
   searchQuery,
   jumpTarget,
   onJumpHandled,
+  onJumpTo,
   activeScanPage,
   inspectorOpen,
-  renderInspector
+  renderInspector,
+  study,
+  onStudy,
+  onSwitchVolume,
 }) {
-  const [activeSectionId, setActiveSectionId] = useState('all');
+  const volId = currentVolume.id;
+  const { setLastSection } = study;
+  const sections = useMemo(() => currentDataset?.sections || [], [currentDataset]);
+  const flashcards = currentDataset?.flashcards || [];
+  const answers = currentDataset?.answers || [];
+  const studySections = sections.filter((s) => !isFrontMatter(s));
+  const doneN = studySections.filter((s) => study.isDone(volId, s.id)).length;
+  const pct = studySections.length ? Math.round((doneN / studySections.length) * 100) : 0;
 
-  // Sidebar "jump to section": drop any section filter so the target is rendered, then scroll.
+  // The topic to study next: the last one opened if it is not done, else the first not done.
+  const nextSection = useMemo(() => {
+    const last = study.progress.lastSection[volId];
+    const lastSec = studySections.find((s) => s.id === last);
+    if (lastSec && !study.isDone(volId, lastSec.id)) return lastSec;
+    return studySections.find((s) => !study.isDone(volId, s.id)) || null;
+  }, [studySections, study, volId]);
+
+  const [openIds, setOpenIds] = useState(() => new Set(nextSection ? [nextSection.id] : []));
+  const toggleOpen = (id) => {
+    const willOpen = !openIds.has(id);
+    setOpenIds((s) => {
+      const n = new Set(s);
+      if (willOpen) n.add(id);
+      else n.delete(id);
+      return n;
+    });
+    if (willOpen) setLastSection(volId, id);
+  };
+
+  const scrollToSec = (id) => setTimeout(() => {
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, 80);
+
+  // Sidebar / "Continue" jumps: open the topic, then scroll to it.
   useEffect(() => {
     if (!jumpTarget) return undefined;
-    setActiveSectionId('all');
+    setOpenIds((s) => (s.has(jumpTarget.id) ? s : new Set([...s, jumpTarget.id])));
+    setLastSection(volId, jumpTarget.id);
     const t = setTimeout(() => {
       document.getElementById(jumpTarget.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
       onJumpHandled?.();
     }, 120);
     return () => clearTimeout(t);
-  }, [jumpTarget, onJumpHandled]);
-
-  const meta = currentDataset?.meta || {};
-  const sections = currentDataset?.sections || [];
-  const flashcards = currentDataset?.flashcards || [];
-  const answers = currentDataset?.answers || [];
-  const scans = currentDataset?.scansCatalog || [];
-
-  const totalConcepts = sections.reduce((acc, sec) => acc + (sec.concepts ? sec.concepts.length : 0), 0);
-
-  const renderScanPill = (scanPage, notebookPage = null) => (
-    <button
-      onClick={() => onSelectScanPage(scanPage)}
-      className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-mono font-bold bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 hover:text-amber-200 border border-amber-500/30 transition shadow-sm ml-2 cursor-pointer shrink-0"
-      title={`Open Original Handwritten Scan ${scanPage} in split inspector`}
-    >
-      <Eye className="w-3 h-3 text-amber-400" />
-      Scan P.{scanPage} {notebookPage ? `[Note P.${notebookPage}]` : ''}
-    </button>
-  );
+  }, [jumpTarget, onJumpHandled, setLastSection, volId]);
 
   const q = (searchQuery || '').trim().toLowerCase();
   const has = (v) => (v || '').toLowerCase().includes(q);
-  const conceptMatches = (c) =>
-    has(c.title) || has(c.summary) || has(c.verbatim) || (c.details || []).some(has);
+  const conceptMatches = (c) => has(c.title) || has(c.summary) || has(c.verbatim);
   const sectionMetaMatches = (sec) =>
-    has(sec.title) || has(sec.subtitle) ||
-    (sec.keyScholars || []).some(has) || (sec.coreTheories || []).some(has);
+    has(sec.title) || has(sec.subtitle) || (sec.keyScholars || []).some(has) || (sec.coreTheories || []).some(has);
 
-  // With a query: a section whose own title/scholars match shows in full; otherwise only the
-  // concepts that match are kept, so the result narrows to what was searched for.
+  // With a query every matching topic opens; a topic whose own title/thinkers match shows in full,
+  // otherwise only the pages that match.
   const visibleSections = sections
-    .filter(sec => activeSectionId === 'all' || sec.id === activeSectionId)
-    .map(sec => {
+    .map((sec) => {
       if (!q || sectionMetaMatches(sec)) return { sec, concepts: sec.concepts || [] };
       return { sec, concepts: (sec.concepts || []).filter(conceptMatches) };
     })
     .filter(({ concepts }) => !q || concepts.length > 0);
   const matchedConceptTotal = visibleSections.reduce((a, v) => a + v.concepts.length, 0);
+  const isOpen = (id) => !!q || openIds.has(id);
 
-  // Visual explainers for this volume: placed in the section holding their first anchor page,
-  // just before the first page-card they refer to (or at the top of the section's pages).
   const volumeExplainers = visualExplainers.filter(
-    (x) => x.volumeId === currentVolume.id && (x.image || x.video || x.variants?.some((v) => v.image)) &&
+    (x) => x.volumeId === volId && (x.image || x.video || x.variants?.some((v) => v.image)) &&
       (!q || has(x.title) || (x.beats || []).some((b) => has(b.label) || has(b.text)))
   );
+  const explainersFor = (sec) => volumeExplainers.filter((x) => (sec.scanPages || []).includes(x.anchorPages[0]));
   const explainerSlots = (sec, concepts) => {
     const slots = {};
-    volumeExplainers
-      .filter((x) => (sec.scanPages || []).includes(x.anchorPages[0]))
-      .forEach((x) => {
-        const i = concepts.findIndex((c) => x.anchorPages.includes(c.scanPage));
-        const at = i === -1 ? 0 : i;
-        (slots[at] = slots[at] || []).push(x);
-      });
+    explainersFor(sec).forEach((x) => {
+      const i = concepts.findIndex((c) => x.anchorPages.includes(c.scanPage));
+      const at = i === -1 ? 0 : i;
+      (slots[at] = slots[at] || []).push(x);
+    });
     return slots;
   };
 
-  // The scan inspector lives INSIDE the section that contains the open scan page, as a sticky pane
-  // that stays beside that section's text while you scroll through it. When the section ends the
-  // pane ends with it, and the following sections use the full width again.
-  const paneSectionId = inspectorOpen && visibleSections.length
-    ? (visibleSections.find(({ sec }) => (sec.scanPages || []).includes(activeScanPage)) || visibleSections[0]).sec.id
+  // The scan pane sits inside the open topic that contains the scan page, sticky beside its text.
+  const openVisible = visibleSections.filter(({ sec }) => isOpen(sec.id));
+  const paneSectionId = inspectorOpen && openVisible.length
+    ? (openVisible.find(({ sec }) => (sec.scanPages || []).includes(activeScanPage)) || openVisible[0]).sec.id
     : null;
-
-  // If opening a scan moves the pane to another section that is off-screen, bring it into view.
   const prevPaneSection = useRef(paneSectionId);
   useEffect(() => {
     const prev = prevPaneSection.current;
     prevPaneSection.current = paneSectionId;
     if (!prev || !paneSectionId || prev === paneSectionId) return;
     const el = document.getElementById(paneSectionId);
-    if (!el) return;
-    const r = el.getBoundingClientRect();
-    if (r.bottom < 80 || r.top > window.innerHeight - 80) {
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (el) {
+      const r = el.getBoundingClientRect();
+      if (r.bottom < 80 || r.top > window.innerHeight - 80) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   }, [paneSectionId]);
 
+  const finishTopic = (sec) => {
+    if (!study.isDone(volId, sec.id)) study.toggleDone(volId, sec.id);
+    const idx = studySections.findIndex((s) => s.id === sec.id);
+    const next = studySections.slice(idx + 1).find((s) => !study.isDone(volId, s.id));
+    setOpenIds((s) => { const n = new Set(s); n.delete(sec.id); if (next) n.add(next.id); return n; });
+    if (next) { setLastSection(volId, next.id); scrollToSec(next.id); }
+    else scrollToSec('study-guide');
+  };
+
+  const nextVolume = volumesByStep.find((v) => v.step === currentVolume.step + 1);
+
   return (
-    <div className="space-y-12 max-w-5xl mx-auto pb-20">
-      
-      {/* Hero Banner */}
-      <section className="relative p-6 sm:p-8 rounded-2xl bg-gradient-to-br from-slate-900 via-slate-900 to-amber-950/30 border border-amber-500/20 shadow-2xl overflow-hidden">
-        <div className="absolute top-0 right-0 p-8 opacity-10 pointer-events-none">
-          <BookOpen className="w-64 h-64 text-amber-400" />
+    <div className="space-y-8 max-w-5xl mx-auto pb-20">
+
+      {/* Study guide: where this volume sits, how far you are, what to do next */}
+      <section id="study-guide" className="scroll-mt-20 relative p-5 sm:p-7 rounded-2xl bg-gradient-to-br from-slate-900 via-slate-900 to-amber-950/30 border border-amber-500/20 shadow-2xl space-y-5">
+        <div className="flex flex-wrap items-center gap-2 text-[11px]">
+          <span className="px-2.5 py-1 rounded-full font-bold uppercase tracking-wider bg-amber-500/20 text-amber-300 border border-amber-500/40">
+            Step {currentVolume.step} of 6
+          </span>
+          <span className="px-2.5 py-1 rounded-full font-mono bg-slate-800 text-slate-300 border border-slate-700">
+            {currentVolume.paperNumber} • {currentVolume.sectionName}
+          </span>
+          <span className="px-2.5 py-1 rounded-full font-mono bg-slate-800 text-slate-300 border border-slate-700">
+            {studySections.length} topics • {currentVolume.totalPages} handwritten pages
+          </span>
         </div>
 
-        <div className="relative z-10 space-y-4">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-amber-500/20 text-amber-300 border border-amber-500/40">
-              {currentVolume.paperNumber} • {currentVolume.sectionName}
-            </span>
-            <span className="px-3 py-1 rounded-full text-xs font-mono bg-slate-800 text-slate-300 border border-slate-700">
-              {meta.notebookPages || `Folios 1 to ${currentVolume.totalPages}`}
-            </span>
-            <span className="px-3 py-1 rounded-full text-xs font-mono bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
-              Shubhra Ranjan IAS Notes
-            </span>
-            <span className="px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">
-              ✓ {scans.length || currentVolume.totalPages} pages transcribed
-            </span>
-          </div>
+        <div>
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight flex items-start gap-3">
+            <span>{currentVolume.icon}</span> <span>{currentVolume.title}</span>
+          </h1>
+          <p className="mt-2 text-sm text-slate-300 leading-relaxed max-w-3xl">{currentVolume.whyNow}</p>
+        </div>
 
-          <div>
-            <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight flex items-center gap-3">
-              <span>{currentVolume.icon}</span> {meta.topicTitle || currentVolume.title}
-            </h1>
-            <p className="mt-2 text-sm text-slate-300 leading-relaxed max-w-3xl">
-              {meta.summary || currentVolume.subtitle}
-            </p>
+        <div className="space-y-1.5">
+          <div className="flex items-center justify-between text-xs">
+            <span className="font-semibold text-slate-300">Your progress</span>
+            <span className="font-mono text-emerald-300">{doneN} of {studySections.length} topics done</span>
           </div>
-
-          {/* Quick Stats Grid */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-4 border-t border-slate-800">
-            <div className="p-3 rounded-xl bg-slate-950/70 border border-slate-800/80">
-              <span className="text-[11px] uppercase tracking-wider text-amber-400 font-bold block">Archival Scans</span>
-              <span className="text-sm text-slate-100 font-bold mt-0.5">{scans.length || currentVolume.totalPages} Pages Catalogued</span>
-            </div>
-            <div className="p-3 rounded-xl bg-slate-950/70 border border-slate-800/80">
-              <span className="text-[11px] uppercase tracking-wider text-amber-400 font-bold block">Thematic Modules</span>
-              <span className="text-sm text-slate-100 font-bold mt-0.5">{sections.length} Core Sections</span>
-            </div>
-            <div className="p-3 rounded-xl bg-slate-950/70 border border-slate-800/80">
-              <span className="text-[11px] uppercase tracking-wider text-amber-400 font-bold block">Key Concepts</span>
-              <span className="text-sm text-slate-100 font-bold mt-0.5">{totalConcepts} Detailed Models</span>
-            </div>
-            <div className="p-3 rounded-xl bg-slate-950/70 border border-slate-800/80">
-              <span className="text-[11px] uppercase tracking-wider text-amber-400 font-bold block">Recall & Blueprints</span>
-              <span className="text-sm text-slate-100 font-bold mt-0.5">{flashcards.length} Cards • {answers.length} Answers</span>
-            </div>
+          <div className="h-2 rounded-full bg-slate-800 overflow-hidden">
+            <div className="h-full bg-gradient-to-r from-emerald-500 to-amber-400 transition-all" style={{ width: `${pct}%` }} />
           </div>
+        </div>
 
-          {/* Verification Banner */}
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 p-3 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-200 text-xs">
-            <div className="flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-400 shrink-0" />
-              <span>
-                <strong>Page-by-page transcription:</strong> every handwritten page (001 to {String(currentVolume.totalPages).padStart(3, '0')}) is transcribed below by an AI vision model. Open the original scan to verify any line.
-              </span>
-            </div>
+        <div className="flex flex-wrap gap-2">
+          {nextSection ? (
             <button
-              onClick={() => onSelectScanPage(currentVolume.defaultScan || 1)}
-              className="px-3 py-1.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-[11px] transition shrink-0 self-start sm:self-auto cursor-pointer"
+              onClick={() => onJumpTo(nextSection.id)}
+              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-sm transition cursor-pointer shadow-lg"
             >
-              Inspect Scan P.{currentVolume.defaultScan || 1}
+              <PlayCircle className="w-4 h-4" />
+              {doneN === 0 ? 'Start' : 'Continue'}: Topic {topicNumber(sections, nextSection)}, {nextSection.title.split(':')[0]}
             </button>
-          </div>
+          ) : (
+            <span className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-emerald-500/15 text-emerald-300 font-bold text-sm border border-emerald-500/30">
+              <CheckCircle2 className="w-4 h-4" /> Every topic in this volume is done
+            </span>
+          )}
+          {!nextSection && nextVolume && (
+            <button
+              onClick={() => onSwitchVolume(nextVolume.id)}
+              className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-semibold text-sm transition cursor-pointer"
+            >
+              Go to Step {nextVolume.step}: {nextVolume.shortTitle} <ArrowRight className="w-4 h-4" />
+            </button>
+          )}
         </div>
+
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-2.5 pt-1">
+          {STEPS.map((s, i) => (
+            <div key={s.title} className="p-3 rounded-xl bg-slate-950/60 border border-slate-800/80">
+              <div className="flex items-center gap-2 text-[11px] sm:text-xs font-bold text-white leading-tight">
+                <span className="w-5 h-5 rounded-full bg-amber-500/20 text-amber-300 text-[11px] flex items-center justify-center">{i + 1}</span>
+                <s.icon className="w-3.5 h-3.5 text-amber-400" /> {s.title}
+              </div>
+              <p className="mt-1 text-[11px] text-slate-400 leading-relaxed hidden sm:block">{s.text}</p>
+            </div>
+          ))}
+        </div>
+
+        <p className="text-[11px] text-slate-500 leading-relaxed">
+          The summaries, flashcards and answers are written by AI from the handwritten notes, and every page
+          links to its original scan. Check the scan whenever a line matters for your answer.
+        </p>
       </section>
 
-      {/* Filter Tabs */}
-      <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
-        <button
-          onClick={() => setActiveSectionId('all')}
-          className={`px-3 py-1.5 rounded-lg text-xs font-bold transition whitespace-nowrap ${
-            activeSectionId === 'all' 
-              ? 'bg-amber-500 text-slate-950 shadow-md' 
-              : 'bg-slate-800 text-slate-300 hover:text-white hover:bg-slate-700'
-          }`}
-        >
-          All Topics ({sections.length})
-        </button>
-        {sections.map(sec => (
-          <button
-            key={sec.id}
-            onClick={() => setActiveSectionId(sec.id)}
-            className={`px-3 py-1.5 rounded-lg text-xs font-medium transition whitespace-nowrap ${
-              activeSectionId === sec.id 
-                ? 'bg-amber-500 text-slate-950 font-bold shadow-md' 
-                : 'bg-slate-800 text-slate-300 hover:text-white hover:bg-slate-700'
-            }`}
-          >
-            {sec.number}. {sec.title.split(':')[0]}
-          </button>
-        ))}
-      </div>
-
-      {q && visibleSections.length > 0 && (
+      {q && (
         <p className="text-xs text-slate-400 font-mono">
-          {matchedConceptTotal} concept{matchedConceptTotal === 1 ? '' : 's'} in {visibleSections.length} section{visibleSections.length === 1 ? '' : 's'} match "{searchQuery}"
+          {visibleSections.length
+            ? `${matchedConceptTotal} page${matchedConceptTotal === 1 ? '' : 's'} in ${visibleSections.length} topic${visibleSections.length === 1 ? '' : 's'} match "${searchQuery}"`
+            : ''}
         </p>
       )}
 
-      {/* Topics Content Sections */}
-      <div className="space-y-16">
+      {/* Course outline: one row per topic; the open topic shows its pages and study actions */}
+      <div className="space-y-3">
         {visibleSections.map(({ sec, concepts }) => {
+          const front = isFrontMatter(sec);
+          const done = study.isDone(volId, sec.id);
+          const open = isOpen(sec.id);
           const hasPane = sec.id === paneSectionId;
+          const cat = sectionCardCategory(sec);
+          const nCards = flashcards.filter((c) => c.category === cat).length;
+          const secAnswers = answers.filter(sectionAnswerMatch(sec));
+          const nVisuals = explainersFor(sec).length;
+          const slots = open ? explainerSlots(sec, concepts) : {};
           return (
-          <section key={sec.id} id={sec.id} className="scroll-mt-20">
-            <div className={hasPane ? 'flex items-start gap-6' : ''}>
-            <div className="min-w-0 flex-1 space-y-8">
-
-            {/* Section Header */}
-            <div className="p-5 rounded-2xl bg-slate-900 border border-slate-800 flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-lg">
-              <div className="space-y-1">
-                <div className="flex items-center gap-2">
-                  <span className="px-2.5 py-0.5 rounded text-[11px] font-mono font-bold bg-amber-500/20 text-amber-300 border border-amber-500/30">
-                    Topic {sec.number}
+            <section key={sec.id} id={sec.id} className={`scroll-mt-20 rounded-2xl border transition ${
+              open ? 'bg-slate-950/40 border-amber-500/30' : 'bg-slate-900/60 border-slate-800 hover:border-slate-700'
+            }`}>
+              {/* Topic row */}
+              <button
+                onClick={() => toggleOpen(sec.id)}
+                className="w-full text-left p-4 sm:p-5 flex items-start gap-3 cursor-pointer"
+              >
+                <span className="mt-0.5 shrink-0">
+                  {done
+                    ? <CheckCircle2 className="w-5 h-5 text-emerald-400" />
+                    : <Circle className={`w-5 h-5 ${front ? 'text-slate-700' : 'text-slate-500'}`} />}
+                </span>
+                <span className="min-w-0 flex-1">
+                  <span className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] font-mono text-slate-500">
+                    <span className="text-amber-400/90 font-bold">{front ? 'Before you start' : `Topic ${topicNumber(sections, sec)}`}</span>
+                    <span>{concepts.length} page{concepts.length === 1 ? '' : 's'}</span>
+                    {nVisuals > 0 && <span className="text-sky-300">• {nVisuals} visual{nVisuals === 1 ? '' : 's'}</span>}
+                    {nCards > 0 && <span>• {nCards} cards</span>}
+                    {secAnswers.length > 0 && <span>• {secAnswers.length} answer{secAnswers.length === 1 ? '' : 's'}</span>}
                   </span>
-                  <span className="text-xs text-slate-400 font-mono">Notebook {sec.notebookPages} • {sec.lecture}</span>
-                </div>
-                <h2 className="text-xl font-bold text-white tracking-tight">{sec.title}</h2>
-                <p className="text-xs text-slate-400">{sec.subtitle}</p>
-              </div>
+                  <span className={`block mt-0.5 text-base sm:text-lg font-bold leading-snug ${done ? 'text-slate-400' : 'text-white'}`}>
+                    {front ? 'Cover, contents and reading list' : sec.title}
+                  </span>
+                  {!front && sec.subtitle && (
+                    <span className="block mt-0.5 text-xs text-slate-400 line-clamp-2">{sec.subtitle}</span>
+                  )}
+                </span>
+                <ChevronDown className={`w-5 h-5 shrink-0 mt-1 text-slate-500 transition ${open ? 'rotate-180' : ''}`} />
+              </button>
 
-              {/* Scan Page Launchers */}
-              <div className="flex flex-wrap items-center gap-1.5">
-                <span className="text-[11px] text-slate-400 font-semibold mr-1">Scans:</span>
-                {(sec.scanPages || []).map(page => (
-                  <button
-                    key={page}
-                    onClick={() => onSelectScanPage(page)}
-                    className="px-2 py-1 rounded bg-slate-800 hover:bg-amber-500 hover:text-slate-950 text-slate-300 font-mono text-[11px] transition border border-slate-700 cursor-pointer"
-                    title={`View Scan Page ${page}`}
-                  >
-                    P.{page}
-                  </button>
-                ))}
-              </div>
-            </div>
+              {open && (
+                <div className={`px-4 sm:px-5 pb-5 ${hasPane ? 'flex items-start gap-6' : ''}`}>
+                  <div className="min-w-0 flex-1 space-y-4">
+                    {!front && ((sec.keyScholars || []).length > 0 || (sec.coreTheories || []).length > 0) && (
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                        {(sec.keyScholars || []).length > 0 && (
+                          <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800 space-y-2">
+                            <div className="flex items-center gap-1.5 text-[11px] font-bold text-amber-400 uppercase tracking-wider">
+                              <GraduationCap className="w-4 h-4" /> Thinkers to quote
+                            </div>
+                            <div className="flex flex-wrap gap-1.5">
+                              {sec.keyScholars.map((s) => (
+                                <span key={s} className="px-2 py-0.5 rounded text-xs bg-slate-950 text-slate-300 border border-slate-800">{s}</span>
+                              ))}
+                            </div>
+                          </div>
+                        )}
+                        {(sec.coreTheories || []).length > 0 && (
+                          <div className="p-3 rounded-xl bg-slate-900/70 border border-slate-800 space-y-1.5">
+                            <div className="flex items-center gap-1.5 text-[11px] font-bold text-indigo-300 uppercase tracking-wider">
+                              <Sparkles className="w-4 h-4" /> Big ideas in this topic
+                            </div>
+                            <ul className="space-y-1">
+                              {sec.coreTheories.map((t) => (
+                                <li key={t} className="text-xs text-slate-300 flex items-start gap-1.5">
+                                  <span className="text-indigo-400">▸</span><span>{t}</span>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+                      </div>
+                    )}
 
-            {/* Core Scholars & Theories Pills */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {sec.keyScholars && sec.keyScholars.length > 0 && (
-                <div className="p-4 rounded-xl bg-slate-950/60 border border-slate-800 space-y-2">
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-amber-400 uppercase tracking-wider">
-                    <GraduationCap className="w-4 h-4" />
-                    <span>Key Thinkers & Commentators</span>
-                  </div>
-                  <div className="flex flex-wrap gap-1.5">
-                    {sec.keyScholars.map((scholar, sIdx) => (
-                      <span key={sIdx} className="px-2 py-0.5 rounded text-xs bg-slate-900 text-slate-300 border border-slate-800">
-                        {scholar}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
+                    {front && (
+                      <p className="text-xs text-slate-400">
+                        These pages are the notebook's cover, table of contents and reading list. Skim them once, then start Topic 01 below.
+                      </p>
+                    )}
 
-              {sec.coreTheories && sec.coreTheories.length > 0 && (
-                <div className="p-4 rounded-xl bg-slate-950/60 border border-slate-800 space-y-2">
-                  <div className="flex items-center gap-1.5 text-xs font-bold text-indigo-400 uppercase tracking-wider">
-                    <Sparkles className="w-4 h-4" />
-                    <span>Core Theoretical Doctrines</span>
-                  </div>
-                  <ul className="space-y-1">
-                    {sec.coreTheories.slice(0, 4).map((theory, tIdx) => (
-                      <li key={tIdx} className="text-xs text-slate-300 flex items-start gap-1.5">
-                        <span className="text-indigo-400 mt-0.5">▸</span>
-                        <span className="line-clamp-1">{theory}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-            </div>
-
-            {/* Concepts in this Section */}
-            <div className="space-y-8">
-              {(() => { const slots = explainerSlots(sec, concepts); return concepts.map((concept, cIdx) => (
-                <React.Fragment key={cIdx}>
-                {(slots[cIdx] || []).map((x) => (
-                  <VisualExplainer key={x.id} explainer={x} onSelectScanPage={onSelectScanPage} />
-                ))}
-                <div
-                  className="p-6 rounded-2xl bg-slate-900/80 border border-slate-800/90 shadow-xl space-y-6 hover:border-slate-700 transition"
-                >
-                  {/* Concept Header */}
-                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-4 border-b border-slate-800">
-                    <div className="flex items-center gap-2">
-                      <span className="px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
-                        {concept.badge}
-                      </span>
-                      <h3 className="text-lg font-bold text-amber-400">{concept.title}</h3>
-                    </div>
-                    {renderScanPill(concept.scanPage)}
-                  </div>
-
-                  {/* Summary */}
-                  <p className="text-sm text-slate-200 leading-relaxed bg-slate-950/40 p-4 rounded-xl border border-slate-800/60">
-                    {concept.summary}
-                  </p>
-
-                  {/* Detailed Bullet Points */}
-                  {concept.details && concept.details.length > 0 && (
-                    <div className="space-y-2 pt-1">
-                      <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
-                        <Feather className="w-3.5 h-3.5 text-amber-400" />
-                        <span>Lecture Notes Breakdown & Margin Annotations:</span>
-                      </h4>
-                      <ul className="space-y-2.5">
-                        {concept.details.map((bullet, bIdx) => (
-                          <li key={bIdx} className="text-xs sm:text-sm text-slate-300 flex items-start gap-2.5 bg-slate-950/20 p-2.5 rounded-lg border border-slate-800/40">
-                            <span className="text-amber-400 mt-0.5 font-bold">•</span>
-                            <span className="leading-relaxed">{bullet}</span>
-                          </li>
+                    {concepts.map((concept, cIdx) => (
+                      <React.Fragment key={concept.scanPage ?? cIdx}>
+                        {(slots[cIdx] || []).map((x) => (
+                          <VisualExplainer key={x.id} explainer={x} onSelectScanPage={onSelectScanPage} />
                         ))}
-                      </ul>
-                    </div>
-                  )}
+                        <PageCard concept={concept} onSelectScanPage={onSelectScanPage} query={q} />
+                      </React.Fragment>
+                    ))}
 
-                  {/* Verbatim handwritten transcription (collapsed unless it is the page's only content) */}
-                  {concept.verbatim && (
-                    <details
-                      open={!(concept.details && concept.details.length > 3)}
-                      className="rounded-xl border border-slate-800/80 bg-slate-950/50 group"
-                    >
-                      <summary className="cursor-pointer select-none px-4 py-2.5 text-xs font-bold uppercase tracking-wider text-slate-400 hover:text-amber-300 flex items-center gap-1.5">
-                        <ScrollText className="w-3.5 h-3.5 text-amber-400" />
-                        <span>Verbatim handwritten transcription</span>
-                      </summary>
-                      <pre className="px-4 pb-4 pt-1 text-xs sm:text-[13px] leading-relaxed text-slate-300 whitespace-pre-wrap break-words font-sans">
-                        {concept.verbatim}
-                      </pre>
-                    </details>
+                    {!front && (
+                      <div className="flex flex-wrap items-center gap-2 pt-2 border-t border-slate-800/80">
+                        {nCards > 0 && (
+                          <button
+                            onClick={() => onStudy('flashcards', { category: cat })}
+                            className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg bg-indigo-500/15 hover:bg-indigo-500/25 text-indigo-200 border border-indigo-500/30 text-xs font-semibold transition cursor-pointer"
+                          >
+                            <Layers className="w-4 h-4" /> Test yourself ({nCards} cards)
+                          </button>
+                        )}
+                        {secAnswers.length > 0 && (
+                          <button
+                            onClick={() => onStudy('answers', { answerId: secAnswers[0].id })}
+                            className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg bg-sky-500/15 hover:bg-sky-500/25 text-sky-200 border border-sky-500/30 text-xs font-semibold transition cursor-pointer"
+                          >
+                            <PenTool className="w-4 h-4" /> Practice an answer ({secAnswers.length})
+                          </button>
+                        )}
+                        <span className="flex-1" />
+                        {done ? (
+                          <button
+                            onClick={() => study.toggleDone(volId, sec.id)}
+                            className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg text-emerald-300 hover:text-white text-xs font-semibold transition cursor-pointer"
+                          >
+                            <CheckCircle2 className="w-4 h-4" /> Done (undo)
+                          </button>
+                        ) : (
+                          <button
+                            onClick={() => finishTopic(sec)}
+                            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-950 text-xs font-bold transition cursor-pointer"
+                          >
+                            <CheckCircle2 className="w-4 h-4" /> Mark done, next topic
+                          </button>
+                        )}
+                      </div>
+                    )}
+                  </div>
+
+                  {hasPane && (
+                    <aside className="w-[42%] shrink-0 sticky top-[4.5rem] h-[calc(100vh-5.5rem)] rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
+                      {renderInspector()}
+                    </aside>
                   )}
                 </div>
-                </React.Fragment>
-              )); })()}
-            </div>
-
-            </div>
-
-            {hasPane && (
-              <aside className="w-[42%] shrink-0 sticky top-[4.5rem] h-[calc(100vh-5.5rem)] rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
-                {renderInspector()}
-              </aside>
-            )}
-            </div>
-          </section>
+              )}
+            </section>
           );
         })}
 
         {visibleSections.length === 0 && (
           <div className="p-12 text-center rounded-2xl bg-slate-900/50 border border-slate-800 space-y-3">
             <Search className="w-8 h-8 text-slate-500 mx-auto" />
-            <h3 className="text-base font-bold text-slate-300">No matching concepts found</h3>
-            <p className="text-xs text-slate-500">
-              Try searching for different terms or clear the search query.
-            </p>
+            <h3 className="text-base font-bold text-slate-300">Nothing in this volume matches "{searchQuery}"</h3>
+            <p className="text-xs text-slate-500">Try a thinker's surname or a key term, or clear the search.</p>
           </div>
         )}
       </div>
-
     </div>
   );
 }

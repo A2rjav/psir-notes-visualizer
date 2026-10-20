@@ -11,7 +11,7 @@ import {
   ChevronRight,
   ChevronDown
 } from 'lucide-react';
-import { volumesCatalog } from '../data/volumesCatalog';
+import { volumesByStep } from '../data/volumesCatalog';
 
 export default function Navbar({ 
   activeVolumeId,
@@ -84,9 +84,9 @@ export default function Navbar({
                 className="bg-slate-950 border border-slate-800 hover:border-amber-500/50 rounded-xl px-2.5 py-1.5 text-xs font-bold text-amber-400 focus:outline-none focus:ring-1 focus:ring-amber-500 cursor-pointer shadow-inner max-w-[150px] sm:max-w-[220px] md:max-w-[280px] truncate"
                 title="Switch between all 6 digitized volumes"
               >
-                {volumesCatalog.map((vol) => (
+                {volumesByStep.map((vol) => (
                   <option key={vol.id} value={vol.id} className="bg-slate-900 text-slate-100">
-                    {vol.icon} {vol.shortCode}: {vol.shortTitle} ({vol.totalPages}p)
+                    Step {vol.step} · {vol.icon} {vol.shortTitle}
                   </option>
                 ))}
               </select>

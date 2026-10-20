@@ -15,7 +15,7 @@ import {
   Layers,
   FileText
 } from 'lucide-react';
-import { volumesCatalog } from '../data/volumesCatalog';
+import { volumesCatalog, volumesByStep, isFrontMatter, topicNumber } from '../data/volumesCatalog';
 
 export default function Sidebar({ 
   isOpen, 
@@ -24,8 +24,9 @@ export default function Sidebar({
   setActiveVolumeId, 
   currentVolume, 
   currentDataset, 
-  scrollToSection, 
-  onSelectScanPage 
+  scrollToSection,
+  onSelectScanPage,
+  study
 }) {
   const [activeTab, setActiveTab] = useState('sections'); // 'sections' | 'volumes'
 
@@ -51,7 +52,7 @@ export default function Sidebar({
           <div className="flex items-center gap-2">
             <BookMarked className="w-5 h-5 text-amber-400" />
             <div>
-              <h2 className="text-sm font-bold text-white">Course Syllabus Navigation</h2>
+              <h2 className="text-sm font-bold text-white">Study plan</h2>
               <p className="text-[11px] text-slate-400 truncate max-w-[200px]">
                 {currentVolume?.shortTitle || 'PSIR Notes'}
               </p>
@@ -75,7 +76,7 @@ export default function Sidebar({
                 : 'text-slate-400 hover:text-white'
             }`}
           >
-            <span>Current Sections</span>
+            <span>Topics</span>
             <span className="px-1.5 py-0.2 rounded text-[10px] bg-slate-900/60 font-mono">
               {sections.length}
             </span>
@@ -88,7 +89,7 @@ export default function Sidebar({
                 : 'text-slate-400 hover:text-white'
             }`}
           >
-            <span>All 6 Volumes</span>
+            <span>6 Steps</span>
             <span className="px-1.5 py-0.2 rounded text-[10px] bg-slate-900/60 font-mono">
               6
             </span>
@@ -102,7 +103,7 @@ export default function Sidebar({
           {activeTab === 'sections' && (
             <div className="space-y-1.5">
               <span className="text-[10px] uppercase font-bold tracking-wider text-slate-500 block px-1 mb-2">
-                {currentVolume?.shortCode} • {sections.length} Thematic Modules
+                Step {currentVolume?.step} • {study.doneCount(activeVolumeId)} of {sections.filter((x) => !isFrontMatter(x)).length} topics done
               </span>
               {sections.map((sec) => (
                 <div
@@ -118,15 +119,17 @@ export default function Sidebar({
                       className="text-left flex-1 cursor-pointer"
                     >
                       <div className="flex items-center gap-1.5 mb-1">
-                        <span className="px-1.5 py-0.2 rounded text-[10px] font-mono font-bold bg-amber-500/20 text-amber-300">
-                          {sec.number}
+                        <span className={`px-1.5 py-0.2 rounded text-[10px] font-mono font-bold ${
+                          study.isDone(activeVolumeId, sec.id) ? 'bg-emerald-500/20 text-emerald-300' : 'bg-amber-500/20 text-amber-300'
+                        }`}>
+                          {study.isDone(activeVolumeId, sec.id) ? '✓' : (topicNumber(sections, sec) || '·')}
                         </span>
                         <span className="text-[10px] font-mono text-slate-400">
                           {sec.scanPages ? `P.${sec.scanPages[0]}–${sec.scanPages[sec.scanPages.length - 1]}` : ''}
                         </span>
                       </div>
                       <h4 className="text-xs font-semibold text-slate-200 group-hover:text-amber-300 transition line-clamp-2">
-                        {sec.title}
+                        {isFrontMatter(sec) ? 'Cover, contents and reading list' : sec.title}
                       </h4>
                     </button>
                     
@@ -153,10 +156,12 @@ export default function Sidebar({
           {activeTab === 'volumes' && (
             <div className="space-y-2.5">
               <span className="text-[10px] uppercase font-bold tracking-wider text-slate-500 block px-1 mb-1">
-                PSIR 6-Volume Digital Archive
+                Suggested order: thinkers first, current affairs last
               </span>
-              {volumesCatalog.map((vol) => {
+              {volumesByStep.map((vol) => {
                 const isActive = activeVolumeId === vol.id;
+                const done = study.doneCount(vol.id);
+                const total = vol.sectionCount;
                 return (
                   <button
                     key={vol.id}
@@ -176,18 +181,23 @@ export default function Sidebar({
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center justify-between gap-1 mb-0.5">
                         <span className="text-[10px] font-mono font-bold text-amber-400">
-                          {vol.shortCode} • {vol.paperNumber}
+                          Step {vol.step} • {vol.paperNumber}
                         </span>
-                        <span className="text-[10px] font-mono px-1.5 py-0.2 rounded bg-slate-900 text-slate-400 border border-slate-800">
-                          {vol.totalPages} Scans
+                        <span className={`text-[10px] font-mono px-1.5 py-0.2 rounded border ${
+                          done >= total ? 'bg-emerald-500/15 text-emerald-300 border-emerald-500/30' : 'bg-slate-900 text-slate-400 border-slate-800'
+                        }`}>
+                          {done}/{total} topics
                         </span>
                       </div>
                       <h4 className="text-xs font-bold text-white leading-tight truncate">
                         {vol.title}
                       </h4>
-                      <p className="text-[11px] text-slate-400 line-clamp-1 mt-0.5">
-                        {vol.subtitle}
+                      <p className="text-[11px] text-slate-400 line-clamp-2 mt-0.5">
+                        {vol.whyNow}
                       </p>
+                      <div className="mt-1.5 h-1 rounded-full bg-slate-800 overflow-hidden">
+                        <div className="h-full bg-emerald-500" style={{ width: `${Math.min(100, Math.round((done / total) * 100))}%` }} />
+                      </div>
                     </div>
                   </button>
                 );

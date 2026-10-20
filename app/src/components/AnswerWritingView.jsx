@@ -32,8 +32,9 @@ const cleanQuestion = (q) =>
 
 const formatMarks = (m) => (typeof m === 'number' ? `${m} Marks` : m || '20 Marks (250 Words)');
 
-export default function AnswerWritingView({ onSelectScanPage, currentDataset, currentVolume }) {
-  const [selectedQuestionIndex, setSelectedQuestionIndex] = useState(0);
+export default function AnswerWritingView({ onSelectScanPage, currentDataset, currentVolume, initialAnswerId }) {
+  const [selectedQuestionIndex, setSelectedQuestionIndex] = useState(() =>
+    Math.max(0, (currentDataset?.answers || []).findIndex((a) => a.id === initialAnswerId)));
 
   const frameworks = currentDataset?.answers || [];
   const current = frameworks[selectedQuestionIndex] || frameworks[0] || {

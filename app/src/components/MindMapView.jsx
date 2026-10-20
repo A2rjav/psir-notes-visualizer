@@ -34,7 +34,9 @@ export default function MindMapView({ onSelectScanPage, currentDataset, currentV
     }))
   }));
 
-  const [activeClusterId, setActiveClusterId] = useState(clusters[0]?.id || '');
+  const [activeClusterId, setActiveClusterId] = useState(
+    (clusters.find((c) => !/^contents|front matter/i.test(c.fullTitle || '')) || clusters[0])?.id || ''
+  );
   const current = clusters.find(c => c.id === activeClusterId) || clusters[0] || {
     title: 'Concept Cluster',
     nodes: [],

@@ -25,10 +25,10 @@ const loadMastered = (volId) => {
   }
 };
 
-export default function FlashcardsView({ onSelectScanPage, currentDataset, currentVolume }) {
+export default function FlashcardsView({ onSelectScanPage, currentDataset, currentVolume, initialCategory }) {
   const allCards = currentDataset?.flashcards || [];
   const volId = currentVolume?.id || 'vol';
-  const [selectedCategory, setSelectedCategory] = useState('All');
+  const [selectedCategory, setSelectedCategory] = useState(initialCategory || 'All');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [masteredIds, setMasteredIds] = useState(() => loadMastered(volId));
