@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 2,
+   "field": "work",
+   "new": "Discipline and Punish, 1975",
+   "reason": "Michel Foucault's Discipline and Punish was originally published in 1975 (English translation in 1977), not 1979."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How does Michel Foucault's understanding of power differ fundamentally from traditional sovereign and Marxist theories?",
+   "options": [
+    "Power flows multi-directionally through social capillaries instead of being monopolized by the state or ruling class.",
+    "Power is strictly concentrated in sovereign state institutions that hold a monopoly on physical coercion.",
+    "Power is exclusively an economic tool used by dominant classes to control the means of production.",
+    "Power operates entirely through direct physical coercion rather than through knowledge, language, or social discourses."
+   ],
+   "answer": 0,
+   "why": "Foucault rejects sovereign and Marxist models of centralized power, arguing that power circulates multi-directionally throughout society like capillaries.",
+   "page": 108
+  },
+  {
+   "q": "According to Foucault, how does Jeremy Bentham's Panopticon design produce obedience among inmates?",
+   "options": [
+    "By subjecting inmates to constant physical punishments whenever they fail to follow institutional rules.",
+    "By making inmates feel constantly observed, causing them to internalize surveillance and discipline themselves.",
+    "By offering material rewards and early release to prisoners who willingly conform to social expectations.",
+    "By using moral preaching and religious instruction to convince inmates to abandon their criminal thoughts."
+   ],
+   "answer": 1,
+   "why": "The constant possibility of being watched induces an internal gaze, leading inmates to automatically regulate their own behavior.",
+   "page": 107
+  },
+  {
+   "q": "In Max Weber's political thought, what key element transforms naked power into legitimate authority?",
+   "options": [
+    "The state's ability to overwhelm political opponents through unconditional military force and physical coercion.",
+    "The concentration of economic wealth enabling the state to fund extensive social welfare programs.",
+    "The formal enactment of laws by legislators regardless of whether citizens accept them as rightful.",
+    "The voluntary consent and moral acceptance of the ruled, who recognize the exercise of power as right."
+   ],
+   "answer": 3,
+   "why": "For Weber, authority equals power plus legitimacy, meaning power becomes authoritative only when citizens perceive it as rightful.",
+   "page": 114
+  },
+  {
+   "q": "Which of the following correctly pairs one of Weber's ideal types of authority with its underlying basis?",
+   "options": [
+    "Charismatic authority rests on long-established customs, sacred traditions, and inherited hereditary status.",
+    "Traditional authority stems from codified rules, impersonal procedures, and legally defined bureaucratic positions.",
+    "Legal-rational authority is grounded in formally enacted rules, procedural validity, and impersonal institutional offices.",
+    "Legal-rational authority depends entirely on extraordinary devotion to an exceptional leader's personal magnetic charisma."
+   ],
+   "answer": 2,
+   "why": "Legal-rational authority derives legitimacy from obedience to formal, impersonal rules and established laws rather than individuals or traditions.",
+   "page": 111
+  }
+ ]
+}

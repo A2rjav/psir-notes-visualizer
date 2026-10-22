@@ -1,0 +1,74 @@
+{
+ "title": "Centre-State Financial Relations and GST",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why does the Centre collect most taxes while States do most spending?",
+   "narration": "Have you ever wondered why your state government builds the schools and hospitals, but the central government collects the biggest taxes? In Indian federalism, money is the most debated topic between New Delhi and the states."
+  },
+  {
+   "type": "analogy",
+   "emoji": "👨‍👧‍👦",
+   "text": "Like an elder brother who holds the family purse and distributes pocket money.",
+   "narration": "As an analogy, think of a joint family where an elder brother earns the highest income and shares pocket money with younger siblings. Similarly, the Constitution gives high-yielding taxes to the Centre, which acts like an elder brother sharing funds equitably."
+  },
+  {
+   "type": "balance",
+   "heading": "Vertical Financial Imbalance",
+   "left": "High Social Spending",
+   "right": "Rigid Low Revenues",
+   "tilt": "left",
+   "narration": "States face a vertical imbalance because their social spending is very high, while their local taxes are low-yielding and rigid. They cannot even borrow fresh market loans without central permission if past loans are pending."
+  },
+  {
+   "type": "compare",
+   "heading": "Devolution and Planning",
+   "columns": [
+    {
+     "title": "Finance Commission",
+     "items": [
+      "Recommends statutory grants",
+      "Raised tax share to 42%"
+     ]
+    },
+    {
+     "title": "NITI Aayog",
+     "items": [
+      "Replaced Planning Commission",
+      "Promotes cooperative federalism"
+     ]
+    }
+   ],
+   "narration": "To bridge this gap, the independent Finance Commission recommends statutory grants, recently raising the states' tax share to forty-two percent. Furthermore, the old Planning Commission was replaced by NITI Aayog to support cooperative federalism."
+  },
+  {
+   "type": "points",
+   "heading": "101st Amendment Tax Reforms",
+   "items": [
+    "Article 246A gives concurrent taxation powers",
+    "Aims at one nation one tax",
+    "Article 279A creates the GST Council"
+   ],
+   "narration": "Then came the hundred and first amendment, introducing Goods and Services Tax to create one common market. Article 246A gave Parliament and state assemblies concurrent power, meaning both can tax goods and services together for the first time."
+  },
+  {
+   "type": "flow",
+   "heading": "GST Council Decision Process",
+   "steps": [
+    "Half members form quorum",
+    "Ministers deliberate together",
+    "Recommend rates and settle disputes"
+   ],
+   "narration": "Under Article 279A, the GST Council brings the Union Finance Minister and state finance ministers to one table. With a quorum of half its members, they jointly decide tax rates and settle disputes."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Centre collects high-yielding taxes to share",
+    "Finance Commission recommends statutory devolution",
+    "Article 246A enables concurrent GST taxation"
+   ],
+   "narration": "To recap: the Centre pools high-yielding taxes, the Finance Commission shares them fairly, and the GST Council brings everyone together to decide taxes jointly."
+  }
+ ]
+}

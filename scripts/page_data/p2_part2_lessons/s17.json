@@ -1,0 +1,97 @@
+{
+ "title": "Security, National Interest, and Transnational Actors",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is national security about borders, or protecting human lives?",
+   "narration": "When you hear the word security, do you only think of tanks and soldiers at borders? Today, we will explore why modern security goes far deeper than military defence alone."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A gated society with armed guards, yet contaminated drinking water inside.",
+   "narration": "Here is an analogy: imagine a gated housing society with armed guards at the gate. The boundary is secure, but inside, families fall sick from polluted water. True security protects life inside the gates too."
+  },
+  {
+   "type": "thinker",
+   "name": "Cynthia Enloe",
+   "idea": "State security perspectives are heavily gendered, neglecting everyday human security.",
+   "work": "",
+   "narration": "Thinker Cynthia Enloe explains that traditional security views are heavily gendered. States prioritise weapons and borders, while neglecting the everyday safety, health, and dignity of human beings."
+  },
+  {
+   "type": "rings",
+   "heading": "Buzan's Comprehensive Security Model",
+   "rings": [
+    {
+     "label": "Human Security",
+     "tone": "self"
+    },
+    {
+     "label": "National Security",
+     "tone": "friend"
+    },
+    {
+     "label": "Global Security",
+     "tone": "neutral"
+    }
+   ],
+   "narration": "Copenhagen school scholar Barry Buzan shows that security must be comprehensive. At the centre sits human security, expanding outward to national and global levels across military, ecological, and economic pillars."
+  },
+  {
+   "type": "balance",
+   "heading": "National Interest Debate",
+   "left": "Genuine Public Welfare",
+   "right": "Ruling Elite Interests",
+   "tilt": "right",
+   "narration": "Here's the trick with national interest: is it real or a pseudo-theory? Raymond Aron called it vague, while Mohammad Yunus showed how Pakistan's army presents its institutional interests as the nation's interest."
+  },
+  {
+   "type": "compare",
+   "heading": "Perspectives on Transnational Actors",
+   "columns": [
+    {
+     "title": "Realists",
+     "items": [
+      "Treat non-state actors as proxies",
+      "State remains dominant actor"
+     ]
+    },
+    {
+     "title": "Liberals",
+     "items": [
+      "Value MNCs and NGOs",
+      "Bring development and stability"
+     ]
+    },
+    {
+     "title": "Marxists",
+     "items": [
+      "Critique corporate exploitation",
+      "Rooted in colonial history"
+     ]
+    }
+   ],
+   "narration": "Who shapes world politics today? Realists see non-state actors merely as state proxies, liberals welcome them as engines of development, while Marxists view corporations as tools of exploitation."
+  },
+  {
+   "type": "points",
+   "heading": "Rise of Transnational Power",
+   "items": [
+    "Joseph Nye's three-dimensional chessboard model",
+    "Rapid globalisation and IT revolution",
+    "Growing global human rights consciousness"
+   ],
+   "narration": "Joseph Nye introduced the three-dimensional chessboard model to explain how power diffuses. Globalisation, the internet revolution, and human rights awareness have empowered non-state actors worldwide."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Security expands beyond borders to human lives",
+    "National interest is often shaped by elites",
+    "Transnational actors diffuse power across the globe"
+   ],
+   "narration": "Remember these three big ideas: true security protects human lives, national interest can be subjective, and transnational actors now share the global chessboard."
+  }
+ ]
+}

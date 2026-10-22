@@ -1,0 +1,89 @@
+{
+ "title": "Non-Aligned Movement and South-South Cooperation",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did newly independent nations reject both American and Soviet Cold War blocs?",
+   "narration": "Imagine being forced to pick between two rival superpowers right after winning your freedom. Newly independent nations refused both sides, launching a bold global movement to protect their hard-won sovereignty."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Two rival school gangs demand loyalty, so neutral students form their own study circle.",
+   "narration": "Here is a simple school analogy to help picture it. When two classroom bullies demand everyone join their rival gangs, neutral students stick together in their own group to study peacefully."
+  },
+  {
+   "type": "timeline",
+   "heading": "From Bandung to Post-Cold War Crisis",
+   "events": [
+    {
+     "when": "1955",
+     "what": "Bandung Conference creates ten foundational principles"
+    },
+    {
+     "when": "1961",
+     "what": "First NAM summit meets in Belgrade"
+    },
+    {
+     "when": "1973",
+     "what": "Algiers summit demands New International Economic Order"
+    },
+    {
+     "when": "1990s",
+     "what": "Cold War ends sparking an identity crisis"
+    }
+   ],
+   "narration": "Starting with ten principles at Bandung in 1955, twenty-five countries officially founded NAM at Belgrade in 1961. After pushing for a fair economic order in the seventies, the Cold War's end left NAM searching for purpose."
+  },
+  {
+   "type": "thinker",
+   "name": "C. Raja Mohan",
+   "idea": "NAM is in a coma and should have declared mission accomplished.",
+   "work": "",
+   "narration": "Foreign policy expert C. Raja Mohan argued that NAM slipped into a coma. He believed member states should have claimed mission accomplished and gracefully disbanded once the Cold War finished."
+  },
+  {
+   "type": "flow",
+   "heading": "Rise of South-South Cooperation",
+   "steps": [
+    "Rich nations stall Doha Development Agenda",
+    "Southern countries face severe trade disadvantages",
+    "Brasilia Declaration creates IBSA in 2003",
+    "IBSA Fund finances demand-driven local projects"
+   ],
+   "narration": "When wealthy countries ignored the Doha Development Agenda, developing nations realized they must help themselves. India, Brazil, and South Africa formed IBSA in 2003, funding practical local projects without strict western conditions."
+  },
+  {
+   "type": "compare",
+   "heading": "Choosing Between IBSA and BRICS",
+   "columns": [
+    {
+     "title": "IBSA Forum",
+     "items": [
+      "Three vibrant Southern democracies",
+      "Equal partnership with no dominant hegemon",
+      "Award-winning fund with no conditionalities"
+     ]
+    },
+    {
+     "title": "BRICS Group",
+     "items": [
+      "Heavily dominated by Chinese influence",
+      "Members have conflicting geopolitical goals",
+      "Created New Development Bank"
+     ]
+    }
+   ],
+   "narration": "While BRICS gives big market power, China dominates it, and members often clash over vital security interests. India prefers IBSA because it unites three equal democracies with shared values and genuine cooperation."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Bandung principles launched NAM to resist superpower alignment",
+    "Post-Cold War deficits sparked new South-South development partnerships",
+    "Democratic IBSA complements India's interests better than China-dominated BRICS"
+   ],
+   "narration": "To wrap up, remember how NAM united newly independent nations against superpower pressure. Today, South-South cooperation through democratic forums like IBSA gives developing countries their strongest collective voice."
+  }
+ ]
+}

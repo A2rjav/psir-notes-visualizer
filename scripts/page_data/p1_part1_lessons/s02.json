@@ -1,0 +1,79 @@
+{
+ "title": "Ancient Indian Political Thought and Dharmashastra",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Did ancient India really lack political thought?",
+   "narration": "Did ancient Indians only care about spiritual salvation and ignore politics? Western critics long argued this, but ancient texts prove political thinking was always alive in India."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Cricket blends fair play spirit with the umpire's ruling power.",
+   "narration": "As an everyday analogy, think of cricket. You cannot separate the spirit of fair play from the umpire's disciplinary power; both must work together to run the game."
+  },
+  {
+   "type": "compare",
+   "heading": "Dharmashastra versus Dandashastra",
+   "columns": [
+    {
+     "title": "Dharmashastra",
+     "items": [
+      "Core focus on moral duty",
+      "State enforcement is peripheral"
+     ]
+    },
+    {
+     "title": "Dandashastra",
+     "items": [
+      "Core focus on statecraft",
+      "Moral duty is peripheral"
+     ]
+    }
+   ],
+   "narration": "Unlike Western thought which divides politics from ethics, Indian thinkers saw them on a single continuum. Dharmashastra centers on moral duty, while Dandashastra highlights political power."
+  },
+  {
+   "type": "flow",
+   "heading": "The Origin of Political Order",
+   "steps": [
+    "Cosmic law revealed through Vedas",
+    "Anarchy threatens the weak",
+    "Creator Brahma appoints King Manu",
+    "King enforces righteous order"
+   ],
+   "narration": "To escape terrifying anarchy where big fish ate small fish, people asked the creator Brahma for protection. Brahma created Manu as the first king to uphold cosmic law."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Social Order in Manusmriti",
+   "levels": [
+    "Brahmin priests and scholars",
+    "Kshatriya rulers and warriors",
+    "Vaishya merchants and farmers",
+    "Shudras serving society"
+   ],
+   "narration": "Manusmriti organized society into four classes, requiring the king to enforce each group's duties. However, punishments were unequal, becoming much harsher for people at the lower levels."
+  },
+  {
+   "type": "points",
+   "heading": "The King's Duties and Limits",
+   "items": [
+    "Divine personality without divine absolute rights",
+    "Bound strictly by royal moral duty",
+    "Must protect subjects and ensure welfare",
+    "Severely criticized by modern social reformers"
+   ],
+   "narration": "Here's the trick: the king had a divine personality, but no divine rights! He remained under moral law, though modern thinkers like Ambedkar strongly criticized the text's inequalities."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Indian thought unites moral duty and political power",
+    "The king was created to stop social anarchy",
+    "Rulers held divine personality without divine rights"
+   ],
+   "narration": "Remember these three big takeaways. Indian thought blends ethics with power, creates the ruler to end chaos, and keeps even the king accountable to higher duty."
+  }
+ ]
+}

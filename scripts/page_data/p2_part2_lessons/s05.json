@@ -1,0 +1,71 @@
+{
+ "title": "Understanding the State in Comparative Perspective",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does the state serve everyone, or only powerful elites?",
+   "narration": "Does the government genuinely serve all citizens equally, or is it secretly controlled by wealthy elites?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school monitor who promises fairness but secretly favors their close friends.",
+   "narration": "Here is an everyday analogy: imagine a school monitor who promises to treat everyone fairly, but always lets their close friends break rules. In politics, we ask whether the state is a neutral referee or a tool for the powerful."
+  },
+  {
+   "type": "balance",
+   "heading": "Capitalist State Debate",
+   "left": "Neutral Public Arbiter",
+   "right": "Ruling Class Instrument",
+   "tilt": "even",
+   "narration": "In capitalist societies, liberals call the state a neutral arbiter balancing everyone's interests. But Marxists disagree, arguing that economic elites control political power and turn the state into a class instrument."
+  },
+  {
+   "type": "thinker",
+   "name": "Robert Dahl",
+   "idea": "Capitalist democracies operate as deformed polyarchies ruled by competing elite minorities.",
+   "work": "",
+   "narration": "Thinker Robert Dahl examined American democracy and found that power is divided among competing interest groups. He called this a deformed polyarchy, meaning rule by multiple elite minorities rather than true popular democracy."
+  },
+  {
+   "type": "compare",
+   "heading": "Socialist State Perspectives",
+   "columns": [
+    {
+     "title": "Marxist View",
+     "items": [
+      "Dictatorship of the proletariat",
+      "Works for the majority"
+     ]
+    },
+    {
+     "title": "Western Critique",
+     "items": [
+      "Totalitarian closed society",
+      "Monolithic communist party elites"
+     ]
+    }
+   ],
+   "narration": "What about socialist states like China and Cuba? While Marxist theory promised a democratic dictatorship of the working class, scholars like Karl Popper showed that monolithic communist party elites created totalitarian, closed societies."
+  },
+  {
+   "type": "points",
+   "heading": "State in Developing Societies",
+   "items": [
+    "Overdeveloped state apparatus inherited from colonial rule",
+    "Clientelist puppet regimes serving foreign core capitalists",
+    "Soft states facing political decay"
+   ],
+   "narration": "In the developing world, Hamza Alavi showed that post-colonial nations inherited overdeveloped military and bureaucratic states. Furthermore, dependency scholars found clientelist regimes acting as puppets for foreign capitalist powers."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Capitalist states balance welfare goals with corporate power.",
+    "Socialist states became totalitarian under monolithic party elites.",
+    "Developing states inherited overdeveloped post-colonial institutions."
+   ],
+   "narration": "Remember these three truths: capitalist states balance welfare with elite corporate influence; socialist states suffered totalitarian party control; and developing nations battle overdeveloped colonial bureaucracies."
+  }
+ ]
+}

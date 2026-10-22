@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Ramchandra Guha, how does Southern environmentalism fundamentally differ from Northern environmentalism?",
+   "options": [
+    "It is led by professional scientists pursuing wilderness preservation as an aesthetic luxury.",
+    "It is led by impoverished communities fighting for basic survival and livelihood resources.",
+    "It relies primarily on international non-governmental organizations advocating technological fixes.",
+    "It focuses strictly on industrial pollution control rather than rural natural resource rights."
+   ],
+   "answer": 1,
+   "why": "Guha contrasts Northern full-stomach environmentalism led by scientists for conservation with Southern empty-stomach environmentalism led by the poor defending basic livelihoods.",
+   "page": 75
+  },
+  {
+   "q": "In 'Ecology and Equity', how do Crusading Gandhians differ from Appropriate Technologists regarding environmental solutions?",
+   "options": [
+    "Gandhians seek alternatives in Indian tradition, while Technologists seek practical engineering solutions.",
+    "Gandhians advocate violent revolutionary struggle, while Technologists promote Gandhian moral trusteeship.",
+    "Gandhians favor state-led heavy industrialization, while Technologists urge complete rejection of science.",
+    "Gandhians support centralized market mechanisms, while Technologists demand radical grassroots democracy."
+   ],
+   "answer": 0,
+   "why": "Crusading Gandhians critique modern development by offering alternatives rooted in Indian traditions, whereas Appropriate Technologists focus on technological fixes to ecological challenges.",
+   "page": 78
+  },
+  {
+   "q": "Why does Sunita Narain categorize Indian environmentalism as 'utilitarian conservatism' rather than Western 'protectionist conservatism'?",
+   "options": [
+    "Because it prioritizes protecting tigers and untouched wildlife over human settlements.",
+    "Because it demands total state ownership and bureaucratic control over all natural resources.",
+    "Because local communities protect nature for survival and livelihoods rather than mere recreation.",
+    "Because it completely opposes industrial economic development in favor of absolute wilderness preservation."
+   ],
+   "answer": 2,
+   "why": "Sunita Narain explains that Indian communities conserve natural resources because their daily survival depends on them, unlike Western preservation aimed at leisure and recreation.",
+   "page": 79
+  },
+  {
+   "q": "According to Vandana Shiva and Jayant Bandopadhyaya, what primary developmental factor spurred Indian environmental movements?",
+   "options": [
+    "The total exclusion of international non-governmental organizations from national policy deliberations.",
+    "The widespread adoption of traditional tribal knowledge systems by commercial resource corporations.",
+    "The excessive reliance of civil society on electoral politics rather than grassroots agitation.",
+    "A resource-intensive development path that severely disrupted long-standing ecological life-support systems."
+   ],
+   "answer": 3,
+   "why": "Shiva and Bandopadhyaya argue that post-independence resource-intensive development destroyed fragile ecological stability and historic life-support systems, triggering community resistance.",
+   "page": 80
+  }
+ ]
+}

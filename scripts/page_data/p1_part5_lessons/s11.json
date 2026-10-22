@@ -1,0 +1,81 @@
+{
+ "title": "Rousseau: General Will and Popular Sovereignty",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can forcing someone to obey laws make them free?",
+   "narration": "Imagine being forced to follow state laws, yet being told that this makes you completely free! The French thinker Jean-Jacques Rousseau solved this puzzle with his famous idea of the General Will."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Like students agreeing on classroom rules to protect everyone's learning.",
+   "narration": "Here is an everyday analogy. When your class comes together and everyone votes for a study rule, you gladly obey it because you made it yourself. That shared, selfless choice is what Rousseau calls the General Will."
+  },
+  {
+   "type": "flow",
+   "heading": "From Bliss to Civil Society",
+   "steps": [
+    "Noble savage in natural bliss",
+    "Reason invents mine and thine",
+    "Man becomes a depraved animal",
+    "Social contract restores true happiness"
+   ],
+   "narration": "Rousseau believed early humans were noble savages living in pure bliss. But settled civilization and calculating reason taught people greed and property, turning good humans corrupt until a new social contract was needed."
+  },
+  {
+   "type": "compare",
+   "heading": "Three Forms of Sovereignty",
+   "columns": [
+    {
+     "title": "Legal (Hobbes)",
+     "items": [
+      "Monarch holds absolute power",
+      "Ruler is third-party master"
+     ]
+    },
+    {
+     "title": "Political (Locke)",
+     "items": [
+      "Parliament makes public laws",
+      "Elected representatives rule"
+     ]
+    },
+    {
+     "title": "Popular (Rousseau)",
+     "items": [
+      "Sovereignty stays with people",
+      "Power diffused through community"
+     ]
+    }
+   ],
+   "narration": "Here's the trick to understanding sovereignty. While Hobbes gave absolute power to an outside monarch, Rousseau put supreme power directly in the hands of the people, diffusing authority through the whole community."
+  },
+  {
+   "type": "quote",
+   "quote": "Man is born free, but he is everywhere in chains.",
+   "by": "Jean-Jacques Rousseau",
+   "narration": "In his book Social Contract, Rousseau opened with this legendary quote. He believed modern society enslaves our good nature, but we can regain our liberty by uniting under one moral body politic."
+  },
+  {
+   "type": "points",
+   "heading": "Direct Democracy and Moral Freedom",
+   "items": [
+    "Citizens directly vote on all laws",
+    "Modelled on Swiss direct democracy",
+    "Positive liberty means obeying moral law",
+    "The state forces men to be free"
+   ],
+   "narration": "Rousseau championed direct, participatory democracy, inspired by Switzerland. When you obey laws you personally debated and voted for, that is moral freedom, or positive liberty, because you are only answering to your own best self."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Man is naturally good but corrupted by society",
+    "General Will unites everyone's best real will",
+    "Direct democracy gives citizens real moral freedom"
+   ],
+   "narration": "Remember these three big ideas: humans are born good, popular sovereignty belongs solely to the people, and obeying the General Will gives us true moral freedom."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "title": "Fundamental Rights and Judicial Review Explained",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can the government take away your basic rights?",
+   "narration": "Can Parliament pass any law it wants, or is someone watching? Here's the secret: the Constitution gives you shield walls and gives judges a magnifying glass!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Fundamental rights are boundary ropes; judicial review is the umpire.",
+   "narration": "Think of this like a cricket match. Fundamental rights are boundary lines the bowler cannot cross, while judicial review acts like the third umpire checking if a delivery is illegal."
+  },
+  {
+   "type": "balance",
+   "heading": "Limiting State Sovereignty",
+   "left": "Individual Rights",
+   "right": "State Sovereignty",
+   "tilt": "left",
+   "narration": "Fundamental rights come from natural rights, meaning the state confirms your freedom rather than granting it. This tilts power toward individuals by checking arbitrary state power."
+  },
+  {
+   "type": "timeline",
+   "heading": "Amendments Shielding Property Laws",
+   "events": [
+    {
+     "when": "1951",
+     "what": "First Amendment creates Ninth Schedule"
+    },
+    {
+     "when": "1971",
+     "what": "Twenty-fifth Amendment saves Directive Principles"
+    },
+    {
+     "when": "1976",
+     "what": "Forty-second Amendment shields all directives"
+    }
+   ],
+   "narration": "When property rights clashed with land reforms, Parliament added the Ninth Schedule in nineteen fifty-one to shield laws from courts. Later amendments protected directive policies too."
+  },
+  {
+   "type": "points",
+   "heading": "Doctrines of Judicial Review",
+   "items": [
+    "Severability removes only invalid legal sections",
+    "Eclipse places unconstitutional provisions under shadow",
+    "Judicial review originates from American Marbury case"
+   ],
+   "narration": "Borrowed from America's Marbury versus Madison case, judicial review lets Indian courts inspect laws. Under severability, judges cut out only the bad part of a law, saving the rest."
+  },
+  {
+   "type": "compare",
+   "heading": "Procedural vs Substantive Due Process",
+   "columns": [
+    {
+     "title": "Procedural Due Process",
+     "items": [
+      "Questions wisdom of executive",
+      "Applied in Shatrugan Chauhan case"
+     ]
+    },
+    {
+     "title": "Substantive Due Process",
+     "items": [
+      "Questions wisdom of law",
+      "Rooted in natural justice"
+     ]
+    }
+   ],
+   "narration": "Here is the difference: procedural due process checks if officials follow fair steps, like commuting delayed death sentences in Shatrugan Chauhan. Substantive due process questions the law's fairness itself."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Fundamental rights limit arbitrary state sovereignty",
+    "Ninth Schedule shielded early property laws",
+    "Judicial review checks executive action and laws"
+   ],
+   "narration": "Remember these three rules: rights protect individual freedom, amendments shielded property reforms from judicial review, and courts examine both government procedures and the wisdom of laws."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to the notes, what distinguishes an 'element' of national power from a 'determinant' of power?",
+   "options": [
+    "An element becomes a determinant only when it is skillfully utilized to enhance a nation's power.",
+    "Elements represent non-material capabilities, whereas determinants refer strictly to tangible military and economic resources.",
+    "Elements can be measured objectively, while determinants are unpredictable factors that inevitably cause strategic miscalculation.",
+    "Elements are controlled entirely by the state, whereas determinants remain diffused across society and institutions."
+   ],
+   "answer": 0,
+   "why": "An element such as geography or population becomes an effective determinant of power only when utilized skillfully to augment national strength.",
+   "page": 118
+  },
+  {
+   "q": "In Joseph Nye's three-dimensional chessboard model of contemporary global power, which dimension is characterized as multipolar?",
+   "options": [
+    "The military dimension, where multiple great powers possess nuclear deterrence capabilities.",
+    "The economic dimension, where influence and wealth are distributed among several major poles.",
+    "The social dimension, where information technology and public diplomacy diffuse influence widely.",
+    "The ideological dimension, where conflicting democratic and authoritarian values compete globally."
+   ],
+   "answer": 1,
+   "why": "Joseph Nye describes the contemporary world as a three-dimensional chessboard where military power is unipolar, economic power is multipolar, and social power is diffused.",
+   "page": 120
+  },
+  {
+   "q": "Why did Joseph Nye modify his initial thesis and advocate for 'smart power' instead of relying solely on soft power?",
+   "options": [
+    "He concluded that economic sanctions achieve faster diplomatic compliance than voluntary cultural attraction.",
+    "He argued that rapid technological agility has rendered patient diplomatic persuasion obsolete in modern conflicts.",
+    "He realized soft power alone is insufficient and must be paired with military strength, alliances, and institutions.",
+    "He found that democratic institutions naturally eliminate the necessity of maintaining conventional defence capabilities."
+   ],
+   "answer": 2,
+   "why": "Nye acknowledged that soft power alone cannot guarantee security, defining smart power as combining military capability with heavy investment in alliances and institutions.",
+   "page": 121
+  },
+  {
+   "q": "According to structural realists like Kenneth Waltz and Mearsheimer, why is a bipolar system more stable than multipolarity?",
+   "options": [
+    "Bipolarity encourages multilateral institutional cooperation and eliminates imperial overstretch among great powers.",
+    "A single dominant hegemon acts as an effective global policeman to enforce international order.",
+    "Agile middle powers form shifting coalitions that prevent any single superpower from developing megalomania.",
+    "Fewer decision-makers reduce strategic miscalculations, while clear spheres of influence allow nuclear deterrence to operate effectively."
+   ],
+   "answer": 3,
+   "why": "In a bipolar system, fewer actors reduce the chances of miscalculation and confusion, allowing nuclear deterrence and defined spheres of influence to maintain peace.",
+   "page": 123
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "title": "Gandhi: Satyagraha, Swaraj, and Modernity",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can non-violence be the weapon of the morally strong?",
+   "narration": "Imagine fighting an empire without lifting a single weapon. Gandhi showed that true power comes from moral courage, not physical force."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Winning an argument through calm honesty rather than shouting or anger.",
+   "narration": "Here is an everyday school analogy. When a bully shouts, responding with calm truth disarms them faster than shouting back."
+  },
+  {
+   "type": "compare",
+   "heading": "Satyagraha Versus Passive Resistance",
+   "columns": [
+    {
+     "title": "Passive Resistance",
+     "items": [
+      "Weapon of the weak",
+      "May harbor enmity",
+      "Non-violence by tactical choice"
+     ]
+    },
+    {
+     "title": "Satyagraha",
+     "items": [
+      "Weapon of the morally strong",
+      "Hates evil, loves evil-doer",
+      "Non-violence as an article of faith"
+     ]
+    }
+   ],
+   "narration": "Here's the trick to this classic comparison. Passive resistance avoids violence only out of weakness, but Satyagraha, meaning soul-force, chooses non-violence as a moral duty."
+  },
+  {
+   "type": "rings",
+   "heading": "Oceanic Circles of Power",
+   "rings": [
+    {
+     "label": "Individual self control",
+     "tone": "self"
+    },
+    {
+     "label": "Village panchayats",
+     "tone": "friend"
+    },
+    {
+     "label": "Ever widening ocean",
+     "tone": "neutral"
+    }
+   ],
+   "narration": "For Gandhi, Swaraj or self-rule is not top-down power. It expands outward like oceanic circles, starting from individual self-control to empower local village republics."
+  },
+  {
+   "type": "points",
+   "heading": "Trusteeship and Class Harmony",
+   "items": [
+    "Capital is a social production",
+    "Capitalists act as trustees, not owners",
+    "Production by masses, not mass production"
+   ],
+   "narration": "Unlike Marxists who wanted class struggle, Gandhi believed in class harmony. He urged wealthy owners to view riches as community trusts and protect workers' dignity."
+  },
+  {
+   "type": "points",
+   "heading": "Critique of Modern Civilisation",
+   "items": [
+    "Modernity fuels endless consumer appetites",
+    "True civilisation means minimising wants",
+    "Replicating Western growth needs multiple earths"
+   ],
+   "narration": "In his book Hind Swaraj, Gandhi called modern civilisation a trap of reckless consumerism. True civilisation, he argued, does not multiply desires, but teaches us self-restraint."
+  },
+  {
+   "type": "balance",
+   "heading": "Rights Flow From Duties",
+   "left": "Performing moral duties",
+   "right": "Claiming basic rights",
+   "tilt": "left",
+   "narration": "Notice how the scale tips. Gandhi taught that rights are born inside our duties, so when you sincerely fulfill your responsibilities, rights naturally follow."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Satyagraha relies on moral strength, not passive weakness",
+    "Swaraj begins with self-control and decentralised villages",
+    "Trusteeship promotes class harmony and dignity of labour"
+   ],
+   "narration": "Remember these three pillars. Satyagraha is moral courage, Swaraj begins with self-control, and real harmony comes from serving others through our duties."
+  }
+ ]
+}

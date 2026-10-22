@@ -1,0 +1,77 @@
+{
+ "title": "Ambedkar: Caste Annihilation and Constitutional Democracy",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can political freedom bring true democracy without ending caste inequality?",
+   "narration": "Imagine gaining political independence, but remaining trapped in social oppression every single day. Dr. B. R. Ambedkar argued that genuine freedom is meaningless without first annihilating caste inequality."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket team benches star players solely due to family background.",
+   "narration": "Here is an everyday analogy: if a cricket team bans its finest players from batting just because of their families, the team collapses. Likewise, Ambedkar warned that caste divisions split India into warring camps, blocking real nationhood."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Hierarchy of Brahmanism",
+   "levels": [
+    "Purity and supremacy",
+    "Endogamy closes castes",
+    "Division of labourers",
+    "Untouchable Broken Men outside"
+   ],
+   "narration": "Here's the trick to his critique of Brahmanism. Ambedkar showed that caste is not a natural division of labour, but an artificial hierarchy. It enforces endogamy—marrying only within one's caste—and purity to keep Broken Men segregated."
+  },
+  {
+   "type": "compare",
+   "heading": "Gandhi versus Ambedkar on Caste",
+   "columns": [
+    {
+     "title": "Mahatma Gandhi",
+     "items": [
+      "Varna as functional specialisation",
+      "Internal reform within Hinduism",
+      "Moral appeals against untouchability"
+     ]
+    },
+    {
+     "title": "B. R. Ambedkar",
+     "items": [
+      "Caste divides labourers by birth",
+      "Total annihilation of caste",
+      "Constitutional rights and conversion"
+     ]
+    }
+   ],
+   "narration": "Look at the clash between Gandhi and Ambedkar. While Gandhi defended Varna as functional specialization, Ambedkar insisted that real caste is a division of labourers based on birth, which must be completely destroyed."
+  },
+  {
+   "type": "balance",
+   "heading": "Indian Society's Basic Structure",
+   "left": "Marx: Economic Base",
+   "right": "Ambedkar: Brahmanical Ideology",
+   "tilt": "right",
+   "narration": "Next, see how Ambedkar tackled Karl Marx. Marx viewed economic class as the root of injustice, but Ambedkar countered that in India, the religious ideology of Brahmanism forms the real foundation of social oppression."
+  },
+  {
+   "type": "points",
+   "heading": "Constitutional Democracy over Revolution",
+   "items": [
+    "Reject violent revolution and proletarian dictatorship",
+    "Use state agency to cure social injustice",
+    "Protect individual dignity through liberal democracy"
+   ],
+   "narration": "Because society was more oppressive than the state, Ambedkar rejected violent Marxist revolution. Instead, he chose constitutional democracy, trusting state-backed affirmative action and legal rights to protect human dignity."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Caste is an enforced division of labourers",
+    "Brahmanical ideology forms India's core social structure",
+    "Constitutional democracy is vital for social justice"
+   ],
+   "narration": "Here are your key takeaways: caste is an oppressive division of labourers, ideological reform must dismantle Brahmanism, and constitutional democracy remains the true path to equal dignity."
+  }
+ ]
+}

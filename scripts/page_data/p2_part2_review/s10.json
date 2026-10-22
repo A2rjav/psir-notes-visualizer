@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Kenneth Waltz's defensive realism, why should states seek an appropriate amount of security rather than unlimited power?",
+   "options": [
+    "Gaining power mindlessly makes others insecure and provokes a combined balancing coalition against the state.",
+    "International institutions and treaties reliably deter aggression and guarantee the sovereignty of weaker nations.",
+    "Possessing nuclear weapons renders conventional military power and systemic balance-of-power calculations completely irrelevant.",
+    "Domestic institutional checks naturally prevent rational democratic leaders from pursuing aggressive military expansion abroad."
+   ],
+   "answer": 0,
+   "why": "Waltz argues that mindless power seeking makes other nations insecure, prompting them to unite and balance against the aggressor.",
+   "page": 76
+  },
+  {
+   "q": "Why does John Mearsheimer's offensive realism argue that states must strive for hegemony rather than a balance of power?",
+   "options": [
+    "States possess an innate psychological drive rooted in human nature to dominate neighboring political communities.",
+    "Global economic interdependence compels industrial states to secure foreign raw materials and consumer markets militarily.",
+    "Under systemic anarchy, states can only achieve genuine safety by attaining decisive power preponderance over rivals.",
+    "International law automatically confers sovereign legitimacy only upon the single most militarily powerful state."
+   ],
+   "answer": 2,
+   "why": "Mearsheimer asserts that states cannot escape the security dilemma under anarchy and are secure only when achieving hegemony.",
+   "page": 77
+  },
+  {
+   "q": "How does neoclassical realism modify structural realism to explain foreign policy behavior?",
+   "options": [
+    "It replaces systemic anarchy with international institutions to explain why states cooperate without military conflict.",
+    "It integrates global structural pressures with domestic factors like leadership perceptions to explain foreign choices.",
+    "It asserts that domestic economic lobbies completely dictate foreign actions, ignoring global systemic power distributions.",
+    "It rejects material power calculations entirely, focusing exclusively on linguistic discourses and cultural socialisation."
+   ],
+   "answer": 1,
+   "why": "Neoclassical realists combine system-level structure with actor-level domestic variables like leadership personalities to explain foreign policy.",
+   "page": 79
+  },
+  {
+   "q": "How does Hedley Bull's concept of an 'anarchical society' depart from pure structural realism?",
+   "options": [
+    "It contends that an overarching world government has successfully eliminated structural anarchy between states.",
+    "It argues that international relations is pure chaos where no cooperation or shared norms ever exist.",
+    "It asserts that domestic democratic revolutions will inevitably replace power politics with perpetual global peace.",
+    "It maintains that despite systemic anarchy, shared norms, rules, and institutions generate meaningful international order."
+   ],
+   "answer": 3,
+   "why": "Bull argues that international relations is an anarchical society where states, despite lacking central government, are bound by shared rules and institutions.",
+   "page": 83
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did Jawaharlal Nehru conceptualize 'principled distance' to distinguish non-alignment from isolationism or equi-distance?",
+   "options": [
+    "Maintaining strict mathematical neutrality by abstaining from all votes and debates within the United Nations.",
+    "Withdrawing completely from global diplomacy to focus exclusively on domestic industrial and agricultural development.",
+    "Taking independent stands on international issues based on right and wrong rather than prior commitments.",
+    "Balancing relations by alternating formal military alliances between the two rival superpowers every few years."
+   ],
+   "answer": 2,
+   "why": "Nehru rejected isolationism and equi-distance, asserting India would actively judge each issue on right versus wrong.",
+   "page": 117
+  },
+  {
+   "q": "Why do the notes characterize early Indian non-alignment as a geopolitical compulsion rather than a noble choice?",
+   "options": [
+    "India lacked diplomatic recognition from the United Nations and was legally barred from joining military alliances.",
+    "Democratic values precluded joining the Soviets, while geographic proximity to communist giants made Western alignment dangerous.",
+    "Both superpowers signed binding non-aggression pacts that guaranteed India's territorial boundaries against foreign invasion.",
+    "Western powers demanded that India completely dismantle its armed forces before qualifying for formal military protection."
+   ],
+   "answer": 1,
+   "why": "India's democracy made joining the Soviet bloc impossible, but proximity to communist powers made joining the West perilous.",
+   "page": 118
+  },
+  {
+   "q": "According to C. Raja Mohan, why was India's non-alignment policy devoid of a genuine domestic consensus?",
+   "options": [
+    "The right wing favored Western engagement, while the left favored Moscow and only adopted non-alignment later.",
+    "The left wing pushed for Western trade partnerships, while the right wing demanded immediate Soviet alliance.",
+    "Both major political factions rejected non-alignment, demanding instead an immediate formal military pact with China.",
+    "Opposition parties unanimously supported non-alignment, but the ruling Congress party abandoned it immediately after independence."
+   ],
+   "answer": 0,
+   "why": "C. Raja Mohan noted that the right preferred the West while the left preferred Soviets, before leftists later embraced non-alignment.",
+   "page": 119
+  },
+  {
+   "q": "What strategic approach does the 'Non-Alignment 2.0' policy document recommend for contemporary Indian foreign policy?",
+   "options": [
+    "Entering formal collective defense pacts exclusively with Western democracies to deter regional border threats.",
+    "Reviving strict Cold War isolationism and terminating all bilateral strategic dialogues with great powers.",
+    "Aligning permanently with neighboring communist states to establish an anti-Western regional economic coalition.",
+    "Pursuing multiple alignment across several major powers to maintain flexibility of maneuver without formal alliances."
+   ],
+   "answer": 3,
+   "why": "Non-Alignment 2.0 rejects formal alliances, recommending multiple alignment so India preserves maximum flexibility to manoeuvre.",
+   "page": 119
+  }
+ ]
+}

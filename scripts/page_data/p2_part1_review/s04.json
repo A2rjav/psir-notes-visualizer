@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Sardar Patel's realist school of thought, what was the primary nature of the Chinese state and how should India respond?",
+   "options": [
+    "China is an irredentist state, requiring India to maintain military preparedness rather than relying on appeasement.",
+    "China seeks civilisational harmony, requiring India to promote border trade and cultural exchanges.",
+    "China is economically interdependent, requiring India to adopt a pragmatic policy of engagement and containment.",
+    "China is a status-quo power, requiring India to sign bilateral treaties recognizing regional suzerainty."
+   ],
+   "answer": 0,
+   "why": "Sardar Patel viewed China as an irredentist, land-grabbing state with offensive designs, arguing that the only way to avoid war was through continuous military preparedness.",
+   "page": 44
+  },
+  {
+   "q": "Why did Nehru's 1954 Panchsheel Agreement face strong domestic criticism regarding India's strategic interests?",
+   "options": [
+    "It demarcated the Line of Actual Control along the McDonald Line against military advice.",
+    "It formally recognized Chinese sovereignty over Tibet without securing any concrete reciprocal concessions for India.",
+    "It permitted China to build an all-weather highway across Aksai Chin without diplomatic protest.",
+    "It surrendered Indian claims over Arunachal Pradesh in exchange for trading rights at Nathu La."
+   ],
+   "answer": 1,
+   "why": "Nehru was criticized in parliament because India accepted Tibet as Chinese territory and gave up traditional rights without gaining any concrete border settlement in return.",
+   "page": 46
+  },
+  {
+   "q": "According to the notes, why is China reluctant to conclude the final phase of the three-phase border resolution process?",
+   "options": [
+    "It insists on renegotiating the initial guiding principles established by the special representatives in 2003.",
+    "It refuses to conduct technical ground work until India joins its trans-regional infrastructure projects.",
+    "It fears a settlement would give India a free hand in Tibet and prefers settling from strength.",
+    "It demands that India withdraw all military checkposts from the middle sector before exchanging maps."
+   ],
+   "answer": 2,
+   "why": "China worries that resolving the border dispute would allow India to create disturbances in Tibet, and prefers delaying settlement until the bilateral power gap widens further.",
+   "page": 53
+  },
+  {
+   "q": "What structural factor primarily drives India's widening bilateral trade deficit with China?",
+   "options": [
+    "India imports high-value agricultural produce while facing strict non-tariff barriers on manufactured consumer goods.",
+    "India bears steep licensing fees for sharing daily hydrological data on the Brahmaputra River system.",
+    "India faces high tariff rates exclusively applied to its raw material shipments entering Chinese ports.",
+    "India exports raw materials while importing manufactured items, facing closed sectors in pharmaceuticals and IT."
+   ],
+   "answer": 3,
+   "why": "India's trade deficit stems from exporting low-value raw materials while importing manufactured goods, compounded by Chinese market restrictions on competitive Indian sectors like IT and pharmaceuticals.",
+   "page": 57
+  }
+ ]
+}

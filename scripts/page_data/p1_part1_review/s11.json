@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did cultural nationalist Aurobindo Ghosh differ from early nationalists like Surendranath Banerjee regarding Indian nationhood?",
+   "options": [
+    "Ghosh argued India was a nation from the beginning, while Banerjee considered it a nation in making.",
+    "Ghosh dismissed the concept of nationhood, while Banerjee believed British rule created Indian national unity.",
+    "Ghosh defined nationhood through class struggle, while Banerjee rooted it in ancient religious revivalism.",
+    "Ghosh saw India as an artificial construct, while Banerjee regarded it as merely a geographical expression."
+   ],
+   "answer": 0,
+   "why": "Aurobindo Ghosh rejected the early nationalist view of India as a nation in making, asserting that India was a nation from the beginning.",
+   "page": 88
+  },
+  {
+   "q": "How did Bipin Chandra's Marxist assessment of the Indian National Movement differ from orthodox Marxist interpretations?",
+   "options": [
+    "He dismissed the national movement as elite factional rivalry orchestrated entirely by community power brokers.",
+    "He maintained it was a spectacular mass movement rather than simply an instrument of the bourgeoisie.",
+    "He characterized the struggle as a reactionary feudal uprising aimed at restoring pre-colonial monarchies.",
+    "He rejected the movement as a conscious bourgeois conspiracy organized against the Indian laboring masses."
+   ],
+   "answer": 1,
+   "why": "Unlike orthodox Marxists who dismissed Congress as purely bourgeois, Bipin Chandra argued it led a spectacular mass national movement.",
+   "page": 89
+  },
+  {
+   "q": "On what primary ground did B.R. Ambedkar critique the Congress-led movement and reject Indian nationhood?",
+   "options": [
+    "He opposed industrial modernization and demanded a return to self-sufficient agrarian village republics.",
+    "He advocated an immediate armed revolution rather than constitutional negotiations with the colonial government.",
+    "He argued that genuine nationhood requires social fraternity, which cannot exist alongside pervasive caste oppression.",
+    "He sought complete integration into Congress provided Dalit representatives received permanent executive veto power."
+   ],
+   "answer": 2,
+   "why": "Ambedkar maintained that true nationhood is founded on social fraternity, which is impossible without first eradicating caste oppression.",
+   "page": 90
+  },
+  {
+   "q": "According to M.N. Roy's Radical Humanist philosophy, why was conventional nationalism fundamentally flawed?",
+   "options": [
+    "It failed to establish a strong centralized state capable of directing socialist production.",
+    "It focused exclusively on cultural revivalism while neglecting the necessity of constitutional reforms.",
+    "It compromised too readily with colonial rulers instead of demanding complete economic autarky.",
+    "It suppressed individual freedom, whereas humanity needed a cosmopolitan union of liberated individuals."
+   ],
+   "answer": 3,
+   "why": "M.N. Roy argued that nationalism suppresses the individual, proposing instead a cosmopolitan union of liberated human beings.",
+   "page": 91
+  }
+ ]
+}

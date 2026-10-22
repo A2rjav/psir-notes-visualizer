@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "narration",
+   "new": "Imagine having rights without any way to enforce them! Dr. Ambedkar called Article 32 the soul of the Constitution because it empowers citizens to directly defend their fundamental rights through constitutional remedies.",
+   "reason": "Ambedkar described Article 32 as the soul of the Constitution because it provides direct constitutional remedies to enforce fundamental rights, not because of Public Interest Litigation, which was introduced decades later by the Supreme Court."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In Balwant Singh v. State of Punjab, what standard did the Supreme Court establish for sedition?",
+   "options": [
+    "Any shouting of anti-national slogans automatically constitutes sedition under Section 124A.",
+    "Slogan-shouting or advocating violence is not sedition unless it produces real incitement to an offence.",
+    "Political criticism of the state is seditious unless explicitly permitted by the executive branch.",
+    "Advocating violence against the government is punishable only if committed by elected officials."
+   ],
+   "answer": 1,
+   "why": "The Supreme Court held that shouting slogans or advocating violence does not constitute sedition unless it leads to actual incitement to an offence.",
+   "page": 135
+  },
+  {
+   "q": "Why is the doctrine of due process of law considered inherent in Article 19?",
+   "options": [
+    "Because courts have the power to examine the substantive reasonableness of legislative restrictions.",
+    "Because the executive possesses exclusive authority to decide all limits on fundamental freedoms.",
+    "Because citizens can exercise freedom of speech without any constitutional or statutory limitations.",
+    "Because parliamentary privileges completely override judicial review of fundamental rights in India."
+   ],
+   "answer": 0,
+   "why": "Article 19 allows courts to review the reasonableness of legislative restrictions, embedding substantive due process into judicial scrutiny of laws.",
+   "page": 132
+  },
+  {
+   "q": "What does the 'rarest of rare' doctrine established in the Bachan Singh case signify?",
+   "options": [
+    "The death penalty must be mandatorily awarded for all heinous offences against the state.",
+    "Capital punishment is unconstitutional and must be replaced immediately by rigorous life imprisonment.",
+    "Capital punishment is an exceptional penalty, to be awarded only when alternative options are foreclosed.",
+    "Retributive vengeance by the state serves as the primary justification for awarding death sentences."
+   ],
+   "answer": 2,
+   "why": "The Supreme Court held in Bachan Singh that capital punishment is an exception rather than the rule, reserved only for rarest of rare cases.",
+   "page": 141
+  },
+  {
+   "q": "How do the doctrines of res judicata and laches apply to writ petitions under Article 32?",
+   "options": [
+    "Delayed petitions are automatically admitted whenever any violation of fundamental rights is alleged.",
+    "Petitioners may repeatedly file identical writ petitions on decided matters to secure alternate remedies.",
+    "The Supreme Court cannot entertain writ petitions filed through Public Interest Litigation by third parties.",
+    "Courts protect only vigilant litigants and can reject petitions brought after unnecessary, unexplained delay."
+   ],
+   "answer": 3,
+   "why": "Under Article 32, the doctrines of res judicata and laches prevent re-litigation and require individuals to approach the court without unreasonable delay.",
+   "page": 145
+  }
+ ]
+}

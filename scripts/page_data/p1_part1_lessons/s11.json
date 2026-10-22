@@ -1,0 +1,71 @@
+{
+ "title": "Perspectives on the Indian National Movement",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Was India's freedom struggle a united national movement or divided elite politics?",
+   "narration": "Imagine looking at one historical event through four completely different pairs of glasses. That is how scholars debate the Indian National Movement."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Cricket commentators arguing whether a team played for shared pride or personal gain.",
+   "narration": "Think of this as an analogy: when your school cricket team wins, some celebrate pure unity, while critics say players only chased personal glory. That same debate divides our historians."
+  },
+  {
+   "type": "balance",
+   "heading": "Imperialist vs Nationalist Views",
+   "left": "Merely Geographical Expression",
+   "right": "Nation in Making",
+   "tilt": "right",
+   "narration": "Here is the clash. Imperialist administrators like Lord Curzon dismissed India as merely a geographical expression led by power brokers. Early nationalists countered that India was a nation in the making."
+  },
+  {
+   "type": "compare",
+   "heading": "Cultural Nationalists vs Marxists",
+   "columns": [
+    {
+     "title": "Aurobindo Ghosh",
+     "items": [
+      "Nation from the beginning",
+      "Combined nationalism and patriotism"
+     ]
+    },
+    {
+     "title": "Marxist Scholars",
+     "items": [
+      "Nationalism as invented tradition",
+      "Bourgeois instrument serving elites"
+     ]
+    }
+   ],
+   "narration": "Aurobindo Ghosh argued India was a nation from the beginning. But Marxist thinkers viewed nationalism as an invented tradition serving the bourgeoisie, meaning the wealthy capitalist class."
+  },
+  {
+   "type": "thinker",
+   "name": "B.R. Ambedkar",
+   "idea": "Demanded social fraternity and criticized Congress, arguing caste oppression must end first.",
+   "work": "",
+   "narration": "From the Dalit and subaltern perspective, which focuses on marginalized groups, Ambedkar rejected Congress. He argued true nationhood requires social fraternity, not just replacing the British while caste oppression remains."
+  },
+  {
+   "type": "points",
+   "heading": "Socialist and Radical Humanist Views",
+   "items": [
+    "Nehru and Bose introduced socialist ideas into Congress",
+    "Congress Socialist Party formed in 1934",
+    "M.N. Roy argued nationalism suppresses individual freedom"
+   ],
+   "narration": "Inside Congress, socialists like Nehru and the Congress Socialist Party worked to radicalize programmes for workers. In contrast, M.N. Roy argued nationalism suppresses man, urging a cosmopolitan union of liberated individuals."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Imperialists saw power brokers, but nationalists asserted growing unity.",
+    "Marxists exposed bourgeois interests behind the national movement.",
+    "Dalit and subaltern thinkers demanded social equality and fraternity."
+   ],
+   "narration": "Here is your recap: imperialists questioned unity, nationalists defended it, while Marxists and subaltern thinkers highlighted class and caste inequalities. Remember these lenses, and PSIR becomes simple!"
+  }
+ ]
+}

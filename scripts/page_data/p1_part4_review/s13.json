@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 1,
+   "field": "text",
+   "new": "Students vote for school leaders, but the student council makes the major rules.",
+   "reason": "In elitist theory and the narration, power is exercised by the elected student council, not an unelected principal."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What does Vilfredo Pareto mean by describing the history of mankind as a graveyard of aristocracy?",
+   "options": [
+    "Democratic revolutions permanently destroy elite rule and transfer political authority directly to ordinary masses.",
+    "Ruling elites inevitably decay and are cyclically replaced by new elites in a closed loop.",
+    "Subordinate economic classes overthrow political rulers to establish an egalitarian society without governing elites.",
+    "Dispersed citizen interest groups gradually dismantle aristocratic privileges through active democratic bargaining."
+   ],
+   "answer": 1,
+   "why": "Pareto argued that history is cyclical, where one ruling elite decays and is replaced by another without empowering the masses.",
+   "page": 99
+  },
+  {
+   "q": "According to Raymond Aron, why are liberal democracies more democratic than socialist regimes despite both being ruled by elites?",
+   "options": [
+    "Liberal democracies distribute governing authority equally among all citizen associations rather than political parties.",
+    "Socialist regimes allow corporate business groups to completely dominate the political and cultural superstructure.",
+    "Liberal democracies possess a fractured elite structure that provides citizens with a genuine competitive choice.",
+    "Liberal democracies eliminate the Iron Law of Oligarchy by decentralizing administrative decision-making to local communities."
+   ],
+   "answer": 2,
+   "why": "Aron argued that liberal democracies have a fractured, multi-party elite structure offering political choice, unlike monolithic socialist regimes.",
+   "page": 100
+  },
+  {
+   "q": "In the economic theory of democracy proposed by Anthony Downs and Joseph Schumpeter, what role do citizens play?",
+   "options": [
+    "Citizens act as sovereign consumers whose only political function is choosing between competing entrepreneurial elites.",
+    "Citizens organize active pressure groups that directly negotiate policy outcomes with state administrators.",
+    "Citizens join civil society organizations to exercise collective political power through collaborative action.",
+    "Citizens hold institutional executive positions across federal bureaucracies, corporate boards, and military establishments."
+   ],
+   "answer": 0,
+   "why": "Downs and Schumpeter compared democracy to a marketplace where voters are consumers whose sole role is selecting elites.",
+   "page": 101
+  },
+  {
+   "q": "How does Robert Dahl's concept of polyarchy challenge the elitist critique of American democracy?",
+   "options": [
+    "It proves that ordinary individuals exercise direct sovereign authority without needing any representative bodies.",
+    "It establishes that corporate business organizations have identical bargaining influence to all other pressure groups.",
+    "It shows that constitutional checks and balances successfully prevent any single social group from organizing.",
+    "It demonstrates that power is dispersed among competing interest groups rather than concentrated in an oligarchy."
+   ],
+   "answer": 3,
+   "why": "Dahl showed that power in America is dispersed among numerous active interest groups rather than monopolized by an oligarchy.",
+   "page": 102
+  }
+ ]
+}

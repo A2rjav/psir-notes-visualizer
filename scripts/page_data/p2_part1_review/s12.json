@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How do voting rules in the UN Security Council distinguish between procedural and substantive matters?",
+   "options": [
+    "Procedural matters require any nine votes, while substantive matters require nine affirmative votes without a P5 veto.",
+    "Procedural matters require consensus among all members, while substantive matters require a two-thirds majority of the Council.",
+    "Procedural matters require nine votes including all P5 members, while substantive matters require only any nine votes.",
+    "Procedural matters require General Assembly approval, while substantive matters are decided exclusively by the five permanent members."
+   ],
+   "answer": 0,
+   "why": "The notes state that procedural decisions require any nine affirmative votes, whereas substantive decisions require nine votes with no P5 veto.",
+   "page": 126
+  },
+  {
+   "q": "What key procedural difference separates the G4 coalition from the Coffee Club on Security Council expansion?",
+   "options": [
+    "The G4 demands immediate veto abolition, while the Coffee Club insists on extending veto to newcomers.",
+    "The G4 proposes adding only non-permanent members, while the Coffee Club seeks six new permanent seats.",
+    "The G4 advocates expansion by Article 108 majority, while the Coffee Club demands reform through full consensus.",
+    "The G4 seeks reform through the Secretariat, while the Coffee Club prefers negotiations inside the Trusteeship Council."
+   ],
+   "answer": 2,
+   "why": "The notes highlight that G4 seeks expansion through Article 108 majority voting, whereas the Coffee Club brought the 'Uniting for Consensus' resolution demanding consensus.",
+   "page": 128
+  },
+  {
+   "q": "Under Kofi Annan's UNSC reform proposals, how did Model A differ from Model B?",
+   "options": [
+    "Model A granted immediate veto to newcomers, while Model B stripped existing permanent members of veto.",
+    "Model A created six new permanent seats without veto, while Model B introduced eight renewable four-year seats.",
+    "Model A was endorsed by Pakistan, while Model B received formal backing from India and the G4.",
+    "Model A expanded the Council by nine non-permanent seats, while Model B created five permanent regional seats."
+   ],
+   "answer": 1,
+   "why": "The notes explain that Model A offered six new permanent seats without veto, whereas Model B offered eight four-year semi-permanent seats.",
+   "page": 132
+  },
+  {
+   "q": "Which disputes are explicitly excluded from India's acceptance of ICJ compulsory jurisdiction under its 1974 declaration?",
+   "options": [
+    "Disputes concerning maritime boundary delimitations and bilateral commercial trade disagreements governed by international treaties.",
+    "Disputes referred directly by the UN Security Council and advisory proceedings initiated by the General Assembly.",
+    "Disputes involving non-signatories of nuclear treaties and cross-border environmental damage claims occurring during peacetime.",
+    "Disputes involving Commonwealth member states and situations relating to hostilities or armed conflicts in self-defence."
+   ],
+   "answer": 3,
+   "why": "The notes specify that India's 1974 acceptance excludes Commonwealth disputes and actions involving hostilities or armed conflicts in self-defence.",
+   "page": 134
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "title": "Karl Marx: Materialism, Dialectics and Scientific Socialism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can abstract ideas shape history, or does physical reality drive all change?",
+   "narration": "Imagine wondering what truly drives history forward. Do grand ideas lead the way, or does physical reality decide our lives? Karl Marx had a radical answer!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Daydreaming about a cricket century will not score runs; physical batting and practice do.",
+   "narration": "Think of this cricket analogy: wishing for a century will not score runs. You need physical bats, balls, and hard running on the pitch!"
+  },
+  {
+   "type": "thinker",
+   "name": "Hegel",
+   "idea": "The state is the march of God on earth, guided by ideas.",
+   "work": "",
+   "narration": "Meet Hegel, Prussia's philosopher. He believed history is the movement of ideas, claiming the state is the march of God on earth!"
+  },
+  {
+   "type": "points",
+   "heading": "Hegel's Three Laws of Dialectics",
+   "items": [
+    "Unity of opposites: Contradictions drive historical change",
+    "Negation of negation: Every stage progressively improves",
+    "Quantity into quality: Small changes cause transformations"
+   ],
+   "narration": "Here's the trick: Hegel said ideas advance through contradictions. Opposites clash, negative parts get negated, and small quantitative changes transform into new qualities!"
+  },
+  {
+   "type": "flow",
+   "heading": "Hegel's Dialectical Evolution of Institutions",
+   "steps": [
+    "Family: Altruism and particularism",
+    "Civil society: Universalism and egoism",
+    "State: Universal altruism"
+   ],
+   "narration": "Hegel showed institutions evolving through contradictions. Family altruism clashes with selfish civil society, until both resolve inside the state, achieving universal altruism!"
+  },
+  {
+   "type": "balance",
+   "heading": "Idealism Versus Materialism",
+   "left": "Hegel: Ideas Rule",
+   "right": "Marx: Matter Matters",
+   "tilt": "right",
+   "narration": "Marx argued Hegel was standing on his head, so he flipped him upright! For Marx, ideas are mere illusions, while material conditions drive reality."
+  },
+  {
+   "type": "compare",
+   "heading": "Utopian Versus Scientific Socialism",
+   "columns": [
+    {
+     "title": "Early Utopians",
+     "items": [
+      "Appealed to capitalists' conscience",
+      "Advocated peaceful moral change",
+      "Lacked scientific understanding"
+     ]
+    },
+    {
+     "title": "Karl Marx",
+     "items": [
+      "Demanded violent revolution",
+      "Analyzed capitalism scientifically",
+      "Promoted worker cooperation"
+     ]
+    }
+   ],
+   "narration": "Early socialists appealed to capitalist conscience, but Marx called this utopian. He insisted socialism requires a scientific understanding of capitalism and violent revolution!"
+  },
+  {
+   "type": "compare",
+   "heading": "Young Marx Versus Mature Marx",
+   "columns": [
+    {
+     "title": "Young Marx",
+     "items": [
+      "Examined human alienation",
+      "Wrote Economic and Philosophic Manuscripts",
+      "Followed by Neo-Marxists"
+     ]
+    },
+    {
+     "title": "Mature Marx",
+     "items": [
+      "Authored Communist Manifesto",
+      "Provided practical political programme",
+      "Followed by orthodox Marxists"
+     ]
+    }
+   ],
+   "narration": "Notice Marx's evolution: Young Marx tackled alienation and human freedom, while Mature Marx authored the Communist Manifesto to mobilize workers for revolution!"
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Hegel tracked divine ideas; Marx prioritized physical matter.",
+    "Scientific socialism demands violent revolution over utopian appeals.",
+    "Marx evolved from youthful alienation to political manifesto."
+   ],
+   "narration": "To recap: Hegel tracked divine ideas, while Marx prioritized physical matter. True socialism demands revolutionary action, moving from youthful alienation to political manifesto!"
+  }
+ ]
+}

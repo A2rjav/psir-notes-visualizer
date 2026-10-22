@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did Granville Austin counter the criticism that the Constituent Assembly was merely a one-party body?",
+   "options": [
+    "By showing that Congress operated through consensus and actively co-opted leaders from other political parties.",
+    "By organizing an informal nationwide referendum that approved the draft constitution with an overwhelming popular majority.",
+    "By arguing that provincial elections of 1946 had already achieved universal adult suffrage across all Indian provinces.",
+    "By pointing out that judicial commissions continually reviewed and amended fundamental constitutional principles after independence."
+   ],
+   "answer": 0,
+   "why": "Austin argued that Congress functioned by consensus and included diverse political opinions, making the Constitution widely representative.",
+   "page": 97
+  },
+  {
+   "q": "During Constituent Assembly debates, what was the primary disagreement between Gandhians and modernists like Nehru and Ambedkar?",
+   "options": [
+    "Gandhians demanded a fixed presidential executive, whereas modernists insisted on an accountable parliamentary cabinet system.",
+    "Gandhians championed decentralized Panchayati Raj, whereas modernists preferred a centralized system of representative democracy.",
+    "Gandhians wanted absolute fundamental property rights, whereas modernists argued for unrestricted socialist directive principles.",
+    "Gandhians supported peer appointment of judges, whereas modernists favored legislative supremacy over constitutional interpretation."
+   ],
+   "answer": 1,
+   "why": "Gandhians favored decentralization through village panchayats, while Nehru and Ambedkar supported modern representative democratic institutions.",
+   "page": 99
+  },
+  {
+   "q": "Why did the Supreme Court in Kesavananda Bharati rule that the Preamble can be amended by Parliament?",
+   "options": [
+    "The US Supreme Court established binding doctrine holding that preambles override all substantive constitutional provisions.",
+    "The Gopalan ruling had already recognized the Preamble as an independent source of supreme legislative authority.",
+    "The Constituent Assembly adopted it last to ensure complete harmony with the main text, walking with the Constitution.",
+    "A special judicial commission had declared the Preamble separate from the amendable body of the basic document."
+   ],
+   "answer": 2,
+   "why": "The Court recognized the Preamble was adopted last to walk with the Constitution, making it amendable alongside it.",
+   "page": 102
+  },
+  {
+   "q": "Why did scholar C. Rajamohan compare Jawaharlal Nehru's subcontinental foreign policy to that of Lord Curzon?",
+   "options": [
+    "Nehru dismantled all colonial security arrangements to promote regional integration through unconditional multilateral disarmament.",
+    "Nehru formed formal Cold War military alliances with Western powers to dominate South Asian maritime routes.",
+    "Nehru abandoned all historical border claims inherited from British treaties to avoid friction with adjacent states.",
+    "Nehru maintained the strategic approach of British India when managing security and relations with regional neighbours."
+   ],
+   "answer": 3,
+   "why": "Rajamohan noted that Nehru's neighborhood diplomacy continued the strategic traditions established during the British Raj under Curzon.",
+   "page": 94
+  }
+ ]
+}

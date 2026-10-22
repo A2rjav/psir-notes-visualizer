@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did Karl Marx describe the socialism of thinkers like Saint-Simon and Robert Owen as utopian?",
+   "options": [
+    "Because they sought peaceful change by appealing to the moral conscience of capitalists rather than class struggle",
+    "Because they completely rejected social and economic equality in favor of competitive industrial capitalism",
+    "Because they organized violent proletarian revolutions without establishing any cooperative economic institutions",
+    "Because they advocated creating a stateless, classless society through immediate parliamentary legislation"
+   ],
+   "answer": 0,
+   "why": "Marx argued that early socialists lacked a scientific understanding of capitalism and naively relied on moral appeals instead of revolutionary action.",
+   "page": 134
+  },
+  {
+   "q": "What did Karl Marx mean by asserting that he turned Hegel's dialectic right side up?",
+   "options": [
+    "He rejected historical dialectics entirely, arguing that human societies remain fundamentally static over time",
+    "He maintained that material conditions drive reality, whereas Hegel viewed ideas as the moving force",
+    "He proved that religious consciousness serves as the ultimate foundation for all economic transformations",
+    "He argued that intellectual consensus among philosophers is necessary before any social change can occur"
+   ],
+   "answer": 1,
+   "why": "Marx argued that physical matter and economic relations shape historical reality, inverting Hegel's belief that history is driven by ideas.",
+   "page": 137
+  },
+  {
+   "q": "According to Hegel, how does the state resolve the dialectical contradiction between family and civil society?",
+   "options": [
+    "By eliminating all ethical bonds to allow unconstrained economic competition among individuals",
+    "By abolishing universal civic laws in order to restore particularistic family attachments",
+    "By synthesizing the altruism of the family with the universal scope of civil society",
+    "By dissolving private property and civic institutions into an unorganized, stateless community"
+   ],
+   "answer": 2,
+   "why": "The state synthesizes family altruism with civil society's universal sphere, resulting in universal altruism as the end of history.",
+   "page": 140
+  },
+  {
+   "q": "How does the intellectual focus of the 'Young Marx' differ from that of the 'Mature Marx'?",
+   "options": [
+    "Young Marx focused on establishing the welfare state, while Mature Marx supported unregulated market competition",
+    "Young Marx advocated immediate armed insurrection, while Mature Marx retreated into pure academic philosophy",
+    "Young Marx rejected Hegelian philosophy, while Mature Marx abandoned British political economy and historical materialism",
+    "Young Marx examined human alienation and freedom, while Mature Marx presented a revolutionary political programme"
+   ],
+   "answer": 3,
+   "why": "Young Marx wrote as a philosopher investigating alienation in his early manuscripts, whereas Mature Marx authored the Communist Manifesto as a practical political programme.",
+   "page": 135
+  }
+ ]
+}

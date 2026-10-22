@@ -1,0 +1,85 @@
+{
+ "title": "Caste Mobilisation and Power in Indian Politics",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Do Indians cast their vote or vote their caste in elections?",
+   "narration": "Imagine stepping into an Indian election booth. Does democracy destroy ancient caste divisions, or does politics actually give caste a whole new life?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Like school houses joining forces to demand better playground facilities and resources.",
+   "narration": "Here is an everyday school analogy to make this click. When students from different grades unite into a team, they gain bargaining power to win real facilities."
+  },
+  {
+   "type": "thinker",
+   "name": "M.N. Srinivas",
+   "idea": "Caste is not completely rigid because local dominance depends on numbers and land.",
+   "work": "",
+   "narration": "Sociologist M.N. Srinivas showed that caste is not completely rigid. Groups with numbers and land ownership form a dominant caste, gaining real local power."
+  },
+  {
+   "type": "flow",
+   "heading": "Kothari's Politicisation of Caste",
+   "steps": [
+    "Caste groups enter electoral contests",
+    "Demand secular jobs and education",
+    "Ritual purity loses its significance",
+    "Marginalised communities gain democratic voice"
+   ],
+   "narration": "Thinker Rajni Kothari explained that politics changes caste. Instead of ritual purity, caste groups organise to secure secular benefits like education and government jobs."
+  },
+  {
+   "type": "compare",
+   "heading": "Forms of Caste Mobilisation",
+   "columns": [
+    {
+     "title": "Vertical Mobilisation",
+     "items": [
+      "Led by traditional upper castes",
+      "Lower castes receive small concessions",
+      "Characterised early post-independence politics"
+     ]
+    },
+    {
+     "title": "Horizontal Mobilisation",
+     "items": [
+      "Lower castes unite independently",
+      "Alliances formed across wider regions",
+      "Directly challenge traditional elite power"
+     ]
+    }
+   ],
+   "narration": "Scholars Rudolph and Rudolph noted two mobilisation forms. First, upper castes led lower castes vertically for small concessions, but soon lower castes united horizontally to claim power."
+  },
+  {
+   "type": "points",
+   "heading": "Plebeianisation and State Politics",
+   "items": [
+    "Christophe Jaffrelot links state formation with caste",
+    "Linguistic reorganisation consolidated regional dominant castes",
+    "Plebeianisation brings common citizens into political power",
+    "Coalition politics reflects rising intermediate caste influence"
+   ],
+   "narration": "Christophe Jaffrelot highlighted plebeianisation, meaning the participation of ordinary people in democracy. Regional coalitions empowered intermediate castes, opening state power beyond traditional elites."
+  },
+  {
+   "type": "balance",
+   "heading": "Impact on Indian Democracy",
+   "left": "Promotes Divisive Populism",
+   "right": "Deepens Democratic Inclusion",
+   "tilt": "even",
+   "narration": "Critics like Andre Beteille warn that caste mobilization creates populist divisions. In contrast, scholars like Yogendra Yadav argue it deepens democracy by empowering marginalised citizens."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Caste shifted from ritual purity to secular political bargaining",
+    "Horizontal mobilisation enabled lower castes to challenge elite power",
+    "Plebeianisation and coalitions deepened mass democratic participation"
+   ],
+   "narration": "To recap, caste transformed from rigid ritual hierarchy into a political bargaining tool. Through horizontal solidarity and democratic upsurges, it gave ordinary people a voice."
+  }
+ ]
+}

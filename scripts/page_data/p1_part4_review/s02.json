@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to political idealists, why are the state and society considered \"prior to man\"?",
+   "options": [
+    "Because historical records prove political institutions existed chronologically before human beings evolved.",
+    "Because humans can realize their moral and social nature only within an organized community.",
+    "Because the state possesses divine authority granted by religious law to command human obedience.",
+    "Because individuals intentionally created the state through an artificial contract to safeguard their natural rights."
+   ],
+   "answer": 1,
+   "why": "Idealists view society and the state as natural, organic entities necessary for moral life, making them prior to man.",
+   "page": 5
+  },
+  {
+   "q": "How does the Kantian school of idealism differ fundamentally from the Hegelian school regarding political authority?",
+   "options": [
+    "Kantian idealism gives primacy to society, whereas the Hegelian tradition accords primacy to the state.",
+    "Kantian idealism promotes state absolutism, whereas Hegelian idealism completely rejects political collectivism and state authority.",
+    "Kantian idealism justifies rule by divine right, whereas Hegelian idealism relies strictly on individual rights.",
+    "Kantian idealism views society as artificial, whereas Hegelian idealism treats society as purely contractual and voluntary."
+   ],
+   "answer": 0,
+   "why": "Hegelian idealism accords primacy to the state, whereas the Kantian school accords primacy to society rather than the state.",
+   "page": 5
+  },
+  {
+   "q": "How does political idealism's justification of state absolutism differ from that of the medieval Divine Rights Theory?",
+   "options": [
+    "Idealism grounds absolute state authority in religious scripture, whereas Divine Rights Theory relies on secular customs.",
+    "Idealism rejects absolute authority completely, whereas Divine Rights Theory justifies it through scientific empirical observation.",
+    "Idealism defends state absolutism through reason and logic, whereas Divine Rights Theory justifies it through religion.",
+    "Idealism bases authority on democratic consent, whereas Divine Rights Theory bases it on an economic class contract."
+   ],
+   "answer": 2,
+   "why": "Both schools justified state absolutism, but idealism justified it using reason and logic, while Divine Rights Theory used religion.",
+   "page": 5
+  },
+  {
+   "q": "Why are political idealists classified as \"rationalists\" in political theory?",
+   "options": [
+    "They argue that material economic conditions dictate human history and can be analyzed scientifically.",
+    "They assert that human rationality is best demonstrated by demanding unlimited individual rights and liberties.",
+    "They claim that rational individuals construct political society through an explicit and voluntary social contract.",
+    "They believe that ideas constitute reality and can be comprehended solely through the use of reason."
+   ],
+   "answer": 3,
+   "why": "Idealists are called rationalists because they assert that ideas are real and can be understood only through reason.",
+   "page": 6
+  }
+ ]
+}

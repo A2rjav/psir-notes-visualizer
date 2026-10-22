@@ -1,0 +1,89 @@
+{
+ "title": "How International Relations Evolved: Theories and Models",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do countries prepare for war instead of trusting permanent peace?",
+   "narration": "Have you ever wondered why countries spend fortunes on weapons instead of trusting each other? In 1914, scholars launched International Relations to find theories that avoid wars and establish peace."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A housing society without guards where residents buy bigger locks out of fear.",
+   "narration": "As an everyday analogy, imagine a housing society without any security guard. Because no authority protects you, you buy extra locks, which panics your neighbours into buying even bigger locks."
+  },
+  {
+   "type": "timeline",
+   "heading": "Milestones in World Order",
+   "events": [
+    {
+     "when": "1648",
+     "what": "Westphalia Treaty establishes sovereign nation-states"
+    },
+    {
+     "when": "1914",
+     "what": "First university chair of International Politics"
+    },
+    {
+     "when": "1919",
+     "what": "League of Nations founded after war"
+    },
+    {
+     "when": "1945",
+     "what": "United Nations created for global peace"
+    }
+   ],
+   "narration": "That is how international politics worked after the 1648 Treaty of Westphalia created sovereign nation-states. When balance of power failed, devastating world wars prompted leaders to establish the League of Nations and the United Nations."
+  },
+  {
+   "type": "cycle",
+   "heading": "The Security Dilemma",
+   "nodes": [
+    "Global anarchy",
+    "Self-help arming",
+    "Rivals feel insecure",
+    "Constant war preparation"
+   ],
+   "narration": "In global politics, anarchy means there is simply no world government. Under this anarchy, countries rely on self-help, arming themselves for safety and accidentally trapping everyone in a security dilemma."
+  },
+  {
+   "type": "thinker",
+   "name": "Woodrow Wilson",
+   "idea": "Replace balance of power with collective security to establish lasting peace.",
+   "work": "",
+   "narration": "Here is the big debate: idealists like Woodrow Wilson wanted collective security to preserve peace. But realist scholars like E.H. Carr argued that power politics and national interest always dominate."
+  },
+  {
+   "type": "compare",
+   "heading": "Billiard Ball vs Cobweb Model",
+   "columns": [
+    {
+     "title": "Billiard Ball Model",
+     "items": [
+      "State-centric geopolitics",
+      "States are sole gateways",
+      "Colliding units pursuing power"
+     ]
+    },
+    {
+     "title": "Cobweb Model",
+     "items": [
+      "Geo-centric global politics",
+      "Multiple actors and networks",
+      "Complex multiplex global governance"
+     ]
+    }
+   ],
+   "narration": "Thinkers long viewed states as hard billiard balls constantly colliding in conflict. Today, globalisation has built a cobweb model, connecting citizens and organisations through multiple gateways across the globe."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "IR began in 1914 to build peace theories.",
+    "Anarchy forces self-help and creates the security dilemma.",
+    "Global politics shifted from billiard ball to cobweb model."
+   ],
+   "narration": "Remember three points: IR started to prevent wars, anarchy sparks the security dilemma, and global politics has shifted from colliding billiard balls to a connected cobweb."
+  }
+ ]
+}

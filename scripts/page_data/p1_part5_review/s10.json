@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Locke, what is the primary outcome of the first social contract compared to the second?",
+   "options": [
+    "The first contract surrenders all natural rights, while the second contract selects an absolute sovereign.",
+    "The first contract creates civil society, while the second contract establishes a limited government.",
+    "The first contract establishes an elected legislature, while the second contract institutes the judicial system.",
+    "The first contract dissolves the state of nature, while the second contract creates an unregulated market."
+   ],
+   "answer": 1,
+   "why": "Locke's first contract forms civil society where people recognize each other's rights, whereas the second contract creates government as a trust.",
+   "page": 102
+  },
+  {
+   "q": "On what philosophical ground did John Locke refute Robert Filmer's defense of absolute hereditary monarchy?",
+   "options": [
+    "Paternal authority over dependent children differs fundamentally from political authority over rational and equal citizens.",
+    "Hereditary succession is valid only when ratified by a unanimous vote of all property-owning subjects.",
+    "Monarchs derive legitimate absolute power from a single social contract rather than direct divine inheritance.",
+    "Filmer failed to recognize that kings must exercise absolute authority through a formalized legislative assembly."
+   ],
+   "answer": 0,
+   "why": "Locke argued that paternal rule over dependent children cannot justify political authority over citizens, who are rational and free equals.",
+   "page": 99
+  },
+  {
+   "q": "Why does C. B. Macpherson characterize John Locke's political theory as possessive individualism?",
+   "options": [
+    "Locke asserts that all private property must eventually be surrendered to the state for collective welfare.",
+    "Locke demands that economic wealth be redistributed equally among all citizens through progressive tax policies.",
+    "Locke argues that property ownership is a collective communal entitlement rather than an individual moral right.",
+    "Locke justifies absolute property rights and assumes individuals owe no social obligation to give back to society."
+   ],
+   "answer": 3,
+   "why": "Macpherson argued that Locke defends bourgeois interests by treating property as personal achievement without any social obligation to society.",
+   "page": 97
+  },
+  {
+   "q": "What does the right to revolution mean in John Locke's theory of limited government?",
+   "options": [
+    "A violent insurrection by the working class to abolish private property and overthrow the state apparatus.",
+    "A permanent dissolution of both civil society and government, returning citizens to the state of nature.",
+    "A peaceful constitutional change of rulers through elections when the government breaches its delegated trust.",
+    "An automatic executive suspension of the legislature whenever citizens disagree on the enforcement of natural laws."
+   ],
+   "answer": 2,
+   "why": "For Locke, revolution does not mean violent destruction of society, but a peaceful constitutional replacement of rulers who breach trust.",
+   "page": 104
+  }
+ ]
+}

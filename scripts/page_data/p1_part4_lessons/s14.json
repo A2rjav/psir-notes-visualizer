@@ -1,0 +1,82 @@
+{
+ "title": "Postmodern Power, Weberian Authority, and Legitimacy",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do we follow social rules even when no police officer is watching?",
+   "narration": "Have you ever wondered why you quietly follow rules even when nobody is watching you? Power is not just someone threatening you with force; it invisibly shapes how we think and behave every single day."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🚦",
+   "text": "Stopping at a red traffic light on an empty road late at night.",
+   "narration": "As an analogy, imagine waiting at a red traffic signal on an empty midnight street. No police officer is around, yet you stop because you have absorbed the rule into your own mind."
+  },
+  {
+   "type": "thinker",
+   "name": "Michel Foucault",
+   "idea": "Power is multi-directional and flows everywhere in society like a network of capillaries.",
+   "work": "Discipline and Punish, 1979",
+   "narration": "Philosopher Michel Foucault revealed that power is not concentrated only in the government. Instead, power flows through knowledge and social discourse, which means the accepted ways society explains what is normal or abnormal."
+  },
+  {
+   "type": "flow",
+   "heading": "Surveillance to Self-Regulation",
+   "steps": [
+    "Central surveillance tower monitors inmates",
+    "Inmates constantly feel observed",
+    "Internal gaze develops inside minds",
+    "Individuals automatically discipline themselves"
+   ],
+   "narration": "Using Jeremy Bentham's Panopticon prison design, Foucault showed how modern institutions train us. Because prisoners never know when the central tower is looking, they keep watch on themselves, turning surveillance into automatic self-discipline."
+  },
+  {
+   "type": "compare",
+   "heading": "Weber's Three Types of Authority",
+   "columns": [
+    {
+     "title": "Traditional",
+     "items": [
+      "Based on customs and habits",
+      "Example: British Queen"
+     ]
+    },
+    {
+     "title": "Charismatic",
+     "items": [
+      "Based on personal appeal",
+      "Example: Mahatma Gandhi"
+     ]
+    },
+    {
+     "title": "Legal-Rational",
+     "items": [
+      "Based on formal rules",
+      "Example: Modern public servants"
+     ]
+    }
+   ],
+   "narration": "Switching to Max Weber, power becomes authority when citizens accept it as legitimate. Weber outlined three models: authority rooted in ancient customs, authority inspired by a leader's charisma, and modern authority anchored in legal rules."
+  },
+  {
+   "type": "points",
+   "heading": "Indicators of State Legitimacy",
+   "items": [
+    "Voluntary obedience to laws",
+    "Respecting national flag and anthem",
+    "Willing payment of taxes",
+    "Lower rates of social crime"
+   ],
+   "narration": "Remember Weber's core formula: authority equals power plus legitimacy. A state cannot survive on raw force alone; it needs the consent of the governed, visible when citizens peacefully obey laws and pay taxes."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Foucault shows power flows everywhere through knowledge and surveillance.",
+    "Weber defines authority as power combined with legitimate consent.",
+    "Legitimacy secures social stability through voluntary citizen obedience."
+   ],
+   "narration": "To recap, Foucault teaches us that power is everywhere, shaping us through knowledge and surveillance. Meanwhile, Weber shows that lasting authority requires legitimacy, where people willingly accept and obey the rules."
+  }
+ ]
+}

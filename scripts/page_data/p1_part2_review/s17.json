@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "work",
+   "new": "Can Democracies Accommodate Ethnic Nationalism?",
+   "reason": "Atul Kohli's seminal 1997 article is titled 'Can Democracies Accommodate Ethnic Nationalism?', not 'Ethnic Movements'."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to the notes, what primarily enabled Indian democracy to survive despite severe socio-economic obstacles?",
+   "options": [
+    "A flexible consensus Constitution that reconciled dominant liberalism with alternative ideological perspectives.",
+    "The strict enforcement of a uniform civil code across all religious and linguistic communities.",
+    "A rigid constitutional framework that prevented regional movements from challenging the central government.",
+    "Rapid industrial modernization that eliminated regional economic disparities shortly after independence."
+   ],
+   "answer": 0,
+   "why": "The Constitution succeeded because it acted as a flexible consensus document, balancing institutional liberalism with alternative viewpoints in Part IV.",
+   "page": 146
+  },
+  {
+   "q": "How does the Marxist perspective conceptualize the nation, in contrast to liberal and cultural nationalist views?",
+   "options": [
+    "As a natural and spiritual entity that binds individuals across generations through shared cultural consciousness.",
+    "As an invented tradition rather than an organic entity, emerging alongside specific socio-economic transformations.",
+    "As an evolutionary political community developing naturally as traditional societies undergo modernization and secularization.",
+    "As a permanent biological collective rooted in primordial attachments and ancient linguistic loyalties."
+   ],
+   "answer": 1,
+   "why": "Marxists regard nationalism as an invented tradition, whereas liberals link it to modernization and cultural nationalists view it as natural and spiritual.",
+   "page": 147
+  },
+  {
+   "q": "What paradox does Atul Kohli highlight regarding the relationship between democracy and ethnic movements in India?",
+   "options": [
+    "Centralized power suppresses ethnic mobilization, whereas federal devolution inevitably leads to national disintegration.",
+    "Economic modernization eliminates ethnic demands, but electoral politics artificially revives ancient regional grievances.",
+    "Democratic politics stimulates ethnic mobilization, yet democratic accommodation provides the only enduring solution.",
+    "Excessive state force permanently resolves ethnic conflicts, whereas democratic negotiation only delays violent secession."
+   ],
+   "answer": 2,
+   "why": "Kohli argues that democratic politics triggers ethnic mobilization, but peaceful democratic negotiation remains the only viable mechanism to resolve it.",
+   "page": 148
+  },
+  {
+   "q": "According to the notes, why is regionalism considered a developmental crisis rather than an inherent threat to national integration?",
+   "options": [
+    "It arises primarily from foreign interference seeking to destabilize border states and weaken national defense.",
+    "It stems from uneven regional development and neglect, which can be effectively addressed through power devolution.",
+    "It inevitably demands complete secession from the Union unless suppressed by strong centralized armed forces.",
+    "It is an ideological movement aimed at replacing constitutional democracy with monistic sovereign state control."
+   ],
+   "answer": 1,
+   "why": "Regionalism stems from uneven growth and neglect rather than inherent hostility to national unity, warranting democratic devolution of power.",
+   "page": 149
+  }
+ ]
+}

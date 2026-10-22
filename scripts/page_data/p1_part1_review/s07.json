@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did Gandhi distinguish Satyagraha from passive resistance?",
+   "options": [
+    "Satyagraha treats non-violence as an article of faith rather than a tactical choice born of weakness.",
+    "Satyagraha permits the strategic use of physical force whenever political negotiations completely break down.",
+    "Passive resistance requires unconditional love and self-suffering to convert the heart of the opponent.",
+    "Passive resistance seeks to destroy the wrongdoer, whereas Satyagraha aims only to defeat state laws."
+   ],
+   "answer": 0,
+   "why": "Gandhi maintained that while passive resistance avoids violence out of weakness, Satyagraha adopts non-violence as a moral principle and harbors no ill will toward the opponent.",
+   "page": 42
+  },
+  {
+   "q": "According to Gandhi's model of oceanic circles of power, how should political Swaraj function?",
+   "options": [
+    "Power should be concentrated in a centralized parliamentary state to ensure rapid modern development.",
+    "Power expands outward from self-controlled individuals to empower decentralized, self-reliant village republics.",
+    "Power must be transferred directly from colonial administrators to an educated national elite class.",
+    "Power resides exclusively in armed local militias organized to resist foreign political intervention."
+   ],
+   "answer": 1,
+   "why": "Gandhi rejected top-down elite rule, proposing oceanic circles where authority radiates outward from self-disciplined individuals to autonomous village republics.",
+   "page": 44
+  },
+  {
+   "q": "How does Gandhi's doctrine of trusteeship address the relationship between capital and labour?",
+   "options": [
+    "By demanding state ownership of factories to eliminate all private business enterprise.",
+    "By urging workers to wage class struggle until capitalist owners are dispossessed.",
+    "By encouraging owners to consider wealth a community trust and serve society.",
+    "By adopting rapid mechanization to eliminate manual labour and maximize factory wages."
+   ],
+   "answer": 2,
+   "why": "Gandhi rejected Marxist class conflict, advocating class harmony where capitalists act as moral trustees rather than sole owners of socially produced wealth.",
+   "page": 45
+  },
+  {
+   "q": "Why did Gandhi characterize modern Western civilisation as 'satanic' in Hind Swaraj?",
+   "options": [
+    "It relies on foreign religious doctrines rather than traditional Western philosophical teachings.",
+    "It rejects technological progress and prevents nations from expanding industrial manufacturing capacity.",
+    "It prioritizes colonial military alliances over diplomatic negotiations with non-Western sovereign territories.",
+    "It reduces humans to desire-driven creatures by endlessly multiplying material wants and consumer appetites."
+   ],
+   "answer": 3,
+   "why": "Gandhi criticized modern civilisation for its relentless consumerism and materialism, arguing that true civilisation lies in self-restraint and minimizing wants.",
+   "page": 46
+  }
+ ]
+}

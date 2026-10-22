@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Fareed Zakaria, why has democracy struggled to succeed in many post-colonial Third World nations?",
+   "options": [
+    "Economic development was prioritized over establishing formal democratic procedures and regular elections.",
+    "Cultural traditions in these societies completely rejected Western concepts of human dignity and individual rights.",
+    "Constitutionalism and the rule of law were not established before introducing universal adult franchise.",
+    "Global institutions failed to provide adequate economic assistance to newly independent developing nations."
+   ],
+   "answer": 2,
+   "why": "Zakaria argues that constitutionalism and the rule of law must precede democracy, and its absence explains democratic failures in Third World countries.",
+   "page": 126
+  },
+  {
+   "q": "How does Amartya Sen counter the \"Lee Thesis\" regarding the relationship between democracy and development?",
+   "options": [
+    "He argues democracy is an essential precondition that expands human capabilities through health and education.",
+    "He claims economic growth automatically guarantees human freedom without needing state investment in social sectors.",
+    "He asserts that authoritarian governance is initially required before citizens become fit for democratic rights.",
+    "He proves that rapid industrial growth must precede any political democratization in developing societies."
+   ],
+   "answer": 0,
+   "why": "Sen argues that democracy is a precondition for development because public investment in education and health builds essential human capabilities.",
+   "page": 131
+  },
+  {
+   "q": "Why does Robert Dahl characterize modern liberal democracies as \"polyarchies\" rather than ideal democracies or oligarchies?",
+   "options": [
+    "They concentrate supreme political authority within a single monolithic elite that strictly forbids dissent.",
+    "They enable direct citizen decision-making on all state legislation without relying on elected representatives.",
+    "They eliminate all social conflicts by guaranteeing complete economic equality among competing interest groups.",
+    "They operate through open interest-group competition that realistically approximates democratic ideals in practice."
+   ],
+   "answer": 3,
+   "why": "Dahl explains polyarchy as an \"approximate democracy\" where politics functions through competing interest groups rather than pure mass rule or closed oligarchy.",
+   "page": 135
+  },
+  {
+   "q": "According to C.B. Macpherson, what transformation is required for Western liberal democracies to become genuinely egalitarian?",
+   "options": [
+    "Restricting developmental power exclusively to the state while preserving capitalist ownership of resources.",
+    "Eliminating coercive extractive power entirely while ensuring equal developmental creative power for all citizens.",
+    "Replacing competitive elections with an unelected administrative bureaucracy to manage social welfare distribution.",
+    "Maximizing the extractive power of workers to forcibly counterbalance the economic dominance of capitalists."
+   ],
+   "answer": 1,
+   "why": "Macpherson argues that true egalitarian democracy requires eliminating coercive extractive power while providing equal developmental power, defined as creative freedom, to everyone.",
+   "page": 137
+  }
+ ]
+}

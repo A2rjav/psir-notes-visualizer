@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does Rajiv Bhargava characterize the Indian model of secularism through the concept of \"principled distance\"?",
+   "options": [
+    "As strict equidistant neutrality that treats all religions with complete procedural detachment.",
+    "As a contextual model allowing differential engagement or disengagement with religions based on democratic values.",
+    "As total non-interference where the state strictly avoids reforming traditional religious personal laws.",
+    "As an anti-modernist framework advocating a return to pre-colonial religious tolerance over constitutional law."
+   ],
+   "answer": 1,
+   "why": "According to Rajiv Bhargava, principled distance means the state is neither strictly neutral nor passively indifferent, but contextually engages or disengages with religions to protect democracy and equality.",
+   "page": 107
+  },
+  {
+   "q": "What is the primary function of the Supreme Court's \"Essential Practices Doctrine\" under Article 25?",
+   "options": [
+    "To empower religious priests to determine which rituals are exempt from state taxation.",
+    "To grant complete constitutional immunity to all traditional ceremonies against legislative social reforms.",
+    "To permit judicial determination of core religious practices while allowing state regulation of non-essential customs.",
+    "To mandate uniform civil laws across all communities by eliminating distinct personal religious practices."
+   ],
+   "answer": 2,
+   "why": "The Supreme Court uses the doctrine to distinguish core religious practices from non-essential rituals, enabling the state to intervene for social reform while protecting essential religious freedom.",
+   "page": 110
+  },
+  {
+   "q": "Why does Ashis Nandy critique modern secularism in his \"Anti-secularist Manifesto\"?",
+   "options": [
+    "He argues secularism is an absurd modernist construct, favoring the recovery of traditional religious tolerance.",
+    "He contends that principled distance unfairly accommodates minority personal laws at the expense of equality.",
+    "He believes religion-based public morality is dangerous and demands an ultra-procedural wall of separation.",
+    "He asserts that secularism can only succeed if reinforced by strict judicial bans on all conversions."
+   ],
+   "answer": 0,
+   "why": "Nandy views secularism as an elite Western imposition unsuited to South Asia, advocating instead for the embedded traditions of religious tolerance exemplified by Ashoka and Akbar.",
+   "page": 113
+  },
+  {
+   "q": "On what grounds does Pratap Bhanu Mehta criticize the \"principled distance\" model of Indian secularism?",
+   "options": [
+    "It rigidly copies the American ultra-procedural model without adapting to South Asian social diversity.",
+    "It fails to provide the judiciary sufficient authority to interpret essential practices of religious denominations.",
+    "It completely eliminates state discretion, preventing necessary interventions to reform discriminatory personal laws.",
+    "It ideologically legitimizes vote-bank politics, leaving all communities feeling insecure through competitive political opportunism."
+   ],
+   "answer": 3,
+   "why": "Mehta argues that principled distance serves as a misleading metaphor that rationalizes opportunistic political bargaining and vote-bank calculations, ultimately leaving every community insecure.",
+   "page": 115
+  }
+ ]
+}

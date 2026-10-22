@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "Should seats in legislatures be reserved for women? Opponents like Nehru argued quotas compromise merit and cannot be rolled back once introduced. But supporters insisted quotas are essential because patriarchal biases stall female representation.",
+   "reason": "According to the notes, Nehru opposed reservation because it compromises merit and cannot be rolled back once introduced; the argument that men can represent women's interests was made by the 1974 Towards Equality report, not Nehru."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why did Aparna Mahato characterize the initial decades after Indian independence as the 'Grey Years'?",
+   "options": [
+    "Intense ideological divisions along caste and religious lines paralyzed collective women's mobilization across the country.",
+    "Activists assumed the independent national government and constitutional equality would automatically resolve women's issues.",
+    "Women's organizations shifted their entire focus toward armed resistance against patriarchal state institutions.",
+    "The state banned autonomous women's conferences following the passage of major pre-independence social legislations."
+   ],
+   "answer": 1,
+   "why": "Activism declined after independence because leaders believed the newly sovereign indigenous government and progressive Constitution would automatically address women's concerns.",
+   "page": 81
+  },
+  {
+   "q": "What position did the 1974 'Towards Equality' report take regarding political reservation for women?",
+   "options": [
+    "It demanded immediate legislative quotas while rejecting any affirmative action in local panchayats.",
+    "It rejected all political reservations, arguing that women should prioritize economic empowerment instead.",
+    "It supported parliamentary reservation citing the success of similar legislative quotas in neighboring states.",
+    "It opposed quotas in Parliament and Assemblies while supporting reservation in local representative bodies."
+   ],
+   "answer": 3,
+   "why": "The report adopted a reformative stance, opposing parliamentary quotas on grounds that men can represent women, while supporting quotas in local bodies.",
+   "page": 84
+  },
+  {
+   "q": "According to feminist scholar Laura Keenen, why are legislative reservations necessary for women in India?",
+   "options": [
+    "Constitutional voting rights have already eliminated social biases, leaving legislative quotas as a final formality.",
+    "Economic self-reliance must be established through grassroots organizations before women seek legislative office.",
+    "A deeply patriarchal environment blocks talented women from election, requiring quotas as a necessary catalyst.",
+    "Existing male parliamentarians possess proven merit that female candidates can only match through quotas."
+   ],
+   "answer": 2,
+   "why": "Keenen argued that underrepresentation stems from a patriarchal social environment rather than lack of merit, making quotas a necessary catalyst.",
+   "page": 85
+  },
+  {
+   "q": "What key challenge did Neera Desai and Usha Thakkar identify regarding the women's movement from the 1990s onward?",
+   "options": [
+    "The movement became fragmented along caste and religious lines and lacked a unified charter of demands.",
+    "The state completely withdrew gender budgeting components and welfare schemes from national planning.",
+    "Feminist organizations refused to engage with radical feminism or adopt newly autonomous identities.",
+    "Major political parties formed a unified coalition to suppress grassroots anti-violence mobilization."
+   ],
+   "answer": 0,
+   "why": "Desai and Thakkar observed that the movement faced identity challenges, fragmented along caste and religious lines, and lacked a unified charter of demands.",
+   "page": 83
+  }
+ ]
+}

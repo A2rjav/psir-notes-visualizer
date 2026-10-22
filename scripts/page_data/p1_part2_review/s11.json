@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 0,
+   "field": "narration",
+   "new": "Imagine standing at independence and deciding how to feed millions of people. Would you build quiet village farms or giant steel factories? India chose heavy industries, and the journey will surprise you.",
+   "reason": "The notes state on page 89 that the Gandhian approach was not adopted; India chose the Nehruvian model of heavy industries rather than trying both paths."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why did Mahatma Gandhi oppose the uncritical adoption of western industrialisation in independent India?",
+   "options": [
+    "He rejected all mechanical tools and modern scientific knowledge on purely religious and spiritual grounds.",
+    "He believed large-scale machinery would displace human labour, concentrate wealth, and worsen rural exploitation.",
+    "He preferred centralised state ownership of heavy factories rather than private ownership by industrial capitalists.",
+    "He believed foreign manufactured goods were cheaper and should permanently satisfy India's essential domestic needs."
+   ],
+   "answer": 1,
+   "why": "Gandhi was not against machines themselves, but feared that large-scale mechanisation would destroy livelihoods and concentrate wealth.",
+   "page": 89
+  },
+  {
+   "q": "Under the Nehru-Mahalanobis strategy, why did India prioritise heavy industries over consumer goods?",
+   "options": [
+    "To generate immediate export profits and rapidly expand private consumer markets across urban centres.",
+    "To decentralise economic authority to state governments and protect regional federalism from central control.",
+    "To eliminate the need for agricultural investment by absorbing rural labour directly into village crafts.",
+    "To build domestic capital goods capacity and achieve strategic self-reliance from foreign economic pressure."
+   ],
+   "answer": 3,
+   "why": "The Nehru-Mahalanobis model prioritised heavy industries to establish domestic capital-goods production and safeguard economic independence.",
+   "page": 90
+  },
+  {
+   "q": "What did former RBI Governor Bimal Jalan highlight by comparing public sector enterprises to 'family silver'?",
+   "options": [
+    "Public enterprises were valuable treasures that generated large surplus revenues for government welfare schemes.",
+    "The state should retain loss-making public units at any cost to maintain national sovereign prestige.",
+    "Maintaining inefficient public sector units cost the government more money than the actual returns received.",
+    "Public assets should be sold immediately to foreign multinational corporations to liquidate external sovereign debt."
+   ],
+   "answer": 2,
+   "why": "Bimal Jalan observed that subsidising inefficient public enterprises drained state finances far beyond the economic benefits they delivered.",
+   "page": 92
+  },
+  {
+   "q": "According to Amartya Sen, why did post-1991 economic liberalisation fail to produce a sustained tiger-like sprint?",
+   "options": [
+    "Neglect of basic education, healthcare, and human capabilities prevented the majority from seizing market opportunities.",
+    "Over-investment in rural primary schooling and health centres starved modern industrial sectors of capital.",
+    "Excessive tariff barriers and severe restrictions on foreign direct investment isolated the Indian economy.",
+    "Rapid mechanisation of agriculture displaced millions of industrial factory workers into low-paying rural jobs."
+   ],
+   "answer": 0,
+   "why": "Amartya Sen stressed that economic growth cannot translate into widespread progress without public investment in education and healthcare.",
+   "page": 96
+  }
+ ]
+}

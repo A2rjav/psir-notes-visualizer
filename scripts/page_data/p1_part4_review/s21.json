@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "In Ronald Dworkin's theory of equality of resources, why is a hypothetical insurance scheme introduced alongside the island auction?",
+   "options": [
+    "To ensure that every participant achieves an equal level of subjective happiness.",
+    "To eliminate differences arising from calculated risks and personal career choices.",
+    "To protect individuals against unchosen natural handicaps and brute bad luck.",
+    "To replace competitive market bidding with equal state allocation of all goods."
+   ],
+   "answer": 2,
+   "why": "Dworkin designs the insurance market to compensate for unchosen brute luck, such as natural disabilities, while letting distribution remain sensitive to personal ambitions and choices.",
+   "page": 194
+  },
+  {
+   "q": "According to Amartya Sen, why is equalising resources alone insufficient to achieve genuine human equality?",
+   "options": [
+    "Because resources represent mere means, ignoring individual diversities in converting goods into actual functioning.",
+    "Because resources create subjective envy, which disrupts fair market auctions among equal citizens.",
+    "Because true equality requires equalising subjective pleasure rather than expanding objective human capabilities.",
+    "Because material wealth should be redistributed equally by abolishing all private ownership and markets."
+   ],
+   "answer": 0,
+   "why": "Sen argues that resources are only means, whereas genuine equality requires expanding capabilities to account for human diversity in achieving functionings.",
+   "page": 195
+  },
+  {
+   "q": "How do classical liberals and social liberals differ regarding the relationship between liberty and equality?",
+   "options": [
+    "Classical liberals prioritize equality of outcome, while social liberals advocate pure procedural legal equality.",
+    "Classical liberals reject negative freedom, while social liberals argue that state welfare destroys human dignity.",
+    "Classical liberals consider state equality complementary to liberty, while social liberals treat them as irreconcilable.",
+    "Classical liberals view state-enforced equality as antithetical to liberty, while social liberals see them as complementary."
+   ],
+   "answer": 3,
+   "why": "Classical liberals argue that state redistribution coerces individuals and diminishes negative liberty, whereas social liberals believe state support enhances positive capacities and freedom.",
+   "page": 197
+  },
+  {
+   "q": "According to the notes, what is the core rationale and intended nature of affirmative action policies?",
+   "options": [
+    "They are permanent welfare guarantees designed to maintain identical economic outcomes for all communities.",
+    "They are temporary enabling catalysts of positive discrimination to help historically disadvantaged groups achieve parity.",
+    "They represent punitive reverse discrimination intended to penalize historically privileged sections of society.",
+    "They serve as market-driven auction mechanisms that eliminate the need for any state intervention."
+   ],
+   "answer": 1,
+   "why": "Affirmative action acts as an external catalyst and temporary enabling mechanism to help historically marginalized groups reach parity, rather than permanent discrimination.",
+   "page": 200
+  }
+ ]
+}

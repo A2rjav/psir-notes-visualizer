@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to the notes, on what ground did Bhikhu Parekh criticize Will Kymlicka's theory of minority rights?",
+   "options": [
+    "Parekh rejected Kymlicka's distinction denying special cultural rights to immigrants and refugees who chose migration.",
+    "Parekh argued that special representation rights in government should be prioritized over all cultural exemptions.",
+    "Parekh claimed that multiculturalism can only function effectively within strictly liberal Western societies.",
+    "Parekh asserted that liberal democracy marks the final ideological stage of human civilizational development."
+   ],
+   "answer": 0,
+   "why": "Parekh opposed Kymlicka's view that immigrants choose to move and should adopt the host culture. He argued that culture matters equally to immigrants and refugees.",
+   "page": 32
+  },
+  {
+   "q": "Why do multiculturalists like Bhikhu Parekh reject the traditional liberal concept of the 'atomistic man'?",
+   "options": [
+    "They argue that human beings are fundamentally motivated by universal economic competition rather than cultural traditions.",
+    "They believe humans are culturally embedded, meaning individuals cannot be separated from their cultural identities.",
+    "They contend that cultural identities are purely voluntary associations that citizens easily leave behind in public life.",
+    "They assert that modern states must enforce cultural uniformity to protect citizens from conflicting social values."
+   ],
+   "answer": 1,
+   "why": "Parekh argues that individuals are culturally embedded and understand reality through their culture. Therefore, respecting an individual requires recognizing and respecting their cultural background.",
+   "page": 30
+  },
+  {
+   "q": "How does Bhikhu Parekh propose that a multicultural society balance individual autonomy with cultural community traditions?",
+   "options": [
+    "By requiring minority communities to subordinate their traditional practices to universal liberal constitutional norms.",
+    "By prohibiting the state from recognizing any cultural exemptions to prevent conflicts between competing values.",
+    "By applying the harm principle so cultural practices causing no concrete harm are protected and respected.",
+    "By separating different civilizational communities into autonomous territorial enclaves with separate legal codes."
+   ],
+   "answer": 2,
+   "why": "Parekh applies the harm principle to balance individual autonomy and cultural traditions. Cultural practices should not be restricted as long as they cause no concrete harm.",
+   "page": 33
+  },
+  {
+   "q": "Why did Samuel Huntington characterize the conflict between Western and Islamic civilizations as a 'fault line conflict'?",
+   "options": [
+    "The clash involves direct military confrontation between two centralized, highly organized core states.",
+    "The dispute is driven by economic competition rather than deep cultural or religious differences.",
+    "The tension stems from Western civilization achieving the final endpoint of human ideological evolution.",
+    "The Islamic world lacks a recognized core state, leading to dispersed conflicts along cultural borders."
+   ],
+   "answer": 3,
+   "why": "Huntington categorized Western-Islamic friction as a fault-line conflict because the Islamic world lacks a core state. In contrast, conflicts with Chinese civilization involve core states.",
+   "page": 36
+  }
+ ]
+}

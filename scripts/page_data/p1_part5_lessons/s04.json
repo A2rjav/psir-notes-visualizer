@@ -1,0 +1,75 @@
+{
+ "title": "Plato: Justice, Education, and Philosopher King",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a state become completely peaceful if everyone performs only one assigned duty?",
+   "narration": "Imagine living in a city where there is zero crime, zero corruption, and complete peace. The ancient Greek thinker Plato believed he found the secret to this ideal state."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket team, harmony comes when each player sticks to their specialized role.",
+   "narration": "Think of this as an analogy to a cricket team. If your wicketkeeper insists on bowling fast, the whole team collapses! Plato says justice works the same way: everyone sticks strictly to their natural role."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Plato's Three Classes",
+   "levels": [
+    "Rulers: Guided by reason",
+    "Soldiers: Guided by courage",
+    "Producers: Guided by appetite"
+   ],
+   "narration": "Plato explains that the state is just the human soul magnified. In his ideal republic, wise rulers govern, brave soldiers protect, and producers provide goods without ever interfering in each other's work."
+  },
+  {
+   "type": "flow",
+   "heading": "Plato's State Education System",
+   "steps": [
+    "Primary training in gymnastics and music",
+    "First test selects producer class",
+    "Military training tests soldier class",
+    "Philosopher kings qualify at fifty"
+   ],
+   "narration": "How do we know who belongs where? Plato creates a state-run education system with strict screening tests. Those who complete fifty years of study finally earn the right to rule."
+  },
+  {
+   "type": "compare",
+   "heading": "Plato's Communism of Guardians",
+   "columns": [
+    {
+     "title": "Guardian Class",
+     "items": [
+      "Forbidden from owning private property",
+      "No private families or marriage",
+      "Children raised by the state"
+     ]
+    },
+    {
+     "title": "Producer Class",
+     "items": [
+      "Allowed to hold private property",
+      "Keep traditional private families",
+      "Exempt from communist lifestyle"
+     ]
+    }
+   ],
+   "narration": "To prevent greed and family favoritism, Plato bans rulers and soldiers from owning private property or having private families. Only the producers, who hold no political power, may keep their wealth and homes."
+  },
+  {
+   "type": "quote",
+   "quote": "Those states are well governed whose rulers are reluctant to govern rather where they are eager to govern.",
+   "by": "Plato",
+   "narration": "Plato argues that ordinary politicians lust after power and money, ruining Athens. A true philosopher loves only wisdom and accepts the throne reluctantly, purely as a selfless duty to the state."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Justice means performing one's natural duty without interference",
+    "State education filters citizens into three soul-based classes",
+    "Reluctant philosopher kings rule without property or family"
+   ],
+   "narration": "Remember these three big ideas: justice is non-interference, education sorts your true aptitude, and wise, selfless philosophers make the best rulers. Master these, and Plato is a breeze!"
+  }
+ ]
+}

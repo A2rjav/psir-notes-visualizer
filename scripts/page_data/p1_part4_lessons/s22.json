@@ -1,0 +1,112 @@
+{
+ "title": "Political Theory: Nature, Evolution, and Traditional Approaches",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can politics ever be studied as a pure science like physics?",
+   "narration": "Imagine trying to measure justice or freedom with a thermometer! For centuries, scholars have asked: is political science a search for scientific laws, or a moral guide for good life?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Cricket rulebooks set ideal standards, while match scorecards record what players actually do.",
+   "narration": "Here is a simple analogy using cricket. The official rulebook prescribes how the game ought to be played fairly, but match statistics describe what players actually do on the pitch. Political theory studies both the ideals and the real game."
+  },
+  {
+   "type": "timeline",
+   "heading": "Evolution of Political Science",
+   "events": [
+    {
+     "when": "Ancient Greece",
+     "what": "Plato studies politics as ethical philosophy"
+    },
+    {
+     "when": "Medieval Times",
+     "what": "Politics becomes part of religious scholastics"
+    },
+    {
+     "when": "After 2nd WW",
+     "what": "Behaviouralism attempts to build pure science"
+    },
+    {
+     "when": "1960s Onwards",
+     "what": "Post-behaviouralism establishes an applied science"
+    }
+   ],
+   "narration": "Political science began in Ancient Greece as ethics. Later, Machiavelli made politics independent, American behaviouralists tried turning it into a pure laboratory science, and finally post-behaviouralists established it as an applied science."
+  },
+  {
+   "type": "points",
+   "heading": "Four Traditional Approaches",
+   "items": [
+    "Philosophical approach examines normative values like justice",
+    "Historical approach analyzes past contexts to understand ideas",
+    "Institutional approach studies constitutions and government organs",
+    "Empirical approach gathers observable facts through experience"
+   ],
+   "narration": "Before modern computers, scholars relied on four traditional approaches: philosophical ideals, historical context, legal institutions, and empirical observations of real political life."
+  },
+  {
+   "type": "compare",
+   "heading": "Textual Versus Contextual Approach",
+   "columns": [
+    {
+     "title": "Textual Approach",
+     "items": [
+      "Literal interpretation of the text",
+      "Meaning remains fixed over time",
+      "Repeated reading reveals meaning"
+     ]
+    },
+    {
+     "title": "Contextual Approach",
+     "items": [
+      "Interprets author and historical circumstances",
+      "Linguistic meaning of words changes",
+      "Emphasized by Cambridge School scholars"
+     ]
+    }
+   ],
+   "narration": "How should we read classical texts? Contextualists in the Cambridge School argue that words change meaning over centuries, so we must understand the author's historical situation rather than just reading words literally."
+  },
+  {
+   "type": "compare",
+   "heading": "Normative Versus Empirical Approaches",
+   "columns": [
+    {
+     "title": "Normative Approach",
+     "items": [
+      "Studies values like justice and liberty",
+      "Prescriptive and oriented toward change",
+      "Deals with what ought to be"
+     ]
+    },
+    {
+     "title": "Empirical Approach",
+     "items": [
+      "Studies observable facts through experience",
+      "Descriptive and generally status quoist",
+      "Deals with what actually is"
+     ]
+    }
+   ],
+   "narration": "Here is the fundamental divide in political theory: normative theory asks what ought to be, prescribing moral ideals, while empirical theory observes what actually is, describing observable facts."
+  },
+  {
+   "type": "thinker",
+   "name": "March and Olson",
+   "idea": "Institutions, rules, and procedures constrain choices rather than individual behaviour alone.",
+   "work": "Rediscovering Institutions",
+   "narration": "In modern political thought, March and Olson revived the institutional approach. They showed that human actors do not make choices in a vacuum; rules, norms, and procedures constantly shape their decisions."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Political science evolved from philosophy into an applied science",
+    "Traditional approaches combine normative ideals with empirical facts",
+    "Contextualism and new institutionalism revived historical and institutional methods"
+   ],
+   "narration": "Remember these three big takeaways: political science evolved toward an applied science, traditional approaches balance values with facts, and modern revivals keep history and institutions central to UPSC PSIR."
+  }
+ ]
+}

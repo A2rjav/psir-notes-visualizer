@@ -1,0 +1,82 @@
+{
+ "title": "The Changing Tide of Indian Party Politics",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did new parties reshape India's democracy after one-party dominance faded?",
+   "narration": "Imagine walking into an election where the old giant parties no longer hold all the cards. How did fresh ideas and new political forces rise to capture India's imagination?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket tournament where fresh tactics outshine traditional playing styles.",
+   "narration": "Here is a helpful analogy: imagine a cricket tournament where old teams stick to outdated shots, while newer squads bring fresh fitness and sharp strategies. In Indian politics, parties that adapted to voter needs surged ahead, while rigid ones fell behind."
+  },
+  {
+   "type": "timeline",
+   "heading": "Electoral Rise of the BJP",
+   "events": [
+    {
+     "when": "1984",
+     "what": "Secured only two parliamentary seats"
+    },
+    {
+     "when": "1996",
+     "what": "Became single largest party with 161 seats"
+    },
+    {
+     "when": "2014",
+     "what": "Won absolute majority with 282 seats"
+    }
+   ],
+   "narration": "Look at this dramatic climb! The BJP started with just two seats in 1984, grew through organizational strength, and swept to an absolute majority of 282 seats in 2014."
+  },
+  {
+   "type": "thinker",
+   "name": "Deendayal Upadhyaya",
+   "idea": "Integral Humanism harmonizing mind, body, and soul with indigenous values.",
+   "work": "",
+   "narration": "Meet thinker Deendayal Upadhyaya, who gave the BJP its guiding philosophy called Integral Humanism. He believed India should adopt Western science to modernize, but stay rooted in its own moral values rather than copying Western lifestyles."
+  },
+  {
+   "type": "balance",
+   "heading": "Voter Decision Factors",
+   "left": "Caste Identity Alone",
+   "right": "Governance and Economics",
+   "tilt": "right",
+   "narration": "Scholar Milan Vaishnav pointed out that voters caused a historic shift. Instead of choosing candidates purely by caste, citizens began weighing good economics and effective governance far more heavily."
+  },
+  {
+   "type": "compare",
+   "heading": "Left Decline Versus AAP Rise",
+   "columns": [
+    {
+     "title": "Left Parties",
+     "items": [
+      "Relied on imported Western doctrines",
+      "Rigid hierarchy stopped open debate",
+      "Dwindled to twelve seats in 2014"
+     ]
+    },
+    {
+     "title": "Aam Aadmi Party",
+     "items": [
+      "Emerged from anti-corruption protests in 2012",
+      "Practices bottom-up grassroots democracy",
+      "Bans dynastic family representation"
+     ]
+    }
+   ],
+   "narration": "While the Left shrank because of rigid doctrines and elite leadership, the Aam Aadmi Party arose in 2012 from urban anti-corruption protests. AAP championed bottom-up people power and barred family dynasty politics."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "BJP surged through Integral Humanism and governance.",
+    "Left parties collapsed by ignoring modern aspirations.",
+    "AAP proved bottom-up anti-corruption politics can win."
+   ],
+   "narration": "Remember these three big takeaways: the BJP rose by pairing cultural ideology with governance, the Left crashed by clinging to old theories, and AAP created a fresh model of grassroots politics."
+  }
+ ]
+}

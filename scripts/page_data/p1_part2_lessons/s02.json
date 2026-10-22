@@ -1,0 +1,92 @@
+{
+ "title": "Panchayati Raj and Democratic Decentralisation",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a remote village govern itself better than leaders sitting in New Delhi?",
+   "narration": "Imagine if every decision about your local roads, schools, and water came from thousands of kilometers away. Wouldn't the people living in the village solve their daily problems best?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A classroom managing its own homework chart instead of waiting for the school principal.",
+   "narration": "Here is a simple analogy: imagine your principal tried to assign daily monitors for forty different classrooms. Wouldn't you prefer letting each class elect someone who sits with them?"
+  },
+  {
+   "type": "timeline",
+   "heading": "Evolution of Panchayati Raj",
+   "events": [
+    {
+     "when": "1959",
+     "what": "Nehru launches Panchayati Raj at Nagaur"
+    },
+    {
+     "when": "1970s",
+     "what": "Stagnation from hostile bureaucracy and centralisation"
+    },
+    {
+     "when": "1980s",
+     "what": "Singhvi Committee recommends constitutional protection"
+    },
+    {
+     "when": "1992",
+     "what": "Parliament passes 73rd Constitutional Amendment Act"
+    }
+   ],
+   "narration": "After early enthusiasm in Nagaur, local councils stagnated for decades because state leaders and bureaucrats resisted sharing power. Finally, the landmark 73rd Amendment in 1992 gave them constitutional recognition."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Three-Tier Panchayati Raj Structure",
+   "levels": [
+    "District level",
+    "Block level",
+    "Village level"
+   ],
+   "narration": "The Balvantray Mehta Committee recommended a uniform three-tier ladder. District and block bodies coordinate planning and resources, while elected village councils implement everyday development on the ground."
+  },
+  {
+   "type": "compare",
+   "heading": "73rd Amendment: Strengths and Weaknesses",
+   "columns": [
+    {
+     "title": "Strengths",
+     "items": [
+      "Mandatory three-tier structure across states",
+      "Regular elections every five years",
+      "Reserved seats for Dalits and women"
+     ]
+    },
+    {
+     "title": "Weaknesses",
+     "items": [
+      "Devolution of subjects left voluntary",
+      "State election commissions lack autonomy",
+      "Bureaucracy withholds funds and functionaries"
+     ]
+    }
+   ],
+   "narration": "Scholars call the amendment a half-baked cake because it created an institutional skeleton without guaranteed powers. While regular elections and reservations became mandatory, actual funds and functions were left to state discretion."
+  },
+  {
+   "type": "points",
+   "heading": "Gram Sabha and Direct Democracy",
+   "items": [
+    "All adult village voters form the Gram Sabha",
+    "Operates as an organ of direct democracy",
+    "Mandated to monitor social audits and spending",
+    "Infrequent and bogus meetings weaken accountability"
+   ],
+   "narration": "The Gram Sabha is the soul of grassroots democracy, where every adult voter participates directly rather than through representatives. However, meetings are often irregular, leaving villagers without real control over village funds."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "73rd Amendment gave constitutional status to three-tier panchayats",
+    "States must devolve funds, functions, and functionaries",
+    "Active Gram Sabhas enable genuine direct democracy"
+   ],
+   "narration": "Remember three key lessons: the 73rd Amendment established a uniform three-tier system, real decentralization requires devolving genuine funds and functions, and an active Gram Sabha transforms democracy from paper into reality."
+  }
+ ]
+}

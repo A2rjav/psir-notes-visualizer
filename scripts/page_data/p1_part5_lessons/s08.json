@@ -1,0 +1,72 @@
+{
+ "title": "Machiavelli: Realism, Statecraft, and Secular Politics",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Should a ruler be loved or feared to keep a nation secure?",
+   "narration": "Imagine you are running a country surrounded by rivals. Would you rule by winning people's love, or by making them fear your power?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A strict school monitor enforcing order instead of trying to be everyone's favorite friend.",
+   "narration": "Here's an analogy to make this click: think of your school monitor. If they only try to be popular, the classroom turns into chaos, but firm rules keep everyone safe and disciplined."
+  },
+  {
+   "type": "thinker",
+   "name": "Niccolò Machiavelli",
+   "idea": "Studied politics as a realistic power struggle rather than an imagined moral ideal.",
+   "work": "The Prince",
+   "narration": "Scholar Harold Laski called Machiavelli a child of the Renaissance. Writing in divided Italy, he rejected religious dogmas to pioneer realism, observing politics as it really is, not how it ought to be."
+  },
+  {
+   "type": "points",
+   "heading": "Realistic View of Human Nature",
+   "items": [
+    "Ungrateful and quick to forget past favors",
+    "Deceitful and ready to betray for self-interest",
+    "Cowardly and constantly driven by fear of loss",
+    "Avaricious and fiercely protective of personal property"
+   ],
+   "narration": "Machiavelli argued that human nature never changes. Since people are naturally ungrateful, deceitful, cowardly, and greedy, a wise prince controls them through fear rather than trusting in their love."
+  },
+  {
+   "type": "compare",
+   "heading": "Statecraft: The Fox and Lion",
+   "columns": [
+    {
+     "title": "The Fox",
+     "items": [
+      "Clever enough to recognize hidden traps",
+      "Relies on sharp intelligence and foresight"
+     ]
+    },
+    {
+     "title": "The Lion",
+     "items": [
+      "Brave enough to fight off wolves",
+      "Commands defense forces and hard power"
+     ]
+    }
+   ],
+   "narration": "To rule successfully, a prince must combine two beasts. You need the cleverness of a fox to spot hidden conspiracies, and the courage of a lion to terrify powerful enemies."
+  },
+  {
+   "type": "balance",
+   "heading": "Dual Morality in Politics",
+   "left": "Individual Moral Principles",
+   "right": "Supreme National Interest",
+   "tilt": "right",
+   "narration": "Here is Machiavelli's big breakthrough: dual morality. While an ordinary person may sacrifice life for private principles, a ruler's highest moral duty is national interest, where the ends justify the means."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Political realism: see power as it really is",
+    "Statecraft requires both fox cunning and lion bravery",
+    "Dual morality places national interest above private ethics"
+   ],
+   "narration": "Remember these three big ideas for your exam: see politics realistically, combine the fox with the lion, and judge political decisions strictly by national survival."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 1,
+   "field": "narration",
+   "new": "Here is an everyday analogy: imagine a cricket analyst who obsesses over wagon wheels and strike rates, but forgets how to actually win the game. That is how behavioural political scientists got lost in pure numbers!",
+   "reason": "Early political scientists were traditionalists who studied normative philosophy without empirical data; it was behavioural political scientists who got lost in pure numbers and quantitative techniques."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why did David Easton criticize behavioural political scientists in his 'Credo of Relevance' lecture?",
+   "options": [
+    "They prioritized the purity of scientific techniques over addressing urgent contemporary crises and social relevance.",
+    "They failed to adopt mathematical and statistical measurement tools in studying electoral voting patterns.",
+    "They focused excessively on ancient philosophical texts rather than building verifiable empirical hypotheses.",
+    "They aligned political science too closely with psychology and economics instead of law and history."
+   ],
+   "answer": 0,
+   "why": "Easton criticized scholars for sitting in ivory towers perfecting methods while neglecting pressing social challenges and human purpose.",
+   "page": 216
+  },
+  {
+   "q": "How does post-behaviouralism relate intellectually to traditionalism and behaviouralism?",
+   "options": [
+    "It completely rejects scientific methods to return entirely to traditional normative political philosophy.",
+    "It acts as a synthesis that carries behavioural techniques forward while restoring normative relevance.",
+    "It serves as an anti-thesis designed to replace both approaches with Marxist historical determinism.",
+    "It abandons empirical investigation entirely because social theories cannot undergo laboratory verification."
+   ],
+   "answer": 1,
+   "why": "Post-behaviouralism is not a counter-revolution; it acts as a synthesis carrying behavioural methods forward while restoring social relevance.",
+   "page": 218
+  },
+  {
+   "q": "According to Robert Dahl and post-behaviouralists, how should the relationship between facts and values be understood?",
+   "options": [
+    "Facts and values are completely separate spheres that must never influence each other in research.",
+    "Values must be entirely eliminated so that political science can operate as a pure science.",
+    "There is an active continuity between them where facts become values and values become facts.",
+    "Empirical facts should be discarded because normative political theory relies solely on philosophical speculation."
+   ],
+   "answer": 2,
+   "why": "Robert Dahl argued that facts and values are not completely separate, but exist in a continuity where they transform into each other.",
+   "page": 222
+  },
+  {
+   "q": "Why did Marxist scholars criticize the behavioural movement in political science?",
+   "options": [
+    "For overemphasizing class struggle and economic determinism at the expense of empirical voting data.",
+    "For relying on costly research methods that merely replicated what Machiavelli deduced through pure logic.",
+    "For refusing to integrate empirical tools from disciplines like psychology, sociology, and modern economics.",
+    "For using value neutrality and status quo bias to deflect attention from crucial normative questions."
+   ],
+   "answer": 3,
+   "why": "Marxists argued that behavioural value neutrality served to justify the status quo and divert attention from normative questions.",
+   "page": 219
+  }
+ ]
+}

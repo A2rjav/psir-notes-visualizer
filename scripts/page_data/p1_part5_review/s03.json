@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does Plato resolve the philosophical conflict between Heraclitus and Parmenides regarding reality?",
+   "options": [
+    "He rejects Parmenides entirely, arguing that ultimate truth constantly evolves within the changing physical realm.",
+    "He links change to the sensory physical world while assigning eternal permanence to the world of ideas.",
+    "He asserts that mathematical calculations prove physical matter is eternal while metaphysical ideas change continuously.",
+    "He follows Heraclitus in claiming that permanence is an illusion created by sensory perceptions of nature."
+   ],
+   "answer": 1,
+   "why": "Plato synthesizes both thinkers by arguing that the physical world of appearances undergoes continuous change, whereas true ideas remain eternally permanent.",
+   "page": 12
+  },
+  {
+   "q": "According to Socrates, how does genuine knowledge differ from the beliefs taught by the Sophists?",
+   "options": [
+    "Genuine knowledge is inherent within the soul and discovered through dialectics, rather than bought for worldly gain.",
+    "Genuine knowledge consists of persuasive rhetorical techniques acquired by paying tuition fees to skilled political educators.",
+    "Genuine knowledge is derived from observing physical nature through inductive experiments rather than philosophical dialogue.",
+    "Genuine knowledge promotes aggressive individualism and material accumulation as the primary sources of human happiness."
+   ],
+   "answer": 0,
+   "why": "Socrates argued that true knowledge is inherent in the soul and accessed through reasoned dialectics, whereas Sophists sold superficial opinions for material success.",
+   "page": 13
+  },
+  {
+   "q": "What philosophical insight does Plato illustrate through the Allegory of the Cave regarding human understanding of reality?",
+   "options": [
+    "Human beings possess innate physical senses capable of directly observing ultimate reality without philosophical training.",
+    "The physical world represents the highest truth, whereas abstract metaphysical ideas are mere cognitive illusions.",
+    "People in ignorance mistake changing physical appearances for true reality, which exists only as permanent ideas.",
+    "Enlightenment is achieved by studying empirical natural sciences rather than searching for spiritual essences beyond senses."
+   ],
+   "answer": 2,
+   "why": "The allegory illustrates that people in ignorance mistake sensory appearances for reality, whereas true reality consists of permanent ideas beyond the physical realm.",
+   "page": 18
+  },
+  {
+   "q": "Why does Plato's Theory of Ideas directly justify the political institution of the philosopher king?",
+   "options": [
+    "Because philosophers alone possess the military courage required to defend the city against foreign Spartan armies.",
+    "Because philosophers accumulate extensive private property and material wealth to secure the economic stability of Athens.",
+    "Because democratic assemblies rely on dialectical debate to grant legislative legitimacy to elected philosophical rulers.",
+    "Because only philosophers possess the reason required to grasp the permanent idea of the ideal state."
+   ],
+   "answer": 3,
+   "why": "Plato argued that establishing an ideal state requires understanding its eternal idea, which is only accessible through the reason possessed by philosophers.",
+   "page": 16
+  }
+ ]
+}

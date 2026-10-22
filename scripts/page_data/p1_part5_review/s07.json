@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Aristotle, why is proportionate equality preferred over absolute equality in distributive justice?",
+   "options": [
+    "Treating citizens with unequal societal contributions equally creates a feeling of injustice and triggers rebellion.",
+    "Absolute equality undermines the absolute monarch's prerogative to distribute state property without legal restraints.",
+    "Proportionate equality guarantees that all citizens receive identical shares of public honors regardless of talent.",
+    "Rewarding citizens purely on personal need ensures complete fairness in distributing offices and scarce resources."
+   ],
+   "answer": 0,
+   "why": "Aristotle argued that giving equal rewards to unequals is unjust to the meritorious and provokes revolution.",
+   "page": 56
+  },
+  {
+   "q": "Why does Aristotle identify polity as the best practicable form of government?",
+   "options": [
+    "It allows philosopher kings to exercise unrestricted knowledge beyond the limitations of written laws.",
+    "It represents a middle-class golden mean that balances the arrogance of wealth and ignorance of poverty.",
+    "It establishes pure direct democracy where the impoverished majority holds absolute power over the rich.",
+    "It concentrates governing power within a wealthy hereditary aristocracy to prevent popular factional conflict."
+   ],
+   "answer": 1,
+   "why": "Polity represents the golden mean between oligarchy and democracy, resting on a trusted, moderate middle class.",
+   "page": 58
+  },
+  {
+   "q": "On what ground does Aristotle establish the superiority of the rule of law over Plato's philosopher king?",
+   "options": [
+    "Philosopher kings lack philosophical training in contemplation and the world of transcendent forms.",
+    "Written law can be modified arbitrarily by individual rulers during times of civil crisis.",
+    "Law embodies impersonal collective wisdom across ages, whereas even wise rulers may succumb to passion.",
+    "Plato's ideal state entirely rejected legal codes in favor of direct democratic majority decisions."
+   ],
+   "answer": 2,
+   "why": "Law represents impersonal reason and the collective wisdom of generations, avoiding the passions of an individual ruler.",
+   "page": 60
+  },
+  {
+   "q": "In Aristotle's political theory, what constitutes a revolution, and what is its primary general cause?",
+   "options": [
+    "A violent overthrow of the ruling class driven exclusively by external military defeat.",
+    "The total economic transformation of property relations driven by inevitable dialectical class conflict.",
+    "A planned constitutional amendment enacted solely through the moderate exercise of executive power.",
+    "Any change in the constitutional order, sparked primarily by a psychological feeling of inequality."
+   ],
+   "answer": 3,
+   "why": "For Aristotle, revolution is any political change, most commonly caused by perceived inequality or injustice.",
+   "page": 61
+  }
+ ]
+}

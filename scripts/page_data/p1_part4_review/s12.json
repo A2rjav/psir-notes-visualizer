@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "What defines India as a 'soft state' according to Gunnar Myrdal's Asian Drama?",
+   "options": [
+    "Its limited capacity to effectively enforce laws and implement policies despite passing comprehensive legislation.",
+    "Its lack of formal administrative institutions and bureaucratic structures inherited from colonial rule.",
+    "Its total subservience as a clientelist puppet regime serving foreign metropolitan capital.",
+    "Its complete subordination of civilian institutions under an authoritarian military oligarchy."
+   ],
+   "answer": 0,
+   "why": "Myrdal defined a soft state as one that passes laws but suffers from poor implementation and weak enforcement capacity.",
+   "page": 93
+  },
+  {
+   "q": "According to Hamza Alavi, how does the post-colonial state relate to social classes?",
+   "options": [
+    "It serves strictly as an instrument of the indigenous capitalist class against foreign competitors.",
+    "It acts as a relatively autonomous mediator among three competing propertied classes.",
+    "It represents exclusively the economic interests of the traditional indigenous feudal class.",
+    "It operates purely as a direct instrument of the metropolitan bourgeoisie alone."
+   ],
+   "answer": 1,
+   "why": "Alavi argued that the post-colonial state mediates between three competing classes: the metropolitan bourgeoisie, indigenous bourgeoisie, and indigenous feudal class.",
+   "page": 95
+  },
+  {
+   "q": "Why did Hamza Alavi describe the state in post-colonial societies as 'overdeveloped'?",
+   "options": [
+    "The indigenous capitalist economy developed much faster than the political superstructure.",
+    "The state successfully eradicated all feudal relations through comprehensive land reforms.",
+    "Colonial rulers established an advanced administrative apparatus over a society that remained traditional.",
+    "Political parties established complete democratic oversight over the inherited colonial bureaucracy."
+   ],
+   "answer": 2,
+   "why": "The state is overdeveloped because modern administrative machinery was imported by colonizers into an economically and socially traditional society.",
+   "page": 97
+  },
+  {
+   "q": "In F.W. Riggs's model of prismatic societies, what is meant by 'formalism'?",
+   "options": [
+    "The dominance of modern constitutional rules over traditional customs in daily life.",
+    "The harmonious integration of distinct ethnic communities into a single national identity.",
+    "The complete alignment of market pricing with state-subsidized canteen goods distribution.",
+    "A substantial discrepancy between enacted laws and rules and their actual practical implementation."
+   ],
+   "answer": 3,
+   "why": "Riggs defined formalism as a large gap between theory (formal laws and regulations) and practice (how administration actually operates).",
+   "page": 92
+  }
+ ]
+}

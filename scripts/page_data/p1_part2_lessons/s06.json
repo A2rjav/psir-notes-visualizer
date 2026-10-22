@@ -1,0 +1,82 @@
+{
+ "title": "Union Parliament: Functioning, Decline, and Representation",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a parliament representing deep diversity survive intense political conflict?",
+   "narration": "Imagine running a huge school where students constantly debate every single rule. Can a national parliament with so many diverse voices actually govern India, or does intense rivalry cause it to decline?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Parliament functions like cricket, needing active batting and disciplined bowling to succeed.",
+   "narration": "Here is an everyday analogy to make this click. Think of Parliament like a cricket match: the ruling government bats to make laws, while the opposition must bowl disciplined deliveries to keep them accountable."
+  },
+  {
+   "type": "compare",
+   "heading": "Parliamentary vs Presidential System",
+   "columns": [
+    {
+     "title": "Parliamentary System",
+     "items": [
+      "Daily executive accountability",
+      "Collegiate cabinet decision-making",
+      "Better representation for diversity"
+     ]
+    },
+    {
+     "title": "Presidential System",
+     "items": [
+      "Concentration of executive power",
+      "Maintained democracy only in USA",
+      "Risk of authoritarian rule"
+     ]
+    }
+   ],
+   "narration": "Our Constitution makers chose a parliamentary system so Ministers remain accountable to lawmakers every day. Unlike presidential systems, a collegiate cabinet shares power and gives India's diverse communities a genuine voice."
+  },
+  {
+   "type": "thinker",
+   "name": "Morris Jones",
+   "idea": "Early parliament faced apprehensions over diversity and Nehru's concealed dictatorship.",
+   "work": "Parliament in India",
+   "narration": "British scholar Morris Jones noted early worries about Indian democracy due to vast social cleavages. He observed that Nehru's towering presence created a concealed dictatorship, leaving the early legislature with a very weak opposition."
+  },
+  {
+   "type": "timeline",
+   "heading": "Phases of Parliamentary Evolution",
+   "events": [
+    {
+     "when": "Up to 1960s",
+     "what": "Nehruvian era under single-party dominance"
+    },
+    {
+     "when": "1960s to 1990s",
+     "what": "Defections, Emergency trial, and regional rise"
+    },
+    {
+     "when": "From 1990s",
+     "what": "Sharpest decline during coalition politics"
+    }
+   ],
+   "narration": "Parliament evolved through distinct chapters. After initial stability under Nehru, political defections and the nineteen-seventy Emergency tested democracy, leading into the nineteen-nineties when fractured coalitions saw the steepest decline in functioning."
+  },
+  {
+   "type": "balance",
+   "heading": "Parliamentary Ethics",
+   "left": "Opposition Has Say",
+   "right": "Government Has Way",
+   "tilt": "even",
+   "narration": "Here is the golden rule of parliamentary ethics: the opposition must have its say, but the government gets its way. Unfortunately, frequent walkouts and adversarial battles disrupt this delicate balance."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Parliament ensures day-to-day accountability and plural representation",
+    "Institutional decline accelerated during contentious coalition eras",
+    "Urgent electoral reforms are vital to revive democracy"
+   ],
+   "narration": "Remember these three essentials. First, parliamentary democracy secures daily accountability and diverse representation. Second, institutional effectiveness sharply declined from the nineteen-nineties. Finally, sweeping electoral reforms are the mother of all remedies."
+  }
+ ]
+}

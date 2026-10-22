@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to communitarian thinkers like Michael Sandel, how is the relationship between the self and its ends understood?",
+   "options": [
+    "The self is embedded in community traditions and discovers its ends rather than choosing them freely.",
+    "The self is prior to its ends and possesses complete freedom to construct its own rational goals.",
+    "The self is completely isolated from cultural values and maximizes individual utility through cold social contracts.",
+    "The self defines justice by detaching completely from social roles in an abstract original position."
+   ],
+   "answer": 0,
+   "why": "Communitarians argue that individuals are situated selves constituted by communal ends, discovering goals through shared culture rather than prior choice.",
+   "page": 180
+  },
+  {
+   "q": "What is the core principle of Michael Walzer's theory of justice in 'Spheres of Justice'?",
+   "options": [
+    "All primary goods must be distributed equally across society using a single universal standard of fairness.",
+    "Different social goods must be distributed according to the distinct shared meanings attached to them.",
+    "Market mechanisms alone should govern the allocation of economic, political, and cultural goods across communities.",
+    "State institutions should enforce uniform distribution across all spheres to guarantee complete social equality."
+   ],
+   "answer": 1,
+   "why": "Walzer argues that justice is particularistic and requires distinct distribution criteria matching the social meaning of each good.",
+   "page": 182
+  },
+  {
+   "q": "Why does Amartya Sen prioritize 'nyaya' over 'niti' in his critique of Rawlsian justice?",
+   "options": [
+    "He prioritizes ideal institutional rules and procedural perfection over real-life societal outcomes and human experiences.",
+    "He believes strict contractual agreements guarantee perfect moral harmony without the need for democratic deliberation.",
+    "He focuses on actual realised outcomes and reducing real human suffering rather than purely procedural rules.",
+    "He asserts that market-driven rational choices produce fairer societal distribution than collective social choice mechanisms."
+   ],
+   "answer": 2,
+   "why": "Sen draws on the concept of nyaya to focus on eliminating actual human deprivation and expanding real freedoms.",
+   "page": 186
+  },
+  {
+   "q": "On what grounds does feminist theorist Susan Moller Okin criticize John Rawls's theory of justice?",
+   "options": [
+    "Rawls endorses a minimal nightwatchman state that fails to protect property rights across diverse households.",
+    "Rawls prioritizes capacity building over formal legal liberties when evaluating equal opportunities for women.",
+    "Rawls rejects universal moral principles in favor of culturally relative community standards of distribution.",
+    "Rawls neglects justice within the domestic sphere by treating the family as outside public scrutiny."
+   ],
+   "answer": 3,
+   "why": "In 'Gender, Justice and the Family', Okin argues that Rawls overlooks gender inequalities and power dynamics within the family.",
+   "page": 177
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to the social constructivist perspective, why was the Cold War considered not inevitable?",
+   "options": [
+    "It stemmed from mutual misperceptions, miscalculations, and missed diplomatic opportunities rather than structural necessity.",
+    "It was driven strictly by irreconcilable conflicts between the core national interests of both superpowers.",
+    "It was solely caused by Soviet ideological expansionism and aggressive military posturing in Eastern Europe.",
+    "It resulted entirely from American economic imperialism seeking to impose global capitalist hegemony after war."
+   ],
+   "answer": 0,
+   "why": "Social constructivists argue that the Cold War was not structurally predetermined, but arose from mutual miscalculations and missed diplomatic opportunities.",
+   "page": 148
+  },
+  {
+   "q": "According to Nina Tannenwald, why did the United States refrain from using nuclear weapons in Vietnam?",
+   "options": [
+    "Strategic parity made conventional air tactics far more cost-effective against widespread dispersed guerrilla forces.",
+    "International arms control treaties legally prohibited superpowers from deploying nuclear weapons in regional conflicts.",
+    "A normative taboo and public pressure made the use of nuclear weapons politically unacceptable.",
+    "Soviet retaliatory capabilities in Southeast Asia created an immediate danger of mutual assured destruction."
+   ],
+   "answer": 2,
+   "why": "Nina Tannenwald highlights that an evolving normative taboo and moral public pressure prevented leaders from deploying nuclear weapons.",
+   "page": 152
+  },
+  {
+   "q": "How does the study of Cold War diplomacy characterize the period of 'Detente'?",
+   "options": [
+    "A permanent ideological reconciliation that officially ended systemic competition between capitalism and communism.",
+    "A temporary relaxation of geopolitical tensions without any qualitative transformation in adversarial relations.",
+    "A comprehensive military alliance designed to jointly manage and de-escalate Third World conflicts.",
+    "A complete dismantling of global nuclear arsenals achieved through binding bilateral disarmament treaties."
+   ],
+   "answer": 1,
+   "why": "Detente represented a temporary relaxation of diplomatic tensions and arms competition rather than a qualitative transformation in fundamental relations.",
+   "page": 154
+  },
+  {
+   "q": "How does Alexis de Tocqueville's insight explain the disintegration of the Soviet Union under Gorbachev?",
+   "options": [
+    "Authoritarian regimes collapse immediately when global commodity prices drop and economic growth stagnates.",
+    "External military encirclement inevitably forces closed socialist systems to disintegrate from economic exhaustion.",
+    "Popular mass rebellions only erupt when tyrannical governments reach their absolute peak of repression.",
+    "Totalitarian states face their greatest vulnerability when they attempt to reform their oppressive structures."
+   ],
+   "answer": 3,
+   "why": "Tocqueville noted that the most perilous moment for an oppressive regime occurs when it begins to introduce liberalizing reforms.",
+   "page": 158
+  }
+ ]
+}

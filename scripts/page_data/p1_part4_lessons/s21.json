@@ -1,0 +1,74 @@
+{
+ "title": "Theories of Equality, Capability, and Affirmative Action",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does giving everyone identical things truly make them equal?",
+   "narration": "Have you ever wondered if treating everyone identically is truly fair? If two students receive the exact same textbook, but one cannot read yet, are they really equal?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🚲",
+   "text": "Giving bicycles to two kids when only one knows how to ride.",
+   "narration": "Think of this everyday analogy to make the idea click. Imagine giving two children identical bicycles, but only one knows how to ride. Giving identical resources still leaves the other child completely unable to cycle!"
+  },
+  {
+   "type": "thinker",
+   "name": "Ronald Dworkin",
+   "idea": "Distribute equal resources through auction and insure against brute bad luck.",
+   "work": "Sovereign Virtue",
+   "narration": "Philosopher Ronald Dworkin calls equality our sovereign virtue. He imagines shipwreck survivors dividing island resources using equal clamshells in an auction, while creating a shared insurance pool to protect anyone hit by brute bad luck."
+  },
+  {
+   "type": "compare",
+   "heading": "Resources Versus Capabilities",
+   "columns": [
+    {
+     "title": "Dworkin's Resources",
+     "items": [
+      "Focuses on means",
+      "Equal clamshell auction",
+      "Insures brute luck"
+     ]
+    },
+    {
+     "title": "Sen's Capabilities",
+     "items": [
+      "Focuses on ends",
+      "Freedom to achieve",
+      "Accounts for diversity"
+     ]
+    }
+   ],
+   "narration": "Now, look at how Dworkin and Amartya Sen differ. Dworkin focuses on equal means through resources, but Sen argues we must look at ends. For Sen, true equality means expanding our capabilities—the freedom to achieve real doings and beings."
+  },
+  {
+   "type": "balance",
+   "heading": "Balancing Liberty and Equality",
+   "left": "Classical: Antithetical",
+   "right": "Social: Complementary",
+   "tilt": "even",
+   "narration": "Do freedom and equality clash? Classical liberals claim state equality crushes liberty, but social liberals see them as complementary partners. In India's Constitution, political liberty and socio-economic rights work together to empower every citizen."
+  },
+  {
+   "type": "flow",
+   "heading": "How Affirmative Action Works",
+   "steps": [
+    "Historical disadvantage creates inequality",
+    "External catalyst provides support",
+    "Positive discrimination enables groups",
+    "Temporary mechanism ensures parity"
+   ],
+   "narration": "To uplift historically disadvantaged communities, the state uses affirmative action as positive discrimination. Like an external catalyst, policies such as reservations help disadvantaged groups catch up, serving as an enabling temporary boost rather than a permanent fix."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Dworkin equalises resources while insuring against brute bad luck.",
+    "Amartya Sen expands capabilities for real human functioning.",
+    "Affirmative action is temporary positive discrimination for parity."
+   ],
+   "narration": "Remember these three big takeaways as you study equality. First, Dworkin balances resources and brute luck, while Sen insists on expanding real human capabilities. Finally, remember that affirmative action acts as a temporary catalyst of positive discrimination to build genuine fairness."
+  }
+ ]
+}

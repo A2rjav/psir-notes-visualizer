@@ -1,0 +1,70 @@
+{
+ "title": "Affirmative Action and Reservation in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is reservation an anti-poverty scheme or a tool for social representation?",
+   "narration": "Did you know that reservation in India was never intended as an employment guarantee or a poverty removal scheme? It is high politics aimed at representation."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Giving batting practice to teammates previously locked out of the cricket ground.",
+   "narration": "As an everyday analogy, imagine a cricket team where certain players were locked out of the stadium for generations. Reservation is reserved batting practice so excluded groups finally get a fair chance to play."
+  },
+  {
+   "type": "thinker",
+   "name": "Amit Thorat",
+   "idea": "Reservation is a tool for representation, not an employment guarantee scheme.",
+   "work": "",
+   "narration": "Professor Amit Thorat explains that while poverty programs like MGNREGA help anyone in economic need, reservation exists specifically to fight historical caste prejudice and secure administrative representation."
+  },
+  {
+   "type": "timeline",
+   "heading": "Judicial Criteria on Backwardness",
+   "events": [
+    {
+     "when": "1963",
+     "what": "Balaji case: caste not sole test"
+    },
+    {
+     "when": "1992",
+     "what": "Indra Sawhney: caste reflects class"
+    },
+    {
+     "when": "2014",
+     "what": "Ram Singh: look beyond caste"
+    }
+   ],
+   "narration": "Judicial standards have shifted over time. In 1963, the Balaji ruling held caste was not the sole test. By 1992, Indra Sawhney treated caste as class, while the 2014 Ram Singh ruling suggested moving beyond caste."
+  },
+  {
+   "type": "flow",
+   "heading": "Evolution of Promotion Quotas",
+   "steps": [
+    "77th Amendment enables promotion quotas",
+    "Ajit Singh introduces catch-up rule",
+    "85th Amendment grants consequential seniority",
+    "Nagaraj case demands quantifiable data"
+   ],
+   "narration": "Here is how promotion rules evolved. When courts introduced the catch-up rule, Parliament passed the eighty-fifth amendment for consequential seniority. Later, the Nagaraj case ruled that governments must prove underrepresentation with quantifiable data."
+  },
+  {
+   "type": "balance",
+   "heading": "Private Sector Reservation Debate",
+   "left": "Corporate competitiveness concerns",
+   "right": "Social responsibility demands",
+   "tilt": "even",
+   "narration": "Can quotas enter the private sector? As public sector jobs shrink, reformers urge corporate social responsibility, but businesses fear losing competitiveness. Instead, reformers suggest an Equal Opportunity Commission or a diversity index."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Reservation secures social representation over employment",
+    "Promotion quotas require quantifiable underrepresentation data",
+    "Policy debates suggest multi-layered deprivation indices"
+   ],
+   "narration": "To wrap up, remember three keys. Reservation secures representation rather than jobs. Quotas in promotions demand quantifiable proof of underrepresentation. Finally, modern scholars advocate a multi-layered deprivation index for fair policy."
+  }
+ ]
+}

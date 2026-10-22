@@ -1,0 +1,74 @@
+{
+ "title": "Aristotle: State, Citizenship, Slavery, and Property",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can any human truly survive and thrive without a state?",
+   "narration": "Imagine trying to live completely cut off from everyone else. Aristotle argued that anyone outside society must be either an isolated beast or a god, because humans are naturally political animals meant to live together."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A housing society works only when everyone unites to manage shared daily needs.",
+   "narration": "Here is a simple analogy: think of a housing society. A single flat cannot fix water supply or security alone, so families unite into a society to live well."
+  },
+  {
+   "type": "flow",
+   "heading": "Natural Growth of the State",
+   "steps": [
+    "Family meets basic daily needs",
+    "Village fulfills wider social requirements",
+    "State enables complete good life"
+   ],
+   "narration": "Aristotle showed that individual needs drive us to form families, families expand into villages, and villages finally create the state. For him, the state is the highest natural association that helps us achieve our fullest potential."
+  },
+  {
+   "type": "points",
+   "heading": "Aristotle's Substantive Citizenship",
+   "items": [
+    "Active duty in lawmaking and judicial affairs",
+    "Requires property, leisure time, and reason",
+    "Excludes women, children, elderly, and slaves"
+   ],
+   "narration": "For Aristotle, citizenship is not just a legal card; it is a substantive duty to actively make laws and deliver justice. Because this requires free time and reason, he excluded women, children, elders, and slaves."
+  },
+  {
+   "type": "compare",
+   "heading": "Aristotle's Theory of Natural Slavery",
+   "columns": [
+    {
+     "title": "Natural Masters",
+     "items": [
+      "Endowed with reason and courage",
+      "Deliberate and govern state affairs"
+     ]
+    },
+    {
+     "title": "Natural Slaves",
+     "items": [
+      "Possess physical strength for labor",
+      "Lack reason to direct themselves"
+     ]
+    }
+   ],
+   "narration": "He claimed nature makes some people mentally strong with reason to guide, and others physically strong to labor. While this offered masters leisure to govern, modern thinkers like Immanuel Kant reject treating any human as a mere tool."
+  },
+  {
+   "type": "balance",
+   "heading": "Property and the Golden Mean",
+   "left": "Individual Property Ownership",
+   "right": "Common Use for Society",
+   "tilt": "even",
+   "narration": "Rejecting Plato's collective property, Aristotle proposed private ownership paired with common use. Private property motivates hard work, but the wealthy must share surplus with society following the Golden Mean, or the path of moderation."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "State is natural for the good life",
+    "Citizenship means active political and judicial participation",
+    "Private ownership balances with common social use"
+   ],
+   "narration": "Here is your quick recap. First, humans need the state to live well. Second, citizenship is an active duty. Third, private ownership must always serve the wider society."
+  }
+ ]
+}

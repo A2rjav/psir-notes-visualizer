@@ -1,0 +1,76 @@
+{
+ "title": "Representation and Participation in Modern Politics",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How do citizens turn their everyday demands into real political power?",
+   "narration": "How do ordinary citizens get governments to listen between elections? Beyond casting a ballot, people organize through parties, pressure groups, and movements to aggregate and articulate their demands."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Parties run student council, pressure groups push specific demands, and movements spark campus protests.",
+   "narration": "Here is an everyday school analogy to make this click. Your student council acts like a political party seeking power, the sports team demanding new gear acts like a pressure group, and spontaneous canteen protests are social movements."
+  },
+  {
+   "type": "thinker",
+   "name": "Robert Michels",
+   "idea": "Power in all political parties always concentrates in the hands of elites.",
+   "work": "Political Parties",
+   "narration": "Thinker Robert Michels studied socialist parties and uncovered a harsh reality. He argued that whether an organization is democratic or socialist, power always concentrates in the hands of top elites, calling this the iron law of oligarchy."
+  },
+  {
+   "type": "flow",
+   "heading": "Evolution of Collective Political Action",
+   "steps": [
+    "Social Movement",
+    "Pressure Group",
+    "Political Party"
+   ],
+   "narration": "Here is the neat part: collective groups can transform into one another over time! As seen in India, the Indian National Congress began as a social movement, became an influential pressure group, and ultimately converted into a major political party."
+  },
+  {
+   "type": "points",
+   "heading": "Almond's Four Pressure Groups",
+   "items": [
+    "Institutional groups like civil servants and the army",
+    "Associational groups like formal trade and business unions",
+    "Non-associational groups rooted in shared caste or community",
+    "Anomic groups formed during spontaneous street crowd protests"
+   ],
+   "narration": "Political scientist Gabriel Almond divided pressure groups into four distinct categories. While mature democracies rely on associational groups like trade unions, developing societies frequently see powerful institutional state actors and anomic, spontaneous crowd protests."
+  },
+  {
+   "type": "compare",
+   "heading": "Old Versus New Social Movements",
+   "columns": [
+    {
+     "title": "Old Movements",
+     "items": [
+      "Focus on basic material survival",
+      "Working class social base",
+      "Direct strikes and mass protests"
+     ]
+    },
+    {
+     "title": "New Movements",
+     "items": [
+      "Focus on post-material quality of life",
+      "Educated middle class base",
+      "Innovative theater and literary campaigns"
+     ]
+    }
+   ],
+   "narration": "Notice how social movements evolved across centuries. Old nineteenth-century movements focused on basic material survival using working-class strikes, whereas new movements focus on middle-class quality of life, like human rights and the environment, using creative campaigns."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Parties aggregate interests but suffer the iron law oligarchy.",
+    "Pressure groups articulate interests across four distinct Almond categories.",
+    "Movements evolve over time from material to post-material goals."
+   ],
+   "narration": "To recap, parties aggregate broad interests, pressure groups lobby for targeted outcomes, and social movements mobilize citizens. Remember how they continuously interact, reshape democracy, and even evolve into one another!"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did B. R. Ambedkar reject Karl Marx's historical materialism for understanding Indian society?",
+   "options": [
+    "He argued that economic class divisions had completely replaced religious hierarchies in colonial India.",
+    "He maintained that violent class struggle was the only effective method to dismantle traditional caste.",
+    "He believed Indian society's basic structure is shaped by religious ideology rather than economic relations.",
+    "He believed India lacked private property relations and therefore could not develop true capitalist classes."
+   ],
+   "answer": 2,
+   "why": "Ambedkar argued that Brahmanical ideology, rather than the economic mode of production, constitutes the true basic structure of Indian society. Therefore, changing material conditions alone cannot dismantle caste hierarchy without eradicating Brahmanism.",
+   "page": 67
+  },
+  {
+   "q": "How did Ambedkar critique Mahatma Gandhi's defense of the Varna system as functional specialization?",
+   "options": [
+    "By insisting that caste divides labourers by hereditary birth rather than organizing a division of labour.",
+    "By claiming that Varna dharma could be successfully reformed through upper-caste moral self-purification alone.",
+    "By arguing that ancient Hindu texts had already abolished hereditary occupations before colonial rule.",
+    "By proposing that strict endogamy should be preserved to maintain order among different occupational groups."
+   ],
+   "answer": 0,
+   "why": "Ambedkar argued that Gandhi's textual ideal of Varna ignores reality, where caste operates as an unnatural division of labourers based on birth rather than an efficient division of labour based on worth.",
+   "page": 65
+  },
+  {
+   "q": "According to Ambedkar's historical-anthropological thesis, who were the 'Broken Men' that became untouchables?",
+   "options": [
+    "Kshatriyas who were denied sacred thread ceremonies after developing theological disputes with Vedic Brahmins.",
+    "Defeated Buddhists living outside villages who were segregated and subjugated for rejecting Brahmin hegemony.",
+    "Migratory pastoral tribes who voluntarily chose social isolation to preserve their ancestral ritual practices.",
+    "Former Brahmin priests who lost ritual purity by violating vegetarian dietary rules and consuming beef."
+   ],
+   "answer": 1,
+   "why": "Ambedkar explained that untouchables were originally 'Broken Men' living outside settled villages who were segregated, exploited, and subjected to untouchability because they retained Buddhism and refused Brahmin hegemony.",
+   "page": 61
+  },
+  {
+   "q": "Why did Ambedkar place faith in the democratic state rather than advocating for a stateless society?",
+   "options": [
+    "He believed that economic equality must always precede legal safeguards and constitutional representative institutions.",
+    "He considered the state an inherently repressive bourgeois tool that could only be managed through violent revolution.",
+    "He expected traditional village panchayats to protect Dalit dignity more effectively than centralized statutory authorities.",
+    "He argued that traditional society is far more oppressive than the state, making state-backed legal rights indispensable."
+   ],
+   "answer": 3,
+   "why": "Ambedkar viewed society as far more oppressive and exploitative than the state in India. Consequently, he saw the constitutional state and affirmative action as essential instruments to secure social justice.",
+   "page": 67
+  }
+ ]
+}

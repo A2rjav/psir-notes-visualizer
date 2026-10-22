@@ -1,0 +1,73 @@
+{
+ "title": "Behaviouralism, Post-Behaviouralism, and the Fact-Value Debate",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why were political scientists excluded from global conferences after World War Two?",
+   "narration": "Imagine walking into an important world rebuilding meeting after World War Two, only to find political scientists were completely locked out. Governments felt they only debated ancient philosophy instead of solving real modern crises!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Tracking cricket statistics obsessively while forgetting how to win the match.",
+   "narration": "Here is an everyday analogy: imagine a cricket analyst who obsesses over wagon wheels and strike rates, but forgets how to actually win the game. That is how early political scientists got lost in pure numbers!"
+  },
+  {
+   "type": "flow",
+   "heading": "Evolution of Political Inquiry",
+   "steps": [
+    "Thesis: Traditional normative ideas",
+    "Anti-thesis: Behavioural scientific facts",
+    "Synthesis: Post-behavioural creative action"
+   ],
+   "narration": "See how the subject evolved in three stages. First came traditional philosophy, which behaviouralism rejected by demanding pure scientific facts. Finally, post-behaviouralism synthesized both, insisting that facts must serve human purpose."
+  },
+  {
+   "type": "thinker",
+   "name": "David Easton",
+   "idea": "Political science must combine scientific techniques with action and social relevance.",
+   "work": "'Credo of Relevance' (1960s)",
+   "narration": "Meet David Easton, the scholar who shaped this transformation. In his famous lecture, he warned scholars against hiding in ivory towers perfecting methods while street protests raged outside, urging them to focus on action and relevance."
+  },
+  {
+   "type": "compare",
+   "heading": "Behaviouralism Versus Post-Behaviouralism",
+   "columns": [
+    {
+     "title": "Behaviouralism",
+     "items": [
+      "Pure science focus",
+      "Strict value neutrality",
+      "Electoral behavior data"
+     ]
+    },
+    {
+     "title": "Post-Behaviouralism",
+     "items": [
+      "Applied policy science",
+      "Values guide society",
+      "Action solves crises"
+     ]
+    }
+   ],
+   "narration": "Notice the stark contrast between the two approaches. While behaviouralism focused strictly on number-crunching and value neutrality, post-behaviouralism declared that political science is an applied science meant to solve real human crises."
+  },
+  {
+   "type": "balance",
+   "heading": "The Fact-Value Debate",
+   "left": "Empirical facts",
+   "right": "Normative values",
+   "tilt": "even",
+   "narration": "Here's the trick to solving the famous fact-value debate! Thinker Robert Dahl explained that facts and values are not enemies; they constantly transform into each other to guide good public policy."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Behaviouralism introduced empirical techniques and voter data.",
+    "Post-behaviouralism restored relevance, values, and action.",
+    "Facts and values unite in applied policy science."
+   ],
+   "narration": "Remember these three big ideas for your exam. Behaviouralism brought scientific rigor, post-behaviouralism brought practical purpose, and combining facts with values makes political theory a powerful tool for society."
+  }
+ ]
+}

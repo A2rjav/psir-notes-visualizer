@@ -1,0 +1,83 @@
+{
+ "title": "M. N. Roy: Radical Humanism and Congress",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a mental revolution liberate humans more than political independence?",
+   "narration": "Imagine winning national independence, yet remaining trapped by fear, dogma, and blind superstition. Thinker M. N. Roy argued that true liberation requires a scientific revolution inside your own mind."
+  },
+  {
+   "type": "analogy",
+   "emoji": "📱",
+   "text": "Changing a broken phone cover never fixes a corrupted operating system inside.",
+   "narration": "Here is a school analogy to make this click. Changing who rules the country without educating citizens is like putting a fancy cover on a phone with a frozen screen."
+  },
+  {
+   "type": "timeline",
+   "heading": "Roy's Three Ideational Phases",
+   "events": [
+    {
+     "when": "Phase I",
+     "what": "Communist revolutionary and debater against Lenin"
+    },
+    {
+     "when": "Phase II",
+     "what": "Joined Congress and critiqued Marxist doctrines"
+    },
+    {
+     "when": "Phase III",
+     "what": "Founded Radical Humanism for human liberation"
+    }
+   ],
+   "narration": "Roy went through an extraordinary intellectual journey. He began as a global communist debating Lenin, briefly joined Congress to radicalize it, and finally developed a new worldview called Radical Humanism."
+  },
+  {
+   "type": "compare",
+   "heading": "Marx versus M. N. Roy",
+   "columns": [
+    {
+     "title": "Karl Marx",
+     "items": [
+      "Transform the mode of production",
+      "History shaped by class struggle"
+     ]
+    },
+    {
+     "title": "M. N. Roy",
+     "items": [
+      "Transform the mode of thinking",
+      "History shaped by class cooperation"
+     ]
+    }
+   ],
+   "narration": "Here is the trick. Roy broke with Karl Marx by arguing that real revolution comes from transforming human thinking, not just changing economic factories, because history advances through social cooperation."
+  },
+  {
+   "type": "points",
+   "heading": "Pillars of Radical Humanism",
+   "items": [
+    "Freedom: Complete emancipation from fear and superstition",
+    "Reason: Materialistic rationality derived from survival",
+    "Ethics: Secular social rules grounded in human reason"
+   ],
+   "narration": "Radical Humanism places the individual human being at the center. Roy taught that reason is born from our struggle for survival, providing a secular foundation for ethics and absolute personal freedom."
+  },
+  {
+   "type": "balance",
+   "heading": "Democratic Power Structure",
+   "left": "Parliamentary Party Politics",
+   "right": "Grassroots Radical Democracy",
+   "tilt": "right",
+   "narration": "Roy rejected parliamentary elections because party bosses hijack power. Instead, he advocated grassroots radical democracy and popular industrial ownership, sharing Gandhi's deep commitment to decentralized, partyless politics."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Evolved from revolutionary communism to Radical Humanism",
+    "Prioritized mental revolution over material mode of production",
+    "Advocated grassroots democracy and secular reason-based ethics"
+   ],
+   "narration": "To recap, remember that Roy evolved beyond communism to Radical Humanism, demanded a mental revolution, and championed grassroots democracy rooted in scientific reason."
+  }
+ ]
+}

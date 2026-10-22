@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why is the status of the Buddha as a political philosopher considered contested in political thought?",
+   "options": [
+    "Buddhism focuses on otherworldly salvation, yet historical rulers sought Buddha's counsel on governance.",
+    "Buddha established a powerful territorial empire, yet refused to draft formal administrative edicts.",
+    "Buddhism advocated hereditary monarchical rule, yet completely rejected the institution of private property.",
+    "Buddha authored comprehensive military manuals, yet preached complete non-violence in all external relations."
+   ],
+   "answer": 0,
+   "why": "The notes explain that while Buddhism is an otherworldly religion, kings regularly sought Buddha's advice on good governance.",
+   "page": 25
+  },
+  {
+   "q": "How does the Buddhist conception of the social contract differ from the ancient Hindu tradition?",
+   "options": [
+    "The Buddhist contract is between Man and God, whereas the Hindu contract is formed among men.",
+    "The Buddhist contract is formed among men, whereas the Hindu contract is between Man and God.",
+    "The Buddhist contract establishes hereditary divine rule, whereas the Hindu tradition relies on republican elections.",
+    "The Buddhist contract is mediated by priests, whereas the Hindu tradition rejects political agreements entirely."
+   ],
+   "answer": 1,
+   "why": "In Buddhist thought, the social contract is a human agreement among men, whereas Hindu tradition conceives it as between Man and God.",
+   "page": 26
+  },
+  {
+   "q": "How does the Buddhist ideal of the 'World Monarch' differ from the Hindu 'Chakravarty Samrat'?",
+   "options": [
+    "The World Monarch acquires territory through force, while the Chakravarty Samrat rules primarily through love.",
+    "The World Monarch relies on divine decree, while the Chakravarty Samrat governs through republican consensus.",
+    "The World Monarch wins hearts through love, whereas the Chakravarty Samrat acquires land through force.",
+    "The World Monarch wields the chariot wheel, whereas the Chakravarty Samrat turns the Dhamma wheel."
+   ],
+   "answer": 2,
+   "why": "The notes specify that the Hindu Chakravarty Samrat acquires land through force, whereas the Buddhist World Monarch wins hearts through love.",
+   "page": 26
+  },
+  {
+   "q": "Why is the ancient Buddhist Sangha considered an early example of deliberative democracy?",
+   "options": [
+    "It restricted institutional membership exclusively to noble rulers who debated regional diplomatic peace treaties.",
+    "It reserved legislative policy decisions for an appointed council of hereditary high priests and scholars.",
+    "It appointed an absolute executive leader whose administrative decrees were accepted without any collective debate.",
+    "It made decisions through open debate while practicing equality across social caste and gender divisions."
+   ],
+   "answer": 3,
+   "why": "The Buddhist Sangha functioned as a deliberative democracy by debating matters collectively and rejecting caste and gender hierarchies.",
+   "page": 27
+  }
+ ]
+}

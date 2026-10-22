@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Aristotle consider the state to be logically prior to the individual, despite man appearing first chronologically?",
+   "options": [
+    "The state was historically established before individuals formed families and small agricultural villages.",
+    "The individual can achieve complete self-sufficiency and moral excellence only as part of the state.",
+    "The state is an artificial contract created to suppress the naturally selfish instincts of individuals.",
+    "The statesman exercises absolute patriarchal authority over citizens, just like a father rules his family."
+   ],
+   "answer": 1,
+   "why": "Aristotle argued that while individuals historically create families and villages first, only the state provides self-sufficiency and realizes man's moral end.",
+   "page": 47
+  },
+  {
+   "q": "On what basis does Aristotle exclude women, slaves, and manual laborers from holding substantive citizenship?",
+   "options": [
+    "They lack the property, leisure time, or rational capacity required to participate in lawmaking and judicial affairs.",
+    "They fail to satisfy the formal legal requirement of being born within the physical territory of the state.",
+    "They are prohibited from citizenship because they refuse to swear allegiance to the constitutional laws of the polity.",
+    "They already possess exclusive authority over the economic and financial institutions that direct the public treasury."
+   ],
+   "answer": 0,
+   "why": "Aristotle defined citizenship substantively as performing legislative and judicial duties, which requires property, leisure, and the faculty of reason.",
+   "page": 49
+  },
+  {
+   "q": "According to Aristotle's teleological view, under what circumstance should a master emancipate a natural slave?",
+   "options": [
+    "When the slave accumulates sufficient monetary savings to purchase personal freedom from the master.",
+    "When the state enacts universal statutory legislation abolishing all forms of domestic servitude.",
+    "When the slave develops the virtues of reason and courage under the master's positive influence.",
+    "When the slave completes a mandatory fixed term of agricultural production for the master's household."
+   ],
+   "answer": 2,
+   "why": "Aristotle held that since natural slavery is justified by a lack of reason, developing reason and courage under a master warrants freedom.",
+   "page": 52
+  },
+  {
+   "q": "Why does Aristotle favor the property system of 'individual ownership with common use' over Plato's communism of property?",
+   "options": [
+    "It eliminates all private possessions so that wealth is held collectively by the entire political community.",
+    "It allows wealthy oligarchs to maximize profits through unregulated moneylending and financial speculation.",
+    "It establishes common ownership while permitting individual citizens to use property for private benefit.",
+    "It incentivizes hard work and productivity while encouraging voluntary sharing of surplus for social welfare."
+   ],
+   "answer": 3,
+   "why": "Aristotle argued that private ownership motivates hard work, while common use ensures the wealthy share surplus to maintain social harmony.",
+   "page": 54
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Theories of the State: Liberal, Marxist, Feminist",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is the government a neutral referee or a tool for the powerful?",
+   "narration": "Imagine playing a cricket match where the umpire secretly belongs to the opposite team. Does the state really protect everyone equally, or does it secretly work for the rich and powerful?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Think of the state like a school principal managing students with different family backgrounds.",
+   "narration": "Here is an everyday analogy: think of society like a school. A good principal acts like a neutral arbiter helping everyone, but what if the principal only listens to the richest donors?"
+  },
+  {
+   "type": "compare",
+   "heading": "Liberal State vs Marxist State",
+   "columns": [
+    {
+     "title": "Liberal View",
+     "items": [
+      "Neutral referee maintaining social equilibrium",
+      "Welfare state builds citizen capacity"
+     ]
+    },
+    {
+     "title": "Marxist View",
+     "items": [
+      "Instrument of the ruling capitalist class",
+      "Born from force and class subjugation"
+     ]
+    }
+   ],
+   "narration": "Liberals believe the state is a neutral referee that balances society and runs welfare programs. But Karl Marx argued that the state is never neutral; it is just an instrument created by the rich to control the poor."
+  },
+  {
+   "type": "balance",
+   "heading": "Bonapartism and Relative Autonomy",
+   "left": "Propertied Class",
+   "right": "Working Class",
+   "tilt": "even",
+   "narration": "Sometimes competing classes balance each other out, like in Marx's 18th Brumaire of Louis Bonaparte. When neither side can dominate, the executive gains relative autonomy, seeming independent until a crisis forces it to protect the rich."
+  },
+  {
+   "type": "compare",
+   "heading": "The Post-Capitalist State Debate",
+   "columns": [
+    {
+     "title": "Ralph Miliband",
+     "items": [
+      "Capitalists still hold concentrated economic power",
+      "Judiciary and bureaucracy remain elitist"
+     ]
+    },
+    {
+     "title": "Nicole Poulantzas",
+     "items": [
+      "Universal voting gives state relative autonomy",
+      "State still rescues capital during crises"
+     ]
+    }
+   ],
+   "narration": "In modern welfare states, Ralph Miliband insisted that the state is still an instrument of the rich because elite backgrounds dominate government. But Nicole Poulantzas argued that universal voting forces the state to have structural relative autonomy."
+  },
+  {
+   "type": "thinker",
+   "name": "Catherine MacKinnon",
+   "idea": "The state is an inherently patriarchal institution that views society through male eyes.",
+   "work": "",
+   "narration": "Feminist thinker Catherine MacKinnon observed that the state appears male because laws and courts are framed from a masculine perspective. While feminists seek laws to protect women, they warn that the state remains deeply patriarchal."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Liberals view the state as a neutral welfare provider.",
+    "Marxists see the state serving the capitalist class.",
+    "Feminists expose the state as an inherently patriarchal institution."
+   ],
+   "narration": "To recap: liberals see a neutral umpire building human capacity, Marxists uncover a capitalist instrument that protects wealth, and feminists remind us that state power is inherently shaped by patriarchy."
+  }
+ ]
+}

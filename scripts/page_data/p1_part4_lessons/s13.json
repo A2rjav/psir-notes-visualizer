@@ -1,0 +1,61 @@
+{
+ "title": "Theories of Power: Elitist and Pluralist Perspectives",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does democracy give power to everyone, or only a few?",
+   "narration": "Have you ever wondered who truly runs a democracy? While we all get to vote, political thinkers disagree on whether ordinary citizens really hold power, or if a tiny group controls everything."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Students vote for school leaders, but the principal makes the major rules.",
+   "narration": "As an everyday analogy, think of your school cabinet. You get to cast a vote for head boy or head girl, but that small student council takes all the actual decisions on your behalf."
+  },
+  {
+   "type": "cycle",
+   "heading": "Pareto's Circulation of Elites",
+   "nodes": [
+    "Lions rule",
+    "Foxes replace lions",
+    "New elites rise"
+   ],
+   "narration": "Vilfredo Pareto argued that power moves in a closed loop called the circulation of elites. Cunning foxes replace forceful lions, meaning power never trickles down to the masses."
+  },
+  {
+   "type": "points",
+   "heading": "Key Elitist Perspectives on Power",
+   "items": [
+    "Mosca: Elite status depends on superior organizational skills.",
+    "Michels: Iron Law of Oligarchy concentrates party power.",
+    "Downs: Politicians are entrepreneurs competing for voter consumers.",
+    "Mills: Corporate, military, and federal leaders hold power."
+   ],
+   "narration": "Other thinkers agreed that power stays at the top. Gaetano Mosca linked leadership to organizing skills, Robert Michels showed that power concentrates into an oligarchy, and Anthony Downs compared elections to a market."
+  },
+  {
+   "type": "thinker",
+   "name": "Robert Dahl",
+   "idea": "Power in democracy is shared among competing interest groups as polyarchy.",
+   "work": "Who Governs?",
+   "narration": "Here is the big twist from Robert Dahl. In his study Who Governs, he argued that America is not an oligarchy, but a polyarchy where power is spread across many active citizen groups."
+  },
+  {
+   "type": "balance",
+   "heading": "Dahl's Deformed Polyarchy",
+   "left": "Corporate Groups",
+   "right": "Other Pressure Groups",
+   "tilt": "left",
+   "narration": "Later, Dahl admitted a major catch called deformed polyarchy. While ordinary groups do influence daily decisions, wealthy corporate bodies hold far greater leverage, tilting the scale of power toward big business."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Elitists argue power always concentrates among a capable few.",
+    "Pluralists argue polyarchy disperses power among multiple groups.",
+    "Deformed polyarchy shows corporate interests tilt group bargaining."
+   ],
+   "narration": "Remember these three big ideas: elitists believe only a few leaders ever rule, pluralists show that power is shared across many groups, and deformed polyarchy reminds us that money can tilt the democratic balance."
+  }
+ ]
+}

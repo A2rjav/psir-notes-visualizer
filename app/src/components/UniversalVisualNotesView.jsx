@@ -14,8 +14,10 @@ import {
   PenTool,
   BookOpen,
   ArrowRight,
+  Clapperboard,
 } from 'lucide-react';
 import VisualExplainer from './VisualExplainer';
+import LessonPlayer from './lesson/LessonPlayer';
 import { visualExplainers } from '../data/visualExplainers';
 import { volumesByStep, isFrontMatter, sectionCardCategory, sectionAnswerMatch, topicNumber } from '../data/volumesCatalog';
 
@@ -62,8 +64,8 @@ function PageCard({ concept, onSelectScanPage, query }) {
 }
 
 const STEPS = [
-  { icon: BookOpen, title: 'Read the page summaries', text: 'Two minutes per topic. Open the original notes only when you want the detail.' },
-  { icon: Sparkles, title: 'Look at the picture', text: 'Hard topics have a visual explainer. Tap the numbers on it.' },
+  { icon: Clapperboard, title: 'Watch the lesson', text: 'A 2-minute animated, narrated lesson with a quick quiz at the end.' },
+  { icon: BookOpen, title: 'Read the page summaries', text: 'Open the original notes only when you want the detail. Hard topics also have a picture.' },
   { icon: Layers, title: 'Test yourself', text: 'Flashcards for just this topic. Mark the ones you know.' },
   { icon: PenTool, title: 'Write one answer', text: 'Use the model answer outline, then mark the topic done.' },
 ];
@@ -100,6 +102,7 @@ export default function UniversalVisualNotesView({
     return studySections.find((s) => !study.isDone(volId, s.id)) || null;
   }, [studySections, study, volId]);
 
+  const [lessonSecId, setLessonSecId] = useState(null);
   const [openIds, setOpenIds] = useState(() => new Set(nextSection ? [nextSection.id] : []));
   const toggleOpen = (id) => {
     const willOpen = !openIds.has(id);
@@ -301,6 +304,7 @@ export default function UniversalVisualNotesView({
                 <span className="min-w-0 flex-1">
                   <span className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] font-mono text-slate-500">
                     <span className="text-amber-400/90 font-bold">{front ? 'Before you start' : `Topic ${topicNumber(sections, sec)}`}</span>
+                    {sec.lesson && <span className="text-amber-300">▶ lesson</span>}
                     <span>{concepts.length} page{concepts.length === 1 ? '' : 's'}</span>
                     {nVisuals > 0 && <span className="text-sky-300">• {nVisuals} visual{nVisuals === 1 ? '' : 's'}</span>}
                     {nCards > 0 && <span>• {nCards} cards</span>}
@@ -319,6 +323,21 @@ export default function UniversalVisualNotesView({
               {open && (
                 <div className={`px-4 sm:px-5 pb-5 ${hasPane ? 'flex items-start gap-6' : ''}`}>
                   <div className="min-w-0 flex-1 space-y-4">
+                    {sec.lesson && (
+                      <button
+                        onClick={() => setLessonSecId(sec.id)}
+                        className="w-full group flex items-center gap-4 p-4 rounded-2xl bg-gradient-to-r from-amber-500/25 via-orange-500/15 to-sky-500/15 border border-amber-400/40 hover:border-amber-300 transition cursor-pointer text-left"
+                      >
+                        <span className="w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-amber-500 group-hover:bg-amber-400 text-slate-950 flex items-center justify-center shrink-0 lp-pulse">
+                          <PlayCircle className="w-7 h-7 sm:w-8 sm:h-8" />
+                        </span>
+                        <span className="min-w-0">
+                          <span className="block text-[11px] uppercase tracking-[0.2em] font-bold text-amber-300">Watch the lesson • about 2 min</span>
+                          <span className="block text-base sm:text-lg font-extrabold text-white leading-snug">{sec.lesson.title}</span>
+                          <span className="block text-xs text-slate-300">Animated, narrated, with a 3-question quick check at the end</span>
+                        </span>
+                      </button>
+                    )}
                     {!front && ((sec.keyScholars || []).length > 0 || (sec.coreTheories || []).length > 0) && (
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                         {(sec.keyScholars || []).length > 0 && (
@@ -413,6 +432,38 @@ export default function UniversalVisualNotesView({
             </section>
           );
         })}
+
+        {lessonSecId && (() => {
+          const sec = sections.find((x) => x.id === lessonSecId);
+          if (!sec?.lesson) return null;
+          const cat = sectionCardCategory(sec);
+          const secAnswers = answers.filter(sectionAnswerMatch(sec));
+          const at = studySections.findIndex((s) => s.id === sec.id);
+          const next = studySections.slice(at + 1).find((s) => s.lesson);
+          return (
+            <LessonPlayer
+              key={sec.id}
+              nextTitle={next?.title}
+              onNextLesson={next ? () => {
+                // Chain straight into the next topic's lesson, Byju's-style, keeping the outline in step.
+                if (!study.isDone(volId, sec.id)) study.toggleDone(volId, sec.id);
+                setOpenIds((s) => { const n = new Set(s); n.delete(sec.id); n.add(next.id); return n; });
+                setLastSection(volId, next.id);
+                setLessonSecId(next.id);
+              } : null}
+              lesson={sec.lesson}
+              topicTitle={sec.title}
+              explainers={explainersFor(sec)}
+              topicCards={flashcards.filter((c) => c.category === cat)}
+              otherCards={flashcards.filter((c) => c.category !== cat)}
+              isDone={study.isDone(volId, sec.id)}
+              onMarkDone={() => { if (!study.isDone(volId, sec.id)) study.toggleDone(volId, sec.id); }}
+              onPracticeAnswer={secAnswers.length ? () => { setLessonSecId(null); onStudy('answers', { answerId: secAnswers[0].id }); } : null}
+              onSelectScanPage={(p) => { setLessonSecId(null); onSelectScanPage(p); }}
+              onClose={() => { setLessonSecId(null); scrollToSec(sec.id); }}
+            />
+          );
+        })()}
 
         {visibleSections.length === 0 && (
           <div className="p-12 text-center rounded-2xl bg-slate-900/50 border border-slate-800 space-y-3">

@@ -1,0 +1,89 @@
+{
+ "title": "Secularism in India: Concepts and Debates",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why does India separate religion and state differently from the West?",
+   "narration": "Have you ever wondered why Indian secularism feels so confusing? While Western states build a strict wall between church and state, India takes a completely unique path."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket umpire stepping in only when players break fair play rules.",
+   "narration": "Think of this everyday analogy of a cricket umpire. The umpire does not play the game, but steps in to keep play fair whenever necessary."
+  },
+  {
+   "type": "compare",
+   "heading": "Western Versus Indian Secularism",
+   "columns": [
+    {
+     "title": "Western Model",
+     "items": [
+      "Strict separation of state and religion",
+      "Complete rationality and procedural neutrality"
+     ]
+    },
+    {
+     "title": "Indian Model",
+     "items": [
+      "Contextual principled distance",
+      "State intervenes to reform unfair customs"
+     ]
+    }
+   ],
+   "narration": "Here is the key difference: Western secularism creates a strict wall separating state and religion. In contrast, India follows a contextual model that engages with religions while maintaining principled distance."
+  },
+  {
+   "type": "thinker",
+   "name": "Rajiv Bhargava",
+   "idea": "State maintains principled distance, intervening differentially based on context.",
+   "work": "",
+   "narration": "Thinker Rajiv Bhargava explains that Indian secularism is neither total indifference nor strict neutrality. Instead, the state keeps a principled distance, intervening only to protect democracy and equality."
+  },
+  {
+   "type": "balance",
+   "heading": "Judicial Essential Practices Doctrine",
+   "left": "Essential religious practices",
+   "right": "Non-essential rituals",
+   "tilt": "left",
+   "narration": "Imagine a legal filter created by the Supreme Court called the Essential Practices Doctrine. Judges protect core religious practices, while non-essential rituals can be regulated for social reform."
+  },
+  {
+   "type": "compare",
+   "heading": "Scholarly Debates on Secularism",
+   "columns": [
+    {
+     "title": "Ashis Nandy",
+     "items": [
+      "Western secularism is absurd modernity",
+      "Return to traditional religious tolerance"
+     ]
+    },
+    {
+     "title": "Achin Vanaik",
+     "items": [
+      "Religion-based public morality is dangerous",
+      "Secularism is vital against communalism"
+     ]
+    },
+    {
+     "title": "P.B. Mehta",
+     "items": [
+      "Principled distance legitimizes vote banks",
+      "Leaves all communities feeling insecure"
+     ]
+    }
+   ],
+   "narration": "Scholars fiercely debate this model. Ashis Nandy prefers traditional tolerance over Western modernity, Achin Vanaik defends secularism against communal dangers, while Pratap Bhanu Mehta warns that principled distance fuels vote-bank politics."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Contextual principled distance defines Indian secularism.",
+    "Judges protect essential practices while allowing social reforms.",
+    "Scholars debate traditional tolerance versus modern constitutional secularism."
+   ],
+   "narration": "To wrap up: remember that India balances distance and reform, courts filter essential practices, and scholars continue debating how to secure harmony."
+  }
+ ]
+}

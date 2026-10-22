@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does ancient Greek political organization in a 'polis' compare to concepts in Indian political thought?",
+   "options": [
+    "Like Gandhi's swaraj village republics, the polis was conceived as a self-sufficient political entity.",
+    "Like modern nation-states, the polis relied entirely on centralized regional bureaucracies for lawmaking.",
+    "Like ancient Indian empires, the polis was ruled as an expansive supranational confederation across Europe.",
+    "Like post-modern political unions, the polis eliminated private property and abolished domestic slavery."
+   ],
+   "answer": 0,
+   "why": "The notes compare the Greek polis directly to Gandhi's idea of self-sufficient village republics (Gram Swaraj). Both emphasize self-reliance without dependence on an external authority.",
+   "page": 7
+  },
+  {
+   "q": "Which sequence accurately reflects the historical evolution of Western political entities described in the notes?",
+   "options": [
+    "Modern sovereign states to ancient city-states, medieval Roman confederations, and post-modern supranational unions",
+    "Ancient city-states, to medieval Roman confederation, to modern nation-states, to post-modern supranational entities",
+    "Medieval Roman confederation to ancient nation-states, post-modern city-states, and modern supranational bodies",
+    "Supranational European entities to modern city-states, ancient feudal monarchies, and medieval nation-states"
+   ],
+   "answer": 1,
+   "why": "The notes trace the trajectory of Western political entities from ancient Greek city-states and medieval Roman confederation to modern nation-states and post-modern supranational entities like the EU.",
+   "page": 7
+  },
+  {
+   "q": "Why did the ancient Greeks describe other civilized societies, such as Indians, as 'barbarians'?",
+   "options": [
+    "Because outside societies refused to adopt an agrarian economy dependent on widespread slavery",
+    "Because foreign communities lacked written constitutions and decentralized systems of government",
+    "Because Greeks held ethnocentric beliefs and viewed foreign cultures as inherently uncivilized",
+    "Because external populations were unwilling to join medieval European confederations under Rome"
+   ],
+   "answer": 2,
+   "why": "The notes explain that the Greeks were deeply ethnocentric, considering outsiders culturally inferior barbarians despite their advanced civilizations.",
+   "page": 8
+  },
+  {
+   "q": "In the framework for studying a political thinker, what does a thinker's 'perspective' signify?",
+   "options": [
+    "The historical time period and physical location where the thinker produced their writings",
+    "The empirical methods and experimental procedures the thinker applied to test social facts",
+    "The major criticisms and counterarguments leveled against the thinker by rival theorists",
+    "The ideological school of thought or philosophical lens through which they interpret politics"
+   ],
+   "answer": 3,
+   "why": "According to the notes, perspective represents a thinker's overarching school of thought, exemplified by Karl Marx having a socialist perspective.",
+   "page": 8
+  }
+ ]
+}

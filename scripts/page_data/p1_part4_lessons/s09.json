@@ -1,0 +1,88 @@
+{
+ "title": "Feminism: Waves, Schools, and Core Concepts",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why are women still missing from power, safety, and history?",
+   "narration": "Imagine looking at world leaders or history books and noticing that almost half of humanity is missing. Why does this deep inequality between men and women still exist?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket match where everyone enters, but only boys get coaching.",
+   "narration": "Think of this analogy: a cricket team lets everyone onto the ground, but coaches only train the boys. Giving equal entry is not true equality if the rules inside the game are rigged."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Waves of Feminism",
+   "events": [
+    {
+     "when": "1792",
+     "what": "Wollstonecraft demands equal citizenship rights"
+    },
+    {
+     "when": "1848",
+     "what": "Seneca Falls convention demands voting rights"
+    },
+    {
+     "when": "1960s",
+     "what": "Radical feminism challenges patriarchal power"
+    },
+    {
+     "when": "1990s",
+     "what": "Third wave celebrates diverse identities"
+    }
+   ],
+   "narration": "Here is the trick: feminism developed in three historical waves. First, liberal feminists demanded legal voting rights. Later, radical feminists challenged deep social structures, paving the way for diverse modern schools."
+  },
+  {
+   "type": "thinker",
+   "name": "Simone de Beauvoir",
+   "idea": "One is not born a woman, but becomes one through society.",
+   "work": "The Second Sex",
+   "narration": "Thinker Simone de Beauvoir famously explained that one is not born a woman, but becomes one. She showed that patriarchal society invents gender roles to force women into secondary positions."
+  },
+  {
+   "type": "compare",
+   "heading": "Liberal Versus Radical Feminism",
+   "columns": [
+    {
+     "title": "Liberal Feminism",
+     "items": [
+      "Equal legal and voting rights",
+      "Privacy maintained within family",
+      "Constitutional and legal reform"
+     ]
+    },
+    {
+     "title": "Radical Feminism",
+     "items": [
+      "Total liberation from patriarchy",
+      "Personal is political",
+      "Sisterhood and raising consciousness"
+     ]
+    }
+   ],
+   "narration": "Notice this big contrast between schools. While liberals sought voting and legal reforms, radical feminists declared the personal is political. They proved that power and injustice exist right inside the family home."
+  },
+  {
+   "type": "points",
+   "heading": "Feminism on the Global Stage",
+   "items": [
+    "Amartya Sen identifies over 100 million missing women",
+    "Globalisation accelerates the feminisation of poverty",
+    "Sweden adopts the first feminist foreign policy"
+   ],
+   "narration": "Consider the global impact of these ideas today. Scholar Amartya Sen uncovered over one hundred million missing women due to neglect, inspiring nations like Sweden to adopt a feminist foreign policy."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Feminism evolved through three distinct historical waves",
+    "Personal is political exposes power inside the home",
+    "Global policy now addresses missing women and poverty"
+   ],
+   "narration": "Here is your final recap. Remember that feminism evolved across three waves, exposed how the personal family space is political, and now shapes international diplomacy and human rights."
+  }
+ ]
+}

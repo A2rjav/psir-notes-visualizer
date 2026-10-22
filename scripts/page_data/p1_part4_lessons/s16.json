@@ -1,0 +1,82 @@
+{
+ "title": "Theories of Democracy and Human Development",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is democracy just voting, or does it mean true human freedom?",
+   "narration": "Imagine standing in line to vote, but having no real power in daily life. Is democracy just about casting a ballot every few years, or is it something far deeper?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🗳️",
+   "text": "Electing a class monitor who only obeys teachers brings no real student empowerment.",
+   "narration": "Think of this analogy: your school elects a monitor every year, but you never get to decide any school rules. That election gives you a procedure, but not real power!"
+  },
+  {
+   "type": "timeline",
+   "heading": "Huntington's Three Waves of Democracy",
+   "events": [
+    {
+     "when": "19th century",
+     "what": "First wave democratizes the Western world"
+    },
+    {
+     "when": "Post-WWII",
+     "what": "Second wave reaches newly decolonized nations"
+    },
+    {
+     "when": "Post-Communism",
+     "what": "Third wave expands democracy globally"
+    }
+   ],
+   "narration": "Samuel Huntington showed that democracy spread in three major waves across history. Yet, simply having more democratic countries did not automatically give ordinary people equal power."
+  },
+  {
+   "type": "compare",
+   "heading": "Procedural Versus Substantive Democracy",
+   "columns": [
+    {
+     "title": "Procedural Democracy",
+     "items": [
+      "Focuses on regular elections",
+      "Circulation of competing political elites",
+      "Robert Dahl calls it polyarchy"
+     ]
+    },
+    {
+     "title": "Substantive Democracy",
+     "items": [
+      "Focuses on genuine mass empowerment",
+      "Protects human dignity and individuality",
+      "Operates as a cultural way of life"
+     ]
+    }
+   ],
+   "narration": "Scholars divide democracy into two types. Procedural democracy just means holding regular elections between elites, while substantive democracy means true empowerment and human dignity for all citizens."
+  },
+  {
+   "type": "balance",
+   "heading": "Democracy Versus Development",
+   "left": "Lee Thesis: Indiscipline",
+   "right": "Amartya Sen: Capabilities",
+   "tilt": "right",
+   "narration": "Lee Kuan Yew argued democracy slows down economic growth. But economist Amartya Sen proved that democracy builds human capabilities through education and health, making people fit for true development."
+  },
+  {
+   "type": "thinker",
+   "name": "C.B. Macpherson",
+   "idea": "Democracies must eliminate extractive power and provide equal developmental creative power.",
+   "work": "",
+   "narration": "Thinker C.B. Macpherson criticized Western democracies because wealthy capitalists hold all the power. He wanted a society where everyone gets equal creative freedom to develop their human potential."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Democracy is a way of life, not just voting",
+    "Amartya Sen shows democracy builds human capabilities",
+    "Macpherson advocates equal creative power for all citizens"
+   ],
+   "narration": "Here's the trick to remember: democracy is more than elections, it empowers people through health and education, and it requires equal creative power for everyone."
+  }
+ ]
+}

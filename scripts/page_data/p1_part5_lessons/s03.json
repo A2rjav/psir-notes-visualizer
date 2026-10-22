@@ -1,0 +1,84 @@
+{
+ "title": "Plato: Influences, Dialectics and Ideas",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is our physical world just a shadow of true reality?",
+   "narration": "Imagine looking at shadows on a wall and mistaking them for real objects. Plato argued that most of us live in this exact illusion every single day."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Checking score updates on your phone is not the same as watching the actual match.",
+   "narration": "Here is an everyday analogy to make this click. When you check cricket scores online, you only see data shadows, not the living match on the ground."
+  },
+  {
+   "type": "balance",
+   "heading": "Understanding Reality",
+   "left": "Heraclitus: Continuous Change",
+   "right": "Parmenides: Eternal Permanence",
+   "tilt": "even",
+   "narration": "Heraclitus taught that everything in our world constantly changes, while Parmenides insisted that true reality never changes. Plato neatly combined both thinkers to shape his philosophy."
+  },
+  {
+   "type": "compare",
+   "heading": "Sophists Versus Socrates",
+   "columns": [
+    {
+     "title": "Sophists",
+     "items": [
+      "Taught for money",
+      "Promoted individualism and materialism",
+      "Created illusionary beliefs"
+     ]
+    },
+    {
+     "title": "Socrates",
+     "items": [
+      "Knowledge is virtue",
+      "Reason through dialectics",
+      "Discovered ultimate knowledge"
+     ]
+    }
+   ],
+   "narration": "Unlike Sophists who charged money to teach selfish tricks, Socrates used dialectics, meaning logical debate. This guided conversation turns shallow beliefs into pure, virtue-giving knowledge."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Plato's Myth of Metals",
+   "levels": [
+    "Men of Gold: Reason",
+    "Men of Silver: Courage",
+    "Men of Copper: Appetite"
+   ],
+   "narration": "Borrowing from Pythagoras, Plato divided human souls into three metals based on their dominant trait. Rulers must be men of gold guided by reason, rather than greed."
+  },
+  {
+   "type": "flow",
+   "heading": "Allegory of the Cave",
+   "steps": [
+    "Chained prisoners watch dark wall",
+    "Shadows mistaken for reality",
+    "Escaped prisoner enters sunlight",
+    "Sunlight reveals true essence"
+   ],
+   "narration": "Plato used an allegory, a story with hidden meaning, about prisoners trapped inside a dark cave. They believe wall shadows are real until someone escapes outside to witness the sunlit truth."
+  },
+  {
+   "type": "thinker",
+   "name": "Plato",
+   "idea": "Reality is merely the shadow of permanent, unchanging ideas.",
+   "work": "The Republic",
+   "narration": "Here is the big conclusion: physical things constantly decay, but their essence or idea remains permanent. Since only philosophers grasp these eternal ideas, Plato says they must rule."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Plato balanced Heraclitus' change and Parmenides' permanence.",
+    "Socratic dialectics turns basic belief into pure knowledge.",
+    "Ideas are permanent reality while physical things are shadows."
+   ],
+   "narration": "To recap: Plato united change and permanence, trusted Socratic debate to reveal inner truth, and showed that ideas, not physical shadows, form ultimate reality."
+  }
+ ]
+}

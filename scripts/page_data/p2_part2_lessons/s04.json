@@ -1,0 +1,93 @@
+{
+ "title": "Political Development, Decay, and Civic Culture",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a country have vibrant elections but still face political decay?",
+   "narration": "Imagine a country where millions vote enthusiastically, yet the government struggles to enforce basic laws. Can high voter turnout actually lead to political decay?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A school cricket club admitting hundreds of players without bats, pitches, or umpires.",
+   "narration": "Think of this analogy: your school sports club recruits hundreds of eager players, but has only two broken bats and no referee. Without strong management to handle the crowd, enthusiasm turns into total chaos."
+  },
+  {
+   "type": "points",
+   "heading": "Pye's Three Development Parameters",
+   "items": [
+    "Equality: High political participation across society",
+    "Capacity: State power to enforce laws firmly",
+    "Differentiation: Specialized bodies for every function"
+   ],
+   "narration": "Scholar Lucian Pye explained that political development is different from economic wealth. It needs three pillars: equality through participation, state capacity to enforce laws, and specialized institutions for each task."
+  },
+  {
+   "type": "balance",
+   "heading": "Huntington's Political Decay",
+   "left": "Rapid Participation",
+   "right": "Weak Institutions",
+   "tilt": "left",
+   "narration": "Samuel Huntington warned of political decay when mass participation grows faster than institutions can adapt. In places like India from the 1970s, rising demands overwhelmed unadaptable systems."
+  },
+  {
+   "type": "flow",
+   "heading": "Path of Political Modernisation",
+   "steps": [
+    "Industrialisation and urbanisation",
+    "Secularisation and rationalisation",
+    "Social mobilisation of citizens",
+    "Successful nation building"
+   ],
+   "narration": "To avoid western bias, David Apter and Huntington proposed looking at modernisation. They believed shifts like urbanisation and rationalisation mobilise people, build nations, and naturally foster democracy."
+  },
+  {
+   "type": "compare",
+   "heading": "Three Types of Political Culture",
+   "columns": [
+    {
+     "title": "Parochial",
+     "items": [
+      "Indifferent to system",
+      "Example: Andaman tribes"
+     ]
+    },
+    {
+     "title": "Subject",
+     "items": [
+      "Aware of policies",
+      "Most third world democracies"
+     ]
+    },
+    {
+     "title": "Participant",
+     "items": [
+      "Active civic role",
+      "Western democracies",
+      "Growing in India"
+     ]
+    }
+   ],
+   "narration": "Gabriel Almond and Sydney Verba studied political culture, meaning people's shared values toward politics. They mapped three types: parochial who remain indifferent, subjects who merely obey policies, and participants who actively shape decisions."
+  },
+  {
+   "type": "points",
+   "heading": "The Balanced Civic Culture",
+   "items": [
+    "Combines participant, subject, and parochial cultures",
+    "Provides greatest stability for democracy",
+    "Prevents demagogues like Hitler in Germany"
+   ],
+   "narration": "Here is the secret: Almond and Verba found that stable democracy needs a civic culture. You need mostly active participants, but also enough patient subjects so extreme passions do not breed dictators like Hitler."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Pye measured equality, state capacity, and differentiation.",
+    "Huntington showed participation without institutions causes decay.",
+    "Almond and Verba proved civic culture stabilizes democracy."
+   ],
+   "narration": "To recap: first, development demands state capacity, not just voting. Second, weak institutions facing huge demands suffer decay. And third, a balanced civic culture keeps democracy peaceful and stable."
+  }
+ ]
+}

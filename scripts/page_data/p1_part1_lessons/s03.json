@@ -1,0 +1,93 @@
+{
+ "title": "Kautilya: Statecraft, Diplomacy, and Governance",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did ancient India's greatest strategist say your neighbour is always your enemy?",
+   "narration": "Imagine you are ruling a powerful empire surrounded by ambitious rival kingdoms. Kautilya argued that in politics, you cannot survive on pure idealism alone; material strength and practical strategy determine whether your nation stands or falls."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A winning cricket team needs captain, bowlers, equipment, funding, and strategy to succeed.",
+   "narration": "Think of this analogy: your school cricket team cannot win games with just a great captain. You need reliable bowlers, proper gear, team funding, and loyal coaches working together smoothly."
+  },
+  {
+   "type": "points",
+   "heading": "Seven Organs of the State",
+   "items": [
+    "King acts as the central guiding navel",
+    "Ministers advised and checked through secret spies",
+    "Forts, rural territory, army, and treasury provide strength",
+    "Allies reflect the external power of the ruler"
+   ],
+   "narration": "Here is the trick: Kautilya viewed the state as an organic living body made of seven vital parts. The king sits at the center, supported by ministers, forts, fertile territory, a strong army, a rich treasury, and trustworthy allies."
+  },
+  {
+   "type": "rings",
+   "heading": "Circle of States Geopolitics",
+   "rings": [
+    {
+     "label": "Conquering King",
+     "tone": "self"
+    },
+    {
+     "label": "Neighbouring Enemy",
+     "tone": "enemy"
+    },
+    {
+     "label": "Friendly Ally",
+     "tone": "friend"
+    },
+    {
+     "label": "Neutral State",
+     "tone": "neutral"
+    }
+   ],
+   "narration": "In foreign policy, imagine your borders as expanding concentric circles. Kautilya observed that your immediate neighbour naturally competes for land, making them your enemy, while the neighbour right behind them becomes your natural friend."
+  },
+  {
+   "type": "points",
+   "heading": "Tackling Public Corruption",
+   "items": [
+    "Officers misusing public office for private gain",
+    "Regular transfers prevent officers from exploiting loopholes",
+    "Whistleblowers receive state protection and financial rewards",
+    "Punish the entire chain of corrupt actors"
+   ],
+   "narration": "Inside the administration, Kautilya warned that officials handling public money will inevitably taste it, like fish secretly drinking water. To stop corruption, he urged regular job transfers, protecting whistleblowers, and punishing every person in the bribery chain."
+  },
+  {
+   "type": "compare",
+   "heading": "Kautilya Versus Machiavelli",
+   "columns": [
+    {
+     "title": "Kautilya",
+     "items": [
+      "Ruler is never above moral duty",
+      "Tested ministers with loyal spies",
+      "Saw ideas realized by his king"
+     ]
+    },
+    {
+     "title": "Machiavelli",
+     "items": [
+      "Prince stands entirely above morality",
+      "Advocated ruthless personal rule",
+      "Never found prince to implement ideas"
+     ]
+    }
+   ],
+   "narration": "Scholars often compare Kautilya to the Western realist Machiavelli, but there is a major difference. Machiavelli placed his ruler above morality, whereas Kautilya strictly required the king to uphold sacred moral duty and serve the people."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Seven organs function like an organic living body",
+    "Immediate neighbours are natural rivals in geopolitics",
+    "Governance demands strict surveillance and moral accountability"
+   ],
+   "narration": "Always remember these three core lessons: build an organic state system, understand regional balances of power, and govern with relentless integrity."
+  }
+ ]
+}

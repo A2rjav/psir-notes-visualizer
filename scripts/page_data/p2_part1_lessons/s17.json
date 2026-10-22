@@ -1,0 +1,77 @@
+{
+ "title": "NAFTA: Genesis, Disputes, and Trade Realities",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can three neighbour nations trade together without losing jobs or local control?",
+   "narration": "Imagine three giant neighbours deciding to tear down all trade borders between them. That is NAFTA, the world's first trade pact between rich and developing countries!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "Three school friends sharing tiffin boxes freely while keeping their own household rules.",
+   "narration": "Think of this as an analogy: three school friends agree to share tiffin snacks freely at lunch. They swap food without taxes, but each friend still manages their own home independently."
+  },
+  {
+   "type": "points",
+   "heading": "Core Features of NAFTA",
+   "items": [
+    "Complete elimination of tariffs on goods",
+    "Most Favoured Nation status for all members",
+    "Equal investment rights and government procurement preference",
+    "Covers dispute settlements, intellectual property, and labour laws"
+   ],
+   "narration": "Formed in 1994 from an earlier US-Canada deal, NAFTA created a twenty trillion dollar market. It scrapped import taxes and gave members equal commercial preference, though it never created a shared government like the European Union."
+  },
+  {
+   "type": "flow",
+   "heading": "Rules of Origin in Action",
+   "steps": [
+    "Parts imported from the US",
+    "Cars manufactured in Mexico",
+    "High local content verified",
+    "Exported to US tariff free"
+   ],
+   "narration": "Here is the trick called rules of origin. A Mexican factory cannot simply repackage cheap foreign parts; a significant share of the car must originate in member countries to enter America tax-free."
+  },
+  {
+   "type": "compare",
+   "heading": "US Grievances Against Partners",
+   "columns": [
+    {
+     "title": "Mexico",
+     "items": [
+      "Manufacturing jobs moved across border",
+      "Maquiladora policy relocated US factories",
+      "Lower Mexican wages suppressed US pay"
+     ]
+    },
+    {
+     "title": "Canada",
+     "items": [
+      "Protectionist barriers in dairy sector",
+      "Contested softwood exports to US"
+     ]
+    }
+   ],
+   "narration": "Even between close partners, frictions arose. American critics complained that Mexico's factory policies pulled manufacturing jobs south, while Canada faced complaints over dairy protections and lumber exports."
+  },
+  {
+   "type": "balance",
+   "heading": "Politics Versus Economic Reality",
+   "left": "Trump Border Wall Demands",
+   "right": "Win-Win Trade Benefits",
+   "tilt": "right",
+   "narration": "President Trump attacked NAFTA to win support from working-class voters who lost factory jobs. Yet in reality, cheaper groceries, stable oil imports, and joint competitiveness against China made the deal an overall win-win."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "World's first developed-developing country free trade bloc in 1994",
+    "Enforced rules of origin alongside labour and IPR rules",
+    "Delivered mutual economic gains despite sharp US political criticism"
+   ],
+   "narration": "To sum up: NAFTA united three distinct economies into a purely commercial powerhouse. Despite political battles over factory jobs and border walls, mutual economic gains kept the partnership indispensable."
+  }
+ ]
+}

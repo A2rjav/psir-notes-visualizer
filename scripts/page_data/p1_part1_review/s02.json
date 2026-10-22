@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Professor V.R. Mehta, why did Western scholars often fail to recognize Indian political thought?",
+   "options": [
+    "Western thinkers analyze concepts through rigid dichotomies, whereas Indian thought approaches ethics and politics as a continuity.",
+    "Western scholars believed ancient Indian texts focused purely on statecraft and completely ignored spiritual salvation.",
+    "Western traditions reject sovereign authority, whereas Indian thinkers subordinated all social institutions to royal command.",
+    "Western thinkers view history progressively, whereas Indian traditions completely denied the existence of moral duty."
+   ],
+   "answer": 0,
+   "why": "Professor V.R. Mehta explained that while the West separates ethics from politics through dichotomies, Indian thought treats Dharma and Danda as an integrated continuum.",
+   "page": 8
+  },
+  {
+   "q": "How do Dharmashastra and Dandashastra differ in their treatment of Dharma and Danda?",
+   "options": [
+    "Dharmashastra rejects coercive state authority, while Dandashastra completely eliminates all moral obligations.",
+    "Their difference is of degree: Dharmashastra focuses primarily on Dharma, while Dandashastra prioritizes Dandaniti.",
+    "Dharmashastra applies only to ascetics, whereas Dandashastra regulates the duties of common citizens.",
+    "Their difference is absolute: Dharmashastra discusses cosmic law, whereas Dandashastra focuses exclusively on theology."
+   ],
+   "answer": 1,
+   "why": "As noted by Bhikhu Parekh, both traditions contain both concepts, differing only in whether Dharma or Dandaniti forms the central focus.",
+   "page": 10
+  },
+  {
+   "q": "In Manusmriti, what does the distinction between the king's divine personality and lack of divine rights signify?",
+   "options": [
+    "The king possesses infallible absolute authority and cannot be judged or restrained by moral law.",
+    "The king holds temporary divine powers that transfer completely to Vedic priests during military conflicts.",
+    "The king rules with total personal discretion because Brahma granted him exemption from cosmic penalties.",
+    "The king derives authority from God but remains strictly subordinate to and accountable under Raj Dharma."
+   ],
+   "answer": 3,
+   "why": "While the king embodies traits of various deities, he possesses no absolute divine rights and is strictly bound by Raj Dharma.",
+   "page": 12
+  },
+  {
+   "q": "Why is the origin of the state in Manusmriti characterized as a quasi-contractual theory?",
+   "options": [
+    "The social agreement was made directly between the ruler and the subjects without divine intervention.",
+    "The four varnas negotiated a power-sharing constitution to elect a king from among the Brahmins.",
+    "The covenant occurred between man and God, where people requested Brahma to create a king.",
+    "The king signed a formal legal charter granting unconditional rights to citizens to avoid anarchy."
+   ],
+   "answer": 2,
+   "why": "It is considered quasi-contractual because the pact was between people and God, who created King Manu to deliver society from Matsyanyaya.",
+   "page": 11
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "title": "Aristotle: Justice, Constitutions, and Rule of Law",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do citizens rebel and tear down their governments?",
+   "narration": "Have you ever wondered why citizens overthrow their rulers? To find out, Aristotle studied one hundred fifty-eight constitutions to discover what makes a government stable and just."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Equal prizes for star players and benchwarmers cause resentment.",
+   "narration": "Imagine an analogy from school sports. If the star player and someone who skipped practice receive the exact same award, both feel bitter. Aristotle called this proportionate equality: rewards should match your real contribution to society."
+  },
+  {
+   "type": "compare",
+   "heading": "Aristotle's Two Paths of Governance",
+   "columns": [
+    {
+     "title": "Normal Rule",
+     "items": [
+      "Serves the common public interest",
+      "Includes monarchy, aristocracy, and polity"
+     ]
+    },
+    {
+     "title": "Perverted Rule",
+     "items": [
+      "Serves selfish personal interests",
+      "Includes tyranny, oligarchy, and democracy"
+     ]
+    }
+   ],
+   "narration": "Here's how Aristotle sorted governments. When rulers serve the common public interest, you get normal regimes like monarchy or polity; but when rulers serve selfish greed, regimes become corrupt and unstable."
+  },
+  {
+   "type": "balance",
+   "heading": "Polity as the Golden Mean",
+   "left": "Oligarchy of Rich",
+   "right": "Democracy of Poor",
+   "tilt": "even",
+   "narration": "So, which practical system works best? Aristotle championed polity, rule by the middle class, because it avoids the arrogance of the wealthy and the ignorance of the poor, creating a stable golden mean."
+  },
+  {
+   "type": "quote",
+   "quote": "Law is a reason without Passion.",
+   "by": "Aristotle",
+   "narration": "While Plato wanted an all-powerful philosopher king, Aristotle placed his trust in the rule of law. Written laws carry collective wisdom across generations and remain fair because law is reason without passion."
+  },
+  {
+   "type": "flow",
+   "heading": "The Root Cause of Revolution",
+   "steps": [
+    "Perceived inequality among citizens",
+    "Deep psychological feeling of injustice",
+    "Growing rivalry and secret conspiracy",
+    "Rebellion and political regime change"
+   ],
+   "narration": "Finally, notice what sparks revolutions. Aristotle warned that the main cause is psychological: whenever citizens feel treated unequally or unjustly, resentment turns into conspiracy, leading to regime change."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Distribute public honors according to proportionate equality",
+    "Middle class governance ensures the most stable polity",
+    "Rule of law guarantees reason without passion"
+   ],
+   "narration": "Remember these three big takeaways. Proportionate equality rewards societal merit, a large middle class guarantees political stability, and the rule of law replaces passion with reason."
+  }
+ ]
+}

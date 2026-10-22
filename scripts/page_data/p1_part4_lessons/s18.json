@@ -1,0 +1,83 @@
+{
+ "title": "Theories of Rights and Human Rights",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Are your rights born inside you, or granted by the state?",
+   "narration": "Imagine waking up and being told that your rights exist only because the government says so. Where do our fundamental freedoms really come from?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "School cricket ground rules versus your basic safety while playing.",
+   "narration": "Here is an analogy to make this click: think of a school cricket match. The umpire makes local match rules, but your right to personal safety belongs to you naturally, whether the umpire likes it or not!"
+  },
+  {
+   "type": "compare",
+   "heading": "Natural Rights Versus Legal Rights",
+   "columns": [
+    {
+     "title": "Natural Rights",
+     "items": [
+      "Given by nature and human reason",
+      "Limits the power of the state",
+      "Championed by Locke and Thomas Paine"
+     ]
+    },
+    {
+     "title": "Legal Rights",
+     "items": [
+      "Created solely by state law",
+      "Cannot exist without an enforcing state",
+      "Supported by Bentham and Thomas Hobbes"
+     ]
+    }
+   ],
+   "narration": "Early thinkers like John Locke said nature gives us rights that limit government power. But legal theorists argued that without a state to enforce laws, rights simply cannot exist."
+  },
+  {
+   "type": "thinker",
+   "name": "Jeremy Bentham",
+   "idea": "Natural rights are nonsense upon stilts; only state laws create real rights.",
+   "work": "Anarchical Fallacies",
+   "narration": "Bentham pulled no punches! He warned that claiming natural rights against the state creates chaos, calling the very idea nonsense upon stilts."
+  },
+  {
+   "type": "points",
+   "heading": "Moral Rights and Human Dignity",
+   "items": [
+    "Human consciousness postulates liberty, which involves rights",
+    "Moral sense of right and wrong creates rights",
+    "Kant and Green ground rights in human dignity"
+   ],
+   "narration": "Immanuel Kant and T.H. Green took a higher moral road. They argued that our inner moral conscience demands freedom, making human dignity the true foundation of all rights."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Karel Vasak's Three Generations",
+   "levels": [
+    "Third: Collective Environmental Rights",
+    "Second: Social Economic Rights",
+    "First: Civil Political Rights"
+   ],
+   "narration": "Jurist Karel Vasak organized human rights into three historical waves: first came civil and political freedoms, followed by social and economic welfare, and finally collective environmental rights."
+  },
+  {
+   "type": "balance",
+   "heading": "Universal Rights Versus Asian Values",
+   "left": "Lee Kuan Yew",
+   "right": "Amartya Sen",
+   "tilt": "even",
+   "narration": "Here is a modern debate: Singapore's Lee Kuan Yew argued Western rights clash with Asian values. But economist Amartya Sen countered that human rights and democratic freedoms carry universal value for everyone."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Natural rights limit states, while legal rights need enforcement",
+    "Kant and Green ground rights in inherent human dignity",
+    "Human rights evolved across three generations toward universal dignity"
+   ],
+   "narration": "To recap: remember Bentham's legal critique, Kant's focus on human dignity, and how rights expanded into three global generations. Master these three, and you will ace PSIR!"
+  }
+ ]
+}

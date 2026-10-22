@@ -1,0 +1,73 @@
+{
+ "title": "Agrarian Transformation: Land Reforms and Green Revolution",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did food self-sufficiency leave small farmers further behind?",
+   "narration": "Imagine solving a national food crisis, only to widen village inequality. India passed sweeping laws to redistribute land, but the reality was far more complex. Here is the story of India's agrarian transformation."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Costly cricket gear helps the team win, but poorer players get benched.",
+   "narration": "Think of this school sports analogy. Imagine your coach buys expensive modern gear to boost match scores. The school wins more games, but only wealthy students can afford the accessories, leaving poorer teammates benched."
+  },
+  {
+   "type": "flow",
+   "heading": "How Land Redistribution Stalled",
+   "steps": [
+    "Ceiling laws had legal loopholes",
+    "Landlords used benami property transfers",
+    "Surplus land acquisition remained minimal",
+    "Landless tillers received little land"
+   ],
+   "narration": "Here is how land reforms stalled. Parliament introduced the Ninth Schedule and repealed property rights, yet wealthy landlords exploited loopholes. They used benami transfers and split families, leaving almost no surplus land for tillers."
+  },
+  {
+   "type": "thinker",
+   "name": "Gunnar Myrdal",
+   "idea": "India is a soft state unable to enforce radical land reforms.",
+   "work": "",
+   "narration": "Why did land distribution fail? Gunnar Myrdal explained that India is a soft state. This means governments pass ambitious social legislation but lack the administrative will to challenge powerful landed elites."
+  },
+  {
+   "type": "compare",
+   "heading": "Green Revolution Outcomes",
+   "columns": [
+    {
+     "title": "Gains",
+     "items": [
+      "Foodgrain self-sufficiency achieved",
+      "Agricultural growth reached 3 to 5 percent",
+      "Total farm incomes quadrupled"
+     ]
+    },
+    {
+     "title": "Costs",
+     "items": [
+      "Widened rich and poor divide",
+      "Small farmers fell into debt",
+      "Mechanisation displaced agricultural labourers"
+     ]
+    }
+   ],
+   "narration": "In the 1960s, high-yielding seeds achieved food self-sufficiency, quadrupling farm incomes as Bhalla and Chadha noted. Yet V.K.R.V. Rao showed it deepened inequality, trapping small farmers in debt as machines displaced labour."
+  },
+  {
+   "type": "thinker",
+   "name": "Rudolph and Rudolph",
+   "idea": "Green Revolution created bullock capitalists, medium farmers dominating regional caste politics.",
+   "work": "",
+   "narration": "Rudolph and Rudolph noticed a key political shift: the Green Revolution created bullock capitalists. These self-sufficient, medium-scale farmers gained economic wealth and began dominating regional politics through their caste base."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Legal loopholes undermined land ceiling and redistribution laws",
+    "Green Revolution secured food self-sufficiency but widened inequality",
+    "Bullock capitalists emerged as influential regional political leaders"
+   ],
+   "narration": "Remember three key lessons. First, legal loopholes defeated land redistribution. Second, the Green Revolution achieved food security but widened rural inequality. Third, rising bullock capitalists reshaped regional Indian democracy."
+  }
+ ]
+}

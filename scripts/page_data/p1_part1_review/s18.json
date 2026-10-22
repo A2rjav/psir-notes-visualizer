@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Deendayal Upadhyaya's Integral Humanism, how should India approach modernization?",
+   "options": [
+    "India must completely reject Western scientific methods and preserve traditional agrarian lifestyles.",
+    "India should adopt Western science to modernize while retaining indigenous cultural and moral values.",
+    "India ought to emulate Western consumer lifestyles while discarding traditional spiritual and family values.",
+    "India must adopt Nehruvian state socialism to replace indigenous traditions with Western secularism."
+   ],
+   "answer": 1,
+   "why": "Upadhyaya argued that India should adopt Western science without adopting Western lifestyles, drawing inspiration from Japan's modernization while preserving indigenous values.",
+   "page": 162
+  },
+  {
+   "q": "Why does Milan Vaishnav characterize the BJP's 2014 electoral victory as a watershed in Indian voter behavior?",
+   "options": [
+    "Voters completely abandoned strategic coalition alliances in favor of single-party regional dominance.",
+    "Electoral outcomes were determined strictly by religious polarization rather than any economic issues.",
+    "Voters moved beyond pure caste identity to prioritize good economics and effective governance.",
+    "Rural voters overwhelmingly shifted allegiance from regional parties back to the traditional Congress party."
+   ],
+   "answer": 2,
+   "why": "Vaishnav highlighted that the 2014 election represented a watershed where citizens prioritized governance and economic performance over caste identity alone.",
+   "page": 164
+  },
+  {
+   "q": "According to Praful Bidwai, what major intellectual shortcoming has contributed to the decline of Indian Left parties?",
+   "options": [
+    "They rely heavily on imported Western doctrines instead of developing an authentic analysis of Indian society.",
+    "They completely rejected parliamentary elections in favor of violent revolutionary takeovers across all states.",
+    "They abandoned their traditional working-class base to champion market-driven globalization and privatization policies.",
+    "They formed permanent structural alliances with right-wing cultural nationalist organizations across the country."
+   ],
+   "answer": 0,
+   "why": "Bidwai argued that the Left failed to produce a genuine analysis of Indian society, remaining overly dependent on imported Western doctrines.",
+   "page": 166
+  },
+  {
+   "q": "Which internal organizational rule did the Aam Aadmi Party adopt to prevent high-command and dynasty politics?",
+   "options": [
+    "Requiring all legislative candidates to be nominated exclusively by university student unions.",
+    "Allowing party leaders to inherit executive positions after serving one legislative term.",
+    "Mandating strict democratic centralism where regional units cannot debate national party decisions.",
+    "Prohibiting two members of the same family from contesting elections or joining the executive council."
+   ],
+   "answer": 3,
+   "why": "AAP established anti-dynastic rules barring two members of the same family from contesting elections or joining its executive council.",
+   "page": 168
+  }
+ ]
+}

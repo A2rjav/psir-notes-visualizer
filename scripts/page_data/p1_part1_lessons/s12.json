@@ -1,0 +1,83 @@
+{
+ "title": "Colonial Legacies and Making of the Constitution",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Was India's Constitution a total revolution or a transfer of colonial power?",
+   "narration": "Imagine winning your freedom, but still using your old ruler's playbook. You might wonder if our founders built India entirely from scratch or kept colonial roots alive."
+  },
+  {
+   "type": "analogy",
+   "emoji": "📱",
+   "text": "Renovating an old family smartphone instead of buying a completely new operating system.",
+   "narration": "Here is an easy analogy to understand continuity. Think of it like inheriting a family phone; you update the software and change the wallpaper, but the core hardware remains the same."
+  },
+  {
+   "type": "points",
+   "heading": "Enduring Legacies of the Raj",
+   "items": [
+    "Constitution heavily based on 1935 Government Act",
+    "Centralised federation and powerful bureaucracy",
+    "Education system focused on rote memorization",
+    "Subcontinent partition causing massive human tragedy"
+   ],
+   "narration": "The British left behind deep institutional habits. Our Constitution adopted large parts of the 1935 Act, keeping a powerful bureaucracy and a centralized federation where Delhi holds major power."
+  },
+  {
+   "type": "thinker",
+   "name": "Granville Austin",
+   "idea": "The Constitution is a consensus document and cornerstone of the nation.",
+   "work": "The Indian Constitution: Cornerstone of a Nation",
+   "narration": "Critics like Winston Churchill called the Assembly unrepresentative. But scholar Granville Austin defended it, showing that the Congress party worked by consensus to build a strong foundation for India."
+  },
+  {
+   "type": "compare",
+   "heading": "Choosing India's Executive System",
+   "columns": [
+    {
+     "title": "Parliamentary",
+     "items": [
+      "Favoured by Jawaharlal Nehru",
+      "Cabinet accountable to parliament"
+     ]
+    },
+    {
+     "title": "Presidential",
+     "items": [
+      "Favoured by K.M. Munshi",
+      "Focus on fixed executive head"
+     ]
+    }
+   ],
+   "narration": "Our leaders debated how to govern this diverse country. While K.M. Munshi favoured a strong presidential system, Jawaharlal Nehru preferred a parliamentary model to keep the government directly answerable."
+  },
+  {
+   "type": "timeline",
+   "heading": "Supreme Court on the Preamble",
+   "events": [
+    {
+     "when": "1950",
+     "what": "Gopalan case: not a guiding star"
+    },
+    {
+     "when": "1960",
+     "what": "Berubari case: not part of Constitution"
+    },
+    {
+     "when": "1973",
+     "what": "Kesavananda case: accepted as amendable part"
+    }
+   ],
+   "narration": "Is the Preamble, the opening summary of our Constitution, really part of it? The Supreme Court first said no in 1960, but reversed that in 1973, confirming it walks with the Constitution."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "British rule left lasting political and bureaucratic structures.",
+    "Granville Austin proved our Constitution is legitimate and consensual.",
+    "The Preamble is an amendable part guiding constitutional interpretation."
+   ],
+   "narration": "Here is your final takeaway. India balanced colonial continuity with democratic consensus, giving us an adaptable Constitution whose soul is captured right in its Preamble."
+  }
+ ]
+}

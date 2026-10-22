@@ -1,0 +1,75 @@
+{
+ "title": "Marxism, Leninism, Maoism, and Neo-Marxism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did communist revolutions succeed in peasant lands rather than advanced capitalist factories?",
+   "narration": "Have you ever wondered why communist revolutions broke out in agrarian Russia and China instead of wealthy European factories? Karl Marx never expected poor peasants to lead the charge, but his followers had to adapt his ideas to reality."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket captain tweaking tactics for spinning pitches, revolutionaries adapted Marx locally.",
+   "narration": "Think of this analogy: a cricket captain changes the batting order depending on whether the pitch is fast or spinning. Similarly, leaders like Lenin and Mao modified Marx's textbook formulas to fit their own countries' ground realities."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Lenin's Democratic Centralist Party",
+   "levels": [
+    "Central Committee",
+    "Top Leadership",
+    "Grassroot Cells"
+   ],
+   "narration": "Lenin designed the Communist Party as a disciplined pyramid under democratic centralism. Local cells at the grassroots discuss demands, send them up to the central committee, and then everyone strictly executes the final plan."
+  },
+  {
+   "type": "compare",
+   "heading": "Comparing Revolutionary Paths: Mao versus Gandhi",
+   "columns": [
+    {
+     "title": "Mao Zedong",
+     "items": [
+      "Power flows through guns",
+      "Organized peasants in guerrilla warfare",
+      "Relied on violent revolution"
+     ]
+    },
+    {
+     "title": "Mahatma Gandhi",
+     "items": [
+      "Viewed non-violence as moral faith",
+      "Mobilized masses through peaceful Satyagraha",
+      "Maintained ethical means empower people"
+     ]
+    }
+   ],
+   "narration": "While both were mass leaders fighting imperialism, their methods stood worlds apart. Mao insisted that power flows through the barrel of a gun using guerrilla warfare, whereas Gandhi proved that non-violent Satyagraha creates true mass empowerment."
+  },
+  {
+   "type": "thinker",
+   "name": "Herbert Marcuse",
+   "idea": "Consumerist capitalism manufactures false needs, turning free humans into one-dimensional beings.",
+   "work": "One Dimensional Man",
+   "narration": "Later, Neo-Marxists shifted focus from factory wages to human alienation and culture. Herbert Marcuse argued that modern advertising traps us by manufacturing false desires, turning us into passive consumers rather than critically thinking citizens."
+  },
+  {
+   "type": "flow",
+   "heading": "Evolution of Structural Marxism",
+   "steps": [
+    "Marx asserts economic determinism",
+    "Gramsci highlights superstructural influence",
+    "Althusser proposes multiple structures"
+   ],
+   "narration": "Finally, Structural Marxists rethought how history moves. While Marx saw economics as the sole base, Althusser explained that multiple structures shape society, showing how Russia's revolution began in politics, not economics."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Lenin built vanguard parties and analyzed global finance capitalism.",
+    "Mao mobilized rural peasants through armed guerrilla warfare.",
+    "Neo-Marxists critiqued cultural alienation and rigid economic determinism."
+   ],
+   "narration": "To recap: Lenin adapted Marx using disciplined vanguard parties, Mao placed rural peasants at the center of violent revolution, and Neo-Marxists exposed modern cultural alienation and multi-layered social structures."
+  }
+ ]
+}

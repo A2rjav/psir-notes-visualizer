@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 2,
+   "field": "heading",
+   "new": "Gramsci's Three-Layered Model of History",
+   "reason": "The integral state comprises only civil society and the political state; the three-layered pyramid represents Gramsci's model of history including the economic base."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to Antonio Gramsci, how does the ruling class primarily maintain hegemony in capitalist societies?",
+   "options": [
+    "By manufacturing consent through institutions of civil society such as schools, churches, and media.",
+    "By exercising direct violent coercion through the police, military, and judicial apparatus of the state.",
+    "By relying entirely on automatic economic determinism without needing any cultural or ideological intervention.",
+    "By granting complete intellectual autonomy and independent political leadership to the subaltern working classes."
+   ],
+   "answer": 0,
+   "why": "Gramsci argues that hegemony is soft power located in civil society, where consent is manufactured so ruling values appear as common sense.",
+   "page": 168
+  },
+  {
+   "q": "How does Gramsci distinguish traditional intellectuals from organic intellectuals?",
+   "options": [
+    "Traditional intellectuals organize factory production, whereas organic intellectuals remain confined to ecclesiastical affairs.",
+    "Traditional intellectuals champion radical socialist change, whereas organic intellectuals defend feudal social privileges.",
+    "Traditional intellectuals form the economic base, whereas organic intellectuals direct state coercive machinery.",
+    "Traditional intellectuals originate from prior historical eras projecting neutrality, while organic intellectuals emerge alongside a specific class."
+   ],
+   "answer": 3,
+   "why": "Traditional intellectuals emerge from earlier historical periods and project neutrality, whereas organic intellectuals develop organically alongside an emerging dominant class.",
+   "page": 170
+  },
+  {
+   "q": "Why must the working class wage a protracted war of position before launching a war of manoeuvre?",
+   "options": [
+    "To dismantle the armed forces and police of the state before tackling cultural institutions.",
+    "To immediately overthrow the economic base through general strikes while ignoring cultural institutions.",
+    "To establish counter-hegemony in civil society because the state apparatus is shielded by civil society.",
+    "To surrender political leadership to the bourgeoisie in exchange for minor legal and workplace concessions."
+   ],
+   "answer": 2,
+   "why": "Civil society acts as a protective cushion for the state, requiring workers to build counter-hegemony there before directly assaulting state power.",
+   "page": 169
+  },
+  {
+   "q": "What must the working class do to build a counter-hegemonic historical bloc according to Gramsci?",
+   "options": [
+    "Focus exclusively on narrow economic demands for factory workers while ignoring other social groups.",
+    "Form a broad coalition with subaltern classes by championing their shared interests beyond narrow economic goals.",
+    "Rely entirely on spontaneous peasant uprisings without developing working-class intellectual leadership.",
+    "Integrate directly into the existing bourgeois coalition and accept capitalist ideological supremacy."
+   ],
+   "answer": 1,
+   "why": "A historical bloc requires building a class coalition where workers provide leadership by actively accommodating the interests of allied subaltern groups.",
+   "page": 172
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did European founding members specifically choose to pool coal and steel production in 1952?",
+   "options": [
+    "To build a collective military alliance against Soviet expansion under a unified command structure.",
+    "To subsidize agricultural production and guarantee common minimum prices across all member nations.",
+    "To pool essential wartime raw materials so future warfare between European nations became materially impossible.",
+    "To introduce a single continental currency and eliminate national central banks through rapid integration."
+   ],
+   "answer": 2,
+   "why": "Founding members pooled coal and steel because those materials manufactured weapons, ensuring war between France and Germany became impossible.",
+   "page": 153
+  },
+  {
+   "q": "According to the notes, why did major EU nations resist granting full membership to Turkey?",
+   "options": [
+    "Turkey's large population would challenge Germany's voting weight under Lisbon qualified majority rules.",
+    "Turkey refused to establish an open market economy compatible with Western European standards.",
+    "Turkey demanded permanent opt-out clauses from Schengen border-free travel and human rights treaties.",
+    "Turkey insisted on replacing the common euro currency with an independent regional clearing house."
+   ],
+   "answer": 0,
+   "why": "Under Lisbon Treaty qualified majority voting based on population, Turkey's large population would challenge German dominance in EU decision-making.",
+   "page": 156
+  },
+  {
+   "q": "How did Europhobic countries like Britain and Denmark fundamentally approach European Union integration?",
+   "options": [
+    "They pursued political federalism while rejecting free trade agreements and single market deregulation.",
+    "They joined primarily for commercial benefits and negotiated opt-out clauses to preserve national sovereignty.",
+    "They financed extensive bailouts to subsidize weaker peripheral economies across Southern and Eastern Europe.",
+    "They promoted rapid eastward enlargement to integrate former communist nations into a centralized federation."
+   ],
+   "answer": 1,
+   "why": "Europhobic members like Britain and Denmark joined solely for economic advantages and preserved sovereignty through opt-outs, unlike peace-driven Europhilic founders.",
+   "page": 157
+  },
+  {
+   "q": "According to the notes, what fundamental structural flaw in Eurozone design triggered the sovereign debt crisis?",
+   "options": [
+    "Member nations retained closed internal borders, preventing the free movement of workers across Europe.",
+    "The European Central Bank lacked legal authority to monitor national inflation rates across candidate members.",
+    "The European Parliament lacked directly elected representatives to approve emergency financial stabilization loans.",
+    "Member nations created a monetary union sharing a single currency without establishing a unified fiscal union."
+   ],
+   "answer": 3,
+   "why": "The notes explain that the basic flaw of the Eurozone was creating a monetary union without corresponding fiscal and economic integration.",
+   "page": 162
+  }
+ ]
+}

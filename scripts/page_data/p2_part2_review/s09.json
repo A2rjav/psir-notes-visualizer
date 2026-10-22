@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Kenneth Waltz criticize Hans Morgenthau's approach to explaining international politics?",
+   "options": [
+    "Waltz claims that Morgenthau relies excessively on international law rather than balance of power diplomacy.",
+    "Waltz contends that classical realism focuses too heavily on domestic economic structures instead of military capabilities.",
+    "Waltz argues that a rigorous scientific theory cannot be constructed on the basis of human nature.",
+    "Waltz asserts that Morgenthau mistakenly assumes universal moral rules dictate foreign policy decisions among states."
+   ],
+   "answer": 2,
+   "why": "Kenneth Waltz objects to Morgenthau's methodology because scientific theories of international politics cannot be grounded in human nature.",
+   "page": 67
+  },
+  {
+   "q": "How does Ann J. Tickner reformulate the realist concept of power in international relations?",
+   "options": [
+    "She defines power as collective empowerment and mutual cooperation rather than merely domination over other states.",
+    "She treats power strictly as material military capability used to defend sovereign borders against external invasion.",
+    "She eliminates power entirely from statecraft, proposing that global governance should replace national sovereignty.",
+    "She argues that power is an unchanging biological drive that naturally compels leaders to pursue hegemony."
+   ],
+   "answer": 0,
+   "why": "Tickner challenges the masculinist view of power as domination, redefining it as collective empowerment to address shared human security challenges.",
+   "page": 69
+  },
+  {
+   "q": "According to Robert Jervis, in which scenario is the security dilemma most intense and dangerous?",
+   "options": [
+    "When offensive and defensive weapons are distinguishable, and defensive strategies offer a significant military advantage.",
+    "When offensive and defensive postures are indistinguishable, and offensive action offers an operational military advantage.",
+    "When defensive capabilities are easily distinguishable, but offensive operations provide a distinct strategic advantage.",
+    "When offensive weapons are indistinguishable from defensive ones, yet defensive strategies hold a military advantage."
+   ],
+   "answer": 1,
+   "why": "Jervis explains that the security dilemma is doubly dangerous when weapons are indistinguishable and offense has the advantage, fueling intense arms races.",
+   "page": 71
+  },
+  {
+   "q": "Why do Third World realists like Mohammed Ayoob and Amitav Acharya critique the traditional security dilemma?",
+   "options": [
+    "They claim that non-Western nations never experience interstate conflict because regional institutions ensure continuous peace.",
+    "They contend that developing countries possess superior offensive weapons that eliminate any mutual mistrust among neighbors.",
+    "They assert that the concept of anarchy is irrelevant because global governance institutions effectively protect post-colonial states.",
+    "They argue that developing states primarily face internal threats like civil wars rather than external invasions."
+   ],
+   "answer": 3,
+   "why": "Ayoob and Acharya argue that developing nations face an insecurity dilemma where domestic vulnerabilities, like civil wars and secessionism, outweigh external threats.",
+   "page": 72
+  }
+ ]
+}

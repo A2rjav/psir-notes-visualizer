@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did M. N. Roy's view of historical progress differ fundamentally from Karl Marx's theory?",
+   "options": [
+    "History is propelled by class cooperation rather than inevitable class struggle.",
+    "History is determined strictly by changes in the material mode of production.",
+    "History progresses through the moral and spiritual awakening of ruling classes.",
+    "History advances through violent peasant uprisings coordinated by a vanguard party."
+   ],
+   "answer": 0,
+   "why": "Roy rejected Marx's emphasis on class struggle, arguing instead that human history is primarily driven by class cooperation.",
+   "page": 52
+  },
+  {
+   "q": "According to M. N. Roy's Radical Humanism, what constitutes true revolution and human freedom?",
+   "options": [
+    "Achieving national sovereignty and political independence from foreign imperialist rulers.",
+    "A mental revolution emancipating individuals from superstitions and fear through scientific rationality.",
+    "Transferring state ownership of factories and land directly to organized workers.",
+    "Reviving traditional religious scriptures to establish a moral foundation for modern society."
+   ],
+   "answer": 1,
+   "why": "Roy argued that true revolution requires a mental revolution, liberating individuals from superstition and fear through scientific reason.",
+   "page": 53
+  },
+  {
+   "q": "What did M. N. Roy identify as the foundational origin of human reason and ethics?",
+   "options": [
+    "Divine moral laws revealed through sacred religious scriptures and traditional customs.",
+    "Metaphysical principles of natural law embedded in a spiritual cosmic order.",
+    "The material struggle of human beings for physical survival and continued existence.",
+    "The collective class consciousness shaped entirely by the prevailing mode of production."
+   ],
+   "answer": 2,
+   "why": "Roy maintained that reason and ethics are materialistic in origin, arising directly from man's biological struggle for survival.",
+   "page": 54
+  },
+  {
+   "q": "On which political principle did M. N. Roy and Mahatma Gandhi share common ground despite their disagreements?",
+   "options": [
+    "Supporting rapid state-directed industrialization and modern heavy factory production.",
+    "Grounding political ethics in spiritual doctrines and religious traditions of India.",
+    "Promoting parliamentary governance where centralized party leadership delegates executive power.",
+    "Advocating decentralized grassroots democracy and expressing skepticism toward party-based politics."
+   ],
+   "answer": 3,
+   "why": "Both Gandhi and Roy advocated decentralized grassroots democracy and supported partyless politics, despite differing over industrialization and materialism.",
+   "page": 56
+  }
+ ]
+}

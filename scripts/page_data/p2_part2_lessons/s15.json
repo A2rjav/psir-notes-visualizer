@@ -1,0 +1,85 @@
+{
+ "title": "Understanding Power in International Relations",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does having the biggest military guarantee that a country always wins?",
+   "narration": "Imagine spending billions on weapons, only to watch your global influence shrink! Why do superpowers fail when they rely only on force? Let's decode power in international politics."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A class monitor who only threatens punishments loses friends, while respect wins cooperation.",
+   "narration": "Think of this school analogy. If a class monitor only threatens punishments, classmates rebel. But when the monitor inspires others, everyone cooperates willingly without any fighting!"
+  },
+  {
+   "type": "pyramid",
+   "heading": "Power Classification of Nations",
+   "levels": [
+    "Superpower like USA",
+    "Great Powers like India",
+    "Middle Powers like Israel",
+    "Small Powers like Nepal"
+   ],
+   "narration": "In world politics, nations rank by their strength. Superpowers project military force globally, while great powers protect themselves alone. Middle powers need coalitions, and small powers rely on others."
+  },
+  {
+   "type": "compare",
+   "heading": "Hard Power vs Soft Power",
+   "columns": [
+    {
+     "title": "Hard Power",
+     "items": [
+      "Materialistic and resource based",
+      "Compelling and state controlled",
+      "Immediate results"
+     ]
+    },
+    {
+     "title": "Soft Power",
+     "items": [
+      "Idealistic and voluntary attraction",
+      "Diffused throughout society",
+      "Long term results"
+     ]
+    }
+   ],
+   "narration": "Hard power uses state military and economic force to compel others immediately. In contrast, soft power is idealistic and diffused through society, winning long-term goodwill voluntarily."
+  },
+  {
+   "type": "thinker",
+   "name": "Joseph Nye",
+   "idea": "Smart power combines military strength with partnerships and institutions.",
+   "work": "",
+   "narration": "Scholar Joseph Nye warned that relying solely on hard power damaged American hegemony. He proposed smart power: pairing military capability with diplomatic alliances, institutions, and partnerships."
+  },
+  {
+   "type": "balance",
+   "heading": "Speed Versus Heft",
+   "left": "Fast agile speed",
+   "right": "Patient considered options",
+   "tilt": "even",
+   "narration": "Here's a new debate: John Chipman argues fast power and agility matter more today than sheer size. Yet critics counter that patient, well-considered choices beat hasty decisions."
+  },
+  {
+   "type": "flow",
+   "heading": "Trap of Unipolar Overstretch",
+   "steps": [
+    "Superpower acts as global policeman",
+    "Imperial overstretch drains resources",
+    "Free riders challenge hegemony",
+    "Megalomania destroys global order"
+   ],
+   "narration": "Can one superpower keep global peace? Realists Kenneth Waltz and Mearsheimer say no: policing the world causes imperial overstretch, encourages rival free riders, and sparks dangerous megalomania."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Elements become determinants only through skill.",
+    "Smart power balances military strength with partnerships.",
+    "Unipolar overstretch creates instability and conflict."
+   ],
+   "narration": "Here's the trick to remember: resources become power only through skillful use, smart power beats pure force, and overstretched superpowers always invite instability."
+  }
+ ]
+}

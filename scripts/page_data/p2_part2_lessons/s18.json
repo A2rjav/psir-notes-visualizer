@@ -1,0 +1,91 @@
+{
+ "title": "Understanding the Cold War and Soviet Collapse",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did two superpowers fight without ever fighting each other directly?",
+   "narration": "Imagine a world war where enemies never fire a single bullet at each other! The Cold War was an intense global rivalry between America and the Soviet Union, prevented from turning hot by nuclear deterrence."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Two rival school captains battle through student clubs and rumours, but never throw actual punches.",
+   "narration": "Here is an everyday analogy to make this click. Picture two rival student captains fighting over school elections; they spread rumours and back rival clubs, but never fight openly because the principal would expel them."
+  },
+  {
+   "type": "thinker",
+   "name": "George Kennan",
+   "idea": "America must use vigilant and patient containment against Soviet hostility.",
+   "work": "Long Telegram",
+   "narration": "Here's the trick to understanding America's grand strategy. Diplomat George Kennan sent the Long Telegram warning of Soviet hostility, urging the United States to patiently contain communism rather than launch an offensive war."
+  },
+  {
+   "type": "timeline",
+   "heading": "Major Phases of the Cold War",
+   "events": [
+    {
+     "when": "1947",
+     "what": "Truman Doctrine establishes policy of containment"
+    },
+    {
+     "when": "1949",
+     "what": "Soviet nuclear test creates strategic bipolarity"
+    },
+    {
+     "when": "1969-1979",
+     "what": "Detente eases tensions through arms treaties"
+    },
+    {
+     "when": "1979",
+     "what": "Soviet invasion of Afghanistan ends Detente"
+    },
+    {
+     "when": "1989",
+     "what": "Fall of Berlin Wall ends Cold War"
+    }
+   ],
+   "narration": "Watch how the conflict moved across distinct phases. Early confrontations and nuclear arms racing gave way to Detente, relaxing tensions through treaties, until the 1979 Soviet invasion of Afghanistan reignited the crisis."
+  },
+  {
+   "type": "compare",
+   "heading": "Brezhnev Doctrine Versus Sinatra Doctrine",
+   "columns": [
+    {
+     "title": "Brezhnev Doctrine",
+     "items": [
+      "Enforced strict Soviet control over allies",
+      "Used force to maintain communist regimes"
+     ]
+    },
+    {
+     "title": "Sinatra Doctrine",
+     "items": [
+      "Allowed Eastern Europe to go My Way",
+      "Relaxed Soviet military control over neighbours"
+     ]
+    }
+   ],
+   "narration": "By the nineteen-eighties, Soviet leader Mikhail Gorbachev abandoned the rigid Brezhnev Doctrine of military control. He introduced the Sinatra Doctrine, named after the song My Way, allowing Eastern European allies to choose their own destinies."
+  },
+  {
+   "type": "points",
+   "heading": "Why Soviet Communism Collapsed",
+   "items": [
+    "Totalitarian regimes enforced on people without democratic choice",
+    "Severe economic shortages of basic everyday commodities",
+    "Gorbachev introduced Perestroika restructuring and Glasnost openness",
+    "Accelerators included Chernobyl disaster and depressed oil prices"
+   ],
+   "narration": "Why did Soviet communism suddenly crumble? Economic exhaustion, shortages of basic goods, and Chernobyl fueled public anger, so when Gorbachev opened up politics through Glasnost and Perestroika, the empire disintegrated."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Nuclear deterrence prevented direct hot war between superpowers",
+    "Containment strategy and rival military pacts divided Europe",
+    "Economic distress and reform policies collapsed the USSR"
+   ],
+   "narration": "To recap: nuclear deterrence stopped a direct war, containment created global alliances, and severe economic crises combined with reforms led to Soviet collapse. You have mastered the Cold War!"
+  }
+ ]
+}

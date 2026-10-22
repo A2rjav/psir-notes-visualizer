@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Karl Popper characterize Plato as an enemy of the open society?",
+   "options": [
+    "Plato advocated piecemeal social engineering that gradually weakened the supreme authority of the central state.",
+    "Plato rejected democracy, championed holistic social engineering, and asserted absolute finality for his philosophical ideas.",
+    "Plato promoted an imperialist foreign policy driven by aggressive territorial expansion and commercial exploitation of neighbors.",
+    "Plato granted unrestricted individual freedom of expression, resulting in permanent moral anarchy and political factionalism."
+   ],
+   "answer": 1,
+   "why": "Popper condemned Plato for rejecting democracy, advocating wholesale holistic change rather than piecemeal engineering, and asserting essentialist finality.",
+   "page": 35
+  },
+  {
+   "q": "On what primary ground does Ronald Levinson defend Plato against Karl Popper's charge of fascism?",
+   "options": [
+    "Plato strictly protected individual civil liberties and subordinated the philosopher king to regular popular elections.",
+    "Plato rejected philosophical idealism and restricted state authority exclusively to the regulation of economic trade.",
+    "Plato's Republic was an unrealized utopia aiming for virtue, whereas fascism was an exploitative historical reality.",
+    "Plato decentralized administrative authority and granted complete autonomy to regional family associations and private guilds."
+   ],
+   "answer": 2,
+   "why": "Levinson argued that comparing Plato's virtuous ideal state to exploitative modern fascism is comparing uncomparables across historical reality and utopia.",
+   "page": 36
+  },
+  {
+   "q": "Why do critics argue that Plato should not be classified as a genuine feminist thinker?",
+   "options": [
+    "He completely banned women from receiving formal education or participating in the political governance of Athens.",
+    "He insisted that women possess inherent intellectual deficiencies that prevent them from understanding the good life.",
+    "He restricted state-supported communal nurseries exclusively to artisan families while forcing guardian women into domestic isolation.",
+    "He granted equal opportunities merely to utilize female talent for state power, not for women's liberation."
+   ],
+   "answer": 3,
+   "why": "Critics maintain that Plato included women not out of concern for their rights or upliftment, but for the state's collective utility.",
+   "page": 38
+  },
+  {
+   "q": "Why do Western liberal scholars like Karl Popper and Isaiah Berlin characterize Plato as totalitarian?",
+   "options": [
+    "Because the state exercises absolute regimented control over citizens' lives, professions, and families, denying individual freedom.",
+    "Because Plato establishes an aggressive capitalist economy that systematically exploits working classes for commercial profit.",
+    "Because Plato advocates majoritarian democratic rule where uneducated citizens randomly decide vital public policies and appointments.",
+    "Because Plato relies on violent imperial conquest to expand national borders and enslave defeated foreign populations."
+   ],
+   "answer": 0,
+   "why": "Scholars call Plato totalitarian because his Republic grants total authority to the state over careers and marriage, eliminating individual choice.",
+   "page": 37
+  }
+ ]
+}

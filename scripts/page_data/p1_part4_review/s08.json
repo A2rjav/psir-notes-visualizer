@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why do scholars characterize fascism as an unsystematic hodge-podge rather than a coherent political ideology?",
+   "options": [
+    "Fascist leaders took power first and subsequently hired scholars to retrospectively rationalize their actions.",
+    "Fascist thinkers relied strictly on classical Marxist economic doctrines to plan their central state machinery.",
+    "Fascism emerged as an academic philosophical movement that failed to gain practical support among citizens.",
+    "Fascist regimes rejected all classical Western philosophers and developed entirely novel metaphysical theories from scratch."
+   ],
+   "answer": 0,
+   "why": "Fascist ideology was constructed retrospectively after seizing power, with scholars hired to assemble borrowed ideas justifying state actions.",
+   "page": 53
+  },
+  {
+   "q": "How does fascist political thought define the relationship between individual liberty and the state?",
+   "options": [
+    "True liberty requires individuals to exercise universal human rights independently against state interference.",
+    "True liberty is realized solely through duty and complete submission under the authority of the state.",
+    "True liberty emerges when private market forces operate freely without corporate regulation by the state.",
+    "True liberty consists of direct democratic participation through regular parliamentary debates and public deliberation."
+   ],
+   "answer": 1,
+   "why": "Fascism rejects individual rights against the state, maintaining that genuine liberty exists only through duty and obedience under state authority.",
+   "page": 55
+  },
+  {
+   "q": "Why did Harold Laski and socialist scholars describe fascism as a counter-revolution?",
+   "options": [
+    "It represented a popular revolution by trade unions to establish an egalitarian working-class state.",
+    "It abolished all private capital to replace bourgeois monopolies with worker-managed industrial syndicates.",
+    "It was sponsored by ruling elites to protect capitalism in crisis from growing socialist worker movements.",
+    "It transformed liberal constitutional democracies into egalitarian direct democracies driven by working-class solidarity."
+   ],
+   "answer": 2,
+   "why": "Harold Laski argued that threatened capitalist elites backed fascist regimes to crush organized socialist labor and preserve capitalist power during crises.",
+   "page": 57
+  },
+  {
+   "q": "According to Erich Fromm, which psychological tendency in human nature makes populations susceptible to fascism?",
+   "options": [
+    "An innate drive for individual self-actualization through unconstrained democratic freedoms and civil liberties.",
+    "A rational desire to establish institutional checks and balances against centralized political authority.",
+    "A collective impulse to eliminate class hierarchies through peaceful deliberative consensus among citizens.",
+    "A subconscious fear of freedom and isolation that drives individuals to seek charismatic authority."
+   ],
+   "answer": 3,
+   "why": "Erich Fromm argued that the psychological burden and isolation of freedom lead individuals to seek security in charismatic, authoritarian leaders.",
+   "page": 58
+  }
+ ]
+}

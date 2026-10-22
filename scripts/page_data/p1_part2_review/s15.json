@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to scholars like Amit Thorat, how does reservation fundamentally differ from welfare schemes like MGNREGA?",
+   "options": [
+    "It targets historical caste prejudice and representation rather than providing general economic assistance.",
+    "It offers universal financial assistance to low-income families regardless of their social caste background.",
+    "It functions primarily as an employment guarantee program for rural workers across all communities.",
+    "It replaces public sector welfare expenditure with corporate social responsibility mandates for businesses."
+   ],
+   "answer": 0,
+   "why": "Reservation aims to remedy historical exclusion and ensure administrative representation, whereas schemes like MGNREGA address universal economic poverty.",
+   "page": 124
+  },
+  {
+   "q": "How did the Supreme Court's perspective on backwardness in the Ram Singh case differ from Indra Sawhney?",
+   "options": [
+    "It reaffirmed that caste is the sole and absolute determinant of social and economic backwardness.",
+    "It advocated looking beyond traditional caste identities and historical injustice toward newer paradigms of disadvantage.",
+    "It eliminated all reservations for Other Backward Classes in both higher education and public employment.",
+    "It mandated that backwardness must be evaluated exclusively through household income and private sector employment."
+   ],
+   "answer": 1,
+   "why": "In Ram Singh, the Supreme Court stressed moving beyond caste and past historical injustice to identify emerging social disadvantages.",
+   "page": 126
+  },
+  {
+   "q": "Under the M. Nagaraj ruling, what condition must the state satisfy before granting quotas in promotions?",
+   "options": [
+    "The state must enforce the catch-up rule to ensure general category candidates regain seniority.",
+    "The state must completely exempt technical and superspeciality positions from any affirmative action requirements.",
+    "The state must obtain approval from the National Knowledge Commission before creating promotional quotas.",
+    "The state must provide quantifiable data showing underrepresentation while upholding administrative efficiency under Article 335."
+   ],
+   "answer": 3,
+   "why": "The Nagaraj judgment permitted reservation in promotions with consequential seniority only if backed by quantifiable data on underrepresentation and efficiency.",
+   "page": 127
+  },
+  {
+   "q": "What alternative mechanism is recommended by policy experts instead of enforcing mandatory quotas in private businesses?",
+   "options": [
+    "Extending constitutional promotion quotas directly to private corporate management and foreign direct investment.",
+    "Establishing an Equal Opportunity Commission and adopting a diversity index to promote voluntary inclusion.",
+    "Restricting private sector recruitment exclusively to candidates who meet public sector employment qualifications.",
+    "Replacing all affirmative action policies with tax holidays to incentivize hiring from backward communities."
+   ],
+   "answer": 1,
+   "why": "Experts like the Madhav Menon committee suggest an Equal Opportunity Commission and a diversity index rather than rigid quotas.",
+   "page": 129
+  }
+ ]
+}

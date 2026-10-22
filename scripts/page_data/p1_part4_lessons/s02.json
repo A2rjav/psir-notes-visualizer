@@ -1,0 +1,78 @@
+{
+ "title": "Political Ideologies: The Core of Idealism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does the state exist for you, or do you exist for the state?",
+   "narration": "Have you ever wondered whether you exist to serve your country, or if your country exists to serve you? Political idealists give a surprising answer that flips modern thinking on its head."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "An individual cricketer has no meaning without the team.",
+   "narration": "Think of this analogy from cricket. A batsman cannot play alone on an empty ground; his true purpose exists only within the team. Idealists believe human beings belong to society in that exact same organic way."
+  },
+  {
+   "type": "points",
+   "heading": "Man, Society, and the State",
+   "items": [
+    "Man is naturally a social and moral entity",
+    "Society and state are natural and organic",
+    "Society and state exist prior to man",
+    "Exponents include Plato, Aristotle, and Hegel"
+   ],
+   "narration": "Thinkers like Plato, Aristotle, and Hegel teach us that humans are naturally social and moral creatures. Because we cannot grow in isolation, society and the state are natural living wholes that exist before any individual."
+  },
+  {
+   "type": "balance",
+   "heading": "Rights Versus Duties",
+   "left": "Individual Rights",
+   "right": "Moral Duties",
+   "tilt": "right",
+   "narration": "Here is the big twist! While modern laws focus on your personal rights, idealists place duties at the very top. They argue that your highest moral freedom comes from serving the community."
+  },
+  {
+   "type": "compare",
+   "heading": "Two Schools of Idealism",
+   "columns": [
+    {
+     "title": "Hegelian School",
+     "items": [
+      "German tradition",
+      "Primacy to the state",
+      "Can justify collectivism"
+     ]
+    },
+    {
+     "title": "Kantian School",
+     "items": [
+      "German tradition",
+      "Primacy to society",
+      "Focus on human duty"
+     ]
+    }
+   ],
+   "narration": "Notice how idealism splits into two traditions. Hegel gave primacy to the state, which can justify total state control, while Kant placed society first to protect moral life."
+  },
+  {
+   "type": "points",
+   "heading": "Idealism as Rationalism",
+   "items": [
+    "Ideas are the true reality",
+    "Ideas are understood through reason",
+    "Justified state absolutism using logic",
+    "Divine rights justified it using religion"
+   ],
+   "narration": "Why are idealists called rationalists? They believe ideas are the true reality, understood through human reason. Surprisingly, while medieval kings used religion to justify absolute power, idealists used reason and logic to defend it."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "State and society are natural and prior to man",
+    "Moral duties are prioritized over individual rights",
+    "Ideas are real and understood through reason"
+   ],
+   "narration": "Here are the three takeaways to remember. First, society and the state are natural and come before the individual; second, moral duties outweigh personal rights; and third, reason reveals that ideas shape our world."
+  }
+ ]
+}

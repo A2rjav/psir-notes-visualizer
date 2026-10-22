@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "What was Sir Syed Ahmed Khan's primary motivation for advocating modern scientific education for Muslims?",
+   "options": [
+    "To assimilate Muslim cultural identity completely into British administrative and social institutions.",
+    "To help Muslims overcome decline and frustration through education after the fall of Mughal power.",
+    "To replace Islamic theological doctrines entirely with Western secular rationalist philosophies.",
+    "To prepare the Muslim community for an armed technological revolt against British imperial authorities."
+   ],
+   "answer": 1,
+   "why": "Following the collapse of Mughal authority, he realized the British were firmly established and education was the only way Muslims could advance.",
+   "page": 28
+  },
+  {
+   "q": "What event caused Sir Syed Ahmed Khan to transition from championing Hindu-Muslim unity to advocating separate identities?",
+   "options": [
+    "The controversy in Awadh over replacing Urdu in Persian script with Hindi in Devanagari.",
+    "The severe orthodox religious backlash against his scientific society and educational journal.",
+    "The refusal of British administrators to grant funds for the Mohammedan Anglo-Oriental College.",
+    "The failure of the Indian National Congress to oppose British administrative policies after 1857."
+   ],
+   "answer": 0,
+   "why": "The Awadh language dispute convinced him that Hindu and Muslim interests were irreconcilable, laying the groundwork for the two-nation theory.",
+   "page": 29
+  },
+  {
+   "q": "In his work 'Asbab-e-Baghawat-e-Hind', how did Sir Syed Ahmed Khan explain the Revolt of 1857?",
+   "options": [
+    "He argued that religious orthodox leaders conspired to violently overthrow British colonial governance.",
+    "He claimed that rising Hindu-Muslim linguistic rivalries inevitably provoked widespread civilian uprisings.",
+    "He attributed the rebellion to flawed British administration rather than a premeditated Muslim conspiracy.",
+    "He described it as an avoidable mutiny triggered solely by traditional opposition to modern education."
+   ],
+   "answer": 2,
+   "why": "He aimed to alleviate British distrust toward Muslims by demonstrating that flawed British administrative policies caused the 1857 uprising.",
+   "page": 29
+  },
+  {
+   "q": "Why do the notes consider Sir Syed Ahmed Khan's leadership relevant to the Muslim community today?",
+   "options": [
+    "His political strategy provides a proven model for isolating minority communities from national democratic bodies.",
+    "His theological writings encourage total reliance on traditional religious customs rather than secular learning.",
+    "His alliance with British authorities demonstrates how to secure exclusive political privileges for minorities.",
+    "His vision of educational empowerment offers solutions for a community facing modern exclusion and frustration."
+   ],
+   "answer": 3,
+   "why": "The notes highlight that contemporary Muslims experience exclusion and frustration similar to his era, making his educational vision indispensable.",
+   "page": 30
+  }
+ ]
+}

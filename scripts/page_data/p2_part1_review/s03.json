@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "What core paradox does Kanwal Sibal identify as the primary cause of complacency in India-Russia relations?",
+   "options": [
+    "Bilateral ties lacked open disputes, leading both nations to take their friendship for granted.",
+    "High volume of commercial trade overshadowed the need to maintain strong military ties.",
+    "Continuous ideological alignment prevented either country from pursuing independent foreign policies.",
+    "Rapid expansion of people-to-people diplomacy eliminated the necessity of formal summits."
+   ],
+   "answer": 0,
+   "why": "Kanwal Sibal noted that because bilateral ties remained non-confrontational without serious problems, both countries became complacent about sustaining their relationship.",
+   "page": 29
+  },
+  {
+   "q": "How did the 1993 bilateral friendship treaty renegotiated under Boris Yeltsin differ fundamentally from the 1971 treaty?",
+   "options": [
+    "It replaced local currency barter trade mechanisms with mandatory dollar transactions.",
+    "It omitted the mutual security assurance clause that had characterized the 1971 agreement.",
+    "It prohibited both countries from conducting joint military exercises with regional neighbors.",
+    "It established a formal military alliance requiring mutual troop deployments during conflicts."
+   ],
+   "answer": 1,
+   "why": "When Boris Yeltsin renegotiated the friendship treaty in 1993, the new treaty excluded the Article 9 mutual security assurance clause.",
+   "page": 34
+  },
+  {
+   "q": "Why is direct overland energy trade between India and Russia considered structurally difficult?",
+   "options": [
+    "Maritime sanctions strictly prohibit Indian tankers from docking at Russian Arctic ports.",
+    "Russia refuses to sign bilateral energy exploration agreements with Asian developing countries.",
+    "India relies exclusively on domestic coal production and rejects foreign imported hydrocarbons.",
+    "Transit routes must cross China or Pakistan due to difficult geography and connectivity gaps."
+   ],
+   "answer": 3,
+   "why": "Geography prevents direct pipeline connections, meaning overland energy transit between India and Russia must pass through China or Pakistan.",
+   "page": 29
+  },
+  {
+   "q": "According to the notes, what is the primary driver behind Russia's growing geopolitical tilt toward China?",
+   "options": [
+    "A shared ideological commitment to reviving Cold War era communist military pacts.",
+    "Complete resolution of historical territorial disputes along their shared Siberian borders.",
+    "Western policies isolating Russia that pushed Moscow into closer tactical interdependence with Beijing.",
+    "India's formal withdrawal from the Shanghai Cooperation Organisation and BRICS summits."
+   ],
+   "answer": 2,
+   "why": "The notes state that Western efforts to isolate Russia, rather than Indo-US closeness, pushed Russia toward China as a tactical partner.",
+   "page": 39
+  }
+ ]
+}

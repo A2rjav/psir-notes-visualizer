@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Hegemonic Stability Theory, why does a liberal economic order require a hegemon?",
+   "options": [
+    "An open trade order cannot emerge or survive automatically without a dominant power managing it.",
+    "States naturally cooperate to eliminate protectionist trade barriers without requiring any external enforcement.",
+    "Free-riding allies spontaneously provide global public goods once international trade disputes are resolved.",
+    "Military alliances alone suffice to prevent economic protectionism without needing centralized economic leadership."
+   ],
+   "answer": 0,
+   "why": "Kindleberger and Gilpin argue that a liberal economic order does not emerge on its own and must be created and managed by a hegemon.",
+   "page": 86
+  },
+  {
+   "q": "How does Fareed Zakaria explain the emergence of what he terms the 'post-American world'?",
+   "options": [
+    "It is driven by excessive American reliance on hard power during the Bush administration.",
+    "It results from a complete diffusion of power creating an unstable world without polarity.",
+    "It stems from a deliberate policy choice that future administrations can easily reverse.",
+    "It has occurred due to the rise of other nations rather than American domestic overstretch."
+   ],
+   "answer": 3,
+   "why": "Zakaria argues that the post-American world has emerged not because America overstretched itself, but because of the rise of other nations.",
+   "page": 89
+  },
+  {
+   "q": "What strategy does Henry Kissinger recommend for managing the rise of China?",
+   "options": [
+    "Strict containment aimed at preserving the existing power gap between both nations.",
+    "Respectful diplomatic engagement that addresses China's genuine grievances as an opportunity.",
+    "Imposing aggressive unilateral tariffs to eliminate the bilateral trade deficit immediately.",
+    "Terminating economic interdependence to prevent falling into a Thucydides trap."
+   ],
+   "answer": 1,
+   "why": "Kissinger argues that the United States should treat China respectfully, address its genuine grievances, and pursue engagement rather than containment.",
+   "page": 91
+  },
+  {
+   "q": "Which structural factor do scholars highlight to argue that China poses no immediate threat to US hegemony?",
+   "options": [
+    "China possesses a completely self-contained economy that rejects international multilateral financial institutions.",
+    "China has successfully closed the soft power and technological gap with the United States.",
+    "China will grow old before becoming big while the United States maintains a demographic dividend.",
+    "China enjoys a tranquil and secure regional periphery free from any territorial border disputes."
+   ],
+   "answer": 2,
+   "why": "Scholars argue that China will age before it becomes big, while the United States benefits from a demographic dividend, superior technology, and greater soft power.",
+   "page": 96
+  }
+ ]
+}

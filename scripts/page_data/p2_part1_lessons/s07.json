@@ -1,0 +1,109 @@
+{
+ "title": "India-EU Relations: Strategic and Economic Engagements",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why is the India-EU partnership called a loveless arranged marriage?",
+   "narration": "Have you ever wondered why India and the European Union struggle to build a deep bond? Even though they became strategic partners in 2004, experts describe their relationship as a loveless arranged marriage."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "Like two project partners who share notes but have different social circles.",
+   "narration": "Here is an everyday analogy to understand this. Imagine two classmates assigned to work on a school project. You happily exchange textbooks for tests, but outside class, your social circles and interests never align."
+  },
+  {
+   "type": "timeline",
+   "heading": "Milestones in India-EU Relations",
+   "events": [
+    {
+     "when": "1950s",
+     "what": "Diplomatic relations established"
+    },
+    {
+     "when": "1993",
+     "what": "Joint political statement signed"
+    },
+    {
+     "when": "2004",
+     "what": "Strategic partnership launched"
+    },
+    {
+     "when": "2007",
+     "what": "Free trade negotiations begin"
+    },
+    {
+     "when": "2016",
+     "what": "Agenda 2020 adopted for FTA"
+    }
+   ],
+   "narration": "Look at how their journey unfolded. Formal ties began in the 1950s, leading to a partnership in 2004. In 2007, both sides launched Free Trade Agreement talks to eliminate tariffs and encourage investment."
+  },
+  {
+   "type": "compare",
+   "heading": "Diverging Geostrategic Priorities",
+   "columns": [
+    {
+     "title": "European Union",
+     "items": [
+      "Russia is top geostrategic challenge",
+      "Opposed Russia's annexation of Crimea",
+      "Maintains friendly ties with China"
+     ]
+    },
+    {
+     "title": "India",
+     "items": [
+      "Pakistan and China are primary threats",
+      "Diverges on Crimea and Kashmir positions",
+      "Clashes over WTO agricultural subsidies"
+     ]
+    }
+   ],
+   "narration": "Here's the trick to understanding their foreign policy gap. The European Union views Russia as its primary security challenge, especially after Crimea was annexed. In contrast, India focuses on Pakistan and China, where European nations maintain cordial ties."
+  },
+  {
+   "type": "compare",
+   "heading": "Free Trade Agreement Sticking Points",
+   "columns": [
+    {
+     "title": "EU Demands",
+     "items": [
+      "Tariff cuts on dairy and automobiles",
+      "Lower duties on wine and spirits",
+      "Stricter intellectual property rights in pharma"
+     ]
+    },
+    {
+     "title": "India's Concerns",
+     "items": [
+      "Protects 3.5 million dairy producers",
+      "Demands data secure country status",
+      "Wants liberalised movement for skilled professionals"
+     ]
+    }
+   ],
+   "narration": "Notice why trade negotiations remain deadlocked. The EU wants lower tariffs on cars, wine, and dairy, but India protects three million dairy producers. Meanwhile, India demands data secure status for IT and easier movement for professionals."
+  },
+  {
+   "type": "points",
+   "heading": "Why the EU Relationship Stalls",
+   "items": [
+    "India prioritises bilateral ties with Germany and Britain",
+    "Bilateral success creates complacency on both sides",
+    "Lack of ownership in overall EU relations",
+    "EU distracted by domestic financial and Syrian crises"
+   ],
+   "narration": "Here is the structural problem. India maintains strong bilateral ties directly with Germany and Britain. Because these individual relationships prosper, both sides become complacent, leading to an absence of ownership in the broader EU partnership."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Strategic partnership lacks alignment on core security issues",
+    "Trade talks stall over agriculture, autos, and IT",
+    "Strong bilateral ties cause complacency and lack of ownership"
+   ],
+   "narration": "Remember these three big takeaways! First, strategic goals diverge sharply over Russia and China. Second, trade negotiations stall over agriculture, automobiles, and services. Finally, successful bilateral partnerships cause complacency, leaving the wider EU framework neglected."
+  }
+ ]
+}

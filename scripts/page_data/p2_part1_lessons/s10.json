@@ -1,0 +1,93 @@
+{
+ "title": "India's Ties with Africa and Latin America",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can India build equal partnerships across Africa and Latin America?",
+   "narration": "Imagine two massive continents, Africa and Latin America, holding the world's fastest-growing markets and vital resources. How can India compete with global giants like China to build true partnerships there?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "Choosing a supportive mentor who builds your skills over a bossy lender.",
+   "narration": "Think of this as an analogy: imagine two classmates helping you study. One builds your confidence and teaches you skills, while the other lends you money but demands complete control over your choices."
+  },
+  {
+   "type": "timeline",
+   "heading": "Milestones in India Africa Solidarity",
+   "events": [
+    {
+     "when": "Till 1960s",
+     "what": "Support for African anti-colonial freedom movements"
+    },
+    {
+     "when": "1970s to 1990s",
+     "what": "Period of neglect following border war disputes"
+    },
+    {
+     "when": "2008",
+     "what": "First India Africa Forum Summit launched"
+    },
+    {
+     "when": "2015",
+     "what": "All 54 African countries attend Delhi summit"
+    }
+   ],
+   "narration": "India backed African freedom struggles for decades, but ties cooled after the 1962 war. Today, cooperation is back on track, bringing all fifty-four African nations together at the Delhi summit."
+  },
+  {
+   "type": "compare",
+   "heading": "India Versus China in Africa",
+   "columns": [
+    {
+     "title": "India",
+     "items": [
+      "$72 billion bilateral trade",
+      "Strengths in IT and pharmaceuticals",
+      "Focus on local capacity building"
+     ]
+    },
+    {
+     "title": "China",
+     "items": [
+      "$200 billion bilateral trade",
+      "Launched cooperation forum in 2000",
+      "Extractive projects and heavy loans"
+     ]
+    }
+   ],
+   "narration": "China leads in trade volume, but India offers something different. Instead of resource extraction, India focuses on capacity building, which means training local workers and providing affordable medicines and technology."
+  },
+  {
+   "type": "points",
+   "heading": "Engaging Latin America",
+   "items": [
+    "Huge market of 600 million people",
+    "Bilateral trade reached $100 billion in 2017",
+    "Trade pacts with Chile and Mercosur bloc",
+    "Observer status in the Pacific Alliance"
+   ],
+   "narration": "Latin America is often called the last frontier of Indian foreign policy. Driven by private companies in pharmaceuticals and energy, trade crossed one hundred billion dollars as regional trade pacts opened doors."
+  },
+  {
+   "type": "points",
+   "heading": "Soft Power and Key Challenges",
+   "items": [
+    "Bollywood films create cultural goodwill across continents",
+    "Lack of direct flights hinders connectivity",
+    "Need to stop private firm land grabbing",
+    "Urgent need to redress racial violence"
+   ],
+   "narration": "Cultural ties are growing, with Bollywood films winning fans across Latin America. Still, big hurdles remain, especially the lack of direct flights, corporate land grabbing, and incidents of racial discrimination in India."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Africa offers vital energy, food, and maritime security",
+    "India focuses on capacity building, unlike China's extraction",
+    "Latin America needs better connectivity and stronger diplomacy"
+   ],
+   "narration": "Here's the trick to remember it all: Africa provides vital resources, India partners through skills and healthcare, while Latin America offers massive market potential once connectivity improves."
+  }
+ ]
+}

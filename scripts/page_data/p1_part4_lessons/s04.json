@@ -1,0 +1,85 @@
+{
+ "title": "Neoliberalism, Social Liberalism, and Toleration",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can free markets solve everything, or do we need state care and toleration?",
+   "narration": "Imagine a world where markets decide everything from your school fees to healthcare. Could that really bring freedom, or does society break down without shared care?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school that cancels fee waivers and leaves every service to private market stalls.",
+   "narration": "As an everyday analogy, imagine your school cancels all subsidized canteens and lets private vendors charge whatever they want. Wealthy students feast, while others cannot afford lunch!"
+  },
+  {
+   "type": "timeline",
+   "heading": "The Rise of Global Neoliberalism",
+   "events": [
+    {
+     "when": "1970s",
+     "what": "Thatcherism rolls back Britain's welfare state"
+    },
+    {
+     "when": "1980s",
+     "what": "Reaganomics expands free market capitalism in USA"
+    },
+    {
+     "when": "1990s",
+     "what": "Washington Consensus spreads globally with the WTO"
+    }
+   ],
+   "narration": "When western welfare states ran fiscal deficits in the 1970s, leaders rolled them back. From Thatcher in Britain to Reagan in America, free-market policies soon spread across the globe."
+  },
+  {
+   "type": "thinker",
+   "name": "Friedrich Hayek",
+   "idea": "Market allocation resembles a central nervous system, making social justice a mirage.",
+   "work": "Constitution of Liberty",
+   "narration": "Thinkers like Hayek, Nozick, and Milton Friedman argued that freedom requires free markets. Hayek compared markets to a central nervous system, while Nozick defended a minimal night-watchman state."
+  },
+  {
+   "type": "compare",
+   "heading": "Neoliberalism versus Social Liberalism",
+   "columns": [
+    {
+     "title": "Neoliberalism",
+     "items": [
+      "Market fundamentalism across society",
+      "Minimal night-watchman state",
+      "Taxation viewed as bonded labour"
+     ]
+    },
+    {
+     "title": "Social Liberalism",
+     "items": [
+      "State, market, and civil society partnership",
+      "Invests in human capacity building",
+      "Focus on inclusive growth"
+     ]
+    }
+   ],
+   "narration": "Here's the twist: neoliberalism treats markets like god, but social liberals like Amartya Sen and Joseph Stiglitz pushed back. They urged state-backed capacity building and inclusive growth."
+  },
+  {
+   "type": "points",
+   "heading": "The Liberal Principle of Toleration",
+   "items": [
+    "Derived from Latin tolerare meaning to endure",
+    "Deliberate self-restraint toward disapproved practices",
+    "Substantive heart of individual liberty",
+    "Evolved from state neutrality to multiculturalism"
+   ],
+   "narration": "Liberalism also demands toleration, from the Latin tolerare, meaning to endure. It is the deliberate self-restraint to accept practices you dislike, protecting personal freedom in diverse societies."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Neoliberalism revived minimal state and market supremacy",
+    "Social liberalism champions capacity building and welfare",
+    "Toleration endures diversity through self-restraint and rights"
+   ],
+   "narration": "To recap: neoliberalism shrank the state for market freedom, social liberalism restored capacity building for equality, and toleration remains the substantive heart protecting our shared freedom."
+  }
+ ]
+}

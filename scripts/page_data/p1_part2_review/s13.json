@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Under the natural rights philosophy recognized in the Constitution, how does the state relate to fundamental rights?",
+   "options": [
+    "The state grants rights to individuals while retaining sovereign authority to withdraw them at will.",
+    "The state merely confirms pre-existing natural rights rather than conferring them upon the individual.",
+    "The state invents rights through ordinary legislation solely to enlarge the sphere of state sovereignty.",
+    "The state denies natural rights until judicial review creates them through liberal interpretation."
+   ],
+   "answer": 1,
+   "why": "Fundamental rights are rooted in natural rights philosophy, meaning the state confirms rather than confers them, thereby limiting arbitrary state sovereignty.",
+   "page": 105
+  },
+  {
+   "q": "What was the constitutional significance of inserting Article 31C via the Twenty-fifth Amendment in 1971?",
+   "options": [
+    "It protected laws implementing Articles 39(b) and 39(c) from judicial challenge under Articles 14 and 19.",
+    "It placed all Directive Principles beyond the reach of judicial review across all constitutional articles.",
+    "It empowered state legislatures to determine criminal penalties for offences created under Part III.",
+    "It repealed the Ninth Schedule and eliminated all constitutional immunities for property acquisition laws."
+   ],
+   "answer": 0,
+   "why": "Article 31C shielded laws giving effect to directive principles in Article 39(b) and 39(c) from being invalidated under Articles 14, 19, or 31.",
+   "page": 106
+  },
+  {
+   "q": "How does the judiciary apply the doctrine of severability when adjudicating unconstitutional provisions in a statute?",
+   "options": [
+    "It strikes down the entire statute immediately whenever any single subsection violates fundamental rights.",
+    "It suspends the enforcement of the entire statute until Parliament amends the offending sections.",
+    "It strikes down only the unconstitutional provisions while preserving the remaining valid portions of the law.",
+    "It overrules the invalid clauses prospectively while leaving past administrative actions completely unaffected."
+   ],
+   "answer": 2,
+   "why": "Under the doctrine of severability, the entire law is not declared invalid; only the unconstitutional portions are severed and struck down.",
+   "page": 107
+  },
+  {
+   "q": "In the context of Indian judicial review, how does procedural due process differ from substantive due process?",
+   "options": [
+    "Procedural due process applies strictly to civil suits, whereas substantive due process governs criminal prosecutions.",
+    "Procedural due process questions legislative wisdom, whereas substantive due process examines bureaucratic administrative delay.",
+    "Procedural due process allows citizens to waive fundamental rights, whereas substantive due process bars waiver.",
+    "Procedural due process questions executive action, whereas substantive due process questions the wisdom of the law."
+   ],
+   "answer": 3,
+   "why": "Procedural due process scrutinizes executive action and procedure, such as delay in deciding mercy petitions, while substantive due process assesses the fairness and wisdom of the legislation.",
+   "page": 108
+  }
+ ]
+}

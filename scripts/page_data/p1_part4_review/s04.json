@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does neoliberalism fundamentally differ from classical liberalism in its approach to market principles?",
+   "options": [
+    "It expands market principles to all spheres of life rather than restricting them to economics.",
+    "It rejects private enterprise and deregulation in favor of state-led industrial planning and development.",
+    "It limits market competition strictly to economic exchange while preserving a strong welfare state.",
+    "It advocates public sector dominance to ensure equitable redistribution and elimination of fiscal deficits."
+   ],
+   "answer": 0,
+   "why": "While classical liberals applied market principles primarily to economic transactions, neoliberals practice market fundamentalism by extending market logic to every aspect of social life.",
+   "page": 19
+  },
+  {
+   "q": "Why did Friedrich Hayek reject centralized economic planning in favor of free-market resource allocation?",
+   "options": [
+    "State planners focus exclusively on negative liberty, leaving fiscal deficits and exchange rates completely unmanaged.",
+    "Markets function like a central nervous system, processing dispersed information no central planner can comprehend.",
+    "Centralized economic planning inevitably forces wealthy citizens to contribute voluntarily to private charitable organizations.",
+    "Free markets automatically guarantee equal wealth distribution, rendering state-led social justice programs entirely unnecessary."
+   ],
+   "answer": 1,
+   "why": "Hayek argued that market allocation is optimal because the market acts like a central nervous system processing millions of decentralized messages.",
+   "page": 21
+  },
+  {
+   "q": "How does the approach of social liberalism differ from earlier twentieth-century modern positive liberalism?",
+   "options": [
+    "It rejects all forms of private enterprise in favor of worker-managed cooperatives across key industries.",
+    "It eliminates civil society participation to allow direct bureaucratic management of national economic planning.",
+    "It emphasizes a state, market, and civil society partnership investing in human capacity building.",
+    "It advocates a minimal night-watchman state restricted strictly to protecting rightfully acquired private property."
+   ],
+   "answer": 2,
+   "why": "Instead of direct state ownership, social liberalism relies on a tripartite partnership where the state facilitates growth and invests in capacity building.",
+   "page": 24
+  },
+  {
+   "q": "In liberal political theory, what constitutes the core meaning of toleration as a virtue?",
+   "options": [
+    "Maintaining complete moral indifference toward diverse cultural practices that do not cause direct economic harm.",
+    "Requiring active endorsement and celebration of every competing comprehensive doctrine within the political community.",
+    "Enforcing state neutrality by legally compelling all religious minorities to assimilate into a uniform culture.",
+    "Exercising deliberate self-restraint to endure beliefs or practices that one genuinely dislikes or strongly disapproves."
+   ],
+   "answer": 3,
+   "why": "Toleration requires conscious self-restraint to endure practices one strongly disapproves of, rather than mere indifference or enthusiastic approval.",
+   "page": 26
+  }
+ ]
+}

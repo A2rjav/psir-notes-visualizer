@@ -1,0 +1,98 @@
+{
+ "title": "Marxist and Critical Perspectives in International Relations",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is global politics really about national security, or just capitalism chasing profit?",
+   "narration": "While Realists see nations fighting for power, Marxist thinkers argue the real game is global economic exploitation. Let us see how capitalism shapes world politics."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A premier cricket league where rich owners profit while grassroots academies supply cheap players.",
+   "narration": "Think of this analogy like a premier cricket league. The big team owners take all the profit, while local academies supply cheap talent without getting much back. In Marxist theory, the global system works the exact same way."
+  },
+  {
+   "type": "points",
+   "heading": "Early Marxist Perspectives on IR",
+   "items": [
+    "Karl Marx: Capitalism is inherently expansionist worldwide",
+    "Lenin: Imperialism is highest stage of capitalism",
+    "Rosa Luxemburg: Capitalism drives militarism and imperialism"
+   ],
+   "narration": "Early Marxists saw capitalism as naturally expansionist. Lenin showed that the First World War was really a fight for colonies, while Rosa Luxemburg linked capitalism directly with militarism."
+  },
+  {
+   "type": "rings",
+   "heading": "Wallerstein's World System",
+   "rings": [
+    {
+     "label": "Core States",
+     "tone": "enemy"
+    },
+    {
+     "label": "Semi-Periphery",
+     "tone": "neutral"
+    },
+    {
+     "label": "Periphery",
+     "tone": "friend"
+    }
+   ],
+   "narration": "Immanuel Wallerstein mapped the world into three zones. Powerful core states exploit poor peripheries for cheap raw materials, while semi-peripheries like India and China act as shock absorbers for global capitalism."
+  },
+  {
+   "type": "quote",
+   "quote": "Theory is always for someone and it always has some purpose.",
+   "by": "Robert Cox",
+   "narration": "Here is Robert Cox's key insight. Dominant powers use ideas, not just armies. The United States promotes free trade as beneficial to all, masking how it actually preserves American supremacy."
+  },
+  {
+   "type": "thinker",
+   "name": "Andrew Linklater",
+   "idea": "Overcome war by making borders irrelevant and empowering grassroots communities.",
+   "work": "",
+   "narration": "Critical theorist Andrew Linklater offers hope. He argues that territorial nation-states cause wars, so we must make physical borders irrelevant and empower local citizens to build lasting peace."
+  },
+  {
+   "type": "compare",
+   "heading": "Three Marxist IR Traditions",
+   "columns": [
+    {
+     "title": "Instrumentalist",
+     "items": [
+      "Wallerstein's world system theory",
+      "Studies neo-colonialism and dependency",
+      "Core exploits poor peripheries"
+     ]
+    },
+    {
+     "title": "Gramscian",
+     "items": [
+      "Robert Cox's hegemony theory",
+      "Ideology legitimizes material dominance",
+      "Free trade serves powerful elites"
+     ]
+    },
+    {
+     "title": "Critical School",
+     "items": [
+      "Andrew Linklater's emancipation",
+      "Dissolves territorial nation borders",
+      "Empowers grassroots for global peace"
+     ]
+    }
+   ],
+   "narration": "Notice how the three traditions build on each other. Dependency theorists expose global economic exploitation, Gramscians reveal how ideas manufacture consent, and the Critical School shows the path toward true human emancipation."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Capitalism drives imperial expansion and global economic inequality.",
+    "Ideological hegemony sustains material power of dominant states.",
+    "Emancipation requires grassroots democracy beyond territorial borders."
+   ],
+   "narration": "Remember these three big ideas. Global capitalism drives inequality, dominant powers rule through ideological hegemony, and genuine peace needs grassroots empowerment across borders."
+  }
+ ]
+}

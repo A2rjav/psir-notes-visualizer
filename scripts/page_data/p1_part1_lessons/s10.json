@@ -1,0 +1,84 @@
+{
+ "title": "Political Strategies of India's Freedom Struggle",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did unarmed Indians defeat the British Empire without fighting an all-out war?",
+   "narration": "Imagine trying to move a giant boulder using only your bare hands. India's freedom fighters faced the exact same puzzle against British rule, changing their strategy step by step."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket test match, winning required patience, partnerships, and picking the right moment.",
+   "narration": "Think of this as an analogy of a five-day cricket test match. You cannot hit every single ball for six; you defend patiently, build partnerships, and attack when the bowler gets tired."
+  },
+  {
+   "type": "compare",
+   "heading": "Moderates Versus Extremists",
+   "columns": [
+    {
+     "title": "Moderates",
+     "items": [
+      "Constitutional dialogue, petitions, and assembly resolutions",
+      "Viewed British rule as just and beneficial",
+      "Favored gradual political reforms"
+     ]
+    },
+    {
+     "title": "Extremists",
+     "items": [
+      "Direct mass action and public boycotts",
+      "Asserted self-rule as an immediate birthright",
+      "Resisted exploitative colonial governance"
+     ]
+    }
+   ],
+   "narration": "Early leaders like Gokhale preferred polite petitions, believing British institutions brought justice. But Tilak and the extremists rejected slow appeals, demanding self-rule immediately as a birthright through public boycotts."
+  },
+  {
+   "type": "cycle",
+   "heading": "Gandhian Struggle Cycle",
+   "nodes": [
+    "Active Struggle",
+    "Truce Period",
+    "Constructive Work"
+   ],
+   "narration": "Here is the clever trick Gandhi understood: ordinary people cannot protest forever without getting exhausted. So, he alternated intense active struggles with peaceful truce periods dedicated to social unity and village constructive work."
+  },
+  {
+   "type": "timeline",
+   "heading": "Major Mass Movements",
+   "events": [
+    {
+     "when": "1920-1922",
+     "what": "Non-Cooperation Movement boycotting colonial institutions"
+    },
+    {
+     "when": "1930-1931",
+     "what": "Civil Disobedience Movement defying salt laws"
+    },
+    {
+     "when": "1942",
+     "what": "Quit India Movement launching militant struggle"
+    }
+   ],
+   "narration": "The struggle grew in three powerful waves. Non-Cooperation tested national boycotts in 1920, Civil Disobedience challenged unjust salt laws in 1930, and Quit India launched an uncompromising mass uprising in 1942."
+  },
+  {
+   "type": "thinker",
+   "name": "Bipin Chandra",
+   "idea": "Characterized the freedom struggle as a unique, protracted, controlled mass movement.",
+   "work": "",
+   "narration": "Historian Bipin Chandra observed that India's national movement succeeded because it was a protracted, controlled fight, carefully pacing mass pressure until colonial rule completely lost legitimacy."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Moderates built critique while extremists mobilized direct action.",
+    "Gandhi alternated mass struggle with constructive truce phases.",
+    "Successive movements escalated pressure until British departure."
+   ],
+   "narration": "To remember this journey, picture three steps: moderates built the logical critique, Gandhi paced national energy through cycles of rest and action, and mass movements steadily forced the final British exit."
+  }
+ ]
+}

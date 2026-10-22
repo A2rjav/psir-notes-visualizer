@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Machiavelli argue that it is safer for a prince to be feared than loved?",
+   "options": [
+    "People love at their own will, but fear depends entirely on the prince's initiative.",
+    "Fear generates genuine moral devotion, whereas love encourages open disobedience among subjects.",
+    "Subjects only respect rulers who use relentless terror, making soft power useless.",
+    "Love increases financial burdens on the state, while fear costs nothing to maintain."
+   ],
+   "answer": 0,
+   "why": "Machiavelli argues that men love according to their own choice, but fear is controlled by the ruler. A wise prince relies on what is in his own control rather than the fickle goodwill of subjects.",
+   "page": 70
+  },
+  {
+   "q": "What does Machiavelli's concept of 'dual morality' signify in political statecraft?",
+   "options": [
+    "A ruler must enforce religious morality domestically while abandoning all moral constraints abroad.",
+    "A prince's supreme duty is national interest, which follows different ethics than private individuals.",
+    "Citizens must obey strict Christian ethics, but the ruler remains completely exempt from laws.",
+    "Political decisions must maintain an equal balance between private conscience and public necessity."
+   ],
+   "answer": 1,
+   "why": "Machiavelli asserted that the highest moral yardstick for a ruler is the preservation of the state. Unlike private citizens who may sacrifice themselves for principles, a prince cannot endanger national security for personal ethics.",
+   "page": 73
+  },
+  {
+   "q": "According to Machiavelli, why must a ruler combine the traits of both a fox and a lion?",
+   "options": [
+    "To command diplomatic respect from foreign kings while avoiding domestic taxation on subjects.",
+    "To demonstrate personal humility before the church while asserting royal authority over nobles.",
+    "To possess the cunning to recognize hidden traps and the strength to deter wolves.",
+    "To satisfy the material greed of the bourgeoisie while suppressing peasant revolts with cruelty."
+   ],
+   "answer": 2,
+   "why": "A lion possesses defensive physical force but cannot spot hidden snares, while a fox discerns conspiracies but cannot fight wolves. An effective ruler requires both intelligence and hard power to survive.",
+   "page": 71
+  },
+  {
+   "q": "In his Discourses, under what societal condition does Machiavelli advocate a republican government over a monarchy?",
+   "options": [
+    "When severe internal corruption requires a ruthless monarch to establish social order.",
+    "When the church provides institutional stability and controls secular political affairs.",
+    "When feudal aristocrats effectively manage the economy and check royal power.",
+    "When the citizenry possesses civic virtue rather than deep social corruption."
+   ],
+   "answer": 3,
+   "why": "Machiavelli prescribed an iron-handed monarchy for corrupt societies requiring forceful discipline, but favored a republic when citizens exhibit civic virtue. He believed virtuous populations could successfully govern themselves through collective wisdom.",
+   "page": 67
+  }
+ ]
+}

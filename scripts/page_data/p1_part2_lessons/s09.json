@@ -1,0 +1,84 @@
+{
+ "title": "Environmental Movements in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do India's poorest citizens lead the biggest environmental battles?",
+   "narration": "Imagine fighting a giant company to save your forest home. In India, environmental battles are not a hobby, but a fight for survival by the poorest citizens."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Protecting the school kitchen for daily meals versus planting decorative flowers in the garden.",
+   "narration": "Think of this analogy: a rich student wants pretty flowers in the school garden, while a hungry student protects the kitchen. Indian environmentalism is about basic survival."
+  },
+  {
+   "type": "compare",
+   "heading": "North versus South Environmentalism",
+   "columns": [
+    {
+     "title": "North",
+     "items": [
+      "Led by scientists",
+      "Full stomach environmentalism",
+      "Conservation as luxury"
+     ]
+    },
+    {
+     "title": "South",
+     "items": [
+      "Led by the poor",
+      "Empty stomach environmentalism",
+      "Struggle for basic survival"
+     ]
+    }
+   ],
+   "narration": "Thinker Ramchandra Guha explains that rich Northern nations practice full-stomach environmentalism through scientists. In contrast, Southern countries like India have empty-stomach environmentalism led by poor communities defending their livelihoods."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Phases of Indian Movements",
+   "events": [
+    {
+     "when": "1970s",
+     "what": "Chipko Movement led by Himalayan women"
+    },
+    {
+     "when": "1980s",
+     "what": "Department of Environment and media attention"
+    },
+    {
+     "when": "1990s",
+     "what": "Professional NGOs and New Economic Policy"
+    }
+   ],
+   "narration": "Here is the movement's journey. It began in the 1970s with Chipko, gained government attention in the 1980s, and turned professional in the 1990s amid new economic reforms."
+  },
+  {
+   "type": "points",
+   "heading": "Three Strands in Ecology and Equity",
+   "items": [
+    "Crusading Gandhians seeking Indian traditional alternatives",
+    "Appropriate Technology seeking technical solutions",
+    "Ecological Marxists advocating radical democracy at grassroots"
+   ],
+   "narration": "In their book Ecology and Equity, Ramchandra Guha and Madhav Gadgil identify three groups: Gandhians promoting traditional values, technologists offering scientific fixes, and ecological Marxists demanding grassroots democracy."
+  },
+  {
+   "type": "thinker",
+   "name": "Sunita Narayan",
+   "idea": "Indian environmentalism is utilitarian conservatism focused on democracy and social ecology.",
+   "work": "",
+   "narration": "Thinker Sunita Narayan calls Indian environmentalism utilitarian conservatism because people protect resources for survival, not recreation. She argues that environmentalism is really about social ecology and democratic rights."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Indian environmentalism is led by the poor for survival",
+    "Three strands include Gandhians, technologists, and ecological Marxists",
+    "Environmental protection requires democratic rights and social ecology"
+   ],
+   "narration": "To recap, remember that Indian green movements fight for survival rather than luxury. They combine traditional wisdom with democracy, proving that protecting nature means protecting human rights."
+  }
+ ]
+}

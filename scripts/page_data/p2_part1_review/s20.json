@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "From a geo-strategic perspective, why is a friendly regime in Afghanistan crucial for India's defense planning?",
+   "options": [
+    "It secures direct overland pipeline routes to import energy from the Persian Gulf region",
+    "It allows India to open a second front to pressure Pakistan during a war",
+    "It enables India to deploy nuclear deterrent assets along Pakistan's western border regions",
+    "It eliminates Russian and Chinese diplomatic influence throughout the broader Central Asian region"
+   ],
+   "answer": 1,
+   "why": "A friendly Afghanistan ensures India can open a second front against Pakistan in the event of war.",
+   "page": 207
+  },
+  {
+   "q": "What does Pakistan primarily seek to achieve through its doctrine of strategic depth in Afghanistan?",
+   "options": [
+    "Controlling Afghan rulers to prevent Pashtun nationalism and counter Indian regional influence",
+    "Formally annexing Afghan territory to permanently resolve the disputed colonial Durand Line",
+    "Establishing permanent military bases in Central Asia to resist Russian geopolitical expansion",
+    "Securing exclusive transit rights to build commercial energy corridors to Gwadar port"
+   ],
+   "answer": 0,
+   "why": "Pakistan seeks to control Afghan rulers to neutralize Pashtun territorial claims and prevent Indian encirclement.",
+   "page": 209
+  },
+  {
+   "q": "Why was India's role in post-2001 Afghanistan primarily restricted to soft power and economic reconstruction?",
+   "options": [
+    "The United Nations charter prohibited non-NATO member nations from deploying security personnel",
+    "India signed a non-interference pact with the Taliban regarding internal Afghan security",
+    "The United States accommodated Pakistani objections against any Indian military or peacekeeping presence",
+    "The Afghan government refused foreign infrastructure assistance to maintain its non-aligned diplomatic status"
+   ],
+   "answer": 2,
+   "why": "The United States restricted India to soft power because Pakistan strongly opposed any Indian security role.",
+   "page": 211
+  },
+  {
+   "q": "What major diplomatic shift motivated India to sign a Strategic Partnership Agreement with Afghanistan in 2011?",
+   "options": [
+    "The complete withdrawal of American and NATO military troops from all Afghan airbases",
+    "A formal request from the United States urging India to assume regional security duties",
+    "Growing Chinese and Russian joint military intervention in support of the Afghan armed forces",
+    "Isolation after the 2010 London Conference accepted reconciliation with the good Taliban"
+   ],
+   "answer": 3,
+   "why": "India felt diplomatically isolated when the 2010 London Conference endorsed talks with the good Taliban.",
+   "page": 212
+  }
+ ]
+}

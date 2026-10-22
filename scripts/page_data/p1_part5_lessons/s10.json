@@ -1,0 +1,77 @@
+{
+ "title": "John Locke: Natural Rights and Limited Government",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a ruler take away your life, liberty, or property?",
+   "narration": "Imagine a king claiming he owns everything you have. John Locke said no: your fundamental rights belong to you from birth, not to any ruler!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A housing society committee manages common repairs, but cannot seize your private home.",
+   "narration": "Here is an everyday analogy: think of government like a housing society committee. You elect them to fix common lights, not to control your private bedroom."
+  },
+  {
+   "type": "compare",
+   "heading": "Authority: Filmer versus Locke",
+   "columns": [
+    {
+     "title": "Robert Filmer",
+     "items": [
+      "Absolute hereditary monarchy",
+      "Kings inherit Adam's authority",
+      "Citizens treated like children"
+     ]
+    },
+    {
+     "title": "John Locke",
+     "items": [
+      "Government based on consent",
+      "No divine succession from Adam",
+      "Citizens are free equals"
+     ]
+    }
+   ],
+   "narration": "Robert Filmer claimed kings inherit God's absolute power over subjects just like fathers rule children. Locke attacked this, showing citizens are rational adults who only obey through consent."
+  },
+  {
+   "type": "flow",
+   "heading": "Locke's Two-Stage Social Contract",
+   "steps": [
+    "State of nature has inconveniences",
+    "First contract creates civil society",
+    "Second contract establishes government",
+    "Citizens change rulers through elections"
+   ],
+   "narration": "To fix inconveniences where everyone acted as judge, people make two agreements. First, they form a civil society to respect rights; second, they set up an elected government."
+  },
+  {
+   "type": "points",
+   "heading": "Three Limitations on Property",
+   "items": [
+    "Labour limitation: earn through personal effort",
+    "Spoilage limitation: do not waste resources",
+    "Non-deprivation: leave enough for others"
+   ],
+   "narration": "Locke defended private property because you mix your own labour with nature. However, he added three limits: work honestly, never waste resources, and leave enough for your neighbours."
+  },
+  {
+   "type": "balance",
+   "heading": "State Power versus People's Rights",
+   "left": "Delegated State Powers",
+   "right": "Inviolable Natural Rights",
+   "tilt": "right",
+   "narration": "Locke calls government a mere night-watchman trust with limited, delegated powers. Supreme authority stays with the people to protect their natural rights and practice religious toleration."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Natural rights to life, liberty, and property",
+    "Government is a trust with delegated powers",
+    "Right to revolt through peaceful elections"
+   ],
+   "narration": "Remember Locke's big ideas: we own inviolable natural rights, government is only a limited caretaker trust, and citizens can peacefully replace leaders who break faith."
+  }
+ ]
+}

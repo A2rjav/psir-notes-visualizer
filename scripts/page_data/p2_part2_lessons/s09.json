@@ -1,0 +1,103 @@
+{
+ "title": "Realism, Feminist Critique, and the Security Dilemma",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why does building weapons for self-defense make everyone feel less safe?",
+   "narration": "Imagine two neighbors building tall gates for protection, only to terrify each other. Realism says states live in anarchy, meaning there is no global government to protect them."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "Distrustful residents install guard dogs, causing panic across the housing society.",
+   "narration": "Think of this analogy like a housing society without security guards. When a neighbor buys a guard dog to feel safe, you panic and buy one too. Soon, everyone is armed and terrified."
+  },
+  {
+   "type": "thinker",
+   "name": "Hans Morgenthau",
+   "idea": "International politics is a struggle for power driven by human nature.",
+   "work": "Politics Among Nations (1949)",
+   "narration": "Hans Morgenthau, the father of realism, published Politics Among Nations in nineteen forty-nine. He argued that states naturally seek power to survive, making national interest their supreme motivation."
+  },
+  {
+   "type": "compare",
+   "heading": "Morgenthau versus Tickner",
+   "columns": [
+    {
+     "title": "Morgenthau's Realism",
+     "items": [
+      "Power viewed as domination",
+      "Narrow focus on military security",
+      "Ethics excluded from statecraft"
+     ]
+    },
+    {
+     "title": "Tickner's Feminist View",
+     "items": [
+      "Power as collective empowerment",
+      "Broader focus on human security",
+      "Moral principles guide political action"
+     ]
+    }
+   ],
+   "narration": "Feminist scholar Ann Tickner challenged Morgenthau's masculine worldview. She explained that power means collective empowerment and human security, not just domination."
+  },
+  {
+   "type": "cycle",
+   "heading": "Herz's Security Dilemma Cycle",
+   "nodes": [
+    "State seeks security",
+    "Builds defensive weapons",
+    "Neighbors feel threatened",
+    "Neighbors arm themselves"
+   ],
+   "narration": "John Herz called this cycle the security dilemma. Because states lack trust, one nation arming for defense makes neighbors feel insecure and buy weapons too, spiraling toward war."
+  },
+  {
+   "type": "matrix",
+   "heading": "Jervis's Security Dilemma Scenarios",
+   "rows": [
+    "Indistinguishable Postures",
+    "Distinguishable Postures"
+   ],
+   "cols": [
+    "Offence Advantage",
+    "Defence Advantage"
+   ],
+   "cells": [
+    [
+     "Doubly dangerous with extreme dilemma",
+     "Intense dilemma but lower arms race"
+    ],
+    [
+     "Aggression possible but dilemma mild",
+     "Safest environment with minimal dilemma"
+    ]
+   ],
+   "highlight": [
+    0,
+    0
+   ],
+   "narration": "Robert Jervis showed that this dilemma depends on technology and geography. It is doubly dangerous when offensive and defensive weapons look identical, and attacking gives an advantage."
+  },
+  {
+   "type": "points",
+   "heading": "Third World Insecurity Dilemma",
+   "items": [
+    "Security dilemma is a Eurocentric concept",
+    "Developing states face internal civil wars",
+    "Internal insecurity matters more than invasions"
+   ],
+   "narration": "Scholars Amitav Acharya and Mohammad Ayoob argue this dilemma is Eurocentric. Developing nations face an insecurity dilemma, where internal threats like civil wars matter far more than foreign invasions."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Morgenthau views politics as power struggles under anarchy",
+    "Tickner redefines power toward human security and ethics",
+    "Security and insecurity dilemmas explain mutual fear"
+   ],
+   "narration": "Here is the trick to remember. Realism explains power struggles under anarchy, feminism demands human security and ethics, while security dilemmas show how mutual fear sparks conflict."
+  }
+ ]
+}

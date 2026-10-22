@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why was Panchayati Raj initially placed under Directive Principles (Article 40) rather than made an enforceable right?",
+   "options": [
+    "Modernists favored a centralized federation and state-led development over Gandhian democratic decentralization.",
+    "Gandhian leaders opposed grassroots democracy, demanding that all administrative power remain with New Delhi.",
+    "The Drafting Committee intended local self-government institutions to handle only urban municipal administration.",
+    "External donor agencies required post-independence India to abolish village councils before receiving financial assistance."
+   ],
+   "answer": 0,
+   "why": "Modernists like Nehru and Ambedkar favored centralized planning and federation, prevailing over the Gandhian school's demand for decentralized village self-rule.",
+   "page": 6
+  },
+  {
+   "q": "Why did Panchayati Raj institutions suffer widespread stagnation during the 1970s and 1980s?",
+   "options": [
+    "The Supreme Court declared the Balvantray Mehta three-tier framework unconstitutional across all Indian states.",
+    "State political leaders and hostile bureaucrats resisted sharing power and resources with emerging local representatives.",
+    "Rural communities rejected local councils because land reforms had already eliminated caste and class dominance.",
+    "The Union government transferred all rural development subjects directly into the exclusive Union Legislative List."
+   ],
+   "answer": 1,
+   "why": "State leaders feared losing authority to emerging grassroots leaders, while a hostile bureaucracy resisted surrendering power and resources.",
+   "page": 10
+  },
+  {
+   "q": "Why do scholars characterize the 73rd Constitutional Amendment Act as a 'half-baked cake'?",
+   "options": [
+    "It made regular five-year elections and social auditing entirely optional for all state governments.",
+    "It omitted reservations for marginalized communities and women in rural local self-government institutions.",
+    "It created an institutional skeleton while leaving actual devolution of subjects to state legislative discretion.",
+    "It abolished village-level panchayats in favor of centralized planning commissions at the national level."
+   ],
+   "answer": 2,
+   "why": "While the amendment created a mandatory three-tier structure, it left the transfer of funds, functions, and functionaries to the discretion of individual states.",
+   "page": 14
+  },
+  {
+   "q": "What is a major institutional weakness of the Gram Sabha under the 73rd Constitutional Amendment Act?",
+   "options": [
+    "The amendment mandates direct elections for village representatives but prohibits villagers from gathering in assemblies.",
+    "Its membership is restricted only to village elders and landowners rather than all adult registered voters.",
+    "State governments are constitutionally barred from conducting any meetings of the Gram Sabha during peacetime.",
+    "The amendment fails to clearly define the specific powers, functions, and role of the Gram Sabha."
+   ],
+   "answer": 3,
+   "why": "Unlike the PESA Act, the 73rd Amendment left the powers and functions of the Gram Sabha largely undefined, weakening its oversight role.",
+   "page": 18
+  }
+ ]
+}

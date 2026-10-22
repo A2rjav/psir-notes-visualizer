@@ -1,0 +1,62 @@
+{
+ "title": "Thomas Hobbes: Leviathan, Absolute Sovereignty and Individualism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can surrendering your freedom be the only way to save your life?",
+   "narration": "Imagine living in total freedom where anyone could attack you without consequence. Thomas Hobbes asked a shocking question: would you surrender all your liberty to an absolute ruler just to stay alive?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket match needs one strict umpire to prevent total chaos.",
+   "narration": "Here is an everyday analogy. On a school cricket ground without an umpire, every run-out causes a furious fight. Players willingly accept one strict referee so the game can peacefully continue."
+  },
+  {
+   "type": "flow",
+   "heading": "From Human Desires to Chaos",
+   "steps": [
+    "Mind driven by moving particles",
+    "Endless appetites seek pleasure",
+    "Competition creates mutual insecurity",
+    "State of nature becomes war"
+   ],
+   "narration": "Hobbes used a scientific method to explain human nature. Our minds seek endless pleasure, making everyone compete for power. Without a government, this creates a terrifying war of all against all."
+  },
+  {
+   "type": "balance",
+   "heading": "Trading Liberty for Safety",
+   "left": "Total natural liberty",
+   "right": "Security of life",
+   "tilt": "right",
+   "narration": "Hobbes observed that when we balance freedom against safety, self-preservation always wins. Driven by the fear of death, people make a social contract, surrendering natural rights to a supreme ruler called Leviathan."
+  },
+  {
+   "type": "points",
+   "heading": "Absolute and Indivisible Sovereignty",
+   "items": [
+    "Permanent transfer of supreme power",
+    "Law is sovereign command",
+    "Monopoly over force and punishment",
+    "State supreme over religious authority"
+   ],
+   "narration": "For Hobbes, sovereignty cannot be divided. As he famously wrote, covenants without swords are nothing but words. Only the state has a monopoly on force, making sovereign law supreme even over religious authority."
+  },
+  {
+   "type": "thinker",
+   "name": "Thomas Hobbes",
+   "idea": "Absolute state authority exists solely to protect the individual's right to life.",
+   "work": "Leviathan",
+   "narration": "Here's the trick: Hobbes is deeply individualist. Liberty simply means where law is silent, and you obey the ruler only to protect your life. If the state arbitrarily threatens your survival, you can resist."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "State of nature is a dangerous war of all",
+    "Social contract establishes an indivisible, absolute sovereign",
+    "Individuals retain the supreme right to self-preservation"
+   ],
+   "narration": "Remember these three big ideas. Human competition causes anarchy, the social contract builds an absolute sovereign for protection, and the entire system exists to safeguard your right to life."
+  }
+ ]
+}

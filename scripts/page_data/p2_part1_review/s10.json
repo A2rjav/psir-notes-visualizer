@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does Mahatma Gandhi's vision distinguish India's engagement with Africa from that of traditional imperialist powers?",
+   "options": [
+    "By promoting trade based on ideas and services rather than extracting raw materials.",
+    "By prioritizing strategic military bases over developmental partnerships and humanitarian cooperation.",
+    "By extracting mineral resources to fuel domestic manufacturing before offering educational exchanges.",
+    "By demanding diplomatic alignment in multilateral forums before providing developmental assistance."
+   ],
+   "answer": 0,
+   "why": "Gandhi envisioned a relationship anchored in the exchange of ideas and services rather than the extraction of raw materials. This distinguishes India's non-exploitative engagement from imperialist practices.",
+   "page": 107
+  },
+  {
+   "q": "Why did India's diplomatic engagement with Africa experience a period of neglect from the 1970s to the 1990s?",
+   "options": [
+    "African nations rejected Indian technical cooperation programs in favor of Western financial assistance packages.",
+    "India was hurt by African stances on the 1962 war and prioritized neighboring security concerns.",
+    "India suspended diplomatic outreach after African countries established exclusive trade blocs with China.",
+    "African governments severed diplomatic ties following disputes over Indian corporate land acquisition projects."
+   ],
+   "answer": 1,
+   "why": "India felt let down by African attitudes during the 1962 war with China. Consequently, New Delhi neglected ties and focused on immediate security challenges with Pakistan and China.",
+   "page": 108
+  },
+  {
+   "q": "How does India's model of developmental cooperation in Africa fundamentally differ from China's approach?",
+   "options": [
+    "India offers massive unconditional infrastructure loans, whereas China concentrates solely on diplomatic dialogues.",
+    "India relies primarily on state-owned mining enterprises, whereas China emphasizes local public health systems.",
+    "India emphasizes local capacity building and skills, whereas China relies heavily on resource-extractive projects.",
+    "India demands majority ownership in joint ventures, whereas China transfers complete technological autonomy immediately."
+   ],
+   "answer": 2,
+   "why": "India prioritizes human resource development, training, and affordable healthcare rather than resource extraction. In contrast, China's model emphasizes heavy loans and extractive infrastructure.",
+   "page": 110
+  },
+  {
+   "q": "According to the Inter-American Development Bank analysis, why do Latin American nations increasingly look toward India as an economic alternative?",
+   "options": [
+    "They require Indian military guarantees to secure regional maritime shipping lanes across the Pacific.",
+    "They want to replace domestic manufacturing industries with low-cost Indian consumer goods imports.",
+    "They prefer state-financed infrastructure grants over private sector initiatives in technology and pharmaceuticals.",
+    "They seek an alternative to Chinese practices involving environmental damage, imported labor, and land grabbing."
+   ],
+   "answer": 3,
+   "why": "Latin American nations experience growing resentment toward Chinese projects due to environmental harm, lack of local jobs, and land grabbing. India's non-intrusive private sector engagement offers a welcome alternative.",
+   "page": 114
+  }
+ ]
+}

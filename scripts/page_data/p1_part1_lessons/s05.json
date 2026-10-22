@@ -1,0 +1,75 @@
+{
+ "title": "Sir Syed Ahmed Khan and Islamic Modernism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can religious faith and modern scientific education thrive together?",
+   "narration": "Imagine seeing your community face frustration and decline while the world transforms around you. Sir Syed Ahmed Khan asked: how can we embrace modern science without abandoning our faith?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "💻",
+   "text": "Embracing modern technology while preserving your core cultural roots and values.",
+   "narration": "Here is a simple analogy: think of a student who loves classic books but refuses to touch a computer. Sir Syed warned that ignoring modern tools leaves you lagging behind in a changing world."
+  },
+  {
+   "type": "balance",
+   "heading": "Faith and Science",
+   "left": "Religious Faith",
+   "right": "Scientific Inquiry",
+   "tilt": "even",
+   "narration": "Just as Raja Rammohan Roy reformed Hindu society, Sir Syed modernized Muslim thought. He urged young people to keep the Quran in one hand and modern science in the other."
+  },
+  {
+   "type": "points",
+   "heading": "Tools of Social Reform",
+   "items": [
+    "Critiqued outdated rituals in Tehzib-ul-Akhlaq magazine",
+    "Founded Scientific Society to spread research",
+    "Established Mohammedan Anglo-Oriental College",
+    "Faced severe backlash from orthodox sections"
+   ],
+   "narration": "He used his magazine Tehzib-ul-Akhlaq to attack blind dogma and built institutions like the Mohammedan Anglo-Oriental College. However, conservative orthodox leaders fiercely opposed his Western-style educational ideas."
+  },
+  {
+   "type": "compare",
+   "heading": "Changing Political Stance",
+   "columns": [
+    {
+     "title": "Early Phase",
+     "items": [
+      "Championed Hindu-Muslim unity",
+      "Respected Hindu cultural sentiments"
+     ]
+    },
+    {
+     "title": "Later Phase",
+     "items": [
+      "Opposed joining Indian National Congress",
+      "Pioneered two-nation theory"
+     ]
+    }
+   ],
+   "narration": "At first, Sir Syed promoted communal harmony. But following the Awadh Hindi-Urdu controversy, he believed the communities had irreconcilable interests, advising Muslims to avoid Congress and consider themselves separate."
+  },
+  {
+   "type": "points",
+   "heading": "Relevance in Present Times",
+   "items": [
+    "Remains a controversial historical figure",
+    "Community still battles social exclusion",
+    "Educational empowerment needed more than ever"
+   ],
+   "narration": "Though critics still debate his political legacy, his core message is timeless. Today, as the community faces exclusion and frustration, his push for scientific education and modernization is needed more than ever."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Spearheaded Islamic modernization through scientific education",
+    "Shifted from unity to separate political identity",
+    "His educational vision remains vital against exclusion"
+   ],
+   "narration": "Here is the final takeaway: Sir Syed reconciled faith with modern science, shaped modern Indian politics by opposing Congress, and left behind an educational reform path that remains crucial today."
+  }
+ ]
+}

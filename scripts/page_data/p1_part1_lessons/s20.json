@@ -1,0 +1,92 @@
+{
+ "title": "Indian Federalism and State Reorganisation Explained",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can Parliament redraw an Indian state's borders without its consent?",
+   "narration": "Imagine waking up to find your state's map completely redrawn! Unlike the United States, India's Constitution allows Parliament to reshape states under Article 3."
+  },
+  {
+   "type": "analogy",
+   "emoji": "👨‍👩‍👧‍👦",
+   "text": "A joint family where the elder brother guides while everyone shares responsibilities.",
+   "narration": "Here is an everyday analogy: Indian federalism is like a joint family. The Centre acts as an elder brother, cooperating with states rather than keeping completely separate rooms."
+  },
+  {
+   "type": "thinker",
+   "name": "K.C. Wheare",
+   "idea": "India is quasi-federal: federal in form, but unitary in spirit.",
+   "work": "",
+   "narration": "Scholar K.C. Wheare labeled India quasi-federal, meaning semi-federal with a strong central tilt. But Granville Austin disagreed, arguing India simply practices its own unique cooperative federalism."
+  },
+  {
+   "type": "compare",
+   "heading": "US Dual vs Indian Federalism",
+   "columns": [
+    {
+     "title": "US Model",
+     "items": [
+      "Coming-together federation",
+      "Indestructible states",
+      "Centrifugal flow of power"
+     ]
+    },
+    {
+     "title": "Indian Model",
+     "items": [
+      "Holding-together federation",
+      "Destructible states",
+      "Centripetal flow towards centre"
+     ]
+    }
+   ],
+   "narration": "Here is the key difference: America is a coming-together union of indestructible states. India is a holding-together federation, described as an indestructible union of destructible states."
+  },
+  {
+   "type": "points",
+   "heading": "Forces Reshaping Indian Federalism",
+   "items": [
+    "Coalition politics increased state bargaining power",
+    "Globalisation lets states attract direct investment",
+    "Union powers expanded through security agencies like NIA"
+   ],
+   "narration": "Federalism is not static. When coalition politics replaced one-party dominance, states gained bargaining power. Globalisation also empowered states to attract investments, while central agencies like NIA addressed new security challenges."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Waves of State Reorganisation",
+   "events": [
+    {
+     "when": "1960s-1970s",
+     "what": "First wave based on language"
+    },
+    {
+     "when": "1980s-1990s",
+     "what": "Second wave based on ethnic identity"
+    },
+    {
+     "when": "2000",
+     "what": "Third wave for governance and development"
+    }
+   ],
+   "narration": "Political scientist Louis Tillin identified three waves of state formation in India: first along linguistic lines, next around ethnic identity in the Northeast, and recently for administrative development."
+  },
+  {
+   "type": "balance",
+   "heading": "The Smaller States Debate",
+   "left": "Good governance and development",
+   "right": "Administrative costs and instability",
+   "tilt": "even",
+   "narration": "Does smaller mean better? Dr. Ambedkar supported smaller states for regional balance, but scholars like Sudha Pai point out that size does not guarantee good governance and brings heavy administrative costs."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "India is a holding-together, cooperative federation",
+    "Coalition politics and globalisation reshape centre-state power",
+    "Local democratic decentralisation matters more than state size"
+   ],
+   "narration": "To sum up: India balances a strong union with state autonomy. Power dynamics constantly shift with politics and markets. And local decentralisation matters far more than just carving smaller borders."
+  }
+ ]
+}

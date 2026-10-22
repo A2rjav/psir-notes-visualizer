@@ -1,0 +1,78 @@
+{
+ "title": "The Union Executive: President and Prime Minister",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is India's President just a rubber stamp, or a real constitutional check?",
+   "narration": "Imagine holding India's highest constitutional office, yet taking orders from someone else! Is our President merely a ceremonial rubber stamp, or do they hold surprising real power?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "The Prime Minister captains the team, while the President acts as the match referee.",
+   "narration": "Here is an easy cricket analogy. The Prime Minister is like the active captain calling every play, while the President is the neutral referee ensuring everyone follows the constitutional rulebook."
+  },
+  {
+   "type": "compare",
+   "heading": "42nd versus 44th Amendment",
+   "columns": [
+    {
+     "title": "42nd Amendment",
+     "items": [
+      "Made ministerial advice strictly binding",
+      "Turned President into figurehead",
+      "Violating advice risks impeachment"
+     ]
+    },
+    {
+     "title": "44th Amendment",
+     "items": [
+      "Granted partial presidential discretion",
+      "Can return cabinet advice once",
+      "Must sign if advice returned"
+     ]
+    }
+   ],
+   "narration": "The 42nd Amendment tied the President's hands by making cabinet advice strictly mandatory. But the 44th Amendment gave them partial discretion, allowing the President to send advice back once for reconsideration."
+  },
+  {
+   "type": "points",
+   "heading": "Co-habitation and Presidential Activism",
+   "items": [
+    "Co-habitation occurs when rival parties hold power",
+    "Dr. Rajendra Prasad debated Hindu Code Bill",
+    "Gyani Zail Singh used pocket veto",
+    "K.R. Narayanan rejected Article 356 imposition"
+   ],
+   "narration": "When the President and Prime Minister come from opposing parties, we call it co-habitation. This often sparks presidential activism, like President Narayanan rejecting cabinet advice to dismiss a state government."
+  },
+  {
+   "type": "flow",
+   "heading": "Presidentialisation of the Executive",
+   "steps": [
+    "Nehru as first among equals",
+    "Moon among lesser stars",
+    "Power shifts to the PMO",
+    "Presidential command under Indira Gandhi"
+   ],
+   "narration": "Notice how the Prime Minister's role transformed over time. Power shifted from the cabinet to the Prime Minister's Office, creating a dominant presidential style of leadership under Indira Gandhi."
+  },
+  {
+   "type": "balance",
+   "heading": "Prime Minister in Coalition Era",
+   "left": "Single Party Majority",
+   "right": "Multi Party Coalition",
+   "tilt": "left",
+   "narration": "After 1989, coalitions fragmented power, forcing Prime Ministers to manage demanding allies. Leaders like Atal Bihari Vajpayee proved that political leadership and coalition management can deliver stable, full-term governance."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "President acts as nominal head with partial discretion",
+    "Co-habitation between rival parties fuels presidential activism",
+    "Coalition politics requires skilled alliance management"
+   ],
+   "narration": "Here is your quick summary. Remember, our executive balances dignity with daily power, where effective leadership depends on constitutional rules and political skill."
+  }
+ ]
+}

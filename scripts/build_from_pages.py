@@ -11,6 +11,7 @@ so nothing on the page is dropped. Run from the repo root:  python scripts/build
 """
 import json
 import os
+import random
 import re
 import shutil
 import subprocess
@@ -84,6 +85,27 @@ def legacy_flashcards(name):
     return out
 
 
+def apply_review(lesson, review_file):
+    """Apply agy_review.py's fact-check corrections to the lesson and attach its topic quiz. Options are
+    shuffled with a seed from the question so the right answer is not always where the model put it."""
+    if not os.path.exists(review_file):
+        return
+    rev = json.load(open(review_file, encoding="utf-8"))
+    for c in rev.get("corrections", []):
+        s = lesson["scenes"][c["scene"]]
+        if isinstance(s.get(c["field"]), str):
+            s[c["field"]] = clean(c["new"])
+    quiz = []
+    for q in rev.get("quiz", []):
+        right = clean(q["options"][q["answer"]])
+        opts = [clean(o) for o in q["options"]]
+        random.Random(q["q"]).shuffle(opts)
+        quiz.append({"q": clean(q["q"]), "options": opts, "answer": opts.index(right),
+                     "why": clean(q.get("why")), "scanPage": q.get("page")})
+    if quiz:
+        lesson["quiz"] = quiz
+
+
 def load_enrich(vol, count):
     out = {}
     for i in range(1, count + 1):
@@ -140,6 +162,10 @@ def build(vol):
                 "verbatim": WATERMARK.sub("", d["text"]).strip(),
             })
         sec_title = short(s["title"], 100)
+        lesson_file = os.path.join(WORK_DIR, f"{vol}_lessons", f"s{i:02d}.json")
+        lesson = json.load(open(lesson_file, encoding="utf-8")) if os.path.exists(lesson_file) else None
+        if lesson:
+            apply_review(lesson, os.path.join(WORK_DIR, f"{vol}_review", f"s{i:02d}.json"))
         sections.append({
             "id": f"v{VOLUMES[vol]['n']}-{i:02d}-{slug(sec_title)}",
             "number": f"{i:02d}",
@@ -151,6 +177,7 @@ def build(vol):
             "keyScholars": as_list(s.get("keyScholars"), 8),
             "coreTheories": as_list(s.get("coreTheories"), 5),
             "concepts": concepts,
+            "lesson": lesson,
         })
         for c in e["flashcards"]:
             sp = int(c.get("scanPage") or start)

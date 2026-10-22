@@ -1,0 +1,74 @@
+{
+ "title": "Civil Liberties and Human Rights Movements",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a democracy protect rights while locking up citizens without a trial?",
+   "narration": "Imagine fighting for freedom, only to find the new government keeping colonial laws to lock people up. Why did Indian civil rights movements have to fight the state even after independence?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school monitor punishing classmates without rules is like unchecked state power.",
+   "narration": "Here is an analogy: imagine your class monitor punishing students without explaining why or letting them speak. Civil liberties are the rulebook designed to stop leaders from using arbitrary, unchecked power."
+  },
+  {
+   "type": "timeline",
+   "heading": "Rise of Civil Liberties Movements",
+   "events": [
+    {
+     "when": "1936",
+     "what": "Indian Civil Liberties Union formed"
+    },
+    {
+     "when": "1950",
+     "what": "Preventive detention enters Constitution"
+    },
+    {
+     "when": "1975",
+     "what": "Emergency suspends democracy and rights"
+    },
+    {
+     "when": "1980s",
+     "what": "Judges introduce Public Interest Litigation"
+    }
+   ],
+   "narration": "In 1936, Jawaharlal Nehru helped start the Indian Civil Liberties Union. But after independence, India retained preventive detention, detaining people before any crime occurred, sparking fresh protests."
+  },
+  {
+   "type": "flow",
+   "heading": "Judicial Expansion of Rights",
+   "steps": [
+    "Emergency ends",
+    "Citizens demand accountability",
+    "Judiciary invents PIL",
+    "Right to life expands"
+   ],
+   "narration": "After the Emergency ended, courts transformed into champions of the vulnerable. Activist judges created Public Interest Litigation, or PIL, allowing citizens to file court petitions directly for the poor and marginalised."
+  },
+  {
+   "type": "thinker",
+   "name": "Prof. Upendra Baxi",
+   "idea": "Rights advocacy became a corporate industry hiring managers instead of activists.",
+   "work": "",
+   "narration": "Here's the trick: not everyone celebrates today's movements. Professor Upendra Baxi warned that social activism turned into a corporate-style human rights industry run by management graduates rather than grassroots workers."
+  },
+  {
+   "type": "balance",
+   "heading": "Human Rights Dilemma",
+   "left": "State Security Laws",
+   "right": "Individual Civil Liberties",
+   "tilt": "left",
+   "narration": "Activists like Nandita Haksar note that governments prioritize national security over personal freedom. With thousands of undertrials stuck in prison, India struggles to turn rights rhetoric into real justice."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Origins in freedom struggle",
+    "Judicial activism and PIL expansion",
+    "Corporate NGO critique and undertrials"
+   ],
+   "narration": "Remember these three points: civil liberties check executive power, the judiciary expanded rights post-Emergency through PIL, and serious issues like undertrials and NGO legitimacy remain."
+  }
+ ]
+}

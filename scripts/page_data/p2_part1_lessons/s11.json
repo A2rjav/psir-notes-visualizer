@@ -1,0 +1,72 @@
+{
+ "title": "Non-Alignment: From Compulsion to Strategic Autonomy",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Was non-alignment India's moral choice or a desperate geopolitical compulsion?",
+   "narration": "Imagine the world split into two rival camps, and everyone demands you pick a side. Nehru refused, arguing that non-alignment meant principled distance—judging every issue on right versus wrong rather than blind loyalty."
+  },
+  {
+   "type": "analogy",
+   "emoji": "⚖️",
+   "text": "Judging every school dispute on its merits rather than joining rival campus gangs.",
+   "narration": "Here is an everyday analogy: imagine two feuding groups of classmates bullying you to join them. Instead of picking a side or ignoring everyone, you decide each dispute fairly on its merits."
+  },
+  {
+   "type": "balance",
+   "heading": "Choice Or Compulsion",
+   "left": "Free Democratic Choice",
+   "right": "Geopolitical Compulsion",
+   "tilt": "right",
+   "narration": "Was this policy a noble choice or a survival compulsion? As a young democracy, India could not join the Soviets, yet joining the American bloc was dangerous with communist giants right on its border."
+  },
+  {
+   "type": "compare",
+   "heading": "Domestic Opinions Divided",
+   "columns": [
+    {
+     "title": "Right Wing",
+     "items": [
+      "Favoured close Western ties",
+      "Distrusted Soviet socialism"
+     ]
+    },
+    {
+     "title": "Left Wing",
+     "items": [
+      "Supported Soviet partnership",
+      "Later defended non-alignment"
+     ]
+    }
+   ],
+   "narration": "At home, leaders never fully agreed on this path. India's right wing favoured partnering with the West, while the left wing pushed for closer ties with Moscow."
+  },
+  {
+   "type": "thinker",
+   "name": "C. Raja Mohan",
+   "idea": "Non-alignment lacked domestic consensus and continues without any alternative grand idea.",
+   "work": "",
+   "narration": "Here is the key insight from foreign policy scholar C. Raja Mohan. He notes that non-alignment was often elite rhetoric, surviving today simply because India has not invented a grand new idea."
+  },
+  {
+   "type": "flow",
+   "heading": "Evolution Of The Strategy",
+   "steps": [
+    "Nehru's principled distance",
+    "1971 quasi-alliance treaty",
+    "Demand for strategic autonomy",
+    "Non-alignment 2.0 multiple alignment"
+   ],
+   "narration": "Today, Indian leaders prefer the term strategic autonomy. Instead of rigid neutrality, the Non-Alignment 2.0 policy document recommends multiple alignment, letting India partner flexibly with several world powers."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Principled distance meant judging issues on right versus wrong.",
+    "Geopolitical necessity shaped policy rather than domestic consensus.",
+    "Modern strategy emphasizes strategic autonomy and multiple alignment."
+   ],
+   "narration": "To recap, remember that non-alignment meant principled distance, began as a pragmatic compulsion rather than domestic consensus, and has transformed into strategic autonomy through multiple alignment."
+  }
+ ]
+}

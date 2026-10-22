@@ -1,0 +1,89 @@
+{
+ "title": "Introduction to Western Political Thought",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Where did politics begin, and what was the ancient Greek polis?",
+   "narration": "Where does the word politics actually come from, and why did ancient thinkers care so much about governance? The answer lies in the sunlit city-states of ancient Greece."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏘️",
+   "text": "A self-sufficient housing society running its own affairs without any outside authority.",
+   "narration": "As an everyday analogy, imagine a gated apartment complex that grows its own food, makes its own laws, and needs zero outside help. That self-sufficient community is just like the Greek polis, or city-state."
+  },
+  {
+   "type": "points",
+   "heading": "Life in Ancient Greece",
+   "items": [
+    "Decentralized city-states formed independent political systems",
+    "Agrarian economy depended on widespread slavery",
+    "Thought reflects the thinking of an age"
+   ],
+   "narration": "In politics, we study theories of governance. The Greeks lived in decentralized city-states with an agrarian economy powered by slavery, proving that political thought always mirrors the thinking of its age."
+  },
+  {
+   "type": "timeline",
+   "heading": "Evolution of Western Political Thought",
+   "events": [
+    {
+     "when": "Ancient",
+     "what": "Greek city-states shape early governance"
+    },
+    {
+     "when": "Medieval",
+     "what": "Roman Empire unites European confederation"
+    },
+    {
+     "when": "Modern",
+     "what": "Sovereign nation-states emerge across Europe"
+    },
+    {
+     "when": "Post-modern",
+     "what": "Supra-national entities like European Union"
+    }
+   ],
+   "narration": "Trace how Western political thought evolved over time! It began in ancient Greek city-states, shifted to the medieval Roman confederation, expanded into modern nation-states, and now reaches post-modern entities like the European Union."
+  },
+  {
+   "type": "compare",
+   "heading": "Greek Ethnocentric Attitude",
+   "columns": [
+    {
+     "title": "Greeks",
+     "items": [
+      "Felt cultural and moral superiority",
+      "Lived in self-governing city-states"
+     ]
+    },
+    {
+     "title": "Others",
+     "items": [
+      "Viewed as uncivilized barbarians",
+      "Included foreign civilizations like Indians"
+     ]
+    }
+   ],
+   "narration": "Here is a curious paradox: the Greeks celebrated freedom at home, yet they were deeply ethnocentric, meaning they believed their culture was superior. They viewed all outsiders, including Indians, as uncouth barbarians."
+  },
+  {
+   "type": "points",
+   "heading": "Framework to Study Thinkers",
+   "items": [
+    "Context of thinker's time and place",
+    "Core perspective, purpose, and methodology",
+    "Key ideas, major critics, and contribution"
+   ],
+   "narration": "Here's the trick to mastering political theory: whenever you study any thinker, examine their historical time and place, their core perspective, their central ideas, and how critics evaluated their overall contribution."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Politics comes from polis, the Greek city-state",
+    "Western thought evolved from city-states to unions",
+    "Ancient Greeks held strong ethnocentric attitudes"
+   ],
+   "narration": "Remember these three big takeaways: politics started with the self-sufficient Greek polis, political thought evolved across historical eras, and Greek thinkers reflected their ethnocentric worldview. You now understand the foundations!"
+  }
+ ]
+}

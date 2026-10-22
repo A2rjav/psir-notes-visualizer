@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 6,
+   "field": "idea",
+   "new": "India and the United States functioned as estranged democracies in opposing camps during the Cold War.",
+   "reason": "Dennis Kux coined 'estranged democracies' for their Cold War estrangement; calling India an 'indispensable partner' was said by Ashton Carter."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why is the 2005 Indo-US Civil Nuclear Agreement considered a major geopolitical breakthrough for India?",
+   "options": [
+    "It compelled the United States to sign the Comprehensive Nuclear-Test-Ban Treaty alongside India.",
+    "It exempted India from placing any of its civilian nuclear facilities under IAEA safeguards.",
+    "It recognized India as a de-facto nuclear weapon state without requiring it to sign the NPT.",
+    "It allowed India to transfer uranium enrichment technology directly to non-aligned developing nations."
+   ],
+   "answer": 2,
+   "why": "The agreement integrated India into global nuclear commerce and recognized it as a de-facto nuclear power without signing the NPT or CTBT.",
+   "page": 16
+  },
+  {
+   "q": "Why did American nuclear reactor suppliers strongly object to Section 17(B) of India's nuclear liability law?",
+   "options": [
+    "It allowed the operator to seek financial recourse from suppliers for equipment defects without contractual clauses.",
+    "It imposed strict criminal penalties solely on the operator while fully exempting all equipment suppliers.",
+    "It required American companies to pay compensation exclusively in Special Drawing Rights above the government cap.",
+    "It mandated that foreign suppliers manage the domestic insurance pool created by the Indian government."
+   ],
+   "answer": 0,
+   "why": "Section 17(B) gives the operator the right of recourse against suppliers for defective equipment even without an explicit contractual clause.",
+   "page": 19
+  },
+  {
+   "q": "How does India's 2015 Model Bilateral Investment Treaty differ fundamentally from the 2012 United States model?",
+   "options": [
+    "India adopts an asset-based approach protecting financial derivatives, while the United States demands an enterprise-based approach.",
+    "India grants automatic Most Favoured Nation treatment, while the United States insists on case-by-case bilateral negotiations.",
+    "India mandates immediate international arbitration, whereas the United States requires exhausting all local court remedies first.",
+    "India requires substantial physical presence and local employment, whereas the United States model protects diverse financial assets."
+   ],
+   "answer": 3,
+   "why": "India's model is enterprise-based requiring physical presence and employment, whereas the US model is asset-based protecting shares, derivatives, and intellectual property.",
+   "page": 21
+  },
+  {
+   "q": "Under Section 84 of the Indian Patents Act, when can the government issue a compulsory licence for a medicine?",
+   "options": [
+    "Immediately upon patent grant whenever a foreign pharmaceutical manufacturer begins commercial production in India.",
+    "After three years if the drug is unaffordable, unavailable commercially, or needed for public health.",
+    "Only after the original 20-year patent term has fully expired without any increase in therapeutic efficacy.",
+    "Whenever an international arbitration tribunal directs India to suspend patent rights under TRIPS flexibilities."
+   ],
+   "answer": 1,
+   "why": "Section 84 permits compulsory licensing after three years if the medicine is overpriced, not commercially worked in India, or needed for public health.",
+   "page": 23
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Hobbes, why does the state of nature inevitably degenerate into a war of all against all?",
+   "options": [
+    "Inherent moral malice drives individuals to dominate others for the pure enjoyment of causing pain.",
+    "Limited resources and endless appetites compel individuals to compete for power to secure future pleasure.",
+    "Natural physical inequalities allow exceptionally strong individuals to subjugate weaker ones without any resistance.",
+    "A total lack of reason prevents individuals from calculating their self-interest and pursuing peaceful cooperation."
+   ],
+   "answer": 1,
+   "why": "Hobbes explains that endless human appetites and scarce resources compel continuous competition for power, creating mutual insecurity.",
+   "page": 85
+  },
+  {
+   "q": "Why does Hobbes argue that natural law alone is incapable of maintaining peace among human beings?",
+   "options": [
+    "Natural law is inherently irrational and opposes the universal human desire to preserve one's life.",
+    "Church authorities possess the sole legitimate jurisdiction to interpret and enforce principles of natural justice.",
+    "Natural law operates effectively between independent states, but fails to govern relations between individual citizens.",
+    "Human reason can calculate how to satisfy desires, but cannot restrain passions without sovereign enforcement."
+   ],
+   "answer": 3,
+   "why": "Hobbes argues that human reason is instrumental—it helps individuals satisfy desires but cannot control appetites without sovereign enforcement.",
+   "page": 90
+  },
+  {
+   "q": "According to the notes, why is Hobbes credited with providing a 'complete' theory of sovereignty?",
+   "options": [
+    "He subordinated religious authority to the state, establishing a single undivided sovereign over all spheres.",
+    "He derived sovereign authority directly from the divine right of kings rather than human contract.",
+    "He divided sovereign powers equally between the monarch, the parliament, and the independent judicial courts.",
+    "He granted the sovereign absolute authority to arbitrarily extinguish individual life without any legal restraint."
+   ],
+   "answer": 0,
+   "why": "Unlike Jean Bodin who left religion to the church, Hobbes established that sovereignty is indivisible and supreme over both secular and religious spheres.",
+   "page": 94
+  },
+  {
+   "q": "Why does Sabine characterize Thomas Hobbes as the 'greatest of all individualists'?",
+   "options": [
+    "He prioritizes the collective moral welfare of society above any individual's personal material desires.",
+    "He argues that natural rights are entirely inalienable and can never be transferred to sovereigns.",
+    "The absolute state is created solely to protect individual life and manage self-interested human nature.",
+    "The state's primary duty is to morally reform selfish citizens into virtuous and altruistic beings."
+   ],
+   "answer": 2,
+   "why": "Hobbes justifies absolute state authority strictly as an instrument to protect the individual's life, keeping individual self-preservation paramount.",
+   "page": 95
+  }
+ ]
+}

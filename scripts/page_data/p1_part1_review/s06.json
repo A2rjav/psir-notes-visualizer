@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did Aurobindo Ghosh's conception of swaraj fundamentally differ from that of Bal Gangadhar Tilak?",
+   "options": [
+    "He viewed swaraj as complete liberation and an intrinsic value, rather than mere good governance.",
+    "He defined swaraj primarily as good administration and home rule achieved under native Indian administrators.",
+    "He accepted swaraj as gradual dominion status realized through constitutional reforms and modernization.",
+    "He regarded swaraj as subordinate to administrative efficiency and economic modernization within the empire."
+   ],
+   "answer": 0,
+   "why": "Aurobindo delinked swaraj from suraj (good governance), arguing that complete independence is an absolute value in itself rather than mere administrative reform.",
+   "page": 33
+  },
+  {
+   "q": "According to Aurobindo's theory of spiritual nationalism, what constitutes the fundamental basis of Indian unity?",
+   "options": [
+    "The shared institutional modernization and political awareness introduced under British administrative rule.",
+    "A common geographical boundary and shared administrative framework recognized by colonial law.",
+    "The underlying universal spirit and divine oneness articulated in Vivekananda's Neo-Vedantism.",
+    "A shared economic struggle against exploitation leading to class consciousness among the masses."
+   ],
+   "answer": 2,
+   "why": "Aurobindo grounded Indian unity in Vivekananda's Neo-Vedantism, arguing that fundamental spiritual oneness under the universal spirit transcends all outward diversity.",
+   "page": 35
+  },
+  {
+   "q": "Why did Aurobindo reject both capitalist and socialist conceptions of freedom?",
+   "options": [
+    "Capitalism produces an excessively rigid state apparatus, while socialism unleashes unrestrained individual selfish desires.",
+    "Both ideologies place excessive emphasis on spiritual transcendence rather than practical socio-economic progress.",
+    "Capitalism neglects material growth entirely, while socialism ignores communal solidarity and fraternity in society.",
+    "Capitalism creates chaotic license for selfish impulses, while socialism results in an oppressive state system."
+   ],
+   "answer": 3,
+   "why": "Aurobindo argued that unrestricted capitalist liberty degenerates into selfish chaos, whereas socialism inevitably produces an oppressive state machinery.",
+   "page": 37
+  },
+  {
+   "q": "In Aurobindo's philosophy, what is the primary transformational purpose of Integral Yoga?",
+   "options": [
+    "To withdraw completely from worldly affairs and extinguish individual consciousness in ascetic isolation.",
+    "To transition from a fragmented, disoriented state to a supermind that realizes the universal spirit.",
+    "To achieve intellectual mastery through Western rationalism while rejecting ancient Eastern spiritual traditions.",
+    "To harness mystical energies solely for political warfare without requiring personal moral sacrifice."
+   ],
+   "answer": 1,
+   "why": "Integral Yoga synthesizes spiritual disciplines to elevate consciousness from a fragmented state to the supermind, achieving true freedom and self-realization.",
+   "page": 38
+  }
+ ]
+}

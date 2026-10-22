@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why is India described as an 'indestructible union of destructible states' under Article 3?",
+   "options": [
+    "State boundaries can be altered by Parliament without their consent, while the Union itself cannot be dissolved.",
+    "States can freely secede from the Union, but cannot alter their internal territorial borders independently.",
+    "The Union can dissolve state governments permanently, transforming India into a purely unitary state.",
+    "State legislatures possess sovereign power to redraw national boundaries while protecting their own integrity."
+   ],
+   "answer": 0,
+   "why": "Under Article 3, Parliament has the constitutional power to alter state boundaries without state consent, ensuring the Union remains permanent while states are not territorially indestructible.",
+   "page": 186
+  },
+  {
+   "q": "On what primary ground did Granville Austin critique K.C. Wheare's description of India as 'quasi-federal'?",
+   "options": [
+    "Wheare overlooked emergency provisions that make India entirely unitary during national crises.",
+    "Wheare used an ethnocentric, legalistic approach that treated the United States as the ideal federal model.",
+    "Wheare placed excessive emphasis on political party dynamics rather than formal constitutional texts.",
+    "Wheare failed to recognize that Indian states possess external sovereignty and independent treaty powers."
+   ],
+   "answer": 1,
+   "why": "Austin argued Wheare's approach was ethnocentric and legalistic because it measured India against the American model rather than recognizing federalism as dynamic and unique.",
+   "page": 183
+  },
+  {
+   "q": "Why is the Indian federal system characterized as an 'executive federalism' model in the notes?",
+   "options": [
+    "The President exercises supreme legislative authority over state assemblies through frequent emergency ordinances.",
+    "State governors hold absolute executive veto power over all state and central developmental legislation.",
+    "The Union government relies primarily on state administrative machinery to implement central laws and policies.",
+    "Residuary legislative powers are vested exclusively with the state executive rather than the Union Parliament."
+   ],
+   "answer": 2,
+   "why": "Unlike legislative federalism where residuary powers lie with states, India is an executive model because the Union depends on state machinery to execute its laws.",
+   "page": 182
+  },
+  {
+   "q": "According to scholars like Sudha Pai and Prof. M.P. Singh, why are smaller states problematic?",
+   "options": [
+    "Smaller states inevitably lead to the immediate collapse of local democratic panchayati raj institutions.",
+    "Smaller states are constitutionally barred from receiving financial devolution and attracting private investment.",
+    "Smaller states automatically transfer all police and administrative powers to the Union Home Ministry.",
+    "Size does not guarantee good governance, and smaller states incur heavy administrative costs and political instability."
+   ],
+   "answer": 3,
+   "why": "Pai and Singh emphasize that size has no correlation with development or good governance, while smaller states suffer from political instability and added expenses.",
+   "page": 190
+  }
+ ]
+}

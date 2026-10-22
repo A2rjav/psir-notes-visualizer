@@ -1,0 +1,73 @@
+{
+ "title": "Political Sociology and Political Economy Approaches",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Who truly runs a nation: political leaders or deep social forces?",
+   "narration": "Imagine asking whether the government commands society, or if society pulls the government's strings. Today, we will unpack how political sociology and political economy solve this big puzzle."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🎭",
+   "text": "A school play where backstage financiers and social cliques direct the actors.",
+   "narration": "Think of this everyday school analogy: a government is like actors on stage. Political sociology looks at backstage friendships and social backgrounds, while political economy checks who pays for the script and props."
+  },
+  {
+   "type": "compare",
+   "heading": "Marxist Schools of the State",
+   "columns": [
+    {
+     "title": "Instrumentalist School",
+     "items": [
+      "State serves the dominant class",
+      "Direct instrument of ruling power"
+     ]
+    },
+    {
+     "title": "Structuralist School",
+     "items": [
+      "State gains relative autonomy",
+      "Independent in some specific situations"
+     ]
+    }
+   ],
+   "narration": "Within Marxist political sociology, two schools debate the state's power. Instrumentalists argue the state is simply a tool of the dominant class, while structuralists explain that the state can gain relative autonomy."
+  },
+  {
+   "type": "balance",
+   "heading": "Bringing State Back In",
+   "left": "Sociological Explanations",
+   "right": "Centrality of State",
+   "tilt": "right",
+   "narration": "Here's the twist: political scientists worried their field would disappear into sociology. Theorist Theda Skocpol urged scholars to bring the state back in, restoring the state's central, independent role in politics."
+  },
+  {
+   "type": "thinker",
+   "name": "Adam Smith",
+   "idea": "Defined political economy as a science bringing prosperity through laissez-faire.",
+   "work": "The Wealth of Nations",
+   "narration": "Next, we turn to the political economy approach, which studies the economic policies of the state. Adam Smith pioneered this approach, advocating laissez-faire policies, though Karl Marx argued this enriches only the few."
+  },
+  {
+   "type": "points",
+   "heading": "Political Economy in Developing States",
+   "items": [
+    "Instrumentalist and dependency schools critique developing states",
+    "Amartya Sen: human development in India and China",
+    "Hamza Alavi: structural Marxist study of Pakistan",
+    "Gunnar Myrdal: Asian Drama coined soft state",
+    "Atul Kohli: land reforms and governability crisis"
+   ],
+   "narration": "For developing nations, the instrumentalist and dependency schools show how economic ties limit growth. Meanwhile, Amartya Sen studied human development, Hamza Alavi analyzed Pakistan, and Gunnar Myrdal identified India as a soft state."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Political sociology links state power to social classes.",
+    "Theda Skocpol restored the centrality of the state.",
+    "Political economy evaluates state policies for national development."
+   ],
+   "narration": "To recap: first, political sociology connects power to social structures; second, Skocpol brought the state back to the center; and third, political economy evaluates state policies for national development."
+  }
+ ]
+}

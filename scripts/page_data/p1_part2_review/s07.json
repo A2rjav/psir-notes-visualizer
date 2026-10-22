@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Under the 42nd Constitutional Amendment, what constitutes a 'violation of the Constitution' for impeaching the President?",
+   "options": [
+    "Failing to act in accordance with the binding advice of the Council of Ministers.",
+    "Refusing to deliver the annual address prepared by the executive before both legislative houses.",
+    "Exercising suspensive veto on ordinary legislation more than once during a parliamentary session.",
+    "Communicating directly with foreign dignitaries without prior clearance from the Prime Minister's Office."
+   ],
+   "answer": 0,
+   "why": "The 42nd Amendment made cabinet advice strictly binding under Article 74, clarifying that disregarding such advice constitutes a constitutional violation warranting impeachment.",
+   "page": 62
+  },
+  {
+   "q": "Why did former President R. Venkataraman describe the office of the Indian President as an 'emergency lamp'?",
+   "options": [
+    "The President exercises legislative authority only when Parliament is prorogued or temporarily dissolved.",
+    "The President's discretionary authority becomes active primarily during political instability or hung parliaments.",
+    "The President assumes direct administrative control whenever national emergency is proclaimed under Article 352.",
+    "The President takes active financial control only when the Union budget fails to pass in Parliament."
+   ],
+   "answer": 1,
+   "why": "Venkataraman emphasized that the President remains a copybook head during stable majority rule, becoming active only during crises like a hung parliament.",
+   "page": 63
+  },
+  {
+   "q": "According to parliamentary theory, what marked the shift from 'primus inter pares' to 'inter stellas luna minores' under Nehru?",
+   "options": [
+    "The adoption of the 42nd Constitutional Amendment codifying mandatory cabinet advice.",
+    "The institutional shift of executive decision-making power to the Prime Minister's Secretariat.",
+    "The passing of Sardar Patel, leaving no cabinet colleague with comparable political stature.",
+    "The formal constitutional declaration designating the Prime Minister as the captain of state."
+   ],
+   "answer": 2,
+   "why": "While Patel was alive, Nehru functioned as first among equals; after Patel's death, Nehru's unmatched stature made him a moon among stars.",
+   "page": 66
+  },
+  {
+   "q": "How does the concept of 'co-habitation' primarily manifest and impact executive relations in the Indian parliamentary context?",
+   "options": [
+    "It obliges the Prime Minister to concede key cabinet appointments to opposition party leaders.",
+    "It requires the Supreme Court to arbitrate daily executive disputes between both Union leaders.",
+    "It automatically transfers administrative control of the Union cabinet to the state governors.",
+    "It occurs when the President and Prime Minister represent rival parties, often fostering presidential activism."
+   ],
+   "answer": 3,
+   "why": "Co-habitation occurs when the President and Prime Minister belong to opposing political parties, which frequently encourages the President to assert constitutional checks.",
+   "page": 64
+  }
+ ]
+}

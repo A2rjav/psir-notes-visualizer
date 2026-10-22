@@ -1,0 +1,87 @@
+{
+ "title": "Karl Marx: Materialism, Class Struggle, and Capitalism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Do our ideas shape society, or does economic production shape our ideas?",
+   "narration": "Imagine if everything you believe about religion, law, and politics was actually decided by who owns the factories. Karl Marx argued that matter and money, not ideas, drive all of human history."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "In street cricket, whoever brings the bat and ball always makes all the match rules.",
+   "narration": "Here is a simple analogy: in street cricket, the kid who owns the bat dictates who bats first. For Marx, the class owning the tools of production writes the rules for everyone else."
+  },
+  {
+   "type": "points",
+   "heading": "Historical Materialism as a Science",
+   "items": [
+    "Matter drives history rather than abstract ideas",
+    "First historical act is production to survive",
+    "Manual labor has priority over contemplation"
+   ],
+   "narration": "Marx called his theory scientific because humans must eat before they can think. Therefore, physical production and manual labor come first, turning Hegel upside down by putting matter above ideas."
+  },
+  {
+   "type": "pyramid",
+   "heading": "The Base and Superstructure Model",
+   "levels": [
+    "Superstructure: Ideas and Culture",
+    "Superstructure: State and Law",
+    "Base: Economic Production"
+   ],
+   "narration": "Think of society as a building where the economic base supports everything. The legal system, religion, and state form the superstructure, merely reflecting the interests of whoever controls the economy."
+  },
+  {
+   "type": "compare",
+   "heading": "Two Classes in Irreconcilable Conflict",
+   "columns": [
+    {
+     "title": "Haves (Owners)",
+     "items": [
+      "Own the means of production",
+      "Control the state apparatus",
+      "Act as a reactionary class"
+     ]
+    },
+    {
+     "title": "Have-Nots (Workers)",
+     "items": [
+      "Own only their labor power",
+      "Suffer constant economic exploitation",
+      "Act as the revolutionary class"
+     ]
+    }
+   ],
+   "narration": "Marx famously wrote that all human history is the history of class struggle. Society splits into two irreconcilable camps: the propertied haves who exploit, and the propertyless have-nots who fight for change."
+  },
+  {
+   "type": "balance",
+   "heading": "Surplus Value as Capitalist Theft",
+   "left": "Three Hours Paid Work",
+   "right": "Nine Hours Unpaid Labor",
+   "tilt": "right",
+   "narration": "In capitalism, profit comes from surplus value, which Marx called pure theft. A worker labors for twelve hours but receives wages for only three, while the boss pockets the unpaid value."
+  },
+  {
+   "type": "flow",
+   "heading": "Awakening True Revolutionary Class Consciousness",
+   "steps": [
+    "False consciousness obscures class exploitation",
+    "Class in itself recognizes differences",
+    "Class for itself organizes struggle",
+    "Spontaneous mass armed revolution erupts"
+   ],
+   "narration": "Workers first shed the false consciousness of religion and nationalism. As exploitation intensifies, they move from merely being a class in itself to a conscious class for itself, sparking an armed mass revolution."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Economic production forms the base shaping all society",
+    "Surplus value is unpaid labor stolen by capitalists",
+    "Class consciousness transforms workers to lead armed revolution"
+   ],
+   "narration": "To ace your exam, remember these three keys: the economic base shapes the superstructure, surplus value is capitalist theft, and class consciousness drives the final revolution into a classless society."
+  }
+ ]
+}

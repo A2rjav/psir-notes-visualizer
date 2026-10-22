@@ -1,0 +1,86 @@
+{
+ "title": "Judicial Appointments and the Collegium System",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can judges in India appoint their own colleagues?",
+   "narration": "Imagine walking into an exam and choosing your own examiner! In India, judges actually select other judges through a closed group called the collegium system. Let us understand how this unique system works and why it sparks debate."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Cricket players selecting their own match umpire without team captains.",
+   "narration": "Think of this as an analogy: imagine cricket players choosing their own match umpire without consulting the team captains. That is similar to how the collegium allows judges to pick fellow judges to protect judicial independence."
+  },
+  {
+   "type": "thinker",
+   "name": "B.R. Ambedkar",
+   "idea": "Rejected judges appointing judges to prevent an imperium in imperio.",
+   "work": "",
+   "narration": "During the Constituent Assembly debates, Dr. B.R. Ambedkar warned against creating a state within a state. He wanted executive appointment balanced with judicial consultation so no single branch holds total control."
+  },
+  {
+   "type": "timeline",
+   "heading": "Evolution of the Collegium System",
+   "events": [
+    {
+     "when": "1977",
+     "what": "Consultation does not mean concurrence"
+    },
+    {
+     "when": "1981",
+     "what": "First Judges Case upholds executive power"
+    },
+    {
+     "when": "1993",
+     "what": "Second Judges Case gives primacy to CJI"
+    },
+    {
+     "when": "1998",
+     "what": "Collegium expands to CJI and four judges"
+    }
+   ],
+   "narration": "Here is the trick to remembering this evolution. In 1981, executive consultation was not binding concurrence, but by 1998, the Supreme Court ruled that the Chief Justice and four senior judges must agree."
+  },
+  {
+   "type": "points",
+   "heading": "Flaws in the Collegium System",
+   "items": [
+    "Severe delays and mounting court vacancies",
+    "Lack of transparency and uncle judge syndrome",
+    "Resistance to Right to Information scrutiny"
+   ],
+   "narration": "Why did people demand change? The collegium faced criticism for judicial vacancies, slow justice, and favoritism known as uncle judge syndrome. The judiciary also stayed reluctant to bring the Chief Justice under the Right to Information."
+  },
+  {
+   "type": "compare",
+   "heading": "NJAC Reform Versus Court Verdict",
+   "columns": [
+    {
+     "title": "99th Amendment NJAC",
+     "items": [
+      "Six member commission with Law Minister",
+      "Any two members hold veto power"
+     ]
+    },
+    {
+     "title": "Supreme Court 2015",
+     "items": [
+      "Declared NJAC unconstitutional and void",
+      "Ordered a new Memorandum of Procedure"
+     ]
+    }
+   ],
+   "narration": "Parliament passed the 99th Amendment to create the National Judicial Appointments Commission with government members. However, in 2015, the Supreme Court struck it down to safeguard judicial independence, while ordering better appointment procedures."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Ambedkar opposed judges appointing judges without checks",
+    "Three Judges Cases established the collegium system",
+    "NJAC was struck down in 2015"
+   ],
+   "narration": "Remember these three essentials: Ambedkar warned against unchecked judicial appointments, the Three Judges cases created the collegium, and the 2015 verdict preserved judicial primacy. Keep these milestones in mind for your exams!"
+  }
+ ]
+}

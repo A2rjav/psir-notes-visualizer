@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did traditional comparative methods prove inadequate for studying newly independent non-Western nations after World War II?",
+   "options": [
+    "Non-Western states completely lacked written constitutions and formal institutional frameworks after achieving independence.",
+    "Non-Western states had formal constitutions on paper, but lacked actual constitutionalism and adherence in practice.",
+    "Non-Western political systems functioned in complete isolation without any social or cultural environmental interactions.",
+    "Non-Western nations possessed identical cultural and economic structures to Western industrialized democracies."
+   ],
+   "answer": 1,
+   "why": "The notes explain that in post-colonial states, constitutions existed without constitutionalism, creating a gap between theory and practice that formal legal studies could not explain.",
+   "page": 10
+  },
+  {
+   "q": "According to David Easton, what distinct function separates the political system from other subsystems in society?",
+   "options": [
+    "Authoritatively allocating values through decisions and policies that are legally binding on society.",
+    "Eliminating all social conflict by maintaining absolute harmony among competing economic classes.",
+    "Aggregating private interests into legislative proposals through formal political party competition.",
+    "Drafting static constitutional rules to regulate the internal hierarchy of social institutions."
+   ],
+   "answer": 0,
+   "why": "Easton defined the political system by its unique function of making authoritative allocations of values through legally binding decisions.",
+   "page": 12
+  },
+  {
+   "q": "Why do Marxist scholars criticize David Easton's input-output model as status quoist?",
+   "options": [
+    "It focuses exclusively on primitive kinship networks rather than modern industrialized state machinery.",
+    "It overemphasizes revolutionary class struggles while ignoring institutional stability and legal procedures.",
+    "It rejects scientific behavioral methods in favor of subjective, value-laden traditional philosophy.",
+    "It assumes smooth equilibrium through feedback loops, leaving no room for revolution or protest."
+   ],
+   "answer": 3,
+   "why": "Marxists argue that the model portrays politics as an equilibrating machine, ignoring intense conflict, social protests, and revolutionary changes.",
+   "page": 15
+  },
+  {
+   "q": "According to Almond and Powell, why can the structural-functional framework effectively compare both advanced and developing societies?",
+   "options": [
+    "Both societies have identical institutional structures that perform entirely different political functions.",
+    "Developing societies only perform output functions, whereas advanced societies perform only input functions.",
+    "All political systems perform the same essential functions, even though the performing structures differ widely.",
+    "Both societies have completely eliminated traditional kinship networks in favor of modern political parties."
+   ],
+   "answer": 2,
+   "why": "Almond adopted functionalism to argue that while structures vary across developmental stages, all political systems perform universal survival functions.",
+   "page": 16
+  }
+ ]
+}

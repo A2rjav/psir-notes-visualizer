@@ -1,0 +1,73 @@
+{
+ "title": "Classical and Modern Positive Liberalism",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does freedom mean zero government rules, or help to achieve your goals?",
+   "narration": "Imagine you are stuck on a deserted road with no car. Are you truly free just because nobody stopped you from walking?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A school cricket match needs fair rules and gear, not just an empty field.",
+   "narration": "Think of this analogy like playing school cricket. If there is no umpire and no gear, only the strongest bully wins. True freedom needs fair rules and proper equipment for everyone."
+  },
+  {
+   "type": "compare",
+   "heading": "Two Faces of Liberalism",
+   "columns": [
+    {
+     "title": "Classical Liberalism",
+     "items": [
+      "State is necessary evil",
+      "Negative liberty: no interference",
+      "Minimal police functions"
+     ]
+    },
+    {
+     "title": "Positive Liberalism",
+     "items": [
+      "State builds human capacity",
+      "Positive liberty: real opportunity",
+      "Welfare through affirmative action"
+     ]
+    }
+   ],
+   "narration": "Early classical liberals saw the state as a necessary evil that should only police crime, leaving people alone. But modern positive liberals realized that starving people cannot enjoy freedom without public schools, healthcare, and state support."
+  },
+  {
+   "type": "thinker",
+   "name": "T.H. Green",
+   "idea": "Liberty is the capacity of doing something worth doing.",
+   "work": "Principles of Political Obligation",
+   "narration": "Meet T.H. Green, the father of positive liberty. He argued that freedom is not just being left alone; it is having real capacity to do something worth doing, grounded in human dignity."
+  },
+  {
+   "type": "flow",
+   "heading": "Green's Chain of Freedom",
+   "steps": [
+    "Human consciousness postulates liberty",
+    "Liberty involves social rights",
+    "Rights demand the state",
+    "State acts as guarantor"
+   ],
+   "narration": "Here's the trick to understanding Green's big idea. Our human mind demands freedom to grow, that freedom requires society to recognize our rights, and rights need the state to protect them."
+  },
+  {
+   "type": "thinker",
+   "name": "Harold Laski",
+   "idea": "Rights and duties are correlated under the functional theory of rights.",
+   "work": "Grammar of Liberty",
+   "narration": "Now meet Harold Laski, who inspired Indian leaders like Nehru. He taught that rights and duties are two sides of one coin: if business owners enjoy profits, they have a duty to protect worker welfare."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Classical liberalism wants minimal state non-interference",
+    "Positive liberalism defines freedom as capacity",
+    "Laski ties individual rights to social duties"
+   ],
+   "narration": "To recap: first, classical liberals wanted a minimal state. Second, positive liberals showed that true liberty requires state-built capacity. Finally, rights always go hand in hand with social duties."
+  }
+ ]
+}

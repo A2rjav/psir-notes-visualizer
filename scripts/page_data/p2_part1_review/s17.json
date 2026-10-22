@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does NAFTA fundamentally differ from regional integration blocs like the European Union?",
+   "options": [
+    "It establishes a shared political parliament and common currency across all member states.",
+    "It is strictly a commercial trading bloc without any supranational governing institutions.",
+    "It requires member nations to merge their sovereign defence and foreign policy structures.",
+    "It operates as a unified customs union with a single common external tariff."
+   ],
+   "answer": 1,
+   "why": "NAFTA was created purely as a commercial trading bloc and intentionally lacks any supranational governing institutions like those found in the European Union.",
+   "page": 179
+  },
+  {
+   "q": "Under NAFTA, what is the primary function of the 'rules of origin' clause?",
+   "options": [
+    "To mandate that all imported manufactured goods originate entirely from developing member nations.",
+    "To allow non-member nations to freely export assembled automobiles into North American markets.",
+    "To require member states to completely equalize their domestic industrial wages and taxes.",
+    "To ensure products contain substantial member-country content before receiving duty-free trade benefits."
+   ],
+   "answer": 3,
+   "why": "Rules of origin require exported goods to contain a substantial percentage of member-country components to qualify for tariff-free benefits.",
+   "page": 178
+  },
+  {
+   "q": "According to the class notes, what was the primary driver of President Trump's opposition to NAFTA?",
+   "options": [
+    "Domestic electoral politics aimed at winning working-class voters hurt by factory job relocations.",
+    "A catastrophic decline in North American trade competitiveness against European and Asian economies.",
+    "Canada's refusal to supply crude oil and agricultural commodities to United States markets.",
+    "Mexico's complete rejection of United States intellectual property and dispute settlement mechanisms."
+   ],
+   "answer": 0,
+   "why": "Opposition to NAFTA was driven by domestic political calculations to win over working-class voters who lost industrial manufacturing jobs.",
+   "page": 180
+  },
+  {
+   "q": "Why do the notes conclude that NAFTA faces no real existential threat despite strong political attacks?",
+   "options": [
+    "The World Trade Organization legally prohibits member states from renegotiating regional free trade treaties.",
+    "All member countries have fully integrated their national currencies into a single North American system.",
+    "United States economic gains, stable energy imports, and counterbalancing China outweigh political complaints.",
+    "Mexico and Canada agreed to absorb all manufacturing wage differences across the three borders."
+   ],
+   "answer": 2,
+   "why": "The strategic benefits of low energy costs and collective competitiveness against Chinese influence make NAFTA too advantageous for the United States to abandon.",
+   "page": 181
+  }
+ ]
+}

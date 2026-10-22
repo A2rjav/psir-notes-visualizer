@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does ASEAN's institutional approach fundamentally differ from the model followed by the European Union?",
+   "options": [
+    "It relies on non-interference and consensus rather than creating supranational decision-making institutions.",
+    "It establishes legally binding supranational bodies to strictly enforce regional human rights standards.",
+    "It requires members to surrender national economic sovereignty through a single supranational currency.",
+    "It limits cooperation solely to military defense alliances without engaging in economic integration."
+   ],
+   "answer": 0,
+   "why": "Unlike the European Union's supranational governance, the ASEAN way emphasizes non-interference in domestic affairs and consensus-based cooperation.",
+   "page": 165
+  },
+  {
+   "q": "How does India's Act East Policy primarily differ in strategic orientation from the earlier Look East Policy?",
+   "options": [
+    "It restricts diplomatic engagement solely to commercial trade pacts with original Southeast Asian members.",
+    "It shifts primary weight toward strategic and maritime security while expanding across the wider Asia-Pacific.",
+    "It abandons defense partnerships to focus exclusively on domestic cultural exchanges within South Asia.",
+    "It replaces multilateral engagements with non-aligned isolationism to avoid regional security commitments."
+   ],
+   "answer": 1,
+   "why": "Act East expands India's geographic scope to the wider Asia-Pacific and gives primary emphasis to strategic and maritime security cooperation.",
+   "page": 171
+  },
+  {
+   "q": "Why does scholar C. Raja Mohan argue that the Act East Policy is more than mere rebranding?",
+   "options": [
+    "Because India completely withdrew from multilateral trade negotiations like the RCEP framework.",
+    "Because India replaced all bilateral ties with a formal supranational Asian security community.",
+    "Because India engages regional partners with unprecedented speed, greater scale, and wider geographic space.",
+    "Because India restricted its strategic focus strictly to immediate land borders in South Asia."
+   ],
+   "answer": 2,
+   "why": "C. Raja Mohan highlights that Act East is distinct because of the unprecedented speed, scale, and geographic space of India's regional diplomacy.",
+   "page": 172
+  },
+  {
+   "q": "What defining characteristic makes APEC a prominent model of open regionalism in the Asia-Pacific?",
+   "options": [
+    "It enforces centralized supranational laws and imposes mandatory economic sanctions on non-compliant states.",
+    "It requires members to dissolve sovereign trade barriers and establish a uniform regional currency.",
+    "It limits membership strictly to recognized sovereign states while barring distinct regional economies.",
+    "It features minimal institutionalisation where members make voluntary, non-binding pledges decided by consensus."
+   ],
+   "answer": 3,
+   "why": "APEC operates through open regionalism, characterized by minimal institutionalization, non-binding voluntary commitments, and consensus-based decisions.",
+   "page": 176
+  }
+ ]
+}

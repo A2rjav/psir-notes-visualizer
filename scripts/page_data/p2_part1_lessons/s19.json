@@ -1,0 +1,89 @@
+{
+ "title": "India-Pakistan Relations: Strategic Doctrines and Disputes",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why have India and Pakistan remained in conflict for over seventy years?",
+   "narration": "Imagine two neighbours who share a long fence but cannot agree on peace. Why has normalising relations between India and Pakistan been so difficult for decades?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏘️",
+   "text": "Feuding flat owners who block shared repairs out of deep mutual mistrust.",
+   "narration": "As an everyday analogy, imagine two feuding members in a housing society. Neither trusts the other, so every simple repair turns into an endless, bitter courtroom fight."
+  },
+  {
+   "type": "thinker",
+   "name": "Stephen P. Cohen",
+   "idea": "India and Pakistan face a mutually hurting stalemate where neither can win.",
+   "work": "Shooting for a Century",
+   "narration": "Scholar Stephen Cohen explains that this is a paired minority conflict. Neither side can decisively defeat the other, creating a mutually hurting stalemate that lasts for generations."
+  },
+  {
+   "type": "compare",
+   "heading": "Evolution of Indian Doctrines",
+   "columns": [
+    {
+     "title": "Gujral Doctrine",
+     "items": [
+      "Peaceful periphery focus",
+      "Unilateral concessions to neighbours"
+     ]
+    },
+    {
+     "title": "Manmohan Doctrine",
+     "items": [
+      "Economic diplomacy and trade",
+      "Soft borders on Kashmir"
+     ]
+    },
+    {
+     "title": "Modi Approach",
+     "items": [
+      "Diplomatic isolation of Pakistan",
+      "No talks with terror",
+      "Raises stakes with pressure cards"
+     ]
+    }
+   ],
+   "narration": "Past leaders tried peaceful engagement. Gujral offered unilateral concessions, and Manmohan Singh pushed trade, but Modi shifted track to isolate Pakistan and raise conflict stakes."
+  },
+  {
+   "type": "points",
+   "heading": "Modi's Three Strategic Cards",
+   "items": [
+    "Raise human rights violations in Baluchistan",
+    "Challenge Pakistan's claims on Gilgit Baltistan",
+    "Review the Indus Waters Treaty"
+   ],
+   "narration": "To counter proxy warfare, India started using three pressure cards. Modi highlighted human rights in Baluchistan, disputed Gilgit Baltistan, and reviewed water rights under the Indus treaty."
+  },
+  {
+   "type": "balance",
+   "heading": "Indus Water Sharing",
+   "left": "Western Rivers Eighty Percent",
+   "right": "Eastern Rivers Twenty Percent",
+   "tilt": "left",
+   "narration": "Under the Indus treaty, Pakistan receives eighty percent of the water from western rivers. India holds eastern rivers, but now insists blood and water cannot flow together."
+  },
+  {
+   "type": "points",
+   "heading": "Territorial Border Disputes",
+   "items": [
+    "Siachen boundary undemarcated beyond point NJ 9842",
+    "Operation Meghdoot secured strategic Saltoro heights",
+    "Sir Creek estuary disputed between boundary maps"
+   ],
+   "narration": "On the ground, borders remain unresolved. In 1984, Operation Meghdoot secured the icy Siachen heights, while the marshy Sir Creek estuary remains trapped between competing colonial maps."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Cohen describes a mutually hurting paired minority stalemate",
+    "Indian doctrines evolved from engagement to raising stakes",
+    "Siachen, Sir Creek, and Indus water remain key flashpoints"
+   ],
+   "narration": "Here is the lesson recap. First, structural mistrust fuels a stubborn stalemate. Second, doctrines shifted from dialogue to strategic pressure. Third, territorial and water disputes keep tensions high."
+  }
+ ]
+}

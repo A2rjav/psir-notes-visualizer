@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How do the normative and empirical approaches fundamentally differ in their orientation toward political reality?",
+   "options": [
+    "Normative theory prescribes ideals for change, while empirical theory describes observable facts, favoring the status quo.",
+    "Normative theory describes existing institutions, while empirical theory prescribes moral ideals to achieve radical political change.",
+    "Normative theory evaluates statements as true or false, while empirical theory judges moral right or wrong.",
+    "Normative theory analyzes legal government provisions, while empirical theory focuses strictly on abstract ideals of justice."
+   ],
+   "answer": 0,
+   "why": "The notes state that normative theory prescribes what ought to be and is change-oriented, whereas empirical theory describes what is and tends to be status quoist.",
+   "page": 213
+  },
+  {
+   "q": "Why do Cambridge School contextualists argue that repeated readings of a text cannot reveal its author's meaning?",
+   "options": [
+    "Classical texts contain fixed universal meanings that any diligent reader can decipher without historical context.",
+    "Linguistic meanings shift over time, requiring readers to understand the author's historical and linguistic context.",
+    "Historical texts contain inevitable ideological laws that predetermine how political societies must develop over time.",
+    "Classical writings lack quantitative data, making textual interpretation invalid until tested by modern behavioural techniques."
+   ],
+   "answer": 1,
+   "why": "Scholars like Pocock and Skinner emphasize that word meanings change across time, so texts cannot be understood without their linguistic and historical context.",
+   "page": 211
+  },
+  {
+   "q": "According to March and Olson's New Institutionalism, why is studying individual political behaviour alone insufficient?",
+   "options": [
+    "Political science should exclusively examine written constitutional provisions rather than the actual choices of individuals.",
+    "Individual political behaviour is inherently irrational and requires guidance from abstract philosophical principles of justice.",
+    "Individual actors are not completely autonomous, because institutions, norms, and procedures actively constrain their choices.",
+    "Formal institutional rules completely eliminate human agency, leaving political outcomes strictly determined by economic structures."
+   ],
+   "answer": 2,
+   "why": "March and Olson showed that political actors do not act freely in a vacuum, as institutions, norms, and procedures constantly shape and limit their decisions.",
+   "page": 212
+  },
+  {
+   "q": "Why did post-behaviouralists in the 1960s reject the goal of turning political science into a pure science?",
+   "options": [
+    "They sought to return political science entirely to medieval religious scholastics and theological moral doctrines.",
+    "They argued that political inquiry should focus exclusively on formal state constitutions and legal provisions.",
+    "They believed that political behavior had already achieved the predictive certainty of physics and chemistry.",
+    "They realized that pursuing a pure science compromised the discipline's subject matter and social relevance."
+   ],
+   "answer": 3,
+   "why": "The notes explain that post-behaviouralists found that attempting to build a pure science compromised both the core subject matter and practical relevance of political science.",
+   "page": 203
+  }
+ ]
+}

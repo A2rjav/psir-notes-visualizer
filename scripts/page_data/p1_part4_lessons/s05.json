@@ -1,0 +1,73 @@
+{
+ "title": "Multiculturalism, End of History, and Civilizational Clash",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a democracy treat everyone fairly if it ignores their cultural identity?",
+   "narration": "Imagine treating all citizens exactly the same, but still leaving many feeling excluded. Traditional liberalism sees people as isolated individuals, but multiculturalists say our cultures shape who we really are."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school allowing turbans and special holidays ensures every student belongs.",
+   "narration": "Here is an everyday school analogy to make this click. If a school forces a single uniform rule without allowing turbans or religious scarves, it treats everyone identically but unfairly hurts minority students."
+  },
+  {
+   "type": "points",
+   "heading": "Kymlicka's Three Minority Rights",
+   "items": [
+    "Special representation rights in government",
+    "Self-governance rights for concentrated groups",
+    "Polyethnic rights for cultural exemptions"
+   ],
+   "narration": "Thinker Will Kymlicka argued that liberalism must evolve by granting special rights to national minorities. He proposed legislative seats, self-governance for regional communities, and polyethnic rights like cultural exemptions."
+  },
+  {
+   "type": "thinker",
+   "name": "Bhikhu Parekh",
+   "idea": "Humans are culturally embedded, so dialogue between civilizations enriches diverse societies.",
+   "work": "Rethinking Multiculturalism",
+   "narration": "Bhikhu Parekh went further, arguing that we are deeply rooted in our cultures. He insisted that no culture is pure, so open dialogue between civilizations helps us discover shared human dignity."
+  },
+  {
+   "type": "balance",
+   "heading": "Parekh's Harm Principle",
+   "left": "Individual Autonomy",
+   "right": "Cultural Practices",
+   "tilt": "even",
+   "narration": "How do we balance individual freedom with community traditions? Parekh used the harm principle: as long as a cultural practice causes no direct harm, society should respect it rather than ban it."
+  },
+  {
+   "type": "compare",
+   "heading": "Post-Cold War Order",
+   "columns": [
+    {
+     "title": "Fukuyama: End of History",
+     "items": [
+      "Endpoint of human ideological evolution",
+      "Global triumph of liberal democracy",
+      "Western political supremacy"
+     ]
+    },
+    {
+     "title": "Huntington: Civilizational Clash",
+     "items": [
+      "Conflicts driven by cultural differences",
+      "Clashes among eight major civilizations",
+      "Deep religious and civilizational fault lines"
+     ]
+    }
+   ],
+   "narration": "After the Cold War, Francis Fukuyama claimed liberal democracy was humanity's final ideological destination. But Samuel Huntington warned that future conflicts would not be ideological, but cultural clashes across eight major civilizations."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Multiculturalism protects non-dominant cultural identities.",
+    "Parekh and Kymlicka champion minority rights and dialogue.",
+    "Fukuyama saw liberal triumph; Huntington predicted civilizational clash."
+   ],
+   "narration": "To wrap up, remember these three essentials. Multiculturalism defends cultural identity, thinkers offer frameworks to balance rights, and global politics still debates between universal liberalism and civilizational divides."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did Jeremy Bentham dismiss the concept of natural rights as 'nonsense upon stilts'?",
+   "options": [
+    "He believed that rights can only exist when created and enforced by positive state law.",
+    "He argued that rights are derived from customary traditions rather than abstract philosophy.",
+    "He asserted that moral consciousness alone is sufficient to guarantee individual freedom.",
+    "He maintained that natural rights grant excessive authority to the sovereign government."
+   ],
+   "answer": 0,
+   "why": "Bentham argued that rights are strictly legal creations of the state, warning that claiming natural rights without law leads to anarchy.",
+   "page": 149
+  },
+  {
+   "q": "According to T. H. Green's moral theory of rights, what is the relationship between consciousness and rights?",
+   "options": [
+    "Rights are mechanical claims enforced by the state to maintain basic social order.",
+    "Human consciousness postulates liberty, and that liberty necessarily involves the recognition of rights.",
+    "Rights arise solely from historical customs and conventions passed down through social generations.",
+    "Rights are functional utilities granted by the state only after citizens fulfill their duties."
+   ],
+   "answer": 1,
+   "why": "Green grounds rights in human morality, arguing that human consciousness requires liberty, which in turn necessitates rights.",
+   "page": 150
+  },
+  {
+   "q": "In Karel Vasak's classification, which set of rights constitutes the third generation of human rights?",
+   "options": [
+    "Civil and political liberties focused on negative state non-interference.",
+    "Socio-economic claims such as the right to education and adequate food.",
+    "Collective and solidarity rights including environmental protection and development.",
+    "Traditional customary privileges derived from long-standing community practices."
+   ],
+   "answer": 2,
+   "why": "Third-generation rights focus on collective and solidarity claims, including the right to development and a healthy environment.",
+   "page": 157
+  },
+  {
+   "q": "How does Bhikhu Parekh propose resolving the tension between universal human rights and cultural diversity?",
+   "options": [
+    "By subordinating cultural diversity entirely to Western individualist definitions of rights.",
+    "By rejecting all international human rights frameworks in favor of absolute state sovereignty.",
+    "By enforcing utilitarian calculations to maximize economic development across non-Western societies.",
+    "By initiating an inter-civilizational dialogue to build consensus around human dignity."
+   ],
+   "answer": 3,
+   "why": "Parekh advocates an inter-civilizational dialogue to build global consensus around foundational shared values like human dignity.",
+   "page": 154
+  }
+ ]
+}

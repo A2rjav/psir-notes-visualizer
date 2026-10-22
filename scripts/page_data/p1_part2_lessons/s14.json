@@ -1,0 +1,86 @@
+{
+ "title": "Doctrine of Basic Structure and Constitutional Balance",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can Parliament rewrite India's Constitution and take away your basic freedoms?",
+   "narration": "Can Parliament change anything in the Constitution, even your basic freedoms? Here is the twist: India's Supreme Court created a unique shield to stop that."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Changing match rules cannot turn cricket into a completely different game.",
+   "narration": "Think of an everyday analogy: in school cricket, you can modify match rules, but you cannot remove the wickets and call it cricket! Similarly, Parliament can amend constitutional provisions, but cannot erase the game's core foundation."
+  },
+  {
+   "type": "compare",
+   "heading": "Fundamental Rights vs Directive Principles",
+   "columns": [
+    {
+     "title": "Fundamental Rights",
+     "items": [
+      "Enforceable in court",
+      "Protect civil liberties",
+      "Based on liberalism"
+     ]
+    },
+    {
+     "title": "Directive Principles",
+     "items": [
+      "Non-enforceable in court",
+      "Promote social justice",
+      "Inspired by socialism"
+     ]
+    }
+   ],
+   "narration": "Why did disputes arise? Part Three gives enforceable Fundamental Rights protecting individual liberty, while Part Four gives Directive Principles seeking an egalitarian society. The challenge was pursuing social welfare without crushing individual freedom."
+  },
+  {
+   "type": "timeline",
+   "heading": "Evolution of Basic Structure",
+   "events": [
+    {
+     "when": "1951",
+     "what": "Shankari Prasad upholds amending power"
+    },
+    {
+     "when": "1967",
+     "what": "Golaknath prevents abridging Fundamental Rights"
+    },
+    {
+     "when": "1973",
+     "what": "Kesavananda Bharati introduces Basic Structure"
+    },
+    {
+     "when": "1980",
+     "what": "Minerva Mills restores constitutional harmony"
+    }
+   ],
+   "narration": "Look at this timeline: after decades of judicial clashes, the Kesavananda Bharati ruling in 1973 drew the line. The Court held that amending the Constitution is valid, but rewriting its basic identity is not."
+  },
+  {
+   "type": "balance",
+   "heading": "Restoring Balance",
+   "left": "Fundamental Rights",
+   "right": "Directive Principles",
+   "tilt": "even",
+   "narration": "In the Minerva Mills case, the Supreme Court restored constitutional balance. It affirmed that Fundamental Rights and Directive Principles are two wheels of a chariot, meaning neither can be made completely subordinate to the other."
+  },
+  {
+   "type": "thinker",
+   "name": "Zia Mody",
+   "idea": "Basic Structure acts as a safety valve against authoritarianism",
+   "work": "The Ten Judgements That Changed India",
+   "narration": "Author Zia Mody explains that while the doctrine remains contested, it served as a vital safety valve. It stopped India from sliding into authoritarian rule, proving that uncertain democracy is always better than tyranny."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Parliament cannot destroy the Constitution core",
+    "Kesavananda Bharati established the doctrine in 1973",
+    "Maintains harmony between Rights and Directives"
+   ],
+   "narration": "Here is your quick recap: first, Parliament cannot destroy the Constitution's basic structure. Second, the 1973 Kesavananda ruling established this boundary. Third, true constitutional strength lies in balancing individual rights with social welfare."
+  }
+ ]
+}

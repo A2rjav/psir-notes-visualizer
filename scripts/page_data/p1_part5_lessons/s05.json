@@ -1,0 +1,69 @@
+{
+ "title": "Plato: Totalitarianism, Feminism, and Open Society",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Was history's greatest philosopher actually a dangerous enemy of freedom?",
+   "narration": "Imagine someone who loved wisdom so much that thinkers call all philosophy just footnotes to him. Yet modern critics call him history's first fascist! Let's uncover the big debate around Plato."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school where the principal decides your career, marriage, and entire life.",
+   "narration": "Think of this analogy like an extreme boarding school. The warden controls every single choice for order, giving you zero freedom. That total state control is what we call totalitarianism."
+  },
+  {
+   "type": "thinker",
+   "name": "Karl Popper",
+   "idea": "Plato was an enemy of open society and the first fascist thinker.",
+   "work": "The Open Society and Its Enemies",
+   "narration": "Karl Popper shocked everyone by calling Plato an enemy of open society. Popper argued that Plato hated democracy, banned personal freedom, and claimed absolute truth."
+  },
+  {
+   "type": "balance",
+   "heading": "The Totalitarianism Debate",
+   "left": "Exploitative Fascist State",
+   "right": "Utopia of Virtue",
+   "tilt": "even",
+   "narration": "Scholar Levinson defended Plato, writing that comparing Plato's ideal state to modern fascism is comparing the uncomparable. Fascism exploits people, whereas Plato genuinely aimed for human excellence and virtue."
+  },
+  {
+   "type": "compare",
+   "heading": "Was Plato a Feminist?",
+   "columns": [
+    {
+     "title": "Plato as Feminist",
+     "items": [
+      "Equal education for women",
+      "Women can be Philosopher Queens",
+      "State-supported child rearing"
+     ]
+    },
+    {
+     "title": "The Critics",
+     "items": [
+      "No focus on women's upliftment",
+      "Talents used for the state",
+      "Utility rather than equal rights"
+     ]
+    }
+   ],
+   "narration": "Surprisingly, Plato gave women equal education and leadership as Philosopher Queens! But critics argue he did not care about women's rights; he just wanted to use their talent for state power."
+  },
+  {
+   "type": "quote",
+   "quote": "The entire western political thought is nothing but footnotes to Plato and Aristotle.",
+   "by": "Whitehead",
+   "narration": "Despite every critique, Plato remains the father of political philosophy. Thinker Whitehead noted that all Western political thought is simply a footnote to Plato and Aristotle."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Popper accused Plato of totalitarianism and hating democracy.",
+    "Levinson argued Plato sought virtue, not fascist exploitation.",
+    "Plato pioneered female rulers and founded political philosophy."
+   ],
+   "narration": "Remember these three takeaways for your exam. Popper attacked Plato's totalitarian control, Levinson defended Plato's noble intentions, and Plato's groundbreaking ideas still shape all political philosophy today."
+  }
+ ]
+}

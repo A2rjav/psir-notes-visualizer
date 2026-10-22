@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How do socialists distinguish their conception of freedom from the liberal concept of liberty?",
+   "options": [
+    "They view bourgeois liberty as formal and define real freedom as emancipation from material necessities.",
+    "They prioritize negative liberty to ensure that individual actions remain free from state interference.",
+    "They equate freedom with political participation through periodic voting in parliamentary elections.",
+    "They define freedom as the aggregate satisfaction of self-interested desires in a free market."
+   ],
+   "answer": 0,
+   "why": "Socialists reject liberal bourgeois liberty as purely formal, arguing that true freedom requires freedom from basic economic necessities.",
+   "page": 39
+  },
+  {
+   "q": "Why did Eduard Bernstein reject the necessity of a violent revolution in Evolutionary Socialism?",
+   "options": [
+    "He believed the state had already dissolved naturally through working-class strikes and direct action.",
+    "He argued that workers form a democratic majority and can achieve their goals through parliamentary means.",
+    "He considered class struggle unnecessary because the educated middle class would establish socialism voluntarily.",
+    "He asserted that industrial democracy could only be attained by replacing political parliaments with trade guilds."
+   ],
+   "answer": 1,
+   "why": "Bernstein argued that since the working class constitutes an electoral majority, they can fulfill their interests through peaceful parliamentary institutions.",
+   "page": 40
+  },
+  {
+   "q": "How did G.D.H. Cole's Guild Socialism propose to structure democratic representation?",
+   "options": [
+    "By abolishing the political state completely and placing all authority into a confederation of syndicates.",
+    "By relying entirely on middle-class intellectual societies to guide state bureaucrats in policy formulation.",
+    "By establishing functional representation and a functional parliament alongside traditional territorial and political institutions.",
+    "By eliminating class struggle through moral persuasion while maintaining standard single-member parliamentary constituencies."
+   ],
+   "answer": 2,
+   "why": "G.D.H. Cole advocated for functional representation and a functional parliament alongside territorial bodies to adequately represent diverse economic interests.",
+   "page": 41
+  },
+  {
+   "q": "According to contemporary socialist thinkers, what primary role does socialism play in the twenty-first century?",
+   "options": [
+    "It offers an immediate revolutionary blueprint to entirely replace global trade with isolated syndicates.",
+    "It serves as a philosophical justification for the undisputed hegemony of post-Cold War neoliberal capitalism.",
+    "It functions as a historical doctrine confined to twentieth-century industrial struggles with no current application.",
+    "It acts as an indispensable critique of rising capitalist inequalities to keep economic systems humane."
+   ],
+   "answer": 3,
+   "why": "Even if not adopted as a complete alternative, socialism remains vital as an ongoing critique of capitalist inequality to keep capitalism humane.",
+   "page": 44
+  }
+ ]
+}

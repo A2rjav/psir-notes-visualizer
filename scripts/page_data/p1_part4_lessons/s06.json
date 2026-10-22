@@ -1,0 +1,89 @@
+{
+ "title": "Socialism: Evolution, Schools, and Global Spread",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why is socialism called a hat that has lost its shape?",
+   "narration": "Have you ever wondered why so many political parties call themselves socialist? In our notes, scholars compare socialism to a hat that has lost its shape because everybody wears it to win votes!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket team where players share gear equally instead of competing for basic equipment.",
+   "narration": "Here is an easy analogy: imagine your school cricket team sharing all bats and pads equally. Instead of letting rich kids monopolize the gear, everyone cooperates so every player gets a fair chance."
+  },
+  {
+   "type": "points",
+   "heading": "Core Principles of Socialism",
+   "items": [
+    "Social and economic equality over capitalism",
+    "Society viewed as an organic family",
+    "Real freedom means freedom from necessities",
+    "Absolute equality of outcomes for all"
+   ],
+   "narration": "Socialism was born to challenge capitalist inequality. Socialists treat society as an interconnected human family where true freedom means being free from basic hunger and poverty, guaranteeing equal outcomes for all."
+  },
+  {
+   "type": "compare",
+   "heading": "Two Paths: Fabianism Versus Syndicalism",
+   "columns": [
+    {
+     "title": "Fabian Socialism",
+     "items": [
+      "British peaceful parliamentary reform",
+      "Led by educated middle class",
+      "Uses state for social progress"
+     ]
+    },
+    {
+     "title": "Syndicalism",
+     "items": [
+      "French revolutionary workers movement",
+      "Direct action strikes and lockouts",
+      "Abolishes the political state completely"
+     ]
+    }
+   ],
+   "narration": "Notice how socialists split over methods and the state! British Fabians preferred peaceful middle class education and parliamentary reform, whereas French syndicalists relied on aggressive worker strikes to abolish the political state entirely."
+  },
+  {
+   "type": "timeline",
+   "heading": "Socialism on the Global Stage",
+   "events": [
+    {
+     "when": "Cold War",
+     "what": "Third World embraces collectivist socialism"
+    },
+    {
+     "when": "1990s",
+     "what": "Soviet collapse brings neoliberal hegemony"
+    },
+    {
+     "when": "1995",
+     "what": "Ralph Miliband defends socialist relevance"
+    },
+    {
+     "when": "Post-Financial Crisis",
+     "what": "Leftist movements revive across Europe"
+    }
+   ],
+   "narration": "During the Cold War, newly independent Third World nations embraced socialism because of their shared collectivist traditions. Although the Soviet collapse boosted neoliberal capitalism, rising inequalities brought socialist critiques right back into focus."
+  },
+  {
+   "type": "thinker",
+   "name": "Immanuel Wallerstein",
+   "idea": "Mankind has only two historical choices: either socialism or barbarism.",
+   "work": "",
+   "narration": "Here is the big takeaway from scholar Immanuel Wallerstein: he argues that humanity has only two real choices, either socialism or barbarism. For Wallerstein, socialism remains essential to stop capitalist exploitation."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Equality of outcomes over capitalist exploitation",
+    "Split between peaceful Fabianism and revolutionary syndicalism",
+    "Persistent relevance as twenty-first-century anti-capitalism"
+   ],
+   "narration": "To wrap up, remember that socialism champions absolute equality over exploitation, contains diverse peaceful and revolutionary schools, and endures today as twenty-first-century anti-capitalism."
+  }
+ ]
+}

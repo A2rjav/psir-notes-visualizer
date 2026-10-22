@@ -1,0 +1,73 @@
+{
+ "title": "Globalisation: Debates, Dimensions, and Responses",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does globalisation create a shared global village or deepen global inequalities?",
+   "narration": "Imagine a world where goods and ideas travel farther, faster, and cheaper than ever before. Globalisation connects us all, but does it treat everyone fairly?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "An open school sports tournament where only well-funded teams have the equipment to win.",
+   "narration": "Here is an analogy to make this click. Think of an open school tournament where well-equipped teams dominate, while poorer teams lack basic gear. The contest links everyone, but the playing field is uneven."
+  },
+  {
+   "type": "compare",
+   "heading": "Proponent Versus Critic",
+   "columns": [
+    {
+     "title": "Bhagwati's Defence",
+     "items": [
+      "Poverty rate cut in half",
+      "Life expectancy doubled",
+      "Literacy reached eighty percent"
+     ]
+    },
+    {
+     "title": "Wallerstein's Critique",
+     "items": [
+      "Centuries of capitalist exploitation",
+      "Constant search for markets",
+      "System dying its death"
+     ]
+    }
+   ],
+   "narration": "Economist Jagdish Bhagwati defends globalisation, showing how expanded trade halved poverty and raised literacy. However, Immanuel Wallerstein views it as ongoing capitalist exploitation dating back to the seventeenth century."
+  },
+  {
+   "type": "balance",
+   "heading": "Aid Versus Illicit Flows",
+   "left": "Northern Development Aid",
+   "right": "Southern Illegal Goods Outflow",
+   "tilt": "right",
+   "narration": "In their book The Dark Side of Globalisation, Jorge Heine and Ramesh Thakur warn we are nearing the end of geography, where borders blur. While poor nations receive billions in aid, far more wealth drains out through illicit channels."
+  },
+  {
+   "type": "thinker",
+   "name": "Arundhati Roy",
+   "idea": "Neo-liberal capitalism is a mutant, digitally operated variety of colonialism.",
+   "work": "Capitalism: A Ghost Story",
+   "narration": "Author Arundhati Roy presents a sharp critique, calling neo-liberal capitalism a remote-controlled, mutant variety of colonialism. She warns that it worsens poverty, exploits child labour, and damages our environment."
+  },
+  {
+   "type": "points",
+   "heading": "Reforming The Global System",
+   "items": [
+    "Resolve global governance democratic deficits",
+    "Protect workers from falling real wages",
+    "Invest in human capacity building"
+   ],
+   "narration": "Economist Joseph Stiglitz warns of a democratic deficit, where citizens lack a voice in global choices, leaving top plutocrats enriched and workers hurt. Amartya Sen argues that nations must empower people by building their capacities."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Bhagwati defends globalisation for slashing poverty and expanding literacy",
+    "Critics reveal severe inequalities, illegal resource drains, and exploitation",
+    "Sustainable success demands democratic governance and investing in people"
+   ],
+   "narration": "Here is the trick to remember. Globalisation delivers powerful growth, but unregulated markets fuel inequality and illegal drains. Making it work requires fair rules, democracy, and investing in people."
+  }
+ ]
+}

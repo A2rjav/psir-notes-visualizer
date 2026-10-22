@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why do pluralist political thinkers reject the monistic claim that the state possesses absolute authority over individuals?",
+   "options": [
+    "Because human needs are multidimensional and fulfilled by various associations rather than the state alone.",
+    "Because the state should be completely abolished to allow voluntary associations to govern society.",
+    "Because international organizations have fully replaced territorial states as supreme global sovereign bodies.",
+    "Because individual citizens possess no natural obligation to obey any collective social or political organization."
+   ],
+   "answer": 0,
+   "why": "Pluralists argue that humans have diverse needs met by various associations, so no single body can claim absolute loyalty.",
+   "page": 77
+  },
+  {
+   "q": "According to Harold Laski, why does the state remain the 'keystone of social architecture' despite pluralist dispersal of power?",
+   "options": [
+    "It holds an indivisible, monistic monopoly of absolute coercive command over every individual and group.",
+    "It acts as an essential coordinating framework and equilibrium maker to keep diverse social associations intact.",
+    "It possesses divine authority granted by historical tradition that elevates it above all voluntary associations.",
+    "It will progressively wither away once post-capitalist economic conditions eliminate functional conflicts among social classes."
+   ],
+   "answer": 1,
+   "why": "Laski viewed the state as an indispensable coordinator that maintains social equilibrium without extinguishing other associations.",
+   "page": 78
+  },
+  {
+   "q": "Which perspective correctly describes the second, state-centric school of thought regarding globalization's impact on state sovereignty?",
+   "options": [
+    "National sovereignty has been decisively eroded by transnational market forces and borderless economic integration.",
+    "Sovereignty is contextual and transformed through multi-level governance where both states and global bodies gain.",
+    "Globalization is neither autonomous nor all-powerful, but is orchestrated, regulated, and controlled by states themselves.",
+    "State sovereignty is completely unaffected because international treaties hold no legal validity under international law."
+   ],
+   "answer": 2,
+   "why": "The state-centric school contends that globalization does not diminish state authority because states actively orchestrate and manage it.",
+   "page": 80
+  },
+  {
+   "q": "Why did Brazil propose the concept of 'Responsibility While Protection' (RWP) following the 2011 Libyan intervention?",
+   "options": [
+    "To restore seventeenth-century absolute Westphalian sovereignty and forbid all international humanitarian concern.",
+    "To grant regional military alliances exclusive unilateral authority to deploy military forces worldwide.",
+    "To transfer the primary responsibility of protecting citizens entirely from national governments to the UN.",
+    "To establish clear accountability and monitoring for intervening forces enforcing Responsibility to Protect mandates."
+   ],
+   "answer": 3,
+   "why": "Following controversies over NATO's intervention in Libya, Brazil proposed RWP to hold intervening military forces accountable.",
+   "page": 81
+  }
+ ]
+}

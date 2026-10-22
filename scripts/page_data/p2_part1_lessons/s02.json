@@ -1,0 +1,100 @@
+{
+ "title": "India-USA Strategic Partnership and Bilateral Agreements",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did the world's oldest and largest democracies become close partners?",
+   "narration": "Imagine two giant democracies that spent decades giving each other the cold shoulder. How did India and the United States transform from bitter estrangement into a pivotal global partnership?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like rival school captains teaming up to win a championship trophy.",
+   "narration": "Here is a simple analogy to make this click. Think of two star cricket captains who argued for years, but joined forces when a tough new competitor entered the tournament."
+  },
+  {
+   "type": "timeline",
+   "heading": "Shifting Ties Across Decades",
+   "events": [
+    {
+     "when": "Cold War",
+     "what": "Estranged democracies in opposing camps"
+    },
+    {
+     "when": "1998-2000",
+     "what": "Talbott and Jaswant Singh dialogue"
+    },
+    {
+     "when": "2005",
+     "what": "Historic civil nuclear agreement signed"
+    },
+    {
+     "when": "2016",
+     "what": "LEMOA defence logistics pact signed"
+    }
+   ],
+   "narration": "During the Cold War, India tilted towards the Soviet Union while America allied with Pakistan. Everything shifted after 1998, when intensive diplomacy and shared security concerns laid the groundwork for cooperation."
+  },
+  {
+   "type": "points",
+   "heading": "Civil Nuclear Deal Breakthrough",
+   "items": [
+    "Recognised India as a de-facto nuclear power",
+    "Granted rare waiver from Nuclear Suppliers Group",
+    "Separated civilian and military atomic facilities",
+    "Supplier liability law delayed American reactor projects"
+   ],
+   "narration": "The 2005 nuclear pact was historic because Washington accepted India as a nuclear power without signing the Non-Proliferation Treaty. However, Indian laws holding equipment suppliers liable in accidents delayed American reactor construction."
+  },
+  {
+   "type": "compare",
+   "heading": "Trade and Economic Disputes",
+   "columns": [
+    {
+     "title": "Indian Position",
+     "items": [
+      "Compulsory licences ensure affordable medicine",
+      "Enterprise based bilateral investment treaty",
+      "Totalisation pact to recover pension taxes"
+     ]
+    },
+    {
+     "title": "American Objections",
+     "items": [
+      "Opposes generic drugs overriding patents",
+      "Asset based model protecting investments",
+      "Places India on priority watch list"
+     ]
+    }
+   ],
+   "narration": "Friction persists over trade. India uses compulsory licensing to produce cheap generic cancer medicines for public health, while Washington protects pharmaceutical patents and demands stronger investment safeguards."
+  },
+  {
+   "type": "points",
+   "heading": "Defence Partnership and Foundational Pacts",
+   "items": [
+    "Named major defence partner for high technology",
+    "Joint production under Defence Technology Trade Initiative",
+    "Signed logistics exchange pact known as LEMOA",
+    "Routine military drills build combined interoperability"
+   ],
+   "narration": "Defence is the brightest spot in bilateral ties. By granting India major defence partner status and signing logistics agreements, both militaries now share supplies and conduct regular joint combat drills."
+  },
+  {
+   "type": "thinker",
+   "name": "Dennis Kux",
+   "idea": "India and America transformed from estranged democracies into indispensable strategic partners.",
+   "work": "",
+   "narration": "Scholar Dennis Kux famously described them as estranged democracies during the Cold War. Today, shared democratic values and common geopolitical interests have turned that estrangement into an active partnership."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Evolved from Cold War estrangement to strategic partners",
+    "Nuclear deal and defence pacts anchor close cooperation",
+    "Differences remain over trade intellectual property and investment"
+   ],
+   "narration": "To recap, India and America evolved from Cold War distrust into a deep strategic partnership. While defence and nuclear pacts anchor close cooperation, trade and intellectual property disputes still require ongoing negotiation."
+  }
+ ]
+}

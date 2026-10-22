@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why do Indian states face a severe vertical financial imbalance according to the constitutional scheme?",
+   "options": [
+    "Their social expenditure responsibilities are high while their revenue sources are rigid and low-yielding.",
+    "They are completely prohibited from receiving any statutory grants or shares from central tax revenues.",
+    "They must surrender all locally collected tax receipts directly into the Union Consolidated Fund.",
+    "Their borrowing powers allow unlimited foreign commercial loans without any domestic market regulation."
+   ],
+   "answer": 0,
+   "why": "States bear heavy social spending commitments while their assigned taxes are rigid and low-yielding, creating a vertical imbalance.",
+   "page": 210
+  },
+  {
+   "q": "What constitutional innovation did Article 246A introduce to Indian fiscal federalism under the 101st Amendment?",
+   "options": [
+    "It transferred all indirect taxation powers exclusively to the Union Parliament.",
+    "It granted concurrent powers to Parliament and state legislatures to tax goods and services.",
+    "It abolished all state sales taxes without creating any replacement legislative mechanism.",
+    "It placed the Union List completely beyond the constitutional scope of GST legislation."
+   ],
+   "answer": 1,
+   "why": "Article 246A established concurrent legislative powers, allowing Parliament and state assemblies to tax goods and services simultaneously.",
+   "page": 212
+  },
+  {
+   "q": "How do Finance Commission recommendations differ from the discretionary transfers historically made by the Planning Commission?",
+   "options": [
+    "Finance Commission transfers are executive decrees, whereas Planning Commission transfers were mandated by constitutional statute.",
+    "Finance Commission transfers require equal state representation, whereas Planning Commission bodies included only state chief ministers.",
+    "Finance Commission transfers represent constitutional statutory devolution, whereas Planning Commission grants were centralized and discretionary.",
+    "Finance Commission transfers apply exclusively to centrally sponsored schemes, whereas Planning Commission grants covered divisible pool taxes."
+   ],
+   "answer": 2,
+   "why": "Grants recommended by the constitutional Finance Commission are statutory, unlike the centralized discretionary transfers historically made by the Planning Commission.",
+   "page": 211
+  },
+  {
+   "q": "What is a key institutional rule governing the functioning and meetings of the GST Council under Article 279A?",
+   "options": [
+    "Decisions can only be ratified if all participating state finance ministers reach unanimous agreement.",
+    "The Union Finance Minister possesses absolute unilateral veto power over any convened council quorum.",
+    "Meetings require a minimum quorum of two-thirds of the total membership to conduct business.",
+    "A valid meeting requires a quorum consisting of at least half of the total council members."
+   ],
+   "answer": 3,
+   "why": "Under Article 279A, the GST Council requires a quorum of half of its total members to conduct valid proceedings.",
+   "page": 213
+  }
+ ]
+}

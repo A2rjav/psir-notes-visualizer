@@ -1,0 +1,82 @@
+{
+ "title": "Pressure Groups, Parliament, and Indian Voters",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Who really shapes government decisions without ever running for elections?",
+   "narration": "Have you ever wondered who influences national laws without ever contesting an election? Meet pressure groups, often called invisible empires."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school student council lobbies the principal for longer sports periods.",
+   "narration": "As an everyday analogy, imagine a student council meeting the school principal for extra sports time. They do not run the school, but they speak up for student interests, just like pressure groups do with government."
+  },
+  {
+   "type": "compare",
+   "heading": "Evolution of Indian Pressure Groups",
+   "columns": [
+    {
+     "title": "Pre-1990s",
+     "items": [
+      "Dominated by caste and religion",
+      "Junior partners to political parties"
+     ]
+    },
+    {
+     "title": "Post-1990s",
+     "items": [
+      "Corporate and foreign lobby growth",
+      "Included in NITI Aayog policy"
+     ]
+    }
+   ],
+   "narration": "Scholars like Rajni Kothari observed that early Indian pressure groups were dominated by caste and acted as junior partners to parties. Since the nineteen-nineties, Robert Hardgrave and Stanley Kochanek show corporate lobbies gained major influence, even advising policy in NITI Aayog."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Phases of Indian Parliament",
+   "events": [
+    {
+     "when": "Upto 1967",
+     "what": "Brahmins, lawyers, and foreign-educated members dominate"
+    },
+    {
+     "when": "1967-1990s",
+     "what": "OBCs and agrarian leaders enter politics"
+    },
+    {
+     "when": "1990s onwards",
+     "what": "Plebeianisation expands with ordinary citizens"
+    }
+   ],
+   "narration": "Shanker and Rodriques divide Parliament's evolution into three phases. First, elite lawyers dominated; next, agrarian Other Backward Classes rose. Finally came plebeianisation, meaning ordinary folks entered politics, though female representation sadly stayed low around eight percent."
+  },
+  {
+   "type": "thinker",
+   "name": "Mukulika Banerjee",
+   "idea": "Voters experience power inversion and vote strategically on election day.",
+   "work": "Why India Votes",
+   "narration": "In her book Why India Votes, Mukulika Banerjee asked why poor citizens vote so enthusiastically. She discovered power inversion: election day is the one rare moment when ordinary people hold real power over politicians."
+  },
+  {
+   "type": "points",
+   "heading": "Determinants of Indian Voting Behaviour",
+   "items": [
+    "Caste and religion remain major voting determinants",
+    "Poor voters make mature, strategic political choices",
+    "Voters embrace identity plus governance demands"
+   ],
+   "narration": "Surveys by Lokniti CSDS show caste and religion still drive votes. Yet scholars like Prannoy Roy and Professor M.P. Singh praise Indian voters for exceptional maturity, while Yogendra Yadav highlights identity plus politics, where citizens demand both community dignity and development."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Pressure groups articulate interests without holding formal office",
+    "Parliament plebeianised over time, though women remain underrepresented",
+    "Voters act strategically, combining community identity with governance"
+   ],
+   "narration": "Here is the recap! Pressure groups influence policy from outside, our Parliament has grown far more representative of common people, and Indian voters display remarkable wisdom balancing identity with good governance."
+  }
+ ]
+}

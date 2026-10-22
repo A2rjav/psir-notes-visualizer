@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did large landowners in India primarily evade land ceiling legislation to retain their holdings?",
+   "options": [
+    "By transferring land through benami transactions and formally dividing joint family holdings.",
+    "By successfully challenging the Ninth Schedule in the Supreme Court to nullify ceiling acts.",
+    "By converting their agricultural land into cooperative farming societies managed by landless tillers.",
+    "By voluntarily surrendering their surplus land to obtain industrial compensation from the state."
+   ],
+   "answer": 0,
+   "why": "Landlords exploited legal loopholes by transferring plots under fictitious benami names and dividing joint families to bypass ceilings.",
+   "page": 98
+  },
+  {
+   "q": "According to Gunnar Myrdal, why did India fail to achieve meaningful land redistribution under Jawaharlal Nehru?",
+   "options": [
+    "The peasantry organized radical nationwide mobilizations that forced the state to retreat from reforms.",
+    "India functioned as a soft state lacking administrative will and capacity to confront propertied elites.",
+    "The judicial repeal of the Ninth Schedule prevented Parliament from passing progressive agrarian legislation.",
+    "Rapid post-colonial industrial growth rendered rural land redistribution irrelevant to economic development."
+   ],
+   "answer": 1,
+   "why": "Myrdal characterized India as a soft state that enacted progressive social laws but lacked the political and administrative will to enforce them.",
+   "page": 99
+  },
+  {
+   "q": "How did economist V.K.R.V. Rao evaluate the socio-economic consequences of the Green Revolution in India?",
+   "options": [
+    "It quadrupled total farm income and improved the bargaining strength of agricultural labourers.",
+    "It completely eliminated tenant eviction by securing equitable distribution of modern high-yielding inputs.",
+    "It widened the rich-poor divide and increased indebtedness among small farmers who lost land.",
+    "It ended rural disguised unemployment without causing inflation or displacing traditional farm workers."
+   ],
+   "answer": 2,
+   "why": "V.K.R.V. Rao argued that the Green Revolution deepened inequality and forced small farmers into debt to buy expensive inputs, ultimately causing them to lose land.",
+   "page": 102
+  },
+  {
+   "q": "What political transformation did Rudolph and Rudolph identify as a major outcome of the Green Revolution?",
+   "options": [
+    "The complete decline of caste mobilization in favour of class-based peasant parties in northern India.",
+    "The rise of bullock capitalists as medium farmers who leveraged caste identity into regional political power.",
+    "The total centralization of agricultural policy making by foreign and indigenous bourgeois industrialists.",
+    "The immediate outbreak of widespread communist counter-revolutions across all major agricultural states."
+   ],
+   "answer": 1,
+   "why": "Rudolph and Rudolph argued that the Green Revolution created an economically self-sufficient stratum of medium farmers ('bullock capitalists') who reshaped regional politics through caste mobilization.",
+   "page": 103
+  }
+ ]
+}

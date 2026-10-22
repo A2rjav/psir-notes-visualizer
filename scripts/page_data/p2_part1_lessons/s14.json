@@ -1,0 +1,79 @@
+{
+ "title": "Bretton Woods: IMF and World Bank",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can one country block major global financial decisions?",
+   "narration": "Imagine a global club where one hundred and eighty nations meet, yet just one country can freeze any major decision. Welcome to the Bretton Woods institutions."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A teammate who buys the cricket kit decides every single team rule.",
+   "narration": "As an analogy, think of your school cricket team. If the teammate who bought the cricket kit demands to dictate every batting order, that is how weighted voting feels to borrowing nations."
+  },
+  {
+   "type": "flow",
+   "heading": "How IMF Conditionalities Work",
+   "steps": [
+    "Country faces balance of payments crisis",
+    "Government requests emergency IMF assistance",
+    "IMF imposes strict economic conditionalities",
+    "Borrower loses domestic economic sovereignty"
+   ],
+   "narration": "When a country runs out of foreign cash to pay for its imports, it faces a balance of payments crisis. The IMF bails it out, but demands harsh economic reforms that developing nations argue harm their sovereignty."
+  },
+  {
+   "type": "balance",
+   "heading": "The Governance Deficit",
+   "left": "USA 17% Vote Share",
+   "right": "85% Supermajority Threshold",
+   "tilt": "left",
+   "narration": "Here is the trick with weighted voting: your vote share matches your economic quota. Because big decisions require an eighty-five percent majority, the United States, holding around seventeen percent, can veto anything on its own."
+  },
+  {
+   "type": "compare",
+   "heading": "Stalled 2010 Quota Reforms",
+   "columns": [
+    {
+     "title": "Before 2010 Reform",
+     "items": [
+      "USA holds 16.7% votes",
+      "China holds 3.8% votes",
+      "India holds 2.3% votes"
+     ]
+    },
+    {
+     "title": "Agreed 2010 Reform",
+     "items": [
+      "USA drops to 16.5%",
+      "China rises to 6%",
+      "India rises to 2.6%"
+     ]
+    }
+   ],
+   "narration": "In 2010 at Seoul, the G20 agreed to give emerging powers fairer quotas. China's share would rise to six percent and India's to two point six percent, but these reforms stalled."
+  },
+  {
+   "type": "points",
+   "heading": "Five World Bank Group Institutions",
+   "items": [
+    "IBRD for reconstruction and development",
+    "International Development Assistance",
+    "IFC International Finance Corporation",
+    "MIGA Multilateral Investment Guarantee Agency",
+    "ICSID Settlement of Investment Disputes"
+   ],
+   "narration": "Beside the IMF stands the World Bank Group, led traditionally by an American. Its five specialized bodies support developing countries through direct investment, development loans, and resolving financial disputes."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "IMF lends during balance of payments crises",
+    "Voting quotas grant Western powers veto power",
+    "World Bank comprises five dedicated development bodies"
+   ],
+   "narration": "Remember three points: the IMF provides emergency crisis loans with conditionalities, voting quotas leave decision-making dominated by the West, and the World Bank assists growth through five distinct institutions."
+  }
+ ]
+}

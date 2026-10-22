@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did historical friction arise between Fundamental Rights and Directive Principles in the Indian constitutional framework?",
+   "options": [
+    "Fundamental Rights reflect individualist liberal philosophy, whereas Directive Principles are inspired by egalitarian socialist goals.",
+    "Fundamental Rights were designed to be temporary, while Directive Principles were created as permanent constitutional objectives.",
+    "Fundamental Rights lack judicial enforcement mechanisms, while Directive Principles can be directly enforced through Article 32.",
+    "Fundamental Rights apply exclusively to private citizens, whereas Directive Principles impose binding restrictions on state actions."
+   ],
+   "answer": 0,
+   "why": "Fundamental Rights are primarily civil liberties rooted in liberalism, while Directive Principles embody a socialist vision for an egalitarian society. This philosophical difference created natural friction between individual liberty and state welfare policies.",
+   "page": 110
+  },
+  {
+   "q": "How did the Supreme Court in the Golaknath case (1967) prevent Parliament from abridging Fundamental Rights?",
+   "options": [
+    "It struck down the amending procedure under Article 368 as inherently unconstitutional and void.",
+    "It held that constitutional amendments under Article 368 fall within the meaning of 'law' under Article 13(2).",
+    "It ruled that Directive Principles automatically override Fundamental Rights during any national socio-economic crisis.",
+    "It established that Fundamental Rights can only be amended if approved by a national referendum."
+   ],
+   "answer": 1,
+   "why": "The Supreme Court interpreted the term 'law' in Article 13(2) to include constitutional amendments. Consequently, Parliament was barred from abridging Fundamental Rights even through Article 368 amendments.",
+   "page": 113
+  },
+  {
+   "q": "What essential distinction did the Supreme Court establish regarding Parliament's constituent power in the Kesavananda Bharati case?",
+   "options": [
+    "Parliament can amend ordinary legislation, but lacks authority to alter any constitutional provision.",
+    "Parliament must secure prior judicial clearance before introducing any amendment in either legislative house.",
+    "Parliament may alter the basic structure provided two-thirds of state legislatures formally ratify it.",
+    "Parliament possesses the constituent power to amend provisions, but cannot rewrite the Constitution's core identity."
+   ],
+   "answer": 3,
+   "why": "The Supreme Court distinguished between amending the Constitution and rewriting it. While Parliament possesses broad amending power under Article 368, it cannot destroy the Constitution's basic structure or core identity.",
+   "page": 115
+  },
+  {
+   "q": "In the Minerva Mills case (1980), how did the Supreme Court restore balance between Fundamental Rights and Directive Principles?",
+   "options": [
+    "By declaring that Fundamental Rights must permanently supersede all socio-economic goals contained in Part Four.",
+    "By making all Directive Principles immediately justiciable and directly enforceable in the Supreme Court.",
+    "By striking down provisions that gave blanket precedence to all Directive Principles over Fundamental Rights.",
+    "By eliminating judicial review over constitutional amendments that seek to advance an egalitarian society."
+   ],
+   "answer": 2,
+   "why": "The Court struck down the 42nd Amendment's extension of Article 31(c), which had subordinated Fundamental Rights to all Directive Principles. It affirmed that both parts are like two wheels of a chariot and must remain harmonized.",
+   "page": 116
+  }
+ ]
+}

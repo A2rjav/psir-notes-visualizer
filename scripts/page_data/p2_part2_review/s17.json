@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "What does the Copenhagen School mean by describing security as a 'speech act'?",
+   "options": [
+    "Politicians frame issues as existential threats to prioritize them and gain greater public attention.",
+    "Military leaders deliver official parliamentary speeches before mobilizing armed forces for conventional war.",
+    "Diplomats negotiate binding international treaties through public speeches at the United Nations General Assembly.",
+    "Citizens collectively debate and decide national defense allocations through televised town halls and referendums."
+   ],
+   "answer": 0,
+   "why": "The Copenhagen School argues that security is a speech act because politicians actively securitise certain issues to direct national attention toward them.",
+   "page": 140
+  },
+  {
+   "q": "Why do critics like Raymond Aron and Joseph Frankel argue that 'national interest' is a pseudo-theory?",
+   "options": [
+    "It focuses exclusively on economic growth while ignoring essential military and territorial defense concerns.",
+    "It is an ambiguous and elastic concept used by elites to justify subjective political choices.",
+    "It prioritizes international organizations while actively eroding the sovereign independence of individual nation-states.",
+    "It applies only to democratic regimes and fails to explain the foreign policies of autocratic governments."
+   ],
+   "answer": 1,
+   "why": "Critics argue that national interest lacks a universal definition, functioning as a vague justification for decisions made by ruling elites.",
+   "page": 142
+  },
+  {
+   "q": "How does the Marxist perspective interpret the role of transnational multinational corporations in world politics?",
+   "options": [
+    "As powerless entities that merely serve as passive proxies for sovereign state military interests.",
+    "As positive non-state drivers that promote economic development and mutual stability in developing nations.",
+    "As instruments of neo-colonial exploitation whose historical roots trace back to imperial trading enterprises.",
+    "As neutral regulatory bodies that emerged after World War I to manage global commerce peacefully."
+   ],
+   "answer": 2,
+   "why": "Marxists view multinational corporations as agents of neo-colonial exploitation, noting that non-state corporate penetration dates back to colonial entities like the East India Company.",
+   "page": 143
+  },
+  {
+   "q": "Why are transnational terrorist organizations compared to a 'Frankenstein monster' in modern international politics?",
+   "options": [
+    "They operate strictly under the command of superpowers during conventional interstate military conflicts.",
+    "They possess sophisticated nuclear capabilities that render traditional state deterrence strategies entirely obsolete.",
+    "They have completely replaced sovereign nation-states as the primary decision-makers in global governance.",
+    "They eventually slip out of the control of the states that originally sponsored them."
+   ],
+   "answer": 3,
+   "why": "States often sponsor militant groups as proxies against rivals, but these non-state actors frequently become uncontrollable and turn against their creators.",
+   "page": 146
+  }
+ ]
+}

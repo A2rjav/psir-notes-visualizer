@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "Scholars Rudolph and Rudolph noted three mobilisation forms. First, upper castes led lower castes vertically for small concessions, but soon lower castes united horizontally to claim power.",
+   "reason": "Rudolph and Rudolph identified three forms of caste mobilisation (vertical, horizontal, and differential), as noted on page 134, not two."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How does M.N. Srinivas's concept of 'dominant caste' challenge Louis Dumont's model of caste hierarchy?",
+   "options": [
+    "It asserts that Brahminical ritual supremacy strictly determines political leadership in every Indian region.",
+    "It argues that modern economic class has completely replaced caste identities across rural Indian society.",
+    "It demonstrates that local dominance relies on land ownership and numbers rather than ritual purity alone.",
+    "It claims that untouchability and caste rituals were entirely abolished during the British colonial administration."
+   ],
+   "answer": 2,
+   "why": "Srinivas showed that power is not purely determined by ritual hierarchy, as castes with numerical strength and land ownership hold dominant power locally.",
+   "page": 132
+  },
+  {
+   "q": "What does Rajni Kothari mean by the 'politicisation of caste' in Indian democracy?",
+   "options": [
+    "Caste groups organise politically to secure secular benefits like education, government employment, and power.",
+    "Caste groups strictly revive orthodox religious rituals and purity rules through political party manifestos.",
+    "Electoral democracy completely eliminates caste consciousness, turning Indian society into class-based politics.",
+    "Traditional upper castes legally prohibit lower castes from participating in democratic electoral contests."
+   ],
+   "answer": 0,
+   "why": "Kothari argued that democratic politics leads caste groups to organise for secular economic and political benefits rather than ritual status.",
+   "page": 133
+  },
+  {
+   "q": "According to Rudolph and Rudolph, how does horizontal mobilisation differ from vertical mobilisation?",
+   "options": [
+    "It involves lower castes being mobilised under upper-caste leadership in exchange for minor concessions.",
+    "It refers to internal factional conflicts and electoral competition occurring within the very same caste.",
+    "It reflects traditional feudal ties where landless labourers remain dependent on upper-caste village patrons.",
+    "It involves lower castes organising independently across wider regions to challenge traditional elite domination."
+   ],
+   "answer": 3,
+   "why": "In horizontal mobilisation, lower castes build independent solidarity across regional boundaries to claim power, unlike vertical clientelism under upper castes.",
+   "page": 135
+  },
+  {
+   "q": "According to Yogendra Yadav, how did the two 'democratic upsurges' transform Indian politics?",
+   "options": [
+    "They restored dominant one-party rule by assimilating marginalised groups into traditional elite leadership.",
+    "They caused the decline of Congress dominance through the successive empowerment of OBCs and Dalits.",
+    "They replaced identity politics entirely with universal class-based economic voting across all major states.",
+    "They weakened mass democratic participation by concentrating state power exclusively within traditional urban elites."
+   ],
+   "answer": 1,
+   "why": "Yadav argued that the mobilization of OBCs in the 1960s and Dalits in the 1990s expanded democracy and broke Congress hegemony.",
+   "page": 135
+  }
+ ]
+}

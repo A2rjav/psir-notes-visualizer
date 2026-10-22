@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "narration",
+   "new": "Under the Indus treaty, Pakistan receives the western rivers carrying eighty percent of total water. India holds eastern rivers, but now insists blood and water cannot flow together.",
+   "reason": "The Indus Waters Treaty allocates the three western rivers (which account for eighty percent of the total Indus system water) to Pakistan, rather than eighty percent of the water from those western rivers."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to the notes, why would resolving the Kashmir dispute still fail to normalize India-Pakistan relations?",
+   "options": [
+    "It is rooted in clashing state identities and the Pakistan Army's existential need for an Indian threat.",
+    "The unresolved allocation of western river waters prevents any durable economic cooperation between both nations.",
+    "Chinese investments in the CPEC corridor permanently compel Pakistan to maintain hostility toward India.",
+    "Nuclear parity achieved after 1998 eliminated any diplomatic incentives for civilian governments to negotiate."
+   ],
+   "answer": 0,
+   "why": "The notes state that Kashmir represents clashing national identities, and Pakistan's military relies on projecting India as an enemy to maintain political legitimacy.",
+   "page": 190
+  },
+  {
+   "q": "According to the notes, how did India's 1998 nuclear tests paradoxically increase its security vulnerability to Pakistan?",
+   "options": [
+    "They caused the international community to impose permanent economic sanctions that crippled India's defense modernization.",
+    "They granted Pakistan strategic parity, enabling it to wage proxy wars under a nuclear shield.",
+    "They forced India to unilaterally renounce its no-first-use doctrine during conventional military confrontations.",
+    "They compelled China to establish a formal military alliance with Pakistan in Gilgit Baltistan."
+   ],
+   "answer": 1,
+   "why": "Testing nuclear weapons gave Pakistan strategic parity against India's conventional superiority, allowing it to pursue proxy warfare under nuclear blackmail.",
+   "page": 193
+  },
+  {
+   "q": "Why does Brahma Chellaney describe the Indus Waters Treaty as uniquely disadvantageous to India?",
+   "options": [
+    "It bars India from constructing any run-of-the-river hydroelectric projects on the eastern river system.",
+    "It allocates upper riparian control to China while forcing India to finance Pakistan's canal infrastructure.",
+    "The lower riparian state receives eighty percent of water and holds effective project veto power.",
+    "Disputes are automatically referred to international arbitration without any bilateral Indus commission review."
+   ],
+   "answer": 2,
+   "why": "Chellaney highlights that Pakistan, as the lower riparian state, receives four-fifths of the water and possesses veto power over Indian projects.",
+   "page": 198
+  },
+  {
+   "q": "What is the central procedural disagreement between India and Pakistan regarding demilitarizing the Siachen Glacier?",
+   "options": [
+    "India demands third-party UN monitoring along Saltoro, whereas Pakistan insists on purely bilateral verification.",
+    "Pakistan wants joint military patrols across NJ 9842, while India insists on full civilian administration.",
+    "India requires converting the glacier into a peace park before determining exact boundary alignments.",
+    "India insists on authenticating current positions before troop withdrawal, whereas Pakistan demands demilitarization first."
+   ],
+   "answer": 3,
+   "why": "India demands that current military positions on the Saltoro ridge be officially authenticated before any withdrawal, while Pakistan insists on demilitarizing first.",
+   "page": 204
+  }
+ ]
+}

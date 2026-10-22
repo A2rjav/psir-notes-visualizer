@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "work",
+   "new": "Grammar of Politics",
+   "reason": "Harold Laski's seminal work is 'A Grammar of Politics' (1925), not 'Grammar of Liberty'."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why do classical liberals view socio-economic equality as antithetical to individual liberty?",
+   "options": [
+    "Enforcing equal socio-economic outcomes requires coercive state interference that violates merit and individual freedom.",
+    "Socio-economic equality eliminates the legal equality and procedural fairness required in a free market.",
+    "It requires abolishing the minimal police state in favor of an organic collectivist society.",
+    "It restricts the state's capacity to build human character through compulsory public welfare institutions."
+   ],
+   "answer": 0,
+   "why": "Classical liberals believe justice requires rewards based on individual merit; forcing equal economic outcomes curtails freedom.",
+   "page": 9
+  },
+  {
+   "q": "How does T.H. Green redefine liberty in contrast to classical liberal negative freedom?",
+   "options": [
+    "As the complete absence of state laws and regulatory restraint over individual economic actions.",
+    "As a positive capacity to do something worth doing, enhanced by state social intervention.",
+    "As exclusive privileges granted to property owners to preserve natural survival of the fittest.",
+    "As the total subordination of individual moral choices to the general will of society."
+   ],
+   "answer": 1,
+   "why": "Green redefined liberty as the positive capacity for self-realization, arguing that state welfare enhances rather than diminishes freedom.",
+   "page": 12
+  },
+  {
+   "q": "According to Jürgen Habermas, what structural contradiction causes the legitimation crisis in welfare states?",
+   "options": [
+    "The total elimination of private enterprise causing an immediate collapse of modern industrial markets.",
+    "A permanent reliance on coercive military force that destroys the moral basis of obligation.",
+    "The conflict between democratic socialist welfare promises and the fiscal limits of capitalism.",
+    "The suppression of competitive elections that prevents citizens from choosing their representative governing leaders."
+   ],
+   "answer": 2,
+   "why": "Habermas argues that welfare states face crisis when economic growth cannot sustain ever-increasing democratic social security promises.",
+   "page": 16
+  },
+  {
+   "q": "What is the core principle behind Harold Laski's functional theory of rights?",
+   "options": [
+    "Rights are innate natural entitlements that exist entirely independent of any societal obligations.",
+    "Rights belong exclusively to the state and are conditionally distributed based on political loyalty.",
+    "Rights should be granted only to industrial workers while depriving capitalists of legal protections.",
+    "Rights are inextricably linked with duties and must contribute to common social wellbeing."
+   ],
+   "answer": 3,
+   "why": "Laski insisted that rights and duties are correlated, meaning rights are justified by their social function.",
+   "page": 18
+  }
+ ]
+}

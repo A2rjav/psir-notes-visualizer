@@ -1,0 +1,79 @@
+{
+ "title": "Gramsci: Hegemony and the Integral State",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do we obey rules without police forcing us?",
+   "narration": "Have you ever wondered why ruling classes stay in power even without pointing guns at citizens? The Italian Marxist Antonio Gramsci answered that rulers capture our minds before they ever need police batons."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket captain earns team respect through trust, not by shouting orders.",
+   "narration": "As an everyday analogy, think of your school cricket team. A great captain does not rule by threatening teammates with penalties; players happily follow because they genuinely believe in the captain's vision."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Gramsci's Three-Layered Integral State",
+   "levels": [
+    "Political State",
+    "Civil Society",
+    "Economic Structure"
+   ],
+   "narration": "Gramsci modified Karl Marx's economic base model. He explained that between the economic base and the political state lies civil society, including schools and churches, which cushions conflicts and manufactures willing consent."
+  },
+  {
+   "type": "compare",
+   "heading": "Traditional vs Organic Intellectuals",
+   "columns": [
+    {
+     "title": "Traditional Intellectuals",
+     "items": [
+      "Originated in earlier feudal era",
+      "Church fathers who project neutrality",
+      "Absorbed later by ruling capitalists"
+     ]
+    },
+    {
+     "title": "Organic Intellectuals",
+     "items": [
+      "Tied directly to capitalist class",
+      "Managers, engineers, and civil servants",
+      "Manufacture consent for the rulers"
+     ]
+    }
+   ],
+   "narration": "Here is the trick about intellectuals. Traditional intellectuals, like church priests, seem neutral, while organic intellectuals, like modern corporate managers, actively emerge with capitalism to make dominant values feel like pure common sense."
+  },
+  {
+   "type": "flow",
+   "heading": "Gramsci's Two-Stage Revolution",
+   "steps": [
+    "Fight War of Position",
+    "Build Counter Hegemony in Civil Society",
+    "Launch Frontal War of Manoeuvre",
+    "Capture the Political State"
+   ],
+   "narration": "Therefore, workers cannot simply capture power overnight. They must first win a protracted war of position in schools and media to build counter hegemony, before launching a frontal war of manoeuvre against the state."
+  },
+  {
+   "type": "points",
+   "heading": "Subaltern Coalitions and Historical Bloc",
+   "items": [
+    "A historical bloc is a class coalition.",
+    "Workers must lead depressed subaltern classes.",
+    "Leaders must protect all allied interests."
+   ],
+   "narration": "To challenge the ruling historical bloc, which is a ruling alliance of classes, workers must build their own coalition. Gramsci insisted workers must lead all subaltern depressed groups by genuinely championing their shared interests."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Hegemony rules minds by manufacturing consent.",
+    "Integral state combines civil society and state.",
+    "Win civil society before confronting the state."
+   ],
+   "narration": "Remember these three big takeaways: hegemony controls minds through invisible consent, the integral state blends civil society with coercion, and winning civil society is essential before overthrowing the state."
+  }
+ ]
+}

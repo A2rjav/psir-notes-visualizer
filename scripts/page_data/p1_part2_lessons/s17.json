@@ -1,0 +1,83 @@
+{
+ "title": "Indian Democracy, Regionalism, and Sovereignty",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did democracy thrive in India despite vast diversity and poverty?",
+   "narration": "Have you ever wondered why India's democracy survived while others collapsed despite poverty and diversity? The secret lies in our consensus Constitution."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A society thrives when sharing power among diverse residents rather than imposing one rule.",
+   "narration": "As an everyday analogy, imagine a big housing society. When the management shares authority and accommodates different residents instead of forcing one rule, everyone lives together in harmony."
+  },
+  {
+   "type": "points",
+   "heading": "Cornerstone of the Nation",
+   "items": [
+    "Consensus document reconciling alternative perspectives",
+    "Part IV combines liberalism, socialism, and Gandhism",
+    "Flexibility ensured democratic survival across decades"
+   ],
+   "narration": "Indian democracy succeeded because our Constitution is a consensus document. In Part Four, it reconciled liberalism with socialism and Gandhism, making it the true cornerstone of our nation."
+  },
+  {
+   "type": "balance",
+   "heading": "Integration and Regional Autonomy",
+   "left": "National integration",
+   "right": "Regional autonomy",
+   "tilt": "even",
+   "narration": "Nehru viewed India as a nation in the making. While national integration is essential for security and development, scholars note that regionalism naturally arises from uneven development and scarcity."
+  },
+  {
+   "type": "compare",
+   "heading": "Resolving Regional Conflict",
+   "columns": [
+    {
+     "title": "Tamil Nationalism",
+     "items": [
+      "Democratic accommodation",
+      "Permanent conflict resolution"
+     ]
+    },
+    {
+     "title": "Kashmir Issue",
+     "items": [
+      "Multidimensional complex crisis",
+      "Foreign power involvement",
+      "Excessive use of force"
+     ]
+    }
+   ],
+   "narration": "Look at how India handled regional demands. Tamil sub-nationalism reached a permanent resolution through democratic accommodation, while Kashmir faced foreign interference and excessive force."
+  },
+  {
+   "type": "thinker",
+   "name": "Atul Kohli",
+   "idea": "Democracy triggers ethnic mobilization but also provides the only solution.",
+   "work": "Can Democracies Accommodate Ethnic Movements",
+   "narration": "Here is the trick from thinker Atul Kohli. He points out that democracy encourages ethnic mobilization, but democratic politics also provides the only lasting solution to those movements."
+  },
+  {
+   "type": "points",
+   "heading": "Devolution and Sovereignty",
+   "items": [
+    "Regionalism reflects a developmental crisis",
+    "Sarkaria and Punchhi commissions urged power devolution",
+    "Sovereignty encompasses legal, political, and popular types",
+    "Criticisms challenge monistic theory of sovereignty"
+   ],
+   "narration": "To resolve regional tensions, the Sarkaria and Punchhi commissions recommended devolving powers. In political science, sovereignty is examined through legal, political, and popular types, alongside monistic theory."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Consensus Constitution is the cornerstone of Indian democracy",
+    "Democratic accommodation successfully resolves regional movements",
+    "Power devolution and popular sovereignty strengthen unity"
+   ],
+   "narration": "Remember these three big ideas. A consensus constitution preserves democracy, democratic accommodation resolves regional conflicts, and devolving power balances national unity with regional autonomy."
+  }
+ ]
+}

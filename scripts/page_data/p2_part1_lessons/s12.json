@@ -1,0 +1,80 @@
+{
+ "title": "Reforming the United Nations and the ICJ",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can five countries block the decisions of the entire world?",
+   "narration": "Imagine a world club of nearly two hundred nations where just five permanent members can stop any action. That is the United Nations Security Council today."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school club where five senior monitors can cancel any project the whole school votes for.",
+   "narration": "As an analogy, think of a school where two hundred students vote for a sports fest, but five monitors hold a veto to cancel it. That absolute veto often leaves the UN completely paralyzed during global crises."
+  },
+  {
+   "type": "flow",
+   "heading": "UN Charter Amendment under Article 108",
+   "steps": [
+    "Two-thirds General Assembly resolution",
+    "Zero veto from P5 members",
+    "Domestic ratification by member states"
+   ],
+   "narration": "Here is the trick: changing the UN rules requires Article 108. Even if two-thirds of the General Assembly agree, any single permanent member can kill the reform with one veto."
+  },
+  {
+   "type": "compare",
+   "heading": "Kofi Annan's UNSC Reform Models",
+   "columns": [
+    {
+     "title": "Model A",
+     "items": [
+      "Six new permanent seats",
+      "No veto power granted",
+      "Supported by India"
+     ]
+    },
+    {
+     "title": "Model B",
+     "items": [
+      "Eight renewable four-year seats",
+      "One new non-permanent seat",
+      "Supported by Pakistan"
+     ]
+    }
+   ],
+   "narration": "To break this deadlock, Kofi Annan offered two choices. Model A proposed six new permanent seats without veto power, backed by India, while Model B favored four-year renewable seats, backed by Pakistan."
+  },
+  {
+   "type": "points",
+   "heading": "India's Bid for Permanent Membership",
+   "items": [
+    "Second largest population and massive economy",
+    "Major contributor to UN peacekeeping missions",
+    "World's largest democracy with rich civilization",
+    "Opposed by regional rivals in Coffee Club"
+   ],
+   "narration": "India argues it deserves a permanent seat due to its huge population, economic weight, and massive peacekeeping contributions. However, a twelve-nation group called the Coffee Club strongly opposes adding permanent members."
+  },
+  {
+   "type": "points",
+   "heading": "International Court of Justice Jurisdiction",
+   "items": [
+    "Fifteen judges elected for nine-year terms",
+    "Contentious cases require consent of both states",
+    "Advisory opinions guide other UN bodies",
+    "India excludes Commonwealth disputes and armed self-defence"
+   ],
+   "narration": "Beyond the Council, the International Court of Justice settles legal disputes between states. India accepted its compulsory jurisdiction in 1974, but strictly excluded Commonwealth disputes and armed conflicts fought in self-defence."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Five permanent members hold veto power blocking reforms",
+    "India leads G4 demanding a permanent Council seat",
+    "ICJ resolves legal disputes with specific national exceptions"
+   ],
+   "narration": "Remember these three big takeaways: first, the P5 veto stalls Security Council reform; second, India has strong credentials but faces regional opposition; and third, the ICJ enforces international law with voluntary reservations."
+  }
+ ]
+}

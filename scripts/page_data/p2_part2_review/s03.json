@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Max Weber, how does advancing capitalism affect the social class structure?",
+   "options": [
+    "It polarizes society into two sharply conflicting classes of capitalists and workers.",
+    "It causes a proliferation of classes, especially the expansion of middle classes.",
+    "It eliminates class divisions entirely through rationalized and merit-based modern bureaucracies.",
+    "It restores traditional hereditary status hierarchies by suppressing competitive market relations."
+   ],
+   "answer": 1,
+   "why": "Weber challenged Marx by arguing that advancing capitalism leads to a proliferation of classes, notably growing the middle class, rather than two-class polarization.",
+   "page": 20
+  },
+  {
+   "q": "Why did political scientists lose enthusiasm for political sociology, prompting Skocpol's call to bring the state back in?",
+   "options": [
+    "They feared explaining politics through social factors threatened political science's identity as an autonomous discipline.",
+    "They found empirical field surveys and quantitative behavioral methods inadequate for studying developing societies.",
+    "They concluded that modern state institutions had been completely rendered powerless by civil society.",
+    "They realized that Marxist and Weberian models were completely unable to analyze modern revolutions."
+   ],
+   "answer": 0,
+   "why": "Political scientists worried that explaining political phenomena solely through sociological causes would reduce political science to a sub-discipline of sociology.",
+   "page": 21
+  },
+  {
+   "q": "How did Karl Marx critique Adam Smith's classical approach to political economy?",
+   "options": [
+    "He argued that Smith's laissez-faire framework neglected the necessity of strong mercantilist trade protections.",
+    "He claimed that Smith focused too much on state economic policy rather than market mechanisms.",
+    "He argued that Smith's policies would enrich only a few rather than the entire nation.",
+    "He contended that Smith failed to combine empirical quantitative data with normative policy recommendations."
+   ],
+   "answer": 2,
+   "why": "Marx argued that Adam Smith's laissez-faire capitalist policies generate wealth only for the dominant few instead of bringing prosperity to the entire nation.",
+   "page": 23
+  },
+  {
+   "q": "Why is the political economy approach characterized as a policy science in developing nations?",
+   "options": [
+    "It relies purely on descriptive historical narratives while strictly avoiding any normative recommendations.",
+    "It focuses exclusively on abstract mathematical theories without examining real-world developmental flaws.",
+    "It limits its investigation solely to the class struggles occurring within private civil society.",
+    "It combines scientific empirical data with normative prescriptions to suggest what state policy should be."
+   ],
+   "answer": 3,
+   "why": "Political economy is a policy science because it unites empirical, quantitative evidence with normative prescriptions regarding what economic policies the state should adopt.",
+   "page": 24
+  }
+ ]
+}

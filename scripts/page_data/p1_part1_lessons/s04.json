@@ -1,0 +1,80 @@
+{
+ "title": "Buddhist Political Thought and Social Contract",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can an otherworldly religion teach us how to run a government?",
+   "narration": "Think about this: Buddha left his palace to seek spiritual peace, yet kings queued up for his advice on politics. Let us explore how Buddhist thought built one of history's first social contracts!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Choosing a team captain to stop arguments on the playground.",
+   "narration": "As an everyday analogy, imagine playing cricket without an umpire when everyone fights over who owns the bat. To stop the chaos, players get together and agree to elect a fair captain."
+  },
+  {
+   "type": "flow",
+   "heading": "Origin of the State",
+   "steps": [
+    "Private property begins",
+    "Social conflicts erupt",
+    "People form a contract",
+    "Mahasammat is elected"
+   ],
+   "narration": "Here is how statehood started according to Buddhism. When private property emerged, people began fighting, so they made a contract among themselves to elect the noblest person, called Mahasammat, meaning the great chosen one."
+  },
+  {
+   "type": "compare",
+   "heading": "Hindu vs Buddhist Kingship",
+   "columns": [
+    {
+     "title": "Hindu Tradition",
+     "items": [
+      "Contract between Man and God",
+      "Hereditary divine monarch",
+      "Rule by force"
+     ]
+    },
+    {
+     "title": "Buddhist Tradition",
+     "items": [
+      "Contract among men",
+      "Elected republican leader",
+      "Rule by love"
+     ]
+    }
+   ],
+   "narration": "Notice the big contrast! While ancient Hindu tradition saw kings as divine rulers choosing force to conquer land, Buddhism proposed a republican model where a world monarch rules through love and moral law, called Dhamma."
+  },
+  {
+   "type": "points",
+   "heading": "Ashoka's Duties of a King",
+   "items": [
+    "Live according to Dhamma",
+    "Promote religious toleration",
+    "Build public utilities",
+    "Forbid cruelty towards animals"
+   ],
+   "narration": "Emperor Ashoka expanded these duties into practical statecraft. He believed a king must serve humanity, send peaceful envoys instead of invading neighbours, and protect animals from cruelty."
+  },
+  {
+   "type": "points",
+   "heading": "Equality and Deliberative Democracy",
+   "items": [
+    "Opposed the caste system",
+    "Promoted gender equality",
+    "Sangha practiced deliberative democracy"
+   ],
+   "narration": "Buddhism did not stop at kingship; it rejected the caste system and welcomed women equally into the monastic community, called the Sangha. These assemblies practiced deliberative democracy, where members openly debated and decided policies together."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "State born from property conflict",
+    "Contract among men elects Mahasammat",
+    "Equality and democracy in Sangha"
+   ],
+   "narration": "Here is your quick recap. First, the state began to protect property through human contract. Second, the ruler is an elected servant of love. Finally, the Sangha championed equality and democratic debate."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Karl Marx, why is renouncing religion insufficient to overcome human alienation?",
+   "options": [
+    "Religion is merely part of the superstructure, so the underlying capitalist economic base must be transformed.",
+    "Alienation can only be eliminated when individuals raise their consciousness to merge with the universal spirit.",
+    "Religious institutions actively organize the working class into a revolutionary political party against factory owners.",
+    "Capitalism completely eliminates religious beliefs, replacing them with an objective scientific understanding of market relations."
+   ],
+   "answer": 0,
+   "why": "Marx argued that religion is merely part of the superstructure. Therefore, alienation can only end by transforming the capitalist economic base.",
+   "page": 153
+  },
+  {
+   "q": "How does Karl Marx distinguish true freedom in communism from bourgeois liberty in capitalism?",
+   "options": [
+    "Bourgeois liberty provides freedom from material necessity, whereas communist freedom guarantees individual legal rights against society.",
+    "True freedom means liberation from material necessities, whereas bourgeois liberty is merely protective isolation from society.",
+    "True freedom requires competitive market wages, whereas bourgeois liberty forces individuals to labor beyond their capacities.",
+    "Bourgeois liberty abolishes private property, whereas communist freedom allows individuals to independently market their surplus goods."
+   ],
+   "answer": 1,
+   "why": "Marx viewed bourgeois liberty as protective isolation from others, while true freedom requires liberation from basic material necessities.",
+   "page": 155
+  },
+  {
+   "q": "Why did Vladimir Lenin deviate from Marx by introducing a vanguard Communist Party led by intellectuals?",
+   "options": [
+    "Mature capitalist contradictions had already made Russian workers fully conscious of their revolutionary role.",
+    "He believed changing the economic base would automatically prevent power from concentrating among elites.",
+    "He believed Russian workers lacked spontaneous revolutionary consciousness, requiring middle-class intellectuals to manufacture it.",
+    "Marx explicitly instructed middle-class intellectuals to lead the state bureaucracy during the transition to communism."
+   ],
+   "answer": 2,
+   "why": "Lenin believed Russian workers lacked revolutionary consciousness, so he used middle-class intellectuals to manufacture consciousness.",
+   "page": 158
+  },
+  {
+   "q": "What does Marx mean by stating that material existence determines human consciousness rather than consciousness determining existence?",
+   "options": [
+    "Universal spiritual consciousness evolves independently to construct the physical and economic structures of human society.",
+    "Legal and political institutions dictate the economic mode of production and assign individuals to classes.",
+    "Philosophical and religious ideas emerge first, subsequently creating society's material conditions and production relations.",
+    "Economic relations and material production form the base shaping society's legal, political, and philosophical ideas."
+   ],
+   "answer": 3,
+   "why": "Marx argued that the economic base forms the foundation of society, which directly determines social, legal, and political consciousness.",
+   "page": 159
+  }
+ ]
+}

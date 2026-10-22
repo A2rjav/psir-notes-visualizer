@@ -1,0 +1,86 @@
+{
+ "title": "Civil Liberties and Constitutional Remedies in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can the government silence your voice or take away your life?",
+   "narration": "Have you ever wondered if the state can stop you from speaking or even take your life? In India, civil liberties protect your fundamental freedoms, but they are not absolute."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "School allows you to speak freely, but forbids bullying other students.",
+   "narration": "Think of this as an analogy: your school encourages you to debate freely, but sets rules against harassment so everyone stays safe. Similarly, the Indian Constitution guarantees rights while maintaining public harmony."
+  },
+  {
+   "type": "balance",
+   "heading": "Speech and Restrictions",
+   "left": "Free Speech",
+   "right": "Reasonable Restrictions",
+   "tilt": "even",
+   "narration": "Here is the trick: Article 19 gives you six freedoms, including speech and expression. However, under Article 19 clause two, the legislature can place reasonable restrictions to prevent defamation or contempt of court."
+  },
+  {
+   "type": "timeline",
+   "heading": "Judicial Precedents on Sedition",
+   "events": [
+    {
+     "when": "1951",
+     "what": "Nehru called sedition laws obnoxious"
+    },
+    {
+     "when": "1958",
+     "what": "Allahabad HC declared sedition unconstitutional"
+    },
+    {
+     "when": "2011",
+     "what": "Indradas case required imminent lawless action"
+    }
+   ],
+   "narration": "Governments often used Section 124A sedition to silence dissent. Over decades, the judiciary narrowed its scope, ruling in the Balwant Singh case that shouting slogans is not sedition without incitement."
+  },
+  {
+   "type": "compare",
+   "heading": "Theories on Capital Punishment",
+   "columns": [
+    {
+     "title": "Retributive Theory",
+     "items": [
+      "Based on state revenge",
+      "Fails to create deterrence",
+      "Irreversible if innocents die"
+     ]
+    },
+    {
+     "title": "Reformative Theory",
+     "items": [
+      "Hate evil, not evildoer",
+      "Follows Gandhian moral values",
+      "Prefers rigorous life imprisonment"
+     ]
+    }
+   ],
+   "narration": "Under Article 21, the right to life is supreme. In the Bachan Singh case, the Supreme Court established the rarest of rare doctrine, preferring Gandhian reformation over irreversible death penalties."
+  },
+  {
+   "type": "points",
+   "heading": "Article 32 Constitutional Remedies",
+   "items": [
+    "Ambedkar called it soul of Part Three",
+    "Makes Supreme Court a sentinel qui vive",
+    "Introduced Public Interest Litigation for the poor",
+    "Applies doctrines of res judicata and laches"
+   ],
+   "narration": "Imagine having rights without any way to enforce them! Dr. Ambedkar called Article 32 the soul of the Constitution because it empowers the Supreme Court to protect citizens through Public Interest Litigation."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Article 19 freedoms allow reasonable restrictions",
+    "Article 21 limits death penalty to rarest cases",
+    "Article 32 guarantees direct constitutional remedies"
+   ],
+   "narration": "Remember these three pillars: speech has reasonable boundaries, life is safeguarded through the rarest of rare doctrine, and Article 32 guarantees that your fundamental rights can always be defended in court."
+  }
+ ]
+}

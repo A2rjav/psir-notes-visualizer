@@ -1,0 +1,81 @@
+{
+ "title": "Critiques of Rawls and Alternative Justice Theories",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a single formula of justice truly fit every human society?",
+   "narration": "John Rawls gave us an ideal formula for justice, but many thinkers strongly disagreed. Can abstract rules really work when people across the world live in completely different realities?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏠",
+   "text": "A joint family shares duties based on relationships, not cold contracts.",
+   "narration": "As an everyday analogy, imagine a joint family deciding household chores. You do not write a cold contract ignoring your bonds; your duties flow naturally from your shared family relationships."
+  },
+  {
+   "type": "thinker",
+   "name": "Michael Sandel",
+   "idea": "Humans are embedded selves shaped by community, not isolated individuals.",
+   "work": "Liberalism and the Limits of Justice",
+   "narration": "Michael Sandel argued that Rawls imagined an unencumbered self, meaning a person detached from society. In reality, we are embedded selves whose identities and goals are shaped by our communities."
+  },
+  {
+   "type": "compare",
+   "heading": "Liberals Versus Communitarians",
+   "columns": [
+    {
+     "title": "Liberal View",
+     "items": [
+      "Atomistic individual choosing goals freely",
+      "Universal principles for all societies",
+      "State maintains value neutrality"
+     ]
+    },
+    {
+     "title": "Communitarian View",
+     "items": [
+      "Embedded self constituted by community",
+      "Particular justice rooted in culture",
+      "State strengthens social solidarity"
+     ]
+    }
+   ],
+   "narration": "Notice the sharp contrast here. While liberals see individuals as separate atoms following universal laws, communitarians believe justice is particularistic, meaning what is fair depends on a community's unique culture and history."
+  },
+  {
+   "type": "thinker",
+   "name": "Michael Walzer",
+   "idea": "Different goods must be distributed differently according to shared social meanings.",
+   "work": "Spheres of Justice",
+   "narration": "Michael Walzer showed that no single principle can govern everything. Money, education, and political office belong to different spheres of justice, and each good must follow its own distinct social meaning."
+  },
+  {
+   "type": "points",
+   "heading": "Feminist and Marxist Critiques",
+   "items": [
+    "Susan Okin: Rawls ignores injustice inside the family",
+    "Family gender roles shape unequal life chances",
+    "Marxists: Difference Principle rationalizes capitalist inequality",
+    "True justice must be based on human need"
+   ],
+   "narration": "Other thinkers found major blind spots in Rawls. Feminist thinker Susan Moller Okin pointed out that Rawls ignored injustice inside families, while Marxists argued his ideas merely defend capitalist inequality."
+  },
+  {
+   "type": "balance",
+   "heading": "Sen: Institutional Rules Versus Real Outcomes",
+   "left": "Procedural Niti Rules",
+   "right": "Realised Nyaya Outcomes",
+   "tilt": "right",
+   "narration": "Economist Amartya Sen tilted the scale toward real life. Drawing from Indian thought, he argued that actual realised justice, called nyaya, matters far more than just having perfect institutional rules, called niti."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Communitarians see individuals as embedded within their culture",
+    "Feminists and Marxists expose hidden real-world inequalities",
+    "Sen prioritizes real human capability over perfect rules"
+   ],
+   "narration": "To recap, communitarians ground justice in social reality, feminists and Marxists expose neglected inequalities, and Sen focuses on expanding real human capabilities."
+  }
+ ]
+}

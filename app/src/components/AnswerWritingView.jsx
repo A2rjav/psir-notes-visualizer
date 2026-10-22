@@ -32,6 +32,44 @@ const cleanQuestion = (q) =>
 
 const formatMarks = (m) => (typeof m === 'number' ? `${m} Marks` : m || '20 Marks (250 Words)');
 
+// Short label for a body pillar: its own "Heading:" if it has one, else its first ten words.
+const pillarLabel = (t) => {
+  const s = String(t).replace(/\*+/g, '').trim();
+  const m = /^([^:]{3,60}):/.exec(s);
+  if (m) return m[1].trim();
+  const words = s.split(/\s+/);
+  return words.length > 10 ? `${words.slice(0, 10).join(' ')}…` : s;
+};
+
+function AnswerMap({ topic, pillars, conclusion }) {
+  if (!pillars.length) return null;
+  const arrow = <div className="text-center text-amber-400 font-black leading-none">↓</div>;
+  return (
+    <div className="p-4 rounded-xl bg-slate-950 border border-slate-800/90 space-y-2">
+      <div className="mx-auto max-w-md text-center px-3 py-2 rounded-lg border-2 border-sky-500/60 text-sky-100 text-xs sm:text-sm font-bold">
+        Intro: define {topic || 'the theme'}
+      </div>
+      {arrow}
+      <div className="grid gap-2 sm:grid-cols-2">
+        {pillars.map((p, i) => (
+          <div key={i} className="flex items-start gap-2 px-3 py-2 rounded-lg border border-amber-500/40 bg-amber-500/5 text-xs text-amber-100">
+            <span className="w-5 h-5 rounded-full bg-amber-500 text-slate-950 font-black text-[10px] flex items-center justify-center shrink-0">{i + 1}</span>
+            <span>{pillarLabel(p)}</span>
+          </div>
+        ))}
+      </div>
+      {conclusion && (
+        <>
+          {arrow}
+          <div className="mx-auto max-w-md text-center px-3 py-2 rounded-lg border-2 border-emerald-500/60 text-emerald-100 text-xs sm:text-sm font-bold">
+            Conclusion: way forward
+          </div>
+        </>
+      )}
+    </div>
+  );
+}
+
 export default function AnswerWritingView({ onSelectScanPage, currentDataset, currentVolume, initialAnswerId }) {
   const [selectedQuestionIndex, setSelectedQuestionIndex] = useState(() =>
     Math.max(0, (currentDataset?.answers || []).findIndex((a) => a.id === initialAnswerId)));
@@ -57,19 +95,20 @@ export default function AnswerWritingView({ onSelectScanPage, currentDataset, cu
   const conclText = current.conclusion || struct.conclusion;
   const currentQuestion = cleanQuestion(current.question);
 
-  // Custom exam diagram templates for Paper 1 & Paper 2
-  const isKaplanQuestion = /kaplan|polarity|bipolar|multipolar|international system/i.test(
-    `${current.question || ''} ${current.topic || ''}`
-  );
-  const getExamDiagram = (qIdx) => {
+  // Hand-drawn exam diagrams exist for a few questions only. They are matched on the question's
+  // own text (answer order changed when the datasets were rebuilt, so indexes no longer line up);
+  // every other answer gets an answer map built from its own intro, pillars and conclusion.
+  const qText = `${current.question || ''} ${current.topic || ''}`;
+  const isKaplanQuestion = /kaplan|polarity|bipolar|multipolar|international system/i.test(qText);
+  const getExamDiagram = () => {
     if (currentVolume?.id === 'p1_part1') {
-      if (qIdx === 0) {
+      if (/lacked political thinking|ancient indian political thought|v\.?\s?r\.? mehta/i.test(qText)) {
         return `
             PROF. V.R. MEHTA'S PARADIGM: DICHOTOMY VS. CONTINUITY
             ──────────────────────────────────────────────────────
 
        [ WESTERN PARADIGM ]                 [ INDIAN PARADIGM ]
-          (Dichotomies / विभाजन)                   (Continuity / सातत्य)
+            (Dichotomies)                         (Continuity)
    • Individual vs. Community           • Individual integrated in Community
    • Nature vs. Culture (Conquest)       • Nature in harmony with Culture
    • Self-interest vs. Others (Zero-sum) • Enlightened Self-interest (Dharma)
@@ -78,7 +117,7 @@ export default function AnswerWritingView({ onSelectScanPage, currentDataset, cu
               ▼                                      ▼
      [ Machiavellian Realism ]             [ Dharma-Danda Co-presence ]
         `;
-      } else if (qIdx === 1) {
+      } else if (/\bmanu\b|rajdharma|\bdanda\b/i.test(qText)) {
         return `
                  MANU'S CONSTITUTIONAL LIMITS ON KING
                  ────────────────────────────────────
@@ -118,18 +157,9 @@ export default function AnswerWritingView({ onSelectScanPage, currentDataset, cu
              • Strategic Autonomy & Regional Minilaterals
       `;
     }
-
-    return `
-           UPSC PSIR 3-TIER ANSWER STRUCTURING MATRIX
-           ──────────────────────────────────────────
-
-  [ TIER 1: CONCEPTUAL GENESIS ] ──► Thinkers, Texts & Problematique
-                │
-  [ TIER 2: DIALECTICAL CRITIQUE ] ─► Realist, Liberal, Marxist, Feminist Debates
-                │
-  [ TIER 3: CONTEMPORARY SYNTHESIS ] ─► Indian Constitutionalism & Global Governance
-    `;
+    return null;
   };
+  const examDiagram = getExamDiagram();
 
   return (
     <div className="space-y-8 max-w-5xl mx-auto pb-16">
@@ -280,15 +310,19 @@ export default function AnswerWritingView({ onSelectScanPage, currentDataset, cu
               </div>
             )}
 
-            {/* In-Exam Diagram Schematic */}
+            {/* In-exam diagram: a hand-drawn one where it exists, else this answer's own skeleton */}
             <div className="p-5 rounded-2xl bg-slate-900 border border-slate-800 space-y-2">
               <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-sky-400">
                 <Layout className="w-4 h-4" />
-                <span>Value-Addition: In-Exam Visual Flowchart / Diagram</span>
+                <span>{examDiagram ? 'Value-Addition: In-Exam Diagram' : 'Answer map: sketch this skeleton before you write'}</span>
               </div>
-              <pre className="p-4 rounded-xl bg-slate-950 border border-slate-800/90 text-[11px] sm:text-xs font-mono text-amber-300/90 overflow-x-auto leading-tight select-all">
-                {getExamDiagram(selectedQuestionIndex)}
-              </pre>
+              {examDiagram ? (
+                <pre className="p-4 rounded-xl bg-slate-950 border border-slate-800/90 text-[11px] sm:text-xs font-mono text-amber-300/90 overflow-x-auto leading-tight select-all">
+                  {examDiagram}
+                </pre>
+              ) : (
+                <AnswerMap topic={current.topic} pillars={bodyList} conclusion={conclText} />
+              )}
             </div>
 
             {/* Conclusion Pillar */}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Plato, what constitutes justice in the ideal state?",
+   "options": [
+    "Each class strictly performs its natural duty without interfering in the functions of others",
+    "Citizens share political sovereignty equally through regular democratic voting in the popular assembly",
+    "Material wealth and private property are distributed with absolute equality among all social classes",
+    "Rulers govern strictly under written constitutional laws drafted and approved by the collective citizenry"
+   ],
+   "answer": 0,
+   "why": "Plato defines justice as non-interference and proper stationing, where each soul-based class fulfills its natural duty without encroaching upon others.",
+   "page": 24
+  },
+  {
+   "q": "According to Plato, what is the primary purpose of the state-controlled education system?",
+   "options": [
+    "To promote commercial prosperity by equipping artisans with specialized technical and trading skills",
+    "To determine individual aptitude and assign each citizen to their appropriate social class",
+    "To cultivate democratic citizens capable of rotating between ruling and being ruled in turn",
+    "To enforce total economic equality by eliminating natural intellectual differences among all citizens"
+   ],
+   "answer": 1,
+   "why": "Plato designs education as a screening mechanism to reveal each individual's innate aptitude and place them into their corresponding social class.",
+   "page": 26
+  },
+  {
+   "q": "Why does Plato exclude the producer class from his system of communism?",
+   "options": [
+    "Producers have naturally mastered their appetites and require no institutional rules against corruption",
+    "Aristotle convinced Plato that private property is indispensable for moral virtue and charitable acts",
+    "They hold no political power and cannot control their innate appetite for worldly pleasures",
+    "Soldiers and rulers require private farm estates to fund military expeditions and state administration"
+   ],
+   "answer": 2,
+   "why": "Plato exempts producers because they lack political power to corrupt the state and are dominated by appetite, making private property psychologically necessary.",
+   "page": 29
+  },
+  {
+   "q": "What single constitutional limitation does Plato place on the absolute power of the philosopher king?",
+   "options": [
+    "The ruler must submit all executive decrees to public opinion for democratic ratification",
+    "The ruler must govern strictly according to written books of statutory civil law",
+    "The ruler must share supreme legislative authority equally with a council of soldiers",
+    "The ruler cannot alter the fundamental constitution and established class structure of the republic"
+   ],
+   "answer": 3,
+   "why": "Although Plato frees the philosopher king from written laws and public opinion, the ruler is forbidden from changing the constitution of the republic.",
+   "page": 31
+  }
+ ]
+}

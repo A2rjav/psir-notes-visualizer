@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "What distinguishes the IMF's Extended Fund Facility from its standard Stand-By Arrangement?",
+   "options": [
+    "It provides long-term loans for countries requiring structural economic reforms to repay their debts.",
+    "It provides short-term emergency funding exclusively to handle sudden and unexpected international capital flight.",
+    "It supplies targeted financial grants to low-income nations specifically for domestic poverty reduction programs.",
+    "It functions as a specialized stabilization mechanism created to resolve sovereign debt crises across Europe."
+   ],
+   "answer": 0,
+   "why": "The Extended Fund Facility offers long-term loans for countries needing economic restructuring to overcome debt repayment problems, unlike short-term Stand-By Arrangements.",
+   "page": 147
+  },
+  {
+   "q": "Why do developing countries argue that IMF loan conditionalities undermine their national sovereignty?",
+   "options": [
+    "They require borrowing governments to transfer judicial authority over financial disputes to foreign international tribunals.",
+    "They compel borrowing countries to adopt domestic economic reforms favored by developed creditor nations.",
+    "They mandate that borrowing states replace their national currencies permanently with an international reserve asset.",
+    "They suspend borrowing nations from voting representation within the Board of Governors during stabilization programs."
+   ],
+   "answer": 1,
+   "why": "Developing countries argue that conditionalities erode sovereignty because the IMF compels borrowers to adopt economic reforms favored by developed countries.",
+   "page": 148
+  },
+  {
+   "q": "Under the stalled 2010 IMF governance reforms, how would representation on the Board of Executive Directors change?",
+   "options": [
+    "The total number of executive directors would expand from twenty-four to thirty-two member seats.",
+    "Developing countries would receive permanently reserved executive director seats equal to the G7 economies.",
+    "All executive directors would be elected, ending the privilege of individual countries appointing their own.",
+    "Executive director positions would rotate annually among all member nations in strict alphabetical sequence."
+   ],
+   "answer": 2,
+   "why": "The 2010 reforms agreed that no country would maintain the privilege of appointing its own executive director, making all directors elected.",
+   "page": 150
+  },
+  {
+   "q": "Why does the United States possess an effective unilateral veto over substantive decisions in the IMF?",
+   "options": [
+    "The IMF charter explicitly grants an exclusive statutory veto to the single largest financial contributor.",
+    "The United States finances more than half of all emergency bailout funds deployed during global crises.",
+    "Substantive policy resolutions require unanimous formal approval from every finance minister on the Board of Governors.",
+    "Major decisions require an eighty-five percent supermajority, while the United States holds around seventeen percent of votes."
+   ],
+   "answer": 3,
+   "why": "Because substantive decisions require an 85% supermajority and the United States holds approximately 17% of total votes, nothing can pass without American consent.",
+   "page": 148
+  }
+ ]
+}

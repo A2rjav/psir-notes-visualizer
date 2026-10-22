@@ -1,0 +1,73 @@
+{
+ "title": "J.S. Mill on Utilitarianism and Liberty",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can eating chocolate give the same satisfaction as reading philosophy?",
+   "narration": "Imagine someone claims that playing mobile games gives the exact same satisfaction as passing the civil services exam. Early thinkers called utilitarians believed that, but J.S. Mill completely changed how we value human happiness."
+  },
+  {
+   "type": "analogy",
+   "emoji": "📱",
+   "text": "Reels give instant fun, but solving tough math gives lasting intellectual joy.",
+   "narration": "Here is a school analogy: scrolling social media feels fun instantly, but solving a complex math problem gives lasting intellectual joy. Mill argued that higher pleasures of reason are far superior to mere physical pleasures."
+  },
+  {
+   "type": "compare",
+   "heading": "Bentham Versus Mill on Pleasure",
+   "columns": [
+    {
+     "title": "Bentham",
+     "items": [
+      "Pleasure is purely quantitative",
+      "Pushpin is as good as poetry",
+      "Felicific calculus measures pleasure"
+     ]
+    },
+    {
+     "title": "Mill",
+     "items": [
+      "Pleasures differ in quality",
+      "Intellectual pleasures are superior",
+      "Quality cannot be calculated"
+     ]
+    }
+   ],
+   "narration": "Utilitarianism is the idea that actions are right if they create maximum pleasure. Jeremy Bentham treated all pleasures as equal quantities, but Mill argued that human reason makes mental happiness far richer than animal appetite."
+  },
+  {
+   "type": "balance",
+   "heading": "Mill's Harm Principle",
+   "left": "Self-regarding actions",
+   "right": "Harm to others",
+   "tilt": "right",
+   "narration": "Mill introduced the harm principle: you are fully sovereign over your own body and mind. The state cannot stop you from harming yourself, but it must step in the moment your actions harm other people."
+  },
+  {
+   "type": "quote",
+   "quote": "All silencing the opinion is an assumption of infallibility.",
+   "by": "J.S. Mill",
+   "narration": "For Mill, freedom of speech is sacred because silencing any voice assumes you are infallible, or never wrong. Even an eccentric speaker might hold the truth, or help society correct its own mistaken views through open debate."
+  },
+  {
+   "type": "points",
+   "heading": "Representative Government and Rights",
+   "items": [
+    "Democracy enables human liberty and progress",
+    "Feared democracy turning into mobocracy",
+    "Proposed weighted voting for educated citizens",
+    "Championed women voting and public roles"
+   ],
+   "narration": "Mill supported representative democracy, but he was a reluctant democrat who feared uneducated mob rule. To protect liberty, he proposed weighted voting for educated citizens while bravely championing equal voting rights and public roles for women."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Pleasures differ qualitatively; reason is higher than appetite.",
+    "Liberty is sovereign unless an action harms others.",
+    "Speech must never be silenced in a democracy."
+   ],
+   "narration": "Remember these three insights: Mill elevated utilitarianism by valuing quality over quantity, defended absolute personal liberty under the harm principle, and demanded free speech so democratic society can continuously discover truth and progress."
+  }
+ ]
+}

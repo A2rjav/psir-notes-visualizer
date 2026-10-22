@@ -1,0 +1,84 @@
+{
+ "title": "Three Models of Democracy Explained",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Are you truly free if you only vote once every five years?",
+   "narration": "Imagine thinking you are completely free just because you cast a vote every five years! But what happens on all the other days when leaders make decisions without asking you?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Electing a class monitor who rules alone without ever consulting classmates.",
+   "narration": "Here is an everyday school analogy: imagine electing your class monitor. If they spend the whole year ordering everyone around without ever consulting the class, that is hardly democratic, right?"
+  },
+  {
+   "type": "compare",
+   "heading": "Models of Representation",
+   "columns": [
+    {
+     "title": "Delegate Model",
+     "items": [
+      "Bentham and Locke",
+      "Strictly obey voter mandate",
+      "No independent action"
+     ]
+    },
+    {
+     "title": "Enlightened Model",
+     "items": [
+      "Mill and Burke",
+      "Representatives have autonomy",
+      "Focus on national interest"
+     ]
+    }
+   ],
+   "narration": "In representative democracy, elections choose leaders, but how should they act? Bentham's delegate model says representatives must strictly obey voter instructions, whereas Burke's enlightened model gives leaders autonomy to serve the nation."
+  },
+  {
+   "type": "points",
+   "heading": "Participatory Democracy",
+   "items": [
+    "Rousseau: Englishmen free only on election day",
+    "Continuous citizen participation in daily governance",
+    "Methods: referendums, RTI, and democratic decentralisation"
+   ],
+   "narration": "Thinker Jean-Jacques Rousseau famously argued that citizens are free only once every five years during elections, and enslaved right after! Participatory democracy fixes this by involving you continuously through referendums and local panchayats."
+  },
+  {
+   "type": "thinker",
+   "name": "Nancy Fraser",
+   "idea": "Marginalized groups need counter-publics to voice concerns and challenge domination",
+   "work": "",
+   "narration": "What happens when powerful voices drown out everyone else in public debates? Scholar Nancy Fraser showed that marginalized groups must build their own counter-publics, creating safe spaces to discuss their needs and fight exploitation."
+  },
+  {
+   "type": "flow",
+   "heading": "Deliberative Decision Making",
+   "steps": [
+    "Public sphere discussions",
+    "Ideal speech situation",
+    "Force of better argument",
+    "Legitimate consensus achieved"
+   ],
+   "narration": "Here is how deliberative democracy works according to Jürgen Habermas. In an ideal speech situation, everyone speaks as equals, and only the force of the better argument wins."
+  },
+  {
+   "type": "balance",
+   "heading": "Numbers Versus Deliberation",
+   "left": "Mere Majoritarian Voting",
+   "right": "Reasoned Public Debate",
+   "tilt": "right",
+   "narration": "Democracy should never be a mere numbers game where the majority bullies the minority. Thinkers like Amartya Sen argue that democratic decisions gain true legitimacy only through patient, open public debate."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Representative democracy chooses delegates or autonomous leaders",
+    "Participatory democracy ensures active citizens and counter-publics",
+    "Deliberative democracy prioritises public reasoning over mere headcounts"
+   ],
+   "narration": "Remember the big picture: representative democracy chooses decision-makers, participatory democracy keeps citizens active every day, and deliberative democracy makes reasoned discussion our ultimate guide."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "title": "Women's Movements and Political Representation",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did female representation remain under eight percent despite equal rights?",
+   "narration": "Why did female lawmakers stay under eight percent despite equal constitutional voting rights? Winning legal equality on paper simply did not translate into political power."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Being picked for the cricket squad does not guarantee a turn at bat.",
+   "narration": "Think of this through an everyday analogy of a school cricket team. Being picked for the squad does not mean senior players will let you bat. Likewise, voting rights alone could not break patriarchal barriers."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Post-Independence Phases",
+   "events": [
+    {
+     "when": "Up to 1970s",
+     "what": "Phase One: The Grey Years"
+    },
+    {
+     "when": "1970s-1980s",
+     "what": "Phase Two: Revival and anti-violence protests"
+    },
+    {
+     "when": "1990s",
+     "what": "Phase Three: Autonomous feminist groups emerge"
+    }
+   ],
+   "narration": "Notice how women's activism evolved across three phases. Early complacency during the Grey Years ended when the 1974 Towards Equality report exposed shocking discrimination, triggering nationwide protests against dowry and violence."
+  },
+  {
+   "type": "flow",
+   "heading": "State Policy Evolution",
+   "steps": [
+    "Welfare approach after independence",
+    "Development focus during 1970s",
+    "Empowerment through gender budgeting"
+   ],
+   "narration": "Here is how state policy transformed over time. Government approach progressed from basic welfare to economic development, and finally to empowerment, backed by gender budgeting to allocate targeted public funds."
+  },
+  {
+   "type": "compare",
+   "heading": "Debate on Legislative Reservation",
+   "columns": [
+    {
+     "title": "Opposition Arguments",
+     "items": [
+      "Compromises merit and self confidence",
+      "Men can represent women's interests",
+      "Focus on economic empowerment first"
+     ]
+    },
+    {
+     "title": "Support Arguments",
+     "items": [
+      "Stagnant representation below eight percent",
+      "Patriarchal environment blocks talented women",
+      "Local panchayat quotas proved successful"
+     ]
+    }
+   ],
+   "narration": "Should seats in legislatures be reserved for women? Opponents like Nehru argued quotas compromise merit, believing men could represent women. But supporters insisted quotas are essential because patriarchal biases stall female representation."
+  },
+  {
+   "type": "thinker",
+   "name": "Laura Keenen",
+   "idea": "Reservation is a necessary catalyst against patriarchal barriers in politics.",
+   "work": "",
+   "narration": "Feminist scholar Laura Keenen explains that low representation does not stem from lack of merit. Instead, a deeply patriarchal social environment blocks women, making seat reservations a necessary catalyst for real change."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Activism shifted state focus toward genuine empowerment",
+    "Autonomous groups protested violence despite emerging divisions",
+    "Reservation catalyzes representation alongside economic and educational support"
+   ],
+   "narration": "To recap, remember that constitutional equality required activist pressure to shift policy toward genuine empowerment. Legislative reservation provides a crucial political catalyst, but complete equality also demands economic and educational empowerment."
+  }
+ ]
+}

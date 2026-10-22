@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to John Burton's cobweb model, how has the nature of world politics fundamentally changed?",
+   "options": [
+    "Cross-border social ties show that sovereign states are no longer the only gateways of interaction.",
+    "States act like impenetrable colliding balls, determining world politics solely through competitive military alliances.",
+    "Global institutions have completely replaced nation-states as the primary sovereign actors in world affairs.",
+    "Political leaders exclusively regulate international cooperation by directing all formal Track 1 diplomatic negotiations."
+   ],
+   "answer": 0,
+   "why": "John Burton argued that the world is society-centric, meaning states are no longer the sole gateway for cross-border interactions.",
+   "page": 89
+  },
+  {
+   "q": "How does Ernst Haas's neo-functionalism fundamentally modify David Mitrany's classical functionalist approach to regional integration?",
+   "options": [
+    "It insists that political leaders must be excluded entirely so technical experts can direct integration.",
+    "It asserts that sustained integration eventually stalls unless political leaders actively provide necessary political will.",
+    "It argues that military alliances must precede economic integration to deter external security threats.",
+    "It requires all participating nations to adopt republican constitutions before beginning low-politics technical cooperation."
+   ],
+   "answer": 1,
+   "why": "Ernst Haas argued that functional integration stagnates without the active involvement and political will of political leaders.",
+   "page": 93
+  },
+  {
+   "q": "According to Michael Doyle, why do democratic nations tend not to go to war with one another?",
+   "options": [
+    "Technocratic agencies gradually replace national parliaments, eliminating political rivalries through shared economic integration.",
+    "Democratic governments maintain superior military arsenals that mutually deter any potential aggressive foreign attacks.",
+    "Democratic norms, public opinion, and institutional checks create mutual tolerance and opportunities for course correction.",
+    "Bilateral trade treaties legally prohibit democratic executives from mobilizing armed forces against commercial partners."
+   ],
+   "answer": 2,
+   "why": "Doyle explains that democracies form a zone of peace due to domestic public pressure, free speech, and mutual tolerance.",
+   "page": 94
+  },
+  {
+   "q": "What is considered the most serious criticism of how democratic peace theory has been applied in practice?",
+   "options": [
+    "It discourages multilateral global institutions from mediating border disputes between non-democratic sovereign regimes.",
+    "It mistakenly assumes that technical experts can easily resolve high-politics territorial conflicts without politicians.",
+    "It underestimates the role of trans-national communication and student exchange programs in reducing mistrust.",
+    "It has been used to justify military intervention and armed regime change under the Bush Doctrine."
+   ],
+   "answer": 3,
+   "why": "Critics argue the theory provided ideological legitimacy for aggressive foreign interventions, including armed regime change in Iraq.",
+   "page": 95
+  }
+ ]
+}

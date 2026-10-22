@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Lucian Pye's framework, why is India characterized as a 'soft state'?",
+   "options": [
+    "It has high political participation and differentiation but lacks the state capacity to enforce laws.",
+    "It has strong legal enforcement mechanisms but lacks structural differentiation and citizen participation.",
+    "Its rapid economic industrialization has progressed without creating specialized institutions for governance.",
+    "Its citizens display complete indifference to the political system like a parochial political culture."
+   ],
+   "answer": 0,
+   "why": "India demonstrates high political participation and functional differentiation, but struggles with state capacity to enforce laws firmly.",
+   "page": 26
+  },
+  {
+   "q": "According to Samuel Huntington, political decay occurs primarily when which condition arises?",
+   "options": [
+    "Citizens lose interest in politics and retreat into a traditional parochial culture.",
+    "Political participation grows much faster than institutions can develop adaptability and coherence.",
+    "Economic modernization fails to introduce industrialization, secularization, and urban growth.",
+    "State capacity expands excessively to suppress popular voting rights and civic mobilization."
+   ],
+   "answer": 1,
+   "why": "Huntington argued that political decay occurs when mass participation expands faster than the institutional capacity to absorb it.",
+   "page": 27
+  },
+  {
+   "q": "In Almond and Verba's typology, how does a subject political culture differ from a participant culture?",
+   "options": [
+    "Subjects remain totally unaware of the system, whereas participants passively obey state laws.",
+    "Subjects focus on governmental policy outputs, whereas participants actively engage in political inputs.",
+    "Subjects participate actively through regular elections, whereas participants reject democratic institutions.",
+    "Subjects demand rapid modernization, whereas participants prefer traditional tribal forms of governance."
+   ],
+   "answer": 1,
+   "why": "In a subject culture, citizens feel affected by policy outputs but do not participate in shaping political inputs.",
+   "page": 29
+  },
+  {
+   "q": "Why do Almond and Verba argue that a pure participant culture can endanger democratic stability?",
+   "options": [
+    "It deprives the state of functional differentiation and specialized administrative bodies.",
+    "It leads to complete citizen indifference and weakens overall political consciousness.",
+    "It creates excessive passions and uncontrolled demands that demagogues can exploit.",
+    "It prevents the society from adopting industrialization, secularization, and economic modernization."
+   ],
+   "answer": 2,
+   "why": "Unchecked participation without balancing subject and parochial orientations can generate extreme passions that demagogues exploit to subvert democracy.",
+   "page": 30
+  }
+ ]
+}

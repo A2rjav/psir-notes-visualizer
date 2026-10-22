@@ -1,0 +1,78 @@
+{
+ "title": "Comparative Politics: Traditional to Modern Systems",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can you understand real politics just by reading a constitution?",
+   "narration": "Imagine reading a school rulebook and assuming every student behaves like an angel! For centuries, scholars only studied Western legal constitutions, ignoring real-life politics."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Judging cricket teams only by rulebooks ignores pitch conditions and player behaviour.",
+   "narration": "Here's an analogy to make this click: reading only cricket rules will never tell you how a team plays on a dusty pitch! Similarly, post-war scholars realised that formal laws mean nothing without understanding local society and culture."
+  },
+  {
+   "type": "compare",
+   "heading": "Traditional Versus Modern Comparative Politics",
+   "columns": [
+    {
+     "title": "Traditional Method",
+     "items": [
+      "Studied only Western constitutions",
+      "Legal-institutional and static approach",
+      "Ethnocentric and parochial outlook"
+     ]
+    },
+    {
+     "title": "Modern Approach",
+     "items": [
+      "Studies new developing nations",
+      "Behavioural and scientific methods",
+      "Analyzes extra-constitutional social realities"
+     ]
+    }
+   ],
+   "narration": "Before the Second World War, traditional methods were narrow and Eurocentric, assuming Western ways were superior. But when new nations gained independence, political scientists shifted to behavioural methods to study real social dynamics."
+  },
+  {
+   "type": "thinker",
+   "name": "David Easton",
+   "idea": "Political systems authoritatively allocate values through legally binding decisions.",
+   "work": "",
+   "narration": "Enter David Easton, who borrowed from biology to view politics as an interconnected system. He explained that a political system survives by making legally binding decisions, called the authoritative allocation of values."
+  },
+  {
+   "type": "cycle",
+   "heading": "Easton's Input-Output Model",
+   "nodes": [
+    "Inputs: Demands, Support",
+    "System Conversion Box",
+    "Outputs: Binding Decisions",
+    "Feedback Loop"
+   ],
+   "narration": "Think of Easton's model as a machine: society feeds in demands and support as inputs, the government processes them into policies as outputs, and a feedback loop keeps the system running smoothly."
+  },
+  {
+   "type": "points",
+   "heading": "Structural-Functional Framework",
+   "items": [
+    "Developed by Almond and Powell",
+    "Fixes Easton's overly general model",
+    "Inputs: socialisation, communication, interest articulation",
+    "Outputs: rule making, application, adjudication",
+    "Applies to developing and developed states"
+   ],
+   "narration": "Scholars Gabriel Almond and Powell opened Easton's black box. They argued that while structures like parties or kinship vary across developing and advanced nations, every surviving political system performs the same essential survival functions."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Traditional comparative politics was static and Eurocentric",
+    "Easton introduced systems with authoritative values",
+    "Almond mapped universal functions across structures"
+   ],
+   "narration": "Here's what to remember: traditional methods were too narrow, Easton gave politics a scientific systems framework, and Almond showed how diverse structures perform vital universal functions. You've got this!"
+  }
+ ]
+}

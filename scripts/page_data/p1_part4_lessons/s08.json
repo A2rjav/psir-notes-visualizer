@@ -1,0 +1,75 @@
+{
+ "title": "Fascism: Origins, Ideas, and Key Critiques",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is fascism a genuine political ideology, or an unsystematic hodge-podge of borrowed ideas?",
+   "narration": "Have you ever wondered why scholars refuse to call fascism a real ideology? Dictators like Mussolini seized power first, then hired scholars to assemble an unsystematic hodge-podge of ideas to justify their rule."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket captain banning debate, demanding blind obedience, and claiming only he can restore glory.",
+   "narration": "As an everyday analogy, imagine a cricket captain banning team meetings, demanding blind obedience, and claiming only he can restore glory. That is fascism: rejecting reason to incite raw passions and force obedience to a supreme leader."
+  },
+  {
+   "type": "points",
+   "heading": "Core Tenets of Fascism",
+   "items": [
+    "Palingenetic ultra-nationalism promising national rebirth through culture",
+    "Total individual duty under the state without human rights",
+    "Economic autarky and state corporatism over free markets",
+    "Rejection of democracy as a luxury for rich nations"
+   ],
+   "narration": "Fascists preach palingenetic ultra-nationalism, meaning the myth of national rebirth. They replace rights with absolute duties under the state, enforce autarky or economic self-sufficiency, and reject democracy as a luxury for rich nations."
+  },
+  {
+   "type": "compare",
+   "heading": "Philosophical Roots of Fascism",
+   "columns": [
+    {
+     "title": "Plato's Influence",
+     "items": [
+      "Philosopher king demanding ultimate obedience",
+      "Primacy of the state over individuals"
+     ]
+    },
+    {
+     "title": "Machiavelli's Influence",
+     "items": [
+      "Separation of ethics from politics",
+      "Ruthless power politics for the nation"
+     ]
+    }
+   ],
+   "narration": "To legitimize power, fascists borrowed from classical thinkers. They twisted Plato's philosopher king to demand total obedience, and used Machiavelli's split between ethics and politics to justify ruthless power for the nation."
+  },
+  {
+   "type": "thinker",
+   "name": "Harold Laski",
+   "idea": "Fascism is a counter-revolution by elites to protect capitalism in crisis.",
+   "work": "",
+   "narration": "How do Marxists view fascism? Harold Laski explained it as a counter-revolution, meaning a revolution against revolution where ruling elites sponsor dictators to crush organized socialist workers and rescue capitalism in crisis."
+  },
+  {
+   "type": "flow",
+   "heading": "Nolte on Fascism's Rise",
+   "steps": [
+    "Weak democratic culture falters",
+    "Crushing economic crisis hits",
+    "Demagogues exploit public humiliation",
+    "Totalitarian dictatorship takes power"
+   ],
+   "narration": "Historian Ernst Nolte traced fascism's rise to a clear breakdown. When democracy lacks deep cultural roots, post-war humiliation and economic crisis allow demagogues to exploit public frustration and install totalitarian rule."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Unsystematic hodgepodge borrowing philosophy to legitimize dictatorship",
+    "Palingenetic ultra-nationalism enforcing duties over individual rights",
+    "Crisis product explained by Marxist counter-revolution and Nolte"
+   ],
+   "narration": "Here are three key takeaways for your exam. Fascism is an opportunistic hodge-podge demanding absolute obedience for national rebirth, thriving whenever democratic institutions and the economy collapse."
+  }
+ ]
+}

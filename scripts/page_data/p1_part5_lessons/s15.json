@@ -1,0 +1,80 @@
+{
+ "title": "Karl Marx: Alienation, Ideology, and Revolution",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why does capitalism alienate us from our work and true human nature?",
+   "narration": "Have you ever wondered why working hard often feels exhausting instead of joyful? Karl Marx argued that capitalism cuts us off from our creative human nature."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🎨",
+   "text": "Loving painting, but being forced to mass-produce greeting cards for a school fete.",
+   "narration": "As an analogy, imagine you love painting colourful stories, but your school forces you to draw the exact same market logo all day. You lose all joy because you do not own what you make; that is what Marx calls alienation."
+  },
+  {
+   "type": "flow",
+   "heading": "Marx's Four Levels of Alienation",
+   "steps": [
+    "From the product of labour",
+    "From the act of production",
+    "From society and other humans",
+    "From one's own creative self"
+   ],
+   "narration": "Marx showed that workers suffer alienation in four steps. First, you lose control over your product, then your work becomes a chore, you lose time for society, and finally you feel alienated from your own self."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Base and Superstructure Model",
+   "levels": [
+    "Ruling Ideas and Culture",
+    "Political and Legal Superstructure",
+    "Economic Base of Production"
+   ],
+   "narration": "Marx used a pyramid to explain society. The economic base at the bottom shapes everything above it, meaning the wealthy class who owns the economy also controls society's laws, religion, and ruling ideas."
+  },
+  {
+   "type": "compare",
+   "heading": "Marx versus Lenin on Revolution",
+   "columns": [
+    {
+     "title": "Karl Marx",
+     "items": [
+      "Mature capitalist industrial society",
+      "Spontaneous revolution by workers",
+      "Workers develop true class consciousness"
+     ]
+    },
+    {
+     "title": "Vladimir Lenin",
+     "items": [
+      "Semi-feudal Russian society",
+      "Revolution led by Communist Party",
+      "Intellectuals manufacture revolutionary consciousness"
+     ]
+    }
+   ],
+   "narration": "Here's the big debate! Marx believed mature capitalism would trigger a spontaneous worker revolution, but Lenin got impatient in semi-feudal Russia and used an elite party of intellectuals to manufacture consciousness."
+  },
+  {
+   "type": "points",
+   "heading": "True Freedom in Communism",
+   "items": [
+    "Work according to capacity, get according to need",
+    "Society guarantees basic material needs",
+    "Liberation from necessity unleashes creative urge",
+    "Common ownership ends class exploitation"
+   ],
+   "narration": "In communism, Marx envisioned true human freedom as freedom from basic physical necessities. When society provides for everyone's needs through machines, work is no longer forced labor but pure creative joy."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Capitalism alienates humans from work, society, and self",
+    "Economic base determines social consciousness and ruling ideas",
+    "Communism provides true freedom by ending necessity and classes"
+   ],
+   "narration": "To recap: capitalism alienates our creative nature, the economic base shapes our social ideas, and Marx believed true freedom arrives only when communism ends class struggle."
+  }
+ ]
+}

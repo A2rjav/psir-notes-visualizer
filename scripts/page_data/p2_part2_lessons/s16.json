@@ -1,0 +1,90 @@
+{
+ "title": "Three Ways Nations Manage Global Power",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How do nations keep peace without a world government?",
+   "narration": "Imagine a world with no police officer to enforce the rules. How do countries stop a bully from attacking? In international politics, states manage power through balance of power, deterrence, and collective security."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like balanced cricket teams, matching strength prevents one side from dominating.",
+   "narration": "As an analogy, think of picking teams for a school cricket match. If all star players join one side, they bully everyone. To keep peace and fair play, both teams need equal strength."
+  },
+  {
+   "type": "balance",
+   "heading": "Mechanisms of Balancing Power",
+   "left": "Internal arms build-up",
+   "right": "External military alliances",
+   "tilt": "even",
+   "narration": "Here is balance of power. Realists argue that when states match an opponent's strength, nobody dares to attack. Nations balance internally by building arms, or externally through alliances to keep the scales even."
+  },
+  {
+   "type": "points",
+   "heading": "Nuclear Deterrence Strategies",
+   "items": [
+    "Deterrence psychologically frightens an enemy to prevent attack",
+    "Massive retaliation threatens unbearable damage with strategic weapons",
+    "India and Eisenhower adopted massive retaliation policies",
+    "Kennedy introduced flexible response using tactical weapons"
+   ],
+   "narration": "Next is deterrence, from the Latin word meaning to frighten. Realists convince adversaries that attacking brings unacceptable costs. Eisenhower relied on massive retaliation with strategic weapons, while Kennedy chose flexible response with tactical weapons."
+  },
+  {
+   "type": "timeline",
+   "heading": "Collective Security Operations",
+   "events": [
+    {
+     "when": "1931",
+     "what": "League fails over Japan in Manchuria"
+    },
+    {
+     "when": "1936",
+     "what": "League ignores Italy invading Ethiopia"
+    },
+    {
+     "when": "June 1950",
+     "what": "UN collective security in Korean crisis"
+    },
+    {
+     "when": "1989",
+     "what": "Coalition repels aggression in Gulf War"
+    }
+   ],
+   "narration": "Collective security means all for one and one for all. Yet history shows its limits. The League of Nations failed in Manchuria and Ethiopia, and the Cold War paralyzed the UN until the 1989 Gulf War."
+  },
+  {
+   "type": "compare",
+   "heading": "Collective Security Versus Defence",
+   "columns": [
+    {
+     "title": "Collective Security",
+     "items": [
+      "Universal system covering all nations",
+      "Institutionalised peace under UN Charter",
+      "India supports this universal framework"
+     ]
+    },
+    {
+     "title": "Collective Defence",
+     "items": [
+      "Restricted to alliance member countries",
+      "NATO alliance is primary example",
+      "USA justifies under Article 51"
+     ]
+    }
+   ],
+   "narration": "Here's the trick: do not confuse collective security with collective defence! Collective security is universal under the United Nations. Collective defence, like NATO, protects only members, which India argues undermines universal security."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Balance of power maintains peace through equal strength",
+    "Deterrence frightens adversaries away from attacking",
+    "Collective security unites all nations against aggression"
+   ],
+   "narration": "Remember these three big ideas! Balance of power matches strength, deterrence frightens enemies with punishment, and collective security unites everyone against aggression."
+  }
+ ]
+}

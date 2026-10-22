@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 3,
+   "field": "narration",
+   "new": "Scholar Robert Kaplan warned that the South China Sea is the new global hotspot. Just like German soil during the Cold War, major powers clash here over shipping lanes and artificial islands.",
+   "reason": "Robert Kaplan compared the South China Sea to German soil during the Cold War, not Europe in World War Two."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What fundamentally distinguishes India's Act East Policy from its earlier Look East Policy?",
+   "options": [
+    "It shifts from primarily economic cooperation in Southeast Asia to strategic and security engagement across the Indo-Pacific.",
+    "It prioritizes multilateral trade agreements over military cooperation across the wider Asia-Pacific region.",
+    "It restricts India's naval engagement exclusively to South-East Asian littoral states under UNCLOS mandates.",
+    "It replaces bilateral maritime exercises like Milan and Malabar with formal collective security alliances."
+   ],
+   "answer": 0,
+   "why": "Look East focused primarily on economic cooperation with Southeast Asia, while Act East expands strategically into the wider Indo-Pacific.",
+   "page": 66
+  },
+  {
+   "q": "Why did India agree to join the AIIB but refuse to participate in China's OBOR initiative?",
+   "options": [
+    "AIIB focuses solely on South Asian infrastructure, while OBOR prioritizes transit corridors across Central Asia and Europe.",
+    "AIIB is a multilateral body India helped shape, while OBOR is a unilateral initiative violating territorial sovereignty.",
+    "India secured veto power over Chinese loans in AIIB, while OBOR offered no economic returns to members.",
+    "OBOR mandates using Chinese currency, while AIIB relies on financing from Japan's Quality Infrastructure partnership."
+   ],
+   "answer": 1,
+   "why": "India helped shape multilateral AIIB with safeguards against contested funding, but rejected unilateral OBOR because CPEC violates sovereignty.",
+   "page": 72
+  },
+  {
+   "q": "Under Indian maritime doctrine, what does assuming the role of a 'net security provider' entail?",
+   "options": [
+    "Restricting naval operations strictly to defending India's exclusive economic zone and merchant shipping from regional piracy.",
+    "Entering formal military alliances with regional swing states to establish collective defense against aggressive powers.",
+    "Providing security assistance to other nations against both conventional and non-conventional threats across the maritime domain.",
+    "Demanding strategic land swaps and port access from smaller littoral neighbors in exchange for maritime defense."
+   ],
+   "answer": 2,
+   "why": "A net security provider extends defense assistance to other nations against both conventional and non-conventional maritime threats.",
+   "page": 66
+  },
+  {
+   "q": "According to the notes, what is China's primary geo-strategic objective behind the Silk Route Economic Belt?",
+   "options": [
+    "To replace multilateral lending institutions like AIIB with bilateral development agreements across Central Asia.",
+    "To establish joint naval commands with Russia along the Trans-Siberian railway to secure Arctic access.",
+    "To integrate member countries into a regional free trade area modeled after the Indian Ocean Rim Association.",
+    "To counter US maritime containment by controlling overland choke points and linking Chinese cities to Europe."
+   ],
+   "answer": 3,
+   "why": "China aims to counter US ocean dominance by bypassing maritime choke points and establishing overland connectivity with Europe.",
+   "page": 70
+  }
+ ]
+}

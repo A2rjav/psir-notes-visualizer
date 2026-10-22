@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "In Karl Mannheim's sociology of knowledge, how do 'ideology' and 'utopia' differ?",
+   "options": [
+    "Ideology preserves dominant class power, whereas utopia reflects exploited class visions seeking transformation.",
+    "Ideology represents objective scientific knowledge, whereas utopia represents distorted false consciousness.",
+    "Ideology serves as a totalitarian instrument of terror, whereas utopia represents open society values.",
+    "Ideology organizes exploited classes for revolution, whereas utopia justifies the status quo of ruling elites."
+   ],
+   "answer": 0,
+   "why": "Mannheim distinguished ideology as ideas defending dominant class interests from utopia as aspirations of the exploited seeking change.",
+   "page": 117
+  },
+  {
+   "q": "How does Francis Fukuyama's 'End of History' thesis differ from Daniel Bell's 'End of Ideology' thesis?",
+   "options": [
+    "It rejects Western capitalism in favor of technocratic, non-ideological state welfare administration.",
+    "It assertively crowns liberalism as humanity's final ideological endpoint, rather than declaring ideological struggles meaningless.",
+    "It argues that all societies inevitably pass through identical, non-ideological stages of economic growth.",
+    "It claims ideological conflict has ceased because bureaucratic management completely replaced political decision-making."
+   ],
+   "answer": 1,
+   "why": "Unlike the End of Ideology which viewed ideological conflict as obsolete, Fukuyama assertively claimed liberalism represents humanity's final ideological destination.",
+   "page": 119
+  },
+  {
+   "q": "According to Thomas Kuhn's theory of paradigms, why does science lack absolute finality?",
+   "options": [
+    "Scientific inquiry is purely subjective perception driven exclusively by individual wills to power.",
+    "Scientific knowledge accumulates linearly without ever encountering fundamental crises or conceptual shifts.",
+    "Scientists operate within temporary conceptual frameworks that are replaced when unanswered questions trigger crisis.",
+    "Science functions merely as an instrument of state terror designed to enforce totalitarian control."
+   ],
+   "answer": 2,
+   "why": "Kuhn showed that scientists work within paradigms that face crisis when anomalies accumulate, leading to replacement by new paradigms.",
+   "page": 121
+  },
+  {
+   "q": "Why do postmodern thinkers like Jean-François Lyotard reject modernist meta-narratives?",
+   "options": [
+    "They argue meta-narratives lack sufficient empirical scientific verification to establish objective foundational truths.",
+    "They believe universal frameworks lead to political anarchy and prevent the formation of radical democracies.",
+    "They maintain that grand theories cannot explain human society without relying on colonial anthropological binaries.",
+    "They contend totalising theories falsely claim universal truth while suppressing diverse, local perspectives."
+   ],
+   "answer": 3,
+   "why": "Lyotard defined postmodernism as incredulity toward meta-narratives because universal theories impose totalising explanations that erase diverse, local truths.",
+   "page": 123
+  }
+ ]
+}

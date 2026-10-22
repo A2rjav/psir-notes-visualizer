@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Hannah Arendt consider 'Action' the highest level of the Vita Activa?",
+   "options": [
+    "It produces permanent physical objects that endure beyond individual biological existence.",
+    "It satisfies the basic biological survival necessities required by all living organisms.",
+    "It enables direct political participation among citizens, which alone provides complete human freedom.",
+    "It allows solitary philosophical contemplation and quiet reflection away from the public sphere."
+   ],
+   "answer": 2,
+   "why": "Arendt argues that while labour meets biological needs and work fabricates objects, only collective political action secures genuine human freedom.",
+   "page": 176
+  },
+  {
+   "q": "How does Hannah Arendt distinguish twentieth-century totalitarianism from traditional autocratic governance?",
+   "options": [
+    "Totalitarian regimes make violence an end in itself, whereas traditional autocracies used violence as a means.",
+    "Totalitarian regimes depend on pre-modern religious myths, whereas traditional autocracies relied on advanced scientific technology.",
+    "Totalitarian regimes merely suppress public speech, whereas traditional autocracies systematically sought complete control over inner thought.",
+    "Totalitarian regimes originate from feudal agrarian disputes, whereas traditional autocracies developed strictly from industrial capitalist expansion."
+   ],
+   "answer": 0,
+   "why": "Traditional autocracies used violence instrumentally to enforce obedience, whereas totalitarianism treats terror as an end in itself to control human souls.",
+   "page": 174
+  },
+  {
+   "q": "According to Hannah Arendt's political theory, what is the defining characteristic of genuine power?",
+   "options": [
+    "It represents an individual's sovereign ability to command others and force obedience through coercion.",
+    "It emerges spontaneously when citizens act together in concert and vanishes when they disperse.",
+    "It is permanently stored within official state apparatuses and exercised through bureaucratic dominance.",
+    "It derives primarily from the monopolistic control of economic capital and material resources."
+   ],
+   "answer": 1,
+   "why": "Arendt defines power as a sui-generis phenomenon that arises when people cooperate in public and disappears once they return to private life.",
+   "page": 177
+  },
+  {
+   "q": "What central conclusion did Hannah Arendt reach from observing Adolf Eichmann's trial in Jerusalem?",
+   "options": [
+    "Totalitarian crimes are carried out exclusively by fanatical sadists driven by deep pathological hatred.",
+    "Strict adherence to administrative legal procedures guarantees moral integrity within modern bureaucratic governance.",
+    "Ideological atrocities cease entirely once civil service officials are granted greater individual discretion.",
+    "Extreme evil becomes banal when ordinary people commit horrific acts through an unthinking suspension of moral judgement."
+   ],
+   "answer": 3,
+   "why": "Arendt observed that Eichmann acted not out of psychotic hatred, but through a thoughtless inability to reflect upon the moral consequences of his duties.",
+   "page": 179
+  }
+ ]
+}

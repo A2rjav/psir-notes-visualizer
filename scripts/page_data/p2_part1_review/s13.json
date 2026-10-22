@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does the WTO's formal consensus rule fail to protect developing countries from unfavourable trade outcomes in practice?",
+   "options": [
+    "Major powers use informal Green Room diplomacy to pressure developing nations into falling in line.",
+    "Voting shares are formally weighted by each member state's total contribution to global merchandise trade.",
+    "Developing countries are legally prohibited from casting a veto against proposals introduced by developed nations.",
+    "Decisions are strictly determined through majority voting, marginalising countries with smaller populations and lower GDP."
+   ],
+   "answer": 0,
+   "why": "Although every member formally possesses veto power, developed nations use exclusive Green Room negotiations to pressure developing states into accepting agreements.",
+   "page": 137
+  },
+  {
+   "q": "Why is India's Minimum Support Price (MSP) food procurement challenged under WTO agricultural rules?",
+   "options": [
+    "The WTO classifies all state-backed food distribution networks as prohibited export subsidies.",
+    "Procurement incentives count as Amber Box subsidies and risk breaching the ten percent de minimis limit.",
+    "Agricultural price support is categorised as a Blue Box measure that illegally mandates production-limiting quotas.",
+    "Subsidies for food grain procurement are permitted only when calculated against real-time global inflation rates."
+   ],
+   "answer": 1,
+   "why": "MSP is classified as a trade-distorting Amber Box domestic subsidy, which for developing countries cannot exceed ten percent of agricultural production value based on 1986-88 prices.",
+   "page": 142
+  },
+  {
+   "q": "What is the primary divide between developed countries and India regarding the four modes of services trade?",
+   "options": [
+    "Developed nations champion Mode One cross-border delivery, while India completely opposes digital commerce and outsourcing.",
+    "Developed nations demand free consumption abroad under Mode Two, while India seeks to restrict tourist travel.",
+    "Developed nations champion Mode Three commercial presence, but resist India's push for Mode Four professional mobility.",
+    "India demands liberalising Mode Three banking presence, while developed nations push for unrestricted Mode Four immigration."
+   ],
+   "answer": 2,
+   "why": "Developed countries aggressively pursue Mode III commercial presence in banking and insurance, while restricting Mode IV visas for the movement of Indian professionals.",
+   "page": 144
+  },
+  {
+   "q": "What is the central disagreement between India and the United States over the Special Safeguard Mechanism (SSM)?",
+   "options": [
+    "The maximum duration emergency tariff duties can remain imposed on subsidised agricultural commodity imports.",
+    "Whether safeguard mechanisms should cover industrial manufactured goods rather than domestic agricultural produce.",
+    "Whether safeguard duties must be refunded to exporting countries once international commodity prices stabilize.",
+    "The import surge threshold required before a country can raise tariffs to protect domestic farmers."
+   ],
+   "answer": 3,
+   "why": "India maintains that a modest import surge should trigger safeguard duties to protect subsistence farmers, whereas the United States insists on a substantial surge threshold.",
+   "page": 140
+  }
+ ]
+}

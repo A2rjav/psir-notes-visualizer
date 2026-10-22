@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does the United States strategically seek to prevent rising regional powers from challenging its hegemony?",
+   "options": [
+    "By keeping them contained within their region through supporting weaker neighbors and creating localized instability.",
+    "By negotiating comprehensive bilateral disarmament pacts that dismantle regional conventional military capabilities.",
+    "By incorporating potential regional challengers into permanent multilateral collective defense architectures like NATO.",
+    "By encouraging rival powers to form autonomous regional economic coalitions outside Western financial oversight."
+   ],
+   "answer": 0,
+   "why": "The notes state that the US strategy to check challengers is to contain them within their region by supporting weaker neighbors and creating disturbances.",
+   "page": 160
+  },
+  {
+   "q": "Why does the United States continue to view post-Cold War Russia as its biggest geopolitical threat?",
+   "options": [
+    "Russia commands exclusive ideological leadership over global communist and anti-capitalist revolutionary movements.",
+    "Russia possesses matching natural resources, advanced space and defense technologies, ICBMs, and a UNSC veto.",
+    "Russia maintains complete economic dominance over European industrial supply chains and maritime commercial trade.",
+    "Russia exercises unilateral naval command over critical shipping choke points across the Indo-Pacific region."
+   ],
+   "answer": 1,
+   "why": "The notes explain that Russia remains the primary threat because its natural resources, space, and defense capabilities match the US, its ICBMs can hit US cities, and it holds a UNSC veto.",
+   "page": 161
+  },
+  {
+   "q": "What major obstacle limits Russia's ability to construct a balancing Russia-China-India strategic axis against Washington?",
+   "options": [
+    "The strict ideological ban imposed by the United Nations on regional non-Western security partnerships.",
+    "A complete absence of shared diplomatic interest between Moscow, Beijing, and New Delhi over multipolarity.",
+    "The strong economic interdependence that China, India, and European partners maintain with the United States.",
+    "The refusal of Asian powers to purchase Russian military equipment and oil or natural gas."
+   ],
+   "answer": 2,
+   "why": "The notes note that Russia finds it difficult to build this coalition because of the deep economic interdependence of China, India, and the EU with the United States.",
+   "page": 162
+  },
+  {
+   "q": "Why do several international relations scholars dismiss the characterization of contemporary US-Russia tensions as 'Cold War 2.0'?",
+   "options": [
+    "Washington and Moscow have fully resolved their geopolitical proxy wars and ceased modernizing strategic nuclear arsenals.",
+    "Modern Russia has fully integrated into Western economic structures and accepted American unipolar leadership.",
+    "Bilateral tensions are strictly limited to cyber skirmishes without any diplomatic friction or territorial disputes.",
+    "Modern Russia lacks the Soviet ideological mission and offers no alternative universal world order."
+   ],
+   "answer": 3,
+   "why": "Scholars reject the Cold War 2.0 label because Russia is not the Soviet Union, there is no ideological conflict, and Russia does not offer an alternative global order.",
+   "page": 164
+  }
+ ]
+}

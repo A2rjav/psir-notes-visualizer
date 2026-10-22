@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "In Rajni Kothari's analysis of the 'Congress system', what role did opposition parties play?",
+   "options": [
+    "They operated from the margins as parties of pressure rather than viable alternatives to govern.",
+    "They formed durable ideological coalitions to regularly alternate power with Congress at the national level.",
+    "They acted as the primary agenda-setters while Congress merely implemented consensus policies from the centre.",
+    "They functioned as anti-system revolutionary groups seeking to dismantle the constitutional framework of representative democracy."
+   ],
+   "answer": 0,
+   "why": "Rajni Kothari characterized Congress as a party of consensus, while peripheral opposition parties acted as parties of pressure influencing decisions from the margins.",
+   "page": 150
+  },
+  {
+   "q": "According to the class notes, what was the primary internal cause of Congress fragmentation and regional party formation?",
+   "options": [
+    "The frequent conduct of competitive intra-party elections that deepened irreconcilable factional rivalries across state units.",
+    "The excessive centralization of power in the high command that drove regional leaders to exit.",
+    "The complete transformation of the party into an ideologically rigid organisation staffed exclusively by cadres.",
+    "The constitutional amendments that formally barred national political parties from contesting legislative elections in states."
+   ],
+   "answer": 1,
+   "why": "The deinstitutionalisation of democracy and centralisation of power under the central leadership forced regional satraps to leave and launch regional parties.",
+   "page": 155
+  },
+  {
+   "q": "How does Professor Vidyut Chakrabarty contrast Indian coalition politics with Western coalition governance?",
+   "options": [
+    "Indian coalitions are built upon shared ideological principles rather than pragmatic electoral calculations.",
+    "Western coalitions rely on oversized partnerships because coalition partners frequently threaten to defect.",
+    "Indian coalitions are tactical calculations formed primarily as negative alliances to block rivals.",
+    "Western coalitions operate as ad hoc partnerships that continuously search for institutional design."
+   ],
+   "answer": 2,
+   "why": "Unlike Western coalitions designed around ideological coherence to govern, Indian coalitions are tactical calculations formed to keep opponents out of power.",
+   "page": 158
+  },
+  {
+   "q": "Why do the lecture notes reject switching to a presidential system to resolve coalition instability in India?",
+   "options": [
+    "A presidential executive requires a two-party system that is explicitly prohibited by the Indian Constitution.",
+    "The Supreme Court has ruled that coalition governance is an unalterable feature of the republic.",
+    "Adopting a presidential model requires prior implementation of the German constructive vote of no confidence.",
+    "Parliamentary democracy is part of basic structure and presidentialism rarely endures outside the United States."
+   ],
+   "answer": 3,
+   "why": "The parliamentary system is part of the basic structure of the Constitution, and presidential democracy has rarely proved stable outside the United States.",
+   "page": 160
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Municipal Governance and Grassroots Movements",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can India build smart cities if its local governments are kept powerless?",
+   "narration": "Imagine running a massive city where the leaders you vote for have no actual money or power. That is the puzzling reality of local governance in India today."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A housing society where an outside builder makes decisions without asking the resident committee.",
+   "narration": "Here is an everyday analogy to make this click. Think of your apartment society where an outside builder decides everything, leaving your elected resident committee without any funds or say."
+  },
+  {
+   "type": "balance",
+   "heading": "Urban Power Imbalance",
+   "left": "Appointed Municipal Commissioner",
+   "right": "Elected City Mayor",
+   "tilt": "left",
+   "narration": "Under the 74th Amendment, municipalities still face structural weakness without direct democracy like a village assembly. Real authority tilts heavily toward state-appointed commissioners instead of your elected mayor."
+  },
+  {
+   "type": "thinker",
+   "name": "Isher Judge Ahluwalia",
+   "idea": "Smart cities cannot succeed without empowering municipal governance and local democracy.",
+   "work": "",
+   "narration": "Scholar Isher Judge Ahluwalia points out that modern smart city programs stall because governments bypass local bodies. You cannot build world-class cities while ignoring municipal councils."
+  },
+  {
+   "type": "compare",
+   "heading": "Women in Local Panchayats",
+   "columns": [
+    {
+     "title": "Initial Fears",
+     "items": [
+      "Proxy rule as Pati Panchayats",
+      "Lack of role clarity"
+     ]
+    },
+    {
+     "title": "Observed Reality",
+     "items": [
+      "Fatima Bie promoted economic empowerment",
+      "Better water and sanitation delivery",
+      "Psychological empowerment for women"
+     ]
+    }
+   ],
+   "narration": "When the 73rd Amendment reserved one-third of seats for women, critics feared proxy rule by husbands. But trailblazers like Sarpanch Fatima Bie proved women leaders transform sanitation, schools, and local family attitudes."
+  },
+  {
+   "type": "flow",
+   "heading": "Rise of Grassroots Micromovements",
+   "steps": [
+    "Parties become mere electoral machines",
+    "Marginalized communities feel politically excluded",
+    "Citizen micromovements emerge since 1970s",
+    "Public space democratized through rights"
+   ],
+   "narration": "Political scientist Rajni Kothari observed that mainstream parties abandoned mass movements, turning into pure election machines. In response, excluded citizens created micro-movements to defend their rights and reclaim democratic spaces."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Cities require empowered municipal leadership and direct democracy.",
+    "Women representatives deliver tangible development and social change.",
+    "Grassroots micromovements expand democratic action beyond electoral politics."
+   ],
+   "narration": "Here is your final recap. True urban progress demands empowered mayors, women sarpanches drive genuine community development, and grassroots citizen movements keep Indian democracy alive."
+  }
+ ]
+}

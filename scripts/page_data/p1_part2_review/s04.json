@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does judicial activism fundamentally differ from ordinary judicial review in the Indian constitutional system?",
+   "options": [
+    "It invalidates constitutional amendments using the basic structure doctrine invented in Kesavananda Bharati.",
+    "It goes beyond checking legal validity to actively formulate policy and oversee administrative implementation.",
+    "It exclusively exercises advisory jurisdiction when requested by the President under Article 143.",
+    "It restricts judicial pronouncements strictly to federal disputes between the Union and the States."
+   ],
+   "answer": 1,
+   "why": "Judicial review tests whether laws violate the Constitution, whereas judicial activism involves courts directing policy and monitoring administrative actions.",
+   "page": 38
+  },
+  {
+   "q": "According to Pratap Bhanu Mehta, why does the rise of judicial power indicate 'post-democracy'?",
+   "options": [
+    "Public decision-making is increasingly dominated by unelected institutions rather than accountable representative bodies.",
+    "The executive branch routinely suspends constitutional rights through preventive detention and censorship.",
+    "Citizens are systematically barred from approaching constitutional courts through public interest litigation petitions.",
+    "Elected parliamentary majorities exercise unchecked sovereign control over all judicial appointments and rulings."
+   ],
+   "answer": 0,
+   "why": "Mehta defines post-democracy as the concentration of governance in unelected institutions like the Supreme Court rather than elected legislatures.",
+   "page": 32
+  },
+  {
+   "q": "Which constitutional directive led the Supreme Court of India to institute Public Interest Litigation?",
+   "options": [
+    "Article 129, declaring the Supreme Court a court of record with punitive contempt powers.",
+    "Article 141, making the law declared by the Supreme Court binding on all courts.",
+    "Article 39A, mandating the state to secure equal justice and provide free legal aid.",
+    "Article 137, empowering the Supreme Court to review any judgment or order it pronounced."
+   ],
+   "answer": 2,
+   "why": "The Supreme Court introduced Public Interest Litigation to fulfill Article 39A's mandate of ensuring equal justice and legal aid for marginalized citizens.",
+   "page": 36
+  },
+  {
+   "q": "What principal concern led conventional jurists like Justice Bharucha to oppose expansive judicial activism?",
+   "options": [
+    "Judges lack constitutional authority to interpret fundamental rights beyond their original literal text.",
+    "Public interest petitions overburden constitutional courts and delay the disposal of regular civil appeals.",
+    "Judicial pronouncements undermine parliamentary supremacy by invalidating constitutional amendments without popular referendum.",
+    "Courts possess neither the specialized expertise nor the institutional resources to micromanage administrative governance."
+   ],
+   "answer": 3,
+   "why": "Justice Bharucha maintained that the judiciary lacks the specialized competence and resources necessary to micromanage the administrative machinery.",
+   "page": 39
+  }
+ ]
+}

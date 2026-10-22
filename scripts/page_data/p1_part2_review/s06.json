@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "Parliament evolved through distinct chapters. After initial stability under Nehru, political defections and the nineteen-seventy-five Emergency tested democracy, leading into the nineteen-nineties when fractured coalitions saw the steepest decline in functioning.",
+   "reason": "The National Emergency in India was imposed in 1975, not 1970."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why did modernists like Nehru and Ambedkar prefer a parliamentary system over a presidential model for India?",
+   "options": [
+    "It concentrates executive authority in a single leader to guarantee rapid and decisive policy execution.",
+    "It provides daily executive accountability and represents India's social diversity through collegiate cabinet governance.",
+    "It completely eliminates political parties to establish a consensual and moral partyless administration.",
+    "It enables ordinary citizens to vote directly on national laws rather than electing representatives."
+   ],
+   "answer": 1,
+   "why": "Nehru and Ambedkar favored a parliamentary system because it ensures continuous executive accountability to the legislature, collegiate decision-making, and effective representation for India's diverse groups.",
+   "page": 51
+  },
+  {
+   "q": "According to Morris Jones, why did India's social cleavages pose a serious challenge to parliamentary democracy?",
+   "options": [
+    "They naturally fostered adversarial political conflict rather than the consensual culture essential for parliamentary stability.",
+    "They prevented backbench lawmakers from exhibiting uncritical party loyalty toward the central government leadership.",
+    "They compelled the Constituent Assembly to abandon collegiate cabinet governance in favor of direct democracy.",
+    "They eliminated intense political competition because traditional social groups refused to seek state power."
+   ],
+   "answer": 0,
+   "why": "Morris Jones argued that deep social cleavages naturally produce adversarial politics instead of the consensual decision-making required for stable parliamentary functioning.",
+   "page": 52
+  },
+  {
+   "q": "Why do the notes reject adopting a presidential system as a remedy for India's parliamentary decline?",
+   "options": [
+    "Presidential systems prevent the ruling executive from enacting essential welfare legislation for vulnerable citizens.",
+    "The Indian Constitution explicitly mandates a permanent transition toward direct democracy during systemic crises.",
+    "Presidential executives inherently lack the constitutional authority needed to maintain national security and stability.",
+    "Historical experience shows presidential governance failed to preserve its democratic character outside the United States."
+   ],
+   "answer": 3,
+   "why": "The notes emphasize that shifting to a presidential system is undesirable because, except in the United States, presidential systems failed to maintain their democratic character in other countries.",
+   "page": 56
+  },
+  {
+   "q": "According to the notes, how has the opposition contributed to the decline of parliamentary functioning?",
+   "options": [
+    "By demonstrating excessive inter-party solidarity and unconditionally approving all executive legislation without division.",
+    "By consistently rejecting statutory cabinet status and privileges granted to the Leader of the Opposition.",
+    "By frequently staging walkouts and preferring ad-hoc investigative committees over regular parliamentary standing committees.",
+    "By compelling the Speaker of the Lok Sabha to strictly follow British non-partisan conventions."
+   ],
+   "answer": 2,
+   "why": "The notes point out that the opposition has undermined legislative work by boycotting parliamentary debates and favoring Joint Parliamentary Committees for scam investigations over routine work in standing committees.",
+   "page": 58
+  }
+ ]
+}

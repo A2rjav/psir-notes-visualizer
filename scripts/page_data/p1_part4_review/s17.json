@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does the enlightened model of representation differ fundamentally from the delegate model?",
+   "options": [
+    "It requires representatives to strictly obey instructions given by their local voters during elections.",
+    "It grants representatives autonomy to act for the national interest rather than following strict voter mandates.",
+    "It eliminates legislative deliberation in favor of frequent citizen referendums on daily administrative policies.",
+    "It selects representatives through proportional list systems rather than single-member majoritarian constituencies."
+   ],
+   "answer": 1,
+   "why": "According to Burke and Mill, representatives in the enlightened model exercise autonomous judgment for the nation rather than acting as bound delegates.",
+   "page": 138
+  },
+  {
+   "q": "According to Nancy Fraser, why do marginalized sections of society need to create counter-publics?",
+   "options": [
+    "To replace open public deliberation with centralized bureaucratic watchdog commissions.",
+    "To enforce strict majoritarian quotas that eliminate the need for independent civic activism.",
+    "To build alternative public spheres where they can articulate concerns free from dominant group domination.",
+    "To withdraw completely from political life and avoid engaging with wider governance issues."
+   ],
+   "answer": 2,
+   "why": "Fraser argued that marginalized groups need their own discursive spaces to debate needs and challenge domination by powerful groups.",
+   "page": 144
+  },
+  {
+   "q": "Why did Aristotle consider collective citizen deliberation superior to governance by expert rulers acting alone?",
+   "options": [
+    "Ordinary citizens deliberating together can pool diverse insights to reach better decisions than isolated experts.",
+    "Majoritarian headcounts naturally produce virtuous outcomes without requiring reasoned debate or discussion.",
+    "Philosopher-kings inevitably adhere to rigid voter mandates that restrict administrative flexibility.",
+    "Voting without prior deliberation prevents factional conflict and speeds up legislative decisions."
+   ],
+   "answer": 0,
+   "why": "Aristotle maintained that citizens deliberating collectively combine their knowledge, producing sounder outcomes than individual experts.",
+   "page": 145
+  },
+  {
+   "q": "What constitutes the core requirement of Jürgen Habermas's ideal speech situation?",
+   "options": [
+    "Decisions are settled through rapid majoritarian balloting to prevent deadlock among competing interests.",
+    "Government authorities determine speaking eligibility to keep public debate aligned with state policy.",
+    "Only recognized subject-matter experts are permitted to propose solutions during civic assemblies.",
+    "All participants enjoy equal speaking rights and agreements are guided solely by the force of argument."
+   ],
+   "answer": 3,
+   "why": "Habermas specifies that in an ideal speech situation, participants engage as equals where no pressure exists except the force of argument.",
+   "page": 146
+  }
+ ]
+}

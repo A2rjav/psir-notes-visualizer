@@ -1,0 +1,78 @@
+{
+ "title": "Planning and Economic Reforms in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did India choose between village farms and giant steel factories?",
+   "narration": "Imagine standing at independence and deciding how to feed millions of people. Would you build quiet village farms or giant steel factories? India tried both paths, and the journey will surprise you."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A strict school canteen where only the principal decides what snack you buy.",
+   "narration": "Here is an everyday analogy: imagine your school principal decided every single snack sold in the canteen. At first, it prevents chaos, but soon the lines grow endless and the food gets stale. That is what happened when our state ran every business!"
+  },
+  {
+   "type": "compare",
+   "heading": "Gandhian Model Versus Nehruvian Model",
+   "columns": [
+    {
+     "title": "Gandhian Model",
+     "items": [
+      "Self-sufficient village republics",
+      "Revival of cottage industries",
+      "Priority for agricultural reform"
+     ]
+    },
+    {
+     "title": "Nehruvian Model",
+     "items": [
+      "Heavy industries capital investment",
+      "Centralised economic state planning",
+      "Public sector commanding heights"
+     ]
+    }
+   ],
+   "narration": "Notice the stark contrast between these two national visions. Mahatma Gandhi wanted self-reliant villages powered by cottage industries, while Jawaharlal Nehru chose heavy industries and state planning to modernise India quickly."
+  },
+  {
+   "type": "flow",
+   "heading": "Road to Balance of Payments Crisis",
+   "steps": [
+    "State controls heavy industries",
+    "Licensing rules create shortages",
+    "Public sector suffers heavy losses",
+    "Foreign reserves last one week",
+    "Economic crisis forces market reforms"
+   ],
+   "narration": "Here is how one policy led to another. State control created rigid licensing rules, where businesses needed endless government permits. Soon, public companies lost money, and India had only one week of foreign cash left to pay for imports."
+  },
+  {
+   "type": "thinker",
+   "name": "Amartya Sen",
+   "idea": "Economic reforms failed to sprint because India neglected education and healthcare.",
+   "work": "",
+   "narration": "Nobel laureate Amartya Sen pointed out a crucial puzzle: uncaging our economy did not produce a tiger-like sprint. Why? Because we forgot to invest in people through schools, hospitals, and skills."
+  },
+  {
+   "type": "points",
+   "heading": "Avoiding the Middle Income Trap",
+   "items": [
+    "Invest heavily in human capital",
+    "Tackle corruption and red tape",
+    "Create productive employment for workers",
+    "Rehabilitate state capacity and governance"
+   ],
+   "narration": "To avoid the middle-income trap, where a country stops growing after reaching moderate wealth, India must fix its basics. We need healthy, skilled workers and honest governance rather than just relying on cheap services."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Nehru chose heavy industries while Gandhi prioritised village republics.",
+    "Severe economic crisis compelled India to adopt market liberalisation.",
+    "Sustained development demands investing in healthcare and education."
+   ],
+   "narration": "Here is your final takeaway. First, Nehru built heavy industries while Gandhi trusted villages. Second, economic crisis compelled market reforms. Finally, real future progress depends on empowering our people."
+  }
+ ]
+}

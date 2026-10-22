@@ -1,0 +1,74 @@
+{
+ "title": "US Hegemony and the Changing World Order",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can one superpower maintain global peace, or is American hegemony ending?",
+   "narration": "Imagine a playground without any teacher where the biggest kids make their own rules. Political scientists ask a similar question about our world: does international peace require a single superpower, or hegemon, to keep order?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket captain setting field rules, a hegemon manages global trade and stability.",
+   "narration": "Here is a simple analogy to make this click. Think of a cricket tournament where one senior team provides the pitch and enforces fair play; in global politics, this leader is called a hegemon."
+  },
+  {
+   "type": "flow",
+   "heading": "Hegemonic Stability Theory",
+   "steps": [
+    "Free trade needs open order",
+    "Hegemon creates and manages rules",
+    "Global peace and prosperity spread",
+    "Overstretch and free riders emerge"
+   ],
+   "narration": "Scholars Charles Kindleberger and Robert Gilpin explain that free trade cannot survive alone. A dominant hegemon must build and manage a liberal economic order, but over time, costly military overstretch and free-riding allies weaken the leader."
+  },
+  {
+   "type": "compare",
+   "heading": "The US Hegemony Debate",
+   "columns": [
+    {
+     "title": "Declinists",
+     "items": [
+      "Zakaria: Rise of other nations",
+      "Ferguson: Power gets diffused",
+      "Nye: Excessive hard power reliance"
+     ]
+    },
+    {
+     "title": "Anti-Declinists",
+     "items": [
+      "Albright: US is indispensable nation",
+      "Huntington: Strategic location and capacity",
+      "Mandelbaum: American order sustains hegemony"
+     ]
+    }
+   ],
+   "narration": "Are American days at the top numbered? Declinists like Fareed Zakaria argue the rise of other nations is creating a post-American world, while anti-declinists like Madeleine Albright insist the United States remains the indispensable nation."
+  },
+  {
+   "type": "thinker",
+   "name": "John Mearsheimer",
+   "idea": "The United States must contain China and maintain the power gap.",
+   "work": "",
+   "narration": "Realist scholar John Mearsheimer warns that China's rapid rise directly threatens American supremacy. He argues Washington must actively contain Beijing, because great powers inevitably compete for dominance rather than sharing leadership peacefully."
+  },
+  {
+   "type": "balance",
+   "heading": "Superpower Balance of Power",
+   "left": "Aging and Unstable Periphery",
+   "right": "Demographic Dividend and Tech",
+   "tilt": "right",
+   "narration": "Here's the trick to understanding the superpower contest. Although China expands rapidly, scholars note China will grow old before it gets big, while America retains a demographic dividend, superior technology, and unmatched soft power."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Hegemons sustain global order until overstretched by commitments.",
+    "Declinists and anti-declinists dispute America's lasting global supremacy.",
+    "Demographics and structural advantages help preserve American hegemony."
+   ],
+   "narration": "Remember these three big ideas for your exam: hegemons sustain global trade until overstretched, thinkers debate whether American leadership is declining, and structural factors keep the United States uniquely powerful."
+  }
+ ]
+}

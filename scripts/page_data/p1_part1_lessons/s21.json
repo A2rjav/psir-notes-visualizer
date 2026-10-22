@@ -1,0 +1,88 @@
+{
+ "title": "Resolving Inter-State Water Disputes in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do Indian states fight over rivers, and who decides the winner?",
+   "narration": "Imagine sharing a single garden tap with your neighbor, but neither of you agrees on who turns it on! In India, when states clash over rivers, ordinary courts cannot simply step in."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "Like school teams fighting over a shared playground, needing a neutral principal to decide.",
+   "narration": "Here is an everyday analogy: when two school cricket teams quarrel over a shared playground, chaos erupts unless a neutral principal steps in to divide the playing hours fairly."
+  },
+  {
+   "type": "compare",
+   "heading": "Constitutional Lists on Water",
+   "columns": [
+    {
+     "title": "State List (Entry 17)",
+     "items": [
+      "Water use and consumption",
+      "Irrigation systems and dams"
+     ]
+    },
+    {
+     "title": "Union List (Entry 56)",
+     "items": [
+      "Inter-state river regulation",
+      "River valley development"
+     ]
+    }
+   ],
+   "narration": "Under our Constitution, water powers are divided. Individual states manage irrigation under Entry 17, while the Union regulates inter-state rivers under Entry 56 from a national perspective."
+  },
+  {
+   "type": "flow",
+   "heading": "Water Dispute Resolution Path",
+   "steps": [
+    "States face river dispute",
+    "Union constitutes dispute tribunal",
+    "Three judges deliver award",
+    "Supreme Court supervisory review"
+   ],
+   "narration": "Here's the trick: under Article 262, Parliament sets up a special three-judge tribunal to resolve water disputes, while the Supreme Court maintains supervisory constitutional review."
+  },
+  {
+   "type": "balance",
+   "heading": "Resolving Water Disputes",
+   "left": "Legal Adjudication",
+   "right": "Political Settlement",
+   "tilt": "even",
+   "narration": "Jurists disagree on the best method. Scholar H.M. Seervai championed formal legal adjudication, whereas Ramaswami Iyer argued that negotiated political settlements are far more effective."
+  },
+  {
+   "type": "timeline",
+   "heading": "Key Water Dispute Milestones",
+   "events": [
+    {
+     "when": "1956",
+     "what": "Interstate Water Disputes Act passed"
+    },
+    {
+     "when": "2002",
+     "what": "Amendment sets tribunal award deadlines"
+    },
+    {
+     "when": "2004",
+     "what": "Punjab terminates water sharing agreements"
+    },
+    {
+     "when": "2016",
+     "what": "Supreme Court affirms supervisory jurisdiction"
+    }
+   ],
+   "narration": "Our dispute history marks crucial turning points. Parliament created water tribunals in 1956, set award deadlines in 2002, addressed Punjab's canal dispute in 2004, and confirmed judicial review in 2016."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Article 262 enables specialized river tribunals.",
+    "Supreme Court maintains supervisory judicial review.",
+    "Lasting solutions require cooperative inter-state dialogue."
+   ],
+   "narration": "To recap, remember that Article 262 establishes specialized river tribunals, the Supreme Court retains supervisory appeals, and enduring solutions require cooperative, participatory dialogue."
+  }
+ ]
+}

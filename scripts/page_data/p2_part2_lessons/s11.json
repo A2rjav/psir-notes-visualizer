@@ -1,0 +1,81 @@
+{
+ "title": "Liberalism in IR: Pathways to Peace",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can ordinary people and trade stop wars between rival countries?",
+   "narration": "Realists argue that war is inevitable under global anarchy. But imagine if people, trade, and shared democracy can actually build lasting peace!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "Friendly neighbors share garden tools and build trust before settling property disputes.",
+   "narration": "Think of two rival neighbors as an analogy. Instead of arguing over boundary walls first, they share garden tools, chat over tea, and gradually build trust."
+  },
+  {
+   "type": "thinker",
+   "name": "Karl Deutsch",
+   "idea": "Cross-border communication and travel build a peaceful security community.",
+   "work": "",
+   "narration": "Here's the trick: sociological liberalism looks beyond governments. Karl Deutsch showed that regular phone calls, letters, and travel create a security community where war becomes unthinkable."
+  },
+  {
+   "type": "compare",
+   "heading": "Billiard Balls Versus Cobweb",
+   "columns": [
+    {
+     "title": "Billiard Ball Model",
+     "items": [
+      "Arnold Wolfers",
+      "State-centric borders",
+      "Hard sovereign collisions"
+     ]
+    },
+    {
+     "title": "Cobweb Model",
+     "items": [
+      "John Burton",
+      "Society-centric ties",
+      "Crisscrossing global networks"
+     ]
+    }
+   ],
+   "narration": "Notice how John Burton rejected the old billiard ball model of hard states. Instead, imagine world order as a cobweb of crisscrossing social ties that bypass governments."
+  },
+  {
+   "type": "flow",
+   "heading": "Peace by Pieces Process",
+   "steps": [
+    "Start with low politics",
+    "Technical experts lead cooperation",
+    "Build functional linkages",
+    "Spill over into high politics"
+   ],
+   "narration": "David Mitrany proposed functionalism: building peace by pieces. Technicians handle low politics first, sparking spillover into deeper integration, though Ernst Haas warned political will is needed to sustain it."
+  },
+  {
+   "type": "thinker",
+   "name": "Michael Doyle",
+   "idea": "Democracies do not fight each other and form a zone of peace.",
+   "work": "",
+   "narration": "Now meet democratic peace theory. Michael Doyle argued that democracies do not fight each other because voting citizens, free speech, and mutual tolerance restrain aggressive leaders."
+  },
+  {
+   "type": "balance",
+   "heading": "Democratic Peace Theory Debate",
+   "left": "Democratic Zone of Peace",
+   "right": "Gunpoint Regime Change",
+   "tilt": "even",
+   "narration": "Weigh both sides carefully. While democracies form a peaceful zone, critics warn the theory was used to justify armed regime change in Iraq, showing democracy promotion carries real risks."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Sociological ties create Deutsch's security community",
+    "Functional spillover builds cooperation through technical experts",
+    "Democratic peace theory restrains war between free societies"
+   ],
+   "narration": "Here's your quick recap! Sociological ties build security communities, functional spillover creates habits of cooperation, and democratic norms help keep the peace between free nations."
+  }
+ ]
+}

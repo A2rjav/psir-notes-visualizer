@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 3,
+   "field": "narration",
+   "new": "Here is the trick to remembering this evolution. In 1981, judicial consultation was not binding concurrence, but by 1998, the Supreme Court ruled that the Chief Justice must consult four senior judges, requiring at least three to concur.",
+   "reason": "Under the Third Judges Case (1998) as noted on page 47, appointment requires concurrence of at least three judges including the CJI, not unanimous agreement of all five judges."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why did Dr. B.R. Ambedkar reject the proposal of judges appointing their own colleagues in the Constituent Assembly?",
+   "options": [
+    "To ensure the Union executive maintained exclusive and unconstrained discretion over appointments.",
+    "To replicate the American model of legislative ratification for all judicial appointments.",
+    "To prevent creating an imperium in imperio that would lack necessary checks and balances.",
+    "To eliminate the requirement of consulting the Chief Justice of India during selection."
+   ],
+   "answer": 2,
+   "why": "Ambedkar rejected judges appointing judges to prevent an 'imperium in imperio' (a state within a state), insisting on constitutional checks and balances.",
+   "page": 46
+  },
+  {
+   "q": "How did the Supreme Court fundamentally alter its interpretation of judicial appointments in the Second Judges Case (1993)?",
+   "options": [
+    "It equated consultation with concurrence, giving primacy to the opinion of the Chief Justice.",
+    "It expanded executive discretion by defining consultation as non-binding advice from the judiciary.",
+    "It mandated that judicial appointments require legislative ratification as practiced in the United States.",
+    "It established that all four senior-most Supreme Court judges must unanimously approve every nominee."
+   ],
+   "answer": 0,
+   "why": "In the Second Judges Case (1993), the Court overruled its earlier stance and held that consultation means concurrence, establishing judicial primacy.",
+   "page": 47
+  },
+  {
+   "q": "Why did the Supreme Court find the decision-making structure of the NJAC unconstitutional in 2015?",
+   "options": [
+    "The commission completely excluded the Chief Justice of India from the candidate selection committee.",
+    "The Law Minister was given unilateral authority to overrule the collective decision of all judges.",
+    "It required all judicial nominees to undergo mandatory public confirmation hearings in Parliament.",
+    "Any two commission members, including non-judicial members, could effectively veto judicial recommendations."
+   ],
+   "answer": 3,
+   "why": "Under the NJAC Act, any two members could veto an appointment, enabling executive and non-judicial members to override the judiciary.",
+   "page": 50
+  },
+  {
+   "q": "According to the reform proposals, what should the judiciary do to tackle excessive case pendency?",
+   "options": [
+    "Increase the number of court vacations and restrict alternative dispute resolution mechanisms.",
+    "Restrict its acceptance of excessive appeals, particularly under special leave petitions.",
+    "Take over the Union government's responsibility of funding and building court infrastructure.",
+    "Introduce plea bargaining provisions and draft a new national litigation policy independently."
+   ],
+   "answer": 1,
+   "why": "The judiciary can curb pendency by exercising restraint in admitting large numbers of appeals, especially under special leave petitions.",
+   "page": 44
+  }
+ ]
+}

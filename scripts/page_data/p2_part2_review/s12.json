@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "narration",
+   "new": "Yet, since 2001, this order faces severe strain. Revisionist states challenge regional borders, Western nations turn toward protectionism, and thinkers like Ian Bremmer warn of geopolitical recession.",
+   "reason": "The concept of 'geopolitical recession' was formulated by Ian Bremmer, whereas the Munich Security Conference expressed concern over the future of liberal democracy and multilateralism."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What distinguishes Keohane and Nye's Complex Interdependence from earlier international relations theories in the notes?",
+   "options": [
+    "It assumes states operate in complete anarchy without any transnational ties forcing them to cooperate.",
+    "It is descriptive rather than prescriptive, analyzing how states are actually interlinked in the post-Cold War world.",
+    "It is prescriptive rather than descriptive, providing policy rules to eliminate military conflict between rival nations.",
+    "It claims military power has become entirely irrelevant because economic ties eliminate all security concerns."
+   ],
+   "answer": 1,
+   "why": "The notes state that Complex Interdependence is a descriptive theory explaining post-Cold War realities, whereas earlier theories were prescriptive.",
+   "page": 99
+  },
+  {
+   "q": "According to Richard Rosecrance's concept of trading states, why should nations prioritize commerce over military expansion?",
+   "options": [
+    "Military power guarantees lasting global hegemony, whereas commercial ties inevitably produce economic exhaustion and national decline.",
+    "Trade completely eliminates the need for national defense, enabling rising states to dismantle armed forces entirely.",
+    "Military overextension exhausts national economies, whereas trade allows nations to build wealth and influence peacefully.",
+    "Trading states can easily sever bilateral ties during conflicts without suffering any reciprocal economic consequences."
+   ],
+   "answer": 2,
+   "why": "Rosecrance argues that overemphasizing military power overstresses states like the USSR, whereas trading states like postwar Germany and Japan thrive peacefully.",
+   "page": 98
+  },
+  {
+   "q": "According to John Ikenberry's three phases of the liberal world order, how did Liberalism 2.0 differ from Liberalism 3.0?",
+   "options": [
+    "Liberalism 2.0 was limited to Western states, while Liberalism 3.0 expanded globally after the Cold War.",
+    "Liberalism 2.0 centered on the League of Nations, while Liberalism 3.0 introduced the Bretton Woods institutions.",
+    "Liberalism 2.0 achieved universal acceptance, while Liberalism 3.0 was resisted by Communist and Non-Aligned nations.",
+    "Liberalism 2.0 established the World Trade Organization, while Liberalism 3.0 focused strictly on collective security."
+   ],
+   "answer": 0,
+   "why": "Liberalism 2.0 was limited to the Western world and contested by communist and non-aligned blocs, whereas Liberalism 3.0 spread globally post-Cold War.",
+   "page": 101
+  },
+  {
+   "q": "Why do the notes argue that preserving and reforming the liberal world order is vital for India?",
+   "options": [
+    "A fragmented order allows India to establish regional hegemony without being bound by international norms.",
+    "Supporting the liberal order requires accepting existing Western leadership without seeking any multilateral governance reforms.",
+    "India benefits when global powers discard multilateral climate and trade pacts in favor of bilateralism.",
+    "A rules-based multilateral order supports open trade and stability, directly serving India's long-term national growth."
+   ],
+   "answer": 3,
+   "why": "The notes emphasize that a strong, reformed multilateral system protects open trade and is consistently beneficial for India's interests.",
+   "page": 103
+  }
+ ]
+}

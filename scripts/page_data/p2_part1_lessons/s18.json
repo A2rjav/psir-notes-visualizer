@@ -1,0 +1,91 @@
+{
+ "title": "Regional Cooperation: SAARC and BIMSTEC",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why is South Asia one of the least integrated regions on Earth?",
+   "narration": "Imagine living in a neighbourhood where neighbours almost never trade or talk. South Asia holds over 1.6 billion people, yet its intra-regional trade remains among the lowest on Earth!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school group project where one angry member vetoes every single decision.",
+   "narration": "Here is an everyday analogy: think of a school group project where every student has a veto. When two members fight, all decisions freeze, and no homework gets done!"
+  },
+  {
+   "type": "compare",
+   "heading": "SAPTA Versus SAFTA",
+   "columns": [
+    {
+     "title": "SAPTA",
+     "items": [
+      "Restrictive positive list",
+      "Traded few real goods",
+      "Intra-regional trade stagnated"
+     ]
+    },
+    {
+     "title": "SAFTA",
+     "items": [
+      "Ambitious negative list",
+      "Differential treatment for LDCs",
+      "Stalled after summits failed"
+     ]
+    }
+   ],
+   "narration": "Here is the trick: SAPTA failed because its positive list only allowed trade in rare items nobody bought. SAFTA aimed higher with a negative list, but political tensions stopped it."
+  },
+  {
+   "type": "points",
+   "heading": "Why SAARC Stalled",
+   "items": [
+    "India-Pakistan rivalry blocks all consensus decisions",
+    "Every member possesses absolute veto power",
+    "Countries lack a shared South Asian identity"
+   ],
+   "narration": "Why did SAARC collapse in practice? India and Pakistan represent 80% of the land and 90% of GDP, meaning their fierce rivalry and veto powers blocked every consensus."
+  },
+  {
+   "type": "flow",
+   "heading": "India Pivots to Sub-Regionalism",
+   "steps": [
+    "Pakistan vetoes regional motor agreement",
+    "India launches BBIN sub-regional platform",
+    "India prioritizes BIMSTEC over SAARC"
+   ],
+   "narration": "When Pakistan vetoed the 2014 motor vehicle pact, India adapted quickly. New Delhi launched the BBIN sub-regional platform and pivoted its diplomatic energy towards BIMSTEC."
+  },
+  {
+   "type": "timeline",
+   "heading": "The Revitalization of BIMSTEC",
+   "events": [
+    {
+     "when": "1997",
+     "what": "Founded as BIST by four nations"
+    },
+    {
+     "when": "2004",
+     "what": "Nepal and Bhutan join the group"
+    },
+    {
+     "when": "2014",
+     "what": "Permanent secretariat established in Dhaka"
+    },
+    {
+     "when": "2016",
+     "what": "Leaders invited to Goa BRICS summit"
+    }
+   ],
+   "narration": "Look at how BIMSTEC stepped into the spotlight. Founded in 1997, it was revitalised after 2014 with a Dhaka secretariat, serving as a dynamic bridge to Southeast Asia."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Bilateral rivalry and consensus vetoes paralyzed SAARC",
+    "Sub-regional platforms like BBIN bypass regional blockades",
+    "BIMSTEC offers a high-growth bridge to Southeast Asia"
+   ],
+   "narration": "To wrap up: political rivalry and consensus vetoes paralyzed SAARC. India pivoted to sub-regional initiatives like BBIN, while BIMSTEC became a thriving, high-growth regional alternative."
+  }
+ ]
+}

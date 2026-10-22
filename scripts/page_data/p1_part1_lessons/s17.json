@@ -1,0 +1,89 @@
+{
+ "title": "Indian Party System: Dominance to Coalitions",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How did one party dominate India before regional coalitions took over?",
+   "narration": "Have you ever wondered how India went from one party ruling everything to a colorful web of coalition governments? Here is the secret behind how our democracy evolved."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "One star captain decided everything before regional players demanded shared team leadership.",
+   "narration": "As an everyday analogy, imagine a school cricket team. At first, one superstar captain makes all the decisions, but eventually players from every neighbourhood demand a say and form a joint leadership council."
+  },
+  {
+   "type": "thinker",
+   "name": "Rajni Kothari",
+   "idea": "Congress acted as a consensus umbrella with opposition parties exerting pressure.",
+   "work": "",
+   "narration": "Scholar Rajni Kothari called India's first phase the Congress system. Congress functioned as a broad party of consensus accommodating everyone, while opposition parties acted merely as peripheral parties of pressure."
+  },
+  {
+   "type": "timeline",
+   "heading": "Breakdown of One-Party Dominance",
+   "events": [
+    {
+     "when": "1967",
+     "what": "Non-Congress governments formed in eight states"
+    },
+    {
+     "when": "1989",
+     "what": "National coalition politics formally begins"
+    },
+    {
+     "when": "1999",
+     "what": "Vajpayee NDA government completes full term"
+    },
+    {
+     "when": "2014",
+     "what": "Congress suffers defeat across key states"
+    }
+   ],
+   "narration": "Here is how power shifted across eras. After 1967, Congress lost control of several states, and by 1989, coalition politics became a permanent necessity to run the central government."
+  },
+  {
+   "type": "flow",
+   "heading": "Rise of Regional Parties",
+   "steps": [
+    "Power centralises in party high command",
+    "Regional leaders exit the party",
+    "New regional parties are formed",
+    "Multi-party coalition era begins"
+   ],
+   "narration": "Notice how one event triggered the next. When Congress centralised power at the top, regional leaders broke away to build regional parties, transforming India into a competitive multi-party democracy."
+  },
+  {
+   "type": "compare",
+   "heading": "Western Versus Indian Coalitions",
+   "columns": [
+    {
+     "title": "Western Coalitions",
+     "items": [
+      "Coalition by deliberate design",
+      "High ideological coherence",
+      "Formed strictly to govern"
+     ]
+    },
+    {
+     "title": "Indian Coalitions",
+     "items": [
+      "Driven by political calculation",
+      "Little ideological coherence",
+      "Negative alliances to block rivals"
+     ]
+    }
+   ],
+   "narration": "Professor Vidyut Chakrabarty highlights a sharp contrast with the West. Western democracies form coalitions by design around shared philosophies, but Indian coalitions are tactical calculations formed mainly to keep opponents out of power."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Congress system functioned as an umbrella party of consensus.",
+    "Centralisation and democratic upsurges birthed powerful regional parties.",
+    "Coalition politics is an inevitable reflection of Indian diversity."
+   ],
+   "narration": "Always remember these three takeaways. India moved from an umbrella consensus to regional empowerment, making coalition governance a natural reflection of our country's incredible diversity."
+  }
+ ]
+}

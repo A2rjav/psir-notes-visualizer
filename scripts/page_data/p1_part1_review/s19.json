@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Rajni Kothari, which feature characterized Indian pressure groups prior to the 1990s?",
+   "options": [
+    "They operated as powerful corporate lobbies directly shaping bilateral trade and foreign relations.",
+    "They acted primarily as junior partners to political parties and possessed limited public legitimacy.",
+    "They enjoyed formal representation within national planning bodies like the NITI Aayog.",
+    "They successfully mobilized national policy around progressive environmental and gender equity concerns."
+   ],
+   "answer": 1,
+   "why": "Rajni Kothari observed that pre-1990s pressure groups were dominated by caste, lacked public legitimacy, and remained junior partners to political parties.",
+   "page": 169
+  },
+  {
+   "q": "In Shanker and Rodriques's study, what does the 'plebeianisation' of the Indian Parliament during Phase III signify?",
+   "options": [
+    "The greater entry of ordinary citizens from agrarian and social service backgrounds into politics.",
+    "A dramatic rise in female and religious minority representatives matching their national population shares.",
+    "A return to dominance by foreign-educated lawyers and upper-caste elites across both houses.",
+    "The total professionalisation of Parliament through mandatory educational criteria for all incoming legislators."
+   ],
+   "answer": 0,
+   "why": "Plebeianisation describes the rise of ordinary citizens and agrarian leaders in Parliament, even as women and minority representation remained stagnant.",
+   "page": 173
+  },
+  {
+   "q": "In Mukulika Banerjee's ethnographic study 'Why India Votes', what does the concept of 'power inversion' describe?",
+   "options": [
+    "The temporary surrender of state authority to local community pressure groups on polling day.",
+    "The institutional shift where elected parliamentary representatives dictate policy choices to the judiciary.",
+    "The rare moment on election day when ordinary citizens hold decisive power over politicians.",
+    "The electoral cycle where regional political parties completely displace national parties from government."
+   ],
+   "answer": 2,
+   "why": "Mukulika Banerjee found that election day offers poor voters a rare experience of holding power over the politicians who govern them.",
+   "page": 175
+  },
+  {
+   "q": "What does Yogendra Yadav mean by 'identity plus politics' in contemporary Indian voting behaviour?",
+   "options": [
+    "Voters vote purely on caste identity while completely ignoring public services and government performance.",
+    "Voters discard traditional social affiliations to support corporate lobby groups and market-driven economic policies.",
+    "Voters strictly follow national foreign policy debates rather than local developmental or social community issues.",
+    "Voters retain community identity considerations while increasingly demanding tangible governance and development outcomes."
+   ],
+   "answer": 3,
+   "why": "Yogendra Yadav noted that while community identity remains vital, Indian voters now actively demand governance, development, and delivery.",
+   "page": 177
+  }
+ ]
+}

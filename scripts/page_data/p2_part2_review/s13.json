@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why do Marxist theorists treat international politics primarily as international political economy?",
+   "options": [
+    "Because politics belongs to the superstructure, shaped fundamentally by the underlying global capitalist economic structure.",
+    "Because sovereign nation-states prioritize military security and balance of power over international trade relations.",
+    "Because global international institutions hold greater sovereign authority than domestic economic and social classes.",
+    "Because ideological and cultural norms ultimately dictate material modes of production across all societies."
+   ],
+   "answer": 0,
+   "why": "Marxists view politics as part of the superstructure, meaning international relations must be explained through the underlying economic structure of capitalism.",
+   "page": 104
+  },
+  {
+   "q": "According to Immanuel Wallerstein, what primary function do semi-periphery states serve in the capitalist world system?",
+   "options": [
+    "They dismantle exploitative trade ties between imperial core nations and underdeveloped peripheral regions.",
+    "They act as shock absorbers for Western capitalism while operating in the interest of the North.",
+    "They challenge core dominance by transferring technological innovations directly to peripheral states.",
+    "They establish independent socialist trading blocs outside the influence of global capitalist markets."
+   ],
+   "answer": 1,
+   "why": "Wallerstein explains that semi-peripheries benefit partially from globalization and serve as shock absorbers, stabilizing the capitalist world system for the core.",
+   "page": 106
+  },
+  {
+   "q": "What does Robert Cox demonstrate through his famous dictum that 'theory is always for someone and for some purpose'?",
+   "options": [
+    "That scientific methods can eventually produce an entirely value-neutral and universally objective IR theory.",
+    "That military capabilities are the only significant determinants of a superpower's global hegemony.",
+    "That mainstream theories reflect the interests of dominant powers rather than providing objective explanations.",
+    "That economic structures operate completely independently of political ideologies and state foreign policies."
+   ],
+   "answer": 2,
+   "why": "Cox argues that mainstream theories like Realism and Liberalism are not neutral, but legitimize the dominance of prevailing powers by serving their interests.",
+   "page": 108
+  },
+  {
+   "q": "According to Andrew Linklater's critical approach, what is essential to overcome the recurrence of war?",
+   "options": [
+    "Strengthening sovereign territorial borders and reinforcing state security apparatuses against external aggressors.",
+    "Forming a centralized military alliance of advanced capitalist states to maintain global order.",
+    "Relying exclusively on top-down diplomatic treaties negotiated by leaders of sovereign nation-states.",
+    "Making territorial boundaries irrelevant, building new moral boundaries, and empowering grassroots communities."
+   ],
+   "answer": 3,
+   "why": "Linklater argues that territorial nation-states cause war, so achieving lasting peace requires transcending territorial borders, redefining moral boundaries, and empowering people at the grassroots.",
+   "page": 109
+  }
+ ]
+}

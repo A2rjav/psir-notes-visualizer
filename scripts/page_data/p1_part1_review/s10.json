@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did Bal Gangadhar Tilak describe constitutional methods before an alien bureaucracy as 'political suicide'?",
+   "options": [
+    "Because constitutional agitation was futile before an alien bureaucracy lacking genuine constitutional governance.",
+    "Because direct mass action required immense preparation and subjective consciousness among the unorganized masses.",
+    "Because legislative memorials and prayers were addressed only to British rulers rather than Indians.",
+    "Because peaceful dialogue inevitably provoked uncontrollable violent peasant uprisings against the rural landholders."
+   ],
+   "answer": 0,
+   "why": "Tilak argued that constitutional methods were meaningless in India because an alien colonial bureaucracy offered no real constitutional governance.",
+   "page": 72
+  },
+  {
+   "q": "According to Bipin Chandra, why did Mahatma Gandhi alternate active mass struggle with constructive truce periods?",
+   "options": [
+    "To allow the colonial government time to enact promised constitutional reforms peacefully and gradually.",
+    "To respect the limited capacity of the masses for sustained sacrifice and prevent exhaustion.",
+    "To negotiate secret political compromises with British authorities away from public scrutiny and debate.",
+    "To permanently transition the national freedom movement from mass agitational politics to parliamentary elections."
+   ],
+   "answer": 1,
+   "why": "Gandhi understood that ordinary masses have limited endurance, so truce phases allowed people to recuperate through constructive work before resuming struggle.",
+   "page": 76
+  },
+  {
+   "q": "How did the strategic character of the Civil Disobedience Movement differ fundamentally from Non-Cooperation?",
+   "options": [
+    "Non-Cooperation openly defied statutory laws, whereas Civil Disobedience focused strictly on economic boycotts.",
+    "Non-Cooperation was an armed revolt, while Civil Disobedience relied solely on assembly resolutions.",
+    "Non-Cooperation passively withheld cooperation, whereas Civil Disobedience actively and deliberately violated colonial laws.",
+    "Non-Cooperation demanded complete sovereign independence, whereas Civil Disobedience sought only limited dominion status."
+   ],
+   "answer": 2,
+   "why": "While Non-Cooperation was a milder tactic of withholding cooperation from governance, Civil Disobedience was an offensive strategy that deliberately broke British laws.",
+   "page": 80
+  },
+  {
+   "q": "Why did Mahatma Gandhi permit armed self-defence and refuse to condemn violence during Quit India?",
+   "options": [
+    "He succumbed to pressure from revolutionary socialists after losing organizational control over the Congress.",
+    "He concluded that strict adherence to non-violence had already achieved all major national goals.",
+    "He yielded to British provocations after realizing that peaceful mass satyagraha was historically premature.",
+    "He strategically viewed non-violence as a mobilization tool that was dispensable once masses joined."
+   ],
+   "answer": 3,
+   "why": "Francis Hutchins argued that Gandhi was a strategist who used non-violence to mobilize the masses, discarding strict non-violence once mass participation was secured.",
+   "page": 82
+  }
+ ]
+}

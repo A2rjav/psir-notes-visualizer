@@ -1,0 +1,72 @@
+{
+ "corrections": [
+  {
+   "scene": 0,
+   "field": "narration",
+   "new": "Imagine if everything you believe about religion, law, and politics was actually decided by who owns the factories. Karl Marx argued that matter and production, not ideas, drive all of human history.",
+   "reason": "Marx's historical materialism asserts that the dialectical movement of matter and material production drive history, not money. Equating materialism with money is a conceptual error contradicted by page 141 of the notes."
+  },
+  {
+   "scene": 2,
+   "field": "narration",
+   "new": "Marx called his theory scientific because humans must eat before they can think. Therefore, physical production and manual labor come first, turning Hegel right side up by putting matter above ideas.",
+   "reason": "According to Marx and pages 141 and 143 of the notes, Hegel was already standing on his head; Marx turned him right side up on his feet. Saying Marx turned Hegel upside down reverses Marx's critique."
+  },
+  {
+   "scene": 7,
+   "field": "narration",
+   "new": "To ace your exam, remember these three keys: the economic base shapes the superstructure, surplus value is capitalist theft, and class consciousness drives the revolution to establish socialism.",
+   "reason": "Pages 147 and 148 of the notes state that the armed revolution establishes socialism (dictatorship of the proletariat), which still has two classes, while the classless communist society is reached peacefully without revolution."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why does Marx consider his theory of historical materialism to be scientific rather than speculative?",
+   "options": [
+    "It proves dialectical progression through empirical laboratory experiments and mathematical laws of society.",
+    "It identifies physical production to satisfy survival needs as humanity's first historical act over thinking.",
+    "It demonstrates that intellectual contemplation naturally precedes physical labor in human evolutionary development.",
+    "It shows how spiritual consciousness evolves independently to determine material economic conditions."
+   ],
+   "answer": 1,
+   "why": "Marx argues historical materialism is scientific because human survival requires producing before thinking, making material production the first historical act.",
+   "page": 142
+  },
+  {
+   "q": "Why does Marx argue that workers cannot expect justice from superstructural institutions like the state?",
+   "options": [
+    "Superstructural institutions operate completely independently of the economic base and its class dynamics.",
+    "Superstructural institutions are corrupted accidentally by individual bureaucrats rather than systemic class design.",
+    "Superstructural institutions merely reflect the economic base and serve as instruments of the dominant class.",
+    "Superstructural institutions actively prioritize social welfare over the economic interests of factory owners."
+   ],
+   "answer": 2,
+   "why": "The superstructure has no independent existence and merely reflects the base, functioning as an instrument of the ruling class.",
+   "page": 144
+  },
+  {
+   "q": "According to Marx's stages of history, how does the transition from socialism to communism occur?",
+   "options": [
+    "Through a peaceful declaration abolishing private property, causing classes and the state to wither away.",
+    "Through a second spontaneous armed revolution by workers against the transitional proletarian state.",
+    "Through parliamentary democratic elections where bourgeois parties voluntarily surrender control of private capital.",
+    "Through permanent state dictatorship where government centralizes private property under bureaucratic control forever."
+   ],
+   "answer": 0,
+   "why": "Because workers already control the state in socialism, private property is abolished peacefully, enabling the state to wither away without revolution.",
+   "page": 148
+  },
+  {
+   "q": "According to Marx, how do capitalists extract surplus value from the working class during production?",
+   "options": [
+    "By sharing company profits equitably based on the total number of hours each worker contributes.",
+    "By paying workers fair market value while earning profits solely through smart marketing and distribution.",
+    "By investing personal entrepreneurial talent to create new utility without utilizing any manual wage labor.",
+    "By paying workers wages for only part of their workday while expropriating the remaining unpaid labor."
+   ],
+   "answer": 3,
+   "why": "Capitalists pay workers wages equal to only a fraction of their working day and pocket the value of the unpaid hours as surplus value.",
+   "page": 152
+  }
+ ]
+}

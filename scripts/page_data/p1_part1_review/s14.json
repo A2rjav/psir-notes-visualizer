@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How does Paul Brass challenge the conventional view of communal riots represented by Ashutosh Varshney?",
+   "options": [
+    "He argues riots are organized, staged dramas by riot machinery rather than spontaneous emotional outbursts.",
+    "He asserts riots stem from deep-seated cultural antagonism between communities rather than political calculation.",
+    "He contends riots occur spontaneously during elections without any prior preparation or provocative rhetoric.",
+    "He claims riots are solely driven by class conflicts masked by unequal regional economic development."
+   ],
+   "answer": 0,
+   "why": "Brass argues communal riots are not spontaneous outbursts but well-planned events produced by institutionalized riot machinery. Varshney, conversely, treats riots as spontaneous phenomena.",
+   "page": 123
+  },
+  {
+   "q": "According to the Instrumentalist school of thought, what is the primary driving force behind communalism?",
+   "options": [
+    "Inherent and irreconcilable religious antagonism that makes peaceful co-existence impossible between communities.",
+    "Political elites deliberately manipulating religious sentiments as instruments to achieve power and political goals.",
+    "Discriminatory state policies governing resource distribution based strictly on religious or caste identities.",
+    "Unverified psychological perceptions and distorted mental maps that communities develop about one another."
+   ],
+   "answer": 1,
+   "why": "The Instrumentalist school, represented by Bipan Chandra, argues that elites deliberately use religion as an instrument for political purposes. The other options represent Essentialist, Institutionalist, and Social Constructivist explanations.",
+   "page": 118
+  },
+  {
+   "q": "How does the Indian legal framework reconcile constitutional supremacy with religious diversity in civil matters?",
+   "options": [
+    "By codifying all religious personal laws under Article 44 while eliminating distinct community traditions.",
+    "By completely subordinating constitutional fundamental rights to customary personal laws in all judicial matters.",
+    "By combining common civil and criminal codes with plural personal laws for different religious communities.",
+    "By enforcing a monistic legal system where all personal laws derive strictly from sovereign commands."
+   ],
+   "answer": 2,
+   "why": "India practices legal pluralism alongside constitutional supremacy by maintaining common civil and criminal laws while allowing distinct personal laws across religious communities. Monistic law remains an unrealized European concept.",
+   "page": 127
+  },
+  {
+   "q": "What central critique does Flavia Agnes raise against the mainstream discourse on the Uniform Civil Code?",
+   "options": [
+    "It focuses entirely on electoral politics rather than advancing the genuine rights of women.",
+    "It falsely assumes Hindu law is perfect while ignoring protections women enjoy under personal laws.",
+    "It treats minority communities as monolithic entities with a single uniform interpretation of religious law.",
+    "It prioritizes judicial activism under Article 13 over legislative implementation of Directive Principles under Article 44."
+   ],
+   "answer": 1,
+   "why": "Flavia Agnes argues that the UCC debate rests on the myth of the perfection of Hindu laws, noting that personal laws sometimes offer better protections for women. She advocates for incremental reforms within communities.",
+   "page": 130
+  }
+ ]
+}

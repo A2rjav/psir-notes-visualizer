@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 0,
+   "field": "narration",
+   "new": "Imagine being forced to follow state laws, yet being told that this makes you completely free! The Genevan thinker Jean-Jacques Rousseau solved this puzzle with his famous idea of the General Will.",
+   "reason": "Rousseau was born in the Republic of Geneva (Genevan), not France, though his writings deeply influenced the French Revolution."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to Rousseau, what historical development corrupted natural human bliss and turned man into a 'depraved animal'?",
+   "options": [
+    "The emergence of calculating reason and settled society that introduced distinctions of private property.",
+    "The innate psychological malice and competitive selfishness inherently present within original human nature.",
+    "The total absence of an absolute third-party monarch capable of enforcing formal legal sovereignty.",
+    "The failure of early citizens to elect representative assemblies to govern communal affairs."
+   ],
+   "answer": 0,
+   "why": "Rousseau argued that humans were peaceful noble savages until settled civilization and calculating rationality taught greed, inequality, and 'mine and thine'.",
+   "page": 113
+  },
+  {
+   "q": "How does Rousseau define the General Will that forms the foundation of legitimate political society?",
+   "options": [
+    "The majority consensus formed by tallying citizens' selfish, profit-maximizing actual desires.",
+    "The collective sum of the selfless, essentially good real wills of all citizens.",
+    "The sovereign decree handed down by an enlightened monarch acting as a third-party beneficiary.",
+    "The negotiated compromise reached between competing political parties inside an elected parliament."
+   ],
+   "answer": 1,
+   "why": "Rousseau distinguishes between the selfish actual will and the selfless real will, defining the General Will as the sum of all citizens' good real wills.",
+   "page": 114
+  },
+  {
+   "q": "Why is Rousseau's General Will famously described as 'Hobbes's Leviathan with his head chopped off'?",
+   "options": [
+    "It completely eliminates all state enforcement and replaces sovereign authority with voluntary individual agreements.",
+    "It divides sovereign authority into separate branches to prevent any single institution from exercising absolute power.",
+    "It possesses absolute coercive authority like the Leviathan, but diffuses that power throughout the entire community.",
+    "It limits the ruler's sovereign power by making them accountable to a periodic bill of fundamental rights."
+   ],
+   "answer": 2,
+   "why": "Both systems grant absolute power to the sovereign, but Rousseau eliminates Hobbes's monarchical ruler and vests supreme authority directly in the people.",
+   "page": 115
+  },
+  {
+   "q": "In Rousseau's philosophy, how does a citizen achieve 'moral freedom' or positive liberty under the state?",
+   "options": [
+    "By electing competent representatives to debate and enact national legislation on their behalf.",
+    "By enjoying a protected private sphere completely free from any governmental interference or taxation.",
+    "By retaining the constitutional right to overthrow any government that fails to preserve natural rights.",
+    "By directly participating in making the moral laws that they subsequently obey as citizens."
+   ],
+   "answer": 3,
+   "why": "Rousseau equated moral freedom with positive liberty, meaning individuals remain free only when obeying laws they personally deliberated and voted into existence.",
+   "page": 116
+  }
+ ]
+}

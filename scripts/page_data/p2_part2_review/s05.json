@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 3,
+   "field": "narration",
+   "new": "Thinker Robert Dahl examined American democracy and found that power is divided among competing interest groups. He called this a polyarchy, which he later modified to deformed polyarchy due to corporate power.",
+   "reason": "Dahl originally termed interest-group pluralism a polyarchy; he only later modified his concept to deformed polyarchy to reflect the distorting impact of corporate power."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to Nicos Poulantzas's structuralist perspective, why does the capitalist welfare state enjoy relative autonomy?",
+   "options": [
+    "Because economic elites completely withdraw from influencing political institutions during peaceful democratic periods.",
+    "Because the competitive party system prevents the state from serving as an instrument of one class.",
+    "Because bureaucratic managers prioritize public welfare over the long-term reproduction of private capitalism.",
+    "Because the working class successfully captures executive control through democratic parliamentary elections."
+   ],
+   "answer": 1,
+   "why": "Poulantzas argued that a competitive party system gives the state relative autonomy from direct control by a single class. However, during moments of crisis, the state consistently acts in favor of the rich.",
+   "page": 32
+  },
+  {
+   "q": "In C. Wright Mills's elitist critique of American democracy, which three groups hold decisive political power?",
+   "options": [
+    "Corporate leaders, federal politicians, and top military commanders.",
+    "Organized labor unions, judicial magistrates, and mass media executives.",
+    "Competing electoral parties, municipal mayors, and regional interest groups.",
+    "Bureaucratic civil servants, university intellectuals, and prominent landowners."
+   ],
+   "answer": 0,
+   "why": "C. Wright Mills argued that power in the United States is concentrated among corporate groups, federal politicians, and top military leaders. Pluralists like Robert Dahl countered that power is instead divided among competing interest groups.",
+   "page": 32
+  },
+  {
+   "q": "Why did elitist scholars argue that conditions in socialist states were worse than in Western democracies?",
+   "options": [
+    "Socialist states eliminated military hierarchies, leaving civil administration vulnerable to internal rebellion.",
+    "Socialist states lacked constitutional courts capable of settling economic disputes between state enterprises.",
+    "Socialist states were dominated by monolithic elites, denying citizens any choice among competing rulers.",
+    "Socialist states suffered rapid political decay due to unchecked mass political mobilization."
+   ],
+   "answer": 2,
+   "why": "Elitist scholars noted that while oligarchy is universal, socialist regimes featured monolithic elites without political alternatives. In contrast, Western capitalist democracies offered citizens a choice among competing elite groups.",
+   "page": 34
+  },
+  {
+   "q": "According to Hamza Alavi's structuralist analysis, why are post-colonial states like Pakistan and India 'overdeveloped'?",
+   "options": [
+    "Their rapid industrial expansion outpaced the capacity of traditional social structures to adapt.",
+    "Their democratic welfare apparatus expanded faster than domestic revenue collection could sustain.",
+    "Their political parties mobilized masses before institutional channels were established to govern.",
+    "Their colonial rulers established an advanced bureaucratic-military apparatus to subordinate indigenous classes."
+   ],
+   "answer": 3,
+   "why": "Hamza Alavi explained that post-colonial states inherited an overdeveloped military-bureaucratic apparatus established by colonial powers to subordinate indigenous classes. This created a structural mismatch between advanced political institutions and developing economies.",
+   "page": 35
+  }
+ ]
+}

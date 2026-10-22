@@ -1,0 +1,60 @@
+{
+ "title": "Communalism, Identity Politics, and the Civil Code",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is religious violence an emotional outburst or a staged political drama?",
+   "narration": "Have you ever wondered why communal conflicts erupt right before elections? It is not just sudden anger, but often a calculated political game."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Politicians act like rival cricket captains using religion as a tactical bowling change.",
+   "narration": "Here is an everyday analogy for you. Imagine two school cricket captains who deliberately pick fights between team fans just to win the match and stay in power."
+  },
+  {
+   "type": "flow",
+   "heading": "Paul Brass: Institutionalised Riot Machinery",
+   "steps": [
+    "Preparatory: Fire tenders stoke tensions",
+    "Precipitation: Violence erupts during elections",
+    "Explanatory: Blame games consolidate votes"
+   ],
+   "narration": "Thinker Paul Brass explains that riots do not just happen spontaneously. First, political fire tenders stoke anger, specialists trigger violence during elections, and leaders then blame each other to secure votes."
+  },
+  {
+   "type": "points",
+   "heading": "The Uniform Civil Code Dilemma",
+   "items": [
+    "India combines constitutional supremacy with legal pluralism",
+    "Most personal laws codified except Shariat Act",
+    "Article 44 envisions an incremental approach"
+   ],
+   "narration": "Next, consider the Uniform Civil Code under Article 44. India practices legal pluralism, meaning different religions follow different personal laws for marriage and property, creating big questions for equal rights."
+  },
+  {
+   "type": "balance",
+   "heading": "Balancing Fundamental Constitutional Rights",
+   "left": "Article 14 Gender Equality",
+   "right": "Article 29 Cultural Freedom",
+   "tilt": "even",
+   "narration": "Here lies the core dilemma. Do we prioritize Article 14 to give equal civil rights to women, or protect Article 29 to safeguard minority cultural practices?"
+  },
+  {
+   "type": "thinker",
+   "name": "Flavia Agnes",
+   "idea": "UCC requires an incremental approach balancing gender rights with minority protection.",
+   "work": "",
+   "narration": "Scholar Flavia Agnes warns us that imposing a uniform code overnight ignores community realities. Instead, the state should pursue incremental reforms to protect women within their personal laws."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Communalism is the political misuse of religious identity",
+    "Paul Brass reveals riots as staged political dramas",
+    "Article 44 balances gender justice with cultural rights"
+   ],
+   "narration": "Remember these three big ideas: communalism mobilizes religious passions for power, riots follow institutionalized stages, and civil code reforms require balancing gender equality with cultural freedom. You have got this!"
+  }
+ ]
+}

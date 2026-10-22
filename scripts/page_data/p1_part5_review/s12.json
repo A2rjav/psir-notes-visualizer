@@ -1,0 +1,66 @@
+{
+ "corrections": [
+  {
+   "scene": 3,
+   "field": "right",
+   "new": "Other-regarding actions",
+   "reason": "Mill divides human actions into self-regarding actions and other-regarding actions; 'Harm to others' is the consequence justifying intervention, not the counterpart action category."
+  },
+  {
+   "scene": 4,
+   "field": "quote",
+   "new": "All silencing of discussion is an assumption of infallibility.",
+   "reason": "Mill's exact quote in On Liberty is 'All silencing of discussion is an assumption of infallibility', not 'the opinion'."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why does Mill's distinction between higher and lower pleasures make Bentham's felicific calculus unworkable?",
+   "options": [
+    "Pleasures can now be measured purely by their duration and intensity rather than subjective feeling.",
+    "Qualitative differences in pleasures cannot be mathematically quantified or measured on a single numerical scale.",
+    "The state must decide the numerical value of intellectual happiness for all citizens equally.",
+    "Physical appetite provides greater quantifiable satisfaction to the soul than intellectual contemplation does."
+   ],
+   "answer": 1,
+   "why": "Bentham assumed pleasure is purely quantitative and measurable, but Mill introduced qualitative differences, making mathematical calculation of utility impossible.",
+   "page": 121
+  },
+  {
+   "q": "Why does Mill assert that silencing even a single dissenting voice is never justified?",
+   "options": [
+    "Because every opinion expressed by any individual is equally valid, scientifically verifiable, and objectively true.",
+    "Because minority opinions must always override majority decisions in modern constitutional democratic systems.",
+    "Because suppressing an opinion assumes infallibility and deprives society of discovering truth or correcting errors.",
+    "Because unrestrained public debate guarantees immediate social consensus without creating ideological conflict."
+   ],
+   "answer": 2,
+   "why": "Silencing speech assumes infallibility, whereas open debate either reveals new truth or allows individuals to correct their mistaken opinions.",
+   "page": 127
+  },
+  {
+   "q": "Why does Ernest Barker criticize J.S. Mill as a 'prophet of empty liberty'?",
+   "options": [
+    "Because dividing actions into self-regarding and other-regarding is artificial and invites massive state intervention.",
+    "Because Mill completely rejected private property and championed an unconditional socialist welfare state.",
+    "Because Mill subordinated individual liberty entirely to the mathematical calculation of collective pleasure.",
+    "Because Mill denied freedom of speech to eccentric individuals and non-conformist minorities."
+   ],
+   "answer": 0,
+   "why": "Barker argued that separating human actions into self-regarding and other-regarding is artificial, ultimately leaving little genuine scope for liberty.",
+   "page": 124
+  },
+  {
+   "q": "Why is J.S. Mill characterized in political theory as a 'reluctant democrat'?",
+   "options": [
+    "He believed direct democracy was inferior to absolute monarchy in all civilized European nations.",
+    "He opposed representative institutions because they inevitably protect the interests of the wealthy bourgeoisie.",
+    "He rejected constitutional government in favor of an unregulated free market without statutory laws.",
+    "He feared uneducated majority rule and advocated elitist restrictions like weighted voting for educated citizens."
+   ],
+   "answer": 3,
+   "why": "Mill feared democracy turning into mobocracy or the tyranny of the majority, proposing aristocratic measures like weighted voting to safeguard governance.",
+   "page": 129
+  }
+ ]
+}

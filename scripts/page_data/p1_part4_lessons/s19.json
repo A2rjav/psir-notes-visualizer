@@ -1,0 +1,71 @@
+{
+ "title": "John Rawls: Justice as Fairness",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "How would you design society without knowing your own future place?",
+   "narration": "Imagine you are chosen to rewrite all laws for society. But here is the catch: you do not know if you will be born rich or poor, healthy or sick!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Setting boundary rules before the toss decides whether you bat or bowl.",
+   "narration": "Here is a simple cricket analogy. If you must set the boundary rules before the coin toss decides whether you bat or bowl, you will make the game completely fair."
+  },
+  {
+   "type": "thinker",
+   "name": "John Rawls",
+   "idea": "Justice as fairness is the first virtue of social institutions.",
+   "work": "A Theory of Justice (1971)",
+   "narration": "John Rawls used this idea to revive political philosophy in 1971. He declared that justice is the first virtue of social institutions, just like truth is of thought."
+  },
+  {
+   "type": "balance",
+   "heading": "Priority of Right Over Good",
+   "left": "Inviolable Human Dignity",
+   "right": "Utilitarian Majority Welfare",
+   "tilt": "left",
+   "narration": "Rawls rejects utilitarianism, which sacrifices individual rights for the majority's happiness. Following Immanuel Kant, he insists right is prior to good: human dignity can never be traded away."
+  },
+  {
+   "type": "flow",
+   "heading": "The Path to Fair Rules",
+   "steps": [
+    "The Original Position",
+    "The Veil of Ignorance",
+    "The Maximin Rule Choice",
+    "Justice as Fairness"
+   ],
+   "narration": "Behind an imaginary Veil of Ignorance, you forget your wealth and talents. Not knowing your luck, you use the maximin rule: pick the rules where the worst possible outcome is safest."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Lexical Order of Justice",
+   "levels": [
+    "Maximum Equal Liberty",
+    "Equality of Opportunity",
+    "The Difference Principle"
+   ],
+   "narration": "This gives three principles in strict priority. Equal liberty always comes first, fair equality of opportunity comes second, and economic inequalities are permitted only if they help the least advantaged."
+  },
+  {
+   "type": "points",
+   "heading": "The Difference Principle",
+   "items": [
+    "Natural talents are neither just nor unjust",
+    "Inequalities must benefit the least advantaged",
+    "Wealth is justified when helping the weakest"
+   ],
+   "narration": "Rawls explains that natural talents are pure luck, not moral merit. That is why greater wealth is fair only when it is shared to support the weakest section of society."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Justice as fairness protects inviolable human dignity",
+    "Veil of ignorance removes bias through maximin choice",
+    "Lexical order ensures liberty while supporting the weakest"
+   ],
+   "narration": "To recap: justice as fairness protects human dignity, the veil of ignorance eliminates personal bias, and the difference principle ensures society protects its most vulnerable."
+  }
+ ]
+}

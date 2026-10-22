@@ -1,0 +1,101 @@
+{
+ "title": "Ideology, Modernism, and the Battle for Truth",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Is objective truth real, or just a tool used to hold power?",
+   "narration": "Imagine discovering that the ideas you consider neutral facts are actually tools to keep certain groups in power. Welcome to the debate on ideology and postmodernism!"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Different cricket team fans view the exact same umpire decision through completely opposite glasses.",
+   "narration": "Think of this analogy from cricket. When the umpire makes a call, Mumbai and Chennai fans see opposite realities because their loyalties shape their perspective, just like political ideologies do."
+  },
+  {
+   "type": "matrix",
+   "heading": "Mannheim: Class Roots of Ideas",
+   "rows": [
+    "Dominant Class",
+    "Exploited Class"
+   ],
+   "cols": [
+    "Orientation",
+    "Example"
+   ],
+   "cells": [
+    [
+     "Ideology protects existing power",
+     "Liberalism"
+    ],
+    [
+     "Utopia seeks change",
+     "Communism"
+    ]
+   ],
+   "highlight": [
+    0,
+    0
+   ],
+   "narration": "Here is Karl Mannheim's breakthrough. In his sociology of knowledge, he showed that all ideas reflect class interests, separating dominant ruling ideas called ideology from visions of the exploited called utopia."
+  },
+  {
+   "type": "balance",
+   "heading": "Ideology Battles vs History Ending",
+   "left": "End of Ideology",
+   "right": "End of History",
+   "tilt": "right",
+   "narration": "Daniel Bell claimed ideology ended because economics replaced politics. Later, Fukuyama went further with the End of History, boldly crowning liberalism as humanity's final ideological destination."
+  },
+  {
+   "type": "flow",
+   "heading": "Kuhn: Science Paradigm Shift",
+   "steps": [
+    "Dominant paradigm explains questions",
+    "Unanswered questions accumulate",
+    "Paradigm enters crisis",
+    "New paradigm replaces old"
+   ],
+   "narration": "Even science lacks absolute finality! Thomas Kuhn explained that scientists work inside frameworks called paradigms, which eventually face crisis from unanswered questions and get replaced by new paradigms."
+  },
+  {
+   "type": "compare",
+   "heading": "Modernism vs Postmodernism",
+   "columns": [
+    {
+     "title": "Modernism",
+     "items": [
+      "Objective reality and science",
+      "Universal laws and order",
+      "Totalising meta-narratives"
+     ]
+    },
+    {
+     "title": "Postmodernism",
+     "items": [
+      "Subjective experience",
+      "Decentralised local narratives",
+      "Celebrates diversity and freedom"
+     ]
+    }
+   ],
+   "narration": "Look at this clash. Modernism promises order, objective truth, and grand stories called meta-narratives, while postmodernism argues reality is chaotic, rejecting universal truths in favor of diverse local voices."
+  },
+  {
+   "type": "thinker",
+   "name": "Homi Bhabha",
+   "idea": "Challenged colonial binaries and showed cultural hybridity disrupts Western domination.",
+   "work": "Location of Culture",
+   "narration": "Post-colonial thinker Homi Bhabha attacked colonial binaries that painted the West as civilized and the East as backward, proposing hybridity to prove cultures mix and resist domination."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Ideologies reflect class interests and power relations",
+    "Science progresses through shifting conceptual paradigms",
+    "Postmodernism rejects grand meta-narratives for local truths"
+   ],
+   "narration": "Here's what to remember. Ideology always connects to power, scientific knowledge shifts through paradigms, and postmodernism replaces grand totalising narratives with local, diverse perspectives."
+  }
+ ]
+}

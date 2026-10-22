@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "How did the structural design of SAPTA differ fundamentally from SAFTA in approaching regional trade barriers?",
+   "options": [
+    "SAPTA used a restrictive positive list, whereas SAFTA adopted an ambitious negative list covering unlisted goods.",
+    "SAPTA eliminated tariffs on all consumer goods, whereas SAFTA restricted concessions solely to agricultural commodities.",
+    "SAPTA mandated uniform tariff cuts for all states, whereas SAFTA excluded least developed countries from concessions.",
+    "SAPTA established a binding dispute settlement body, whereas SAFTA relied entirely on voluntary bilateral negotiations."
+   ],
+   "answer": 0,
+   "why": "SAPTA relied on a restrictive positive list of rarely traded items, whereas SAFTA introduced a negative list to cover all unlisted goods.",
+   "page": 183
+  },
+  {
+   "q": "According to the notes, which external and structural factor distinguished SAARC from successful blocs like ASEAN and the EU?",
+   "options": [
+    "SAARC members possessed fully consolidated nationalisms that resisted any economic cooperation with neighbouring states.",
+    "SAARC lacked an external push factor like the United States that encouraged regional integration in other blocs.",
+    "SAARC faced continuous military interventions by external superpowers seeking direct colonial control over South Asian territory.",
+    "SAARC was hindered because economic considerations completely overwhelmed domestic political priorities across all member states."
+   ],
+   "answer": 1,
+   "why": "According to the notes, the United States served as an external push factor for European and Southeast Asian integration, which SAARC lacked.",
+   "page": 184
+  },
+  {
+   "q": "Why did India pursue the BBIN sub-regional platform, and what principal domestic obstacle hindered its full implementation?",
+   "options": [
+    "Bangladesh opposed maritime border adjustments, prompting India to abandon trilateral connectivity plans with Bhutan and Nepal.",
+    "Nepal rejected transit rights over environmental concerns, delaying the formal ratification of the motor vehicle treaty.",
+    "Pakistan vetoed the regional motor agreement, while Bhutan's parliament withheld ratification citing local transport and environmental concerns.",
+    "Sri Lanka demanded maritime security pacts, causing India to restrict transport agreements exclusively to landlocked partners."
+   ],
+   "answer": 2,
+   "why": "India initiated BBIN after Pakistan vetoed the regional motor agreement in 2014, but Bhutan delayed ratification due to domestic transport and ecological concerns.",
+   "page": 185
+  },
+  {
+   "q": "Why does India prioritize BIMSTEC as a pragmatic diplomatic and economic alternative to SAARC?",
+   "options": [
+    "BIMSTEC enforces a common defence pact that automatically excludes external powers from operating in the Indian Ocean.",
+    "BIMSTEC replaces consensus decision-making with majority voting, preventing smaller member nations from using national vetoes.",
+    "BIMSTEC restricts cooperation solely to counter-terrorism, avoiding contentious free trade agreements and regional economic integration.",
+    "It bypasses Pakistan's obstructionist veto while linking South Asia to high-growth Southeast Asian economies like Thailand."
+   ],
+   "answer": 3,
+   "why": "BIMSTEC offers India a way to circumvent Pakistan's obstructionism within SAARC while building economic bridges to dynamic Southeast Asian partners like Thailand.",
+   "page": 186
+  }
+ ]
+}

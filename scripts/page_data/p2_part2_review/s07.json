@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to the notes, what is the core Marxist critique of contemporary globalisation?",
+   "options": [
+    "It inherently opposes all forms of international interaction and cross-border cultural exchange between nations.",
+    "It represents the expansion of capitalism globally rather than genuine universal development for all people.",
+    "It inevitably leads to the total destruction of western values and global secular institutions.",
+    "It exclusively harms developing nations while benefiting all social classes across developed capitalist countries."
+   ],
+   "answer": 1,
+   "why": "Marxists do not oppose globalisation itself, but argue that the current model merely expands capitalism globally.",
+   "page": 48
+  },
+  {
+   "q": "How does Immanuel Wallerstein characterize the nature and trajectory of modern globalisation?",
+   "options": [
+    "As a brand new post-Cold War mechanism that successfully eliminates worldwide economic inequality.",
+    "As an irreversible triumph of liberal democracy that marks the ultimate end of human history.",
+    "As an ongoing phase of capitalist exploitation dating back to the seventeenth century that is now dying.",
+    "As a benevolent expansion of global governance that empowers international institutions over national sovereign states."
+   ],
+   "answer": 2,
+   "why": "Wallerstein views globalisation as ongoing capitalist exploitation dating from the seventeenth century that is nearing its end.",
+   "page": 50
+  },
+  {
+   "q": "According to Joseph Stiglitz, how has contemporary globalisation affected socioeconomic classes in developed nations?",
+   "options": [
+    "It enriched top plutocrats while depressing real wages for the domestic middle and working classes.",
+    "It benefited the working class through cheaper goods while eliminating corporate profits of domestic elites.",
+    "It distributed prosperity equally across all income groups by resolving deficits in global governance institutions.",
+    "It severely impoverished corporate elites while elevating low-wage factory workers into the affluent middle class."
+   ],
+   "answer": 0,
+   "why": "Stiglitz argues that globalisation enriched the top one percent plutocrats while reducing real wages for domestic workers.",
+   "page": 52
+  },
+  {
+   "q": "According to Pratap Bhanu Mehta, how has the primary source of anti-globalisation sentiment changed?",
+   "options": [
+    "It shifted from corporate elites in the North to environmental activists across the Global South.",
+    "It shifted from industrial labor unions in the North to rural agrarian populations in developing nations.",
+    "It shifted from nationalist political parties to international civil society organisations and multilateral development agencies.",
+    "It shifted from the Southern poor to middle and working classes in the North, fuelling right-wing xenophobia."
+   ],
+   "answer": 3,
+   "why": "Mehta observes that anti-globalisation sentiment moved from Southern poor to Northern middle classes, driving right-wing xenophobia.",
+   "page": 53
+  }
+ ]
+}

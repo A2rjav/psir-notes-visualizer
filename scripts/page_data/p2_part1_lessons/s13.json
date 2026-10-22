@@ -1,0 +1,77 @@
+{
+ "title": "Understanding the WTO and Global Trade Governance",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can a global trade umpire actually protect poor farmers?",
+   "narration": "Imagine a global trade referee where every country gets an equal veto. Sounds fair, right? But what happens when rules written in Geneva threaten food on an Indian farmer's plate?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "A cricket match where wealthy players play by different equipment rules.",
+   "narration": "Here is an everyday analogy: imagine a school cricket match where the kid with the costly bat demands special rules. In the World Trade Organization, rich nations push free trade, but protect their own commercial farms with heavy subsidies."
+  },
+  {
+   "type": "compare",
+   "heading": "Agriculture: Global North Versus South",
+   "columns": [
+    {
+     "title": "Global North",
+     "items": [
+      "Only 4 percent population in farming",
+      "Agriculture is 3 percent of GDP",
+      "Huge domestic subsidies given"
+     ]
+    },
+    {
+     "title": "Global South",
+     "items": [
+      "Around 70 percent dependent on farming",
+      "Agriculture is a way of life",
+      "Subsistence farmers need food security"
+     ]
+    }
+   ],
+   "narration": "Notice this stark divide. In Western countries, farming is a corporate business employing just four percent of workers. For developing nations like India, agriculture is a livelihood supporting seventy percent of our people."
+  },
+  {
+   "type": "flow",
+   "heading": "How Amber Box Threatens Food Security",
+   "steps": [
+    "Government pays MSP to farmers",
+    "Counts as Amber Box subsidy",
+    "Exceeds 10 percent de minimis",
+    "WTO rules challenge grain distribution"
+   ],
+   "narration": "Here is the problem: the WTO puts farm incentives into the restricted Amber Box. When India offers Minimum Support Prices to secure food for poor citizens, it breaches outdated 1986 price limits."
+  },
+  {
+   "type": "balance",
+   "heading": "Clash Over Services Trade",
+   "left": "Western Commercial Presence",
+   "right": "Indian Professional Mobility",
+   "tilt": "left",
+   "narration": "In services, the playing field tilts heavily. Western nations pushed Mode Three to open our banking and insurance, but they block Mode Four, restricting visas when Indian professionals want to work abroad."
+  },
+  {
+   "type": "points",
+   "heading": "India's Core Priorities at WTO",
+   "items": [
+    "Permanent solution for public food stockholding",
+    "Special Safeguard Mechanism against import surges",
+    "Trade Facilitation Agreement in services sector"
+   ],
+   "narration": "To defend its interests, India stands firm on three demands: a permanent solution protecting food procurement, a Special Safeguard Mechanism against sudden cheap imports, and easier global mobility for service workers."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Multilateral consensus often bends to Green Room diplomacy",
+    "Amber Box caps threaten India's food security MSP",
+    "India champions service mobility and safeguard mechanisms"
+   ],
+   "narration": "Remember these three big takeaways: the WTO promises equal multilateral rules, but agricultural subsidy limits squeeze developing nations, prompting India to fight hard for food security and service workers."
+  }
+ ]
+}

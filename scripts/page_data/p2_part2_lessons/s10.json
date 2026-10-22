@@ -1,0 +1,73 @@
+{
+ "title": "Understanding Realism and Alternative Paradigms",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do peaceful nations still prepare for war?",
+   "narration": "Have you ever wondered why peaceful countries spend fortunes on weapons? Here is the trick: in international politics, there is no world government to protect you, so fear drives every move."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A classroom exam without a teacher forces every student to stay suspicious.",
+   "narration": "Think of this analogy: imagine your exam hall when the teacher leaves the room. With no authority to punish cheaters, you feel insecure and must guard your own answer sheet."
+  },
+  {
+   "type": "compare",
+   "heading": "Defensive Versus Offensive Realism",
+   "columns": [
+    {
+     "title": "Defensive Realism (Waltz)",
+     "items": [
+      "Security maximisers",
+      "Power for defense only",
+      "Desires balance of power"
+     ]
+    },
+    {
+     "title": "Offensive Realism (Mearsheimer)",
+     "items": [
+      "Power maximisers",
+      "Seeks hegemony for safety",
+      "Prefers power preponderance"
+     ]
+    }
+   ],
+   "narration": "Kenneth Waltz says states are defensive security maximisers who only want enough power to protect themselves. But John Mearsheimer argues states are offensive power maximisers who can only feel safe by becoming the supreme superpower."
+  },
+  {
+   "type": "points",
+   "heading": "Neoclassical Realism",
+   "items": [
+    "Combines global structure with domestic actors",
+    "Leader personalities shape foreign policy decisions",
+    "Explains both continuity and sudden change"
+   ],
+   "narration": "Neoclassical realists like Fareed Zakaria and Randall Schweller point out that the global system is not everything. They show that domestic politics and the personalities of individual leaders also shape foreign decisions."
+  },
+  {
+   "type": "balance",
+   "heading": "The English School View",
+   "left": "Complete Anarchy",
+   "right": "Complete Society",
+   "tilt": "even",
+   "narration": "Hedley Bull of the English School challenged pure realism. He showed our world sits right in the middle: it lacks a global master, yet shared treaties, rules, and international bodies create an anarchical society."
+  },
+  {
+   "type": "thinker",
+   "name": "Cynthia Enloe",
+   "idea": "Realism is masculinist and excludes women from peace decisions.",
+   "work": "Bananas, Beaches & Bases",
+   "narration": "Feminist thinkers like Cynthia Enloe ask: where are the women? She reveals that traditional security ignores women, who are exploited in labor and kept away from high-level peacemaking tables."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Structural realists disagree on defensive versus offensive power",
+    "Neoclassical realism includes leaders and domestic politics",
+    "Alternative schools highlight international society and gender"
+   ],
+   "narration": "To recap, realism explains how global anarchy pushes states to compete. But remember: domestic leadership, international rules, and gender perspectives give you the complete picture for your exam."
+  }
+ ]
+}

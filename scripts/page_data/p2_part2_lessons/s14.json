@@ -1,0 +1,99 @@
+{
+ "title": "Scientific Approaches to International Relations",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can mathematics and game strategies explain why nations go to war?",
+   "narration": "Can we predict world politics like a science experiment or a game of chess? Let us explore how scholars turned foreign policy into systems and rational strategies."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Studying a cricket tournament requires looking at team dynamics, not just one batsman.",
+   "narration": "As an everyday analogy, think of a cricket tournament: you cannot understand the game by watching one batsman alone. You must study pitch conditions, team rivalries, and how every move triggers a countermove."
+  },
+  {
+   "type": "thinker",
+   "name": "Morton Kaplan",
+   "idea": "Studied international politics as an overarching system using ten distinct models.",
+   "work": "",
+   "narration": "Morton Kaplan wanted a grand, scientific theory of international politics free from ideology. Instead of analyzing separate foreign policies, he mapped out ten models governed by rules, capabilities, and information."
+  },
+  {
+   "type": "compare",
+   "heading": "Two Contrasting Kaplan Models",
+   "columns": [
+    {
+     "title": "Hierarchical Model",
+     "items": [
+      "One state rules all",
+      "Opposite of universal actor"
+     ]
+    },
+    {
+     "title": "Unit Veto Model",
+     "items": [
+      "All countries equally powerful",
+      "Equal capacity to destroy"
+     ]
+    }
+   ],
+   "narration": "Look at how Kaplan contrasted different worlds. In a hierarchical model, one superpower dominates everyone, whereas in a unit veto system, every single nation holds equal power to destroy."
+  },
+  {
+   "type": "balance",
+   "heading": "Chicken Game Dilemma",
+   "left": "Prevent catastrophe",
+   "right": "Protect prestige",
+   "tilt": "left",
+   "narration": "Thomas Schelling applied game theory to predict rational behavior during conflicts. In the 1962 Cuban missile crisis, leaders faced a Chicken Game: swerve to prevent catastrophe, or hold on to protect prestige."
+  },
+  {
+   "type": "matrix",
+   "heading": "Prisoner's Dilemma Nuclear Choice",
+   "rows": [
+    "Cooperate",
+    "Defect"
+   ],
+   "cols": [
+    "Cooperate",
+    "Defect"
+   ],
+   "cells": [
+    [
+     "Mutual restraint win-win",
+     "Vulnerable to rival"
+    ],
+    [
+     "Gains nuclear advantage",
+     "Both build weapons"
+    ]
+   ],
+   "highlight": [
+    1,
+    1
+   ],
+   "narration": "Here is the trick behind the Prisoner's Dilemma. Because of a huge trust deficit, neither India nor Pakistan could risk restraint, so both chose defection and built nuclear weapons to avoid the worst outcome."
+  },
+  {
+   "type": "points",
+   "heading": "Decision-Making Approach Focus",
+   "items": [
+    "Pioneered by Snyder, Bruck, and Sapin",
+    "Treats foreign policy as decision-making process",
+    "Proactive search for problems and alternatives",
+    "Shaped by environmental and organisational factors"
+   ],
+   "narration": "Finally, Richard Snyder and his colleagues argued that foreign policy is an active decision-making process. Governments do not merely react to crises; they proactively weigh organisational habits and environmental factors to pick alternatives."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Kaplan modeled international politics as an overarching system",
+    "Game theory models strategic choices under trust deficits",
+    "Decision-making analyzes internal and external policy factors"
+   ],
+   "narration": "Remember these three big ideas: Kaplan viewed international relations as systems, game theory explains rational strategies under distrust, and decision-making unpacks how leaders choose alternatives."
+  }
+ ]
+}

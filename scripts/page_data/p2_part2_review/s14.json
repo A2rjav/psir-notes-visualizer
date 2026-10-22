@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Morton Kaplan, what defines the 'Unit Veto' model of international politics?",
+   "options": [
+    "Every state possesses equal capability to destroy any adversary, making all actors equally powerful.",
+    "A single global superpower establishes a centralized hierarchical rule over all other nation-states.",
+    "A universal world government resolves interstate disputes through an overarching international legal authority.",
+    "Two dominant ideological superpowers maintain international stability by leading competing military alliances."
+   ],
+   "answer": 0,
+   "why": "In Kaplan's unit veto model, every country has an equal capacity to destroy, giving each actor equal power.",
+   "page": 112
+  },
+  {
+   "q": "In the Prisoner's Dilemma applied to international relations, why do states choose defection over mutual cooperation?",
+   "options": [
+    "Leaders prioritize short-term domestic prestige over long-term strategic and economic security concerns.",
+    "Both states face a head-on collision where swerving first signals weakness and political surrender.",
+    "A severe trust deficit forces states to avoid the worst outcome rather than seek mutual benefit.",
+    "International institutions enforce binding sanctions that penalize countries attempting unilateral diplomatic restraint."
+   ],
+   "answer": 2,
+   "why": "States cannot know rivals' intentions, so distrust leads them to defect to avoid the worst outcome.",
+   "page": 115
+  },
+  {
+   "q": "How does the decision-making approach of Richard Snyder and colleagues conceptualize foreign policy formulation?",
+   "options": [
+    "As a mechanical response to external systemic balances that strictly dictates national survival.",
+    "As a proactive process of identifying problems and selecting alternatives shaped by organizational and environmental factors.",
+    "As a reactive problem-solving exercise designed exclusively to handle acute military and diplomatic crises.",
+    "As an overarching grand theory that models recurring global interactions free from domestic influences."
+   ],
+   "answer": 1,
+   "why": "Snyder views foreign policy as proactively discovering problems and alternatives, influenced by organizational and environmental settings.",
+   "page": 116
+  },
+  {
+   "q": "Why did Stanley Hoffmann criticize Morton Kaplan's systems approach to international politics?",
+   "options": [
+    "It relies excessively on game-theoretic zero-sum assumptions rather than empirical diplomatic history.",
+    "It focuses entirely on domestic decision-making processes while ignoring structural balance of power.",
+    "It overemphasizes post-colonial insecurity dilemmas at the expense of superpower alliance dynamics.",
+    "It reduces politics to an abstract parlour game, prioritizing rigid form over real political substance."
+   ],
+   "answer": 3,
+   "why": "Hoffmann argued that systems theory reduces real politics to an unrealistic parlour game, elevating form over substance.",
+   "page": 113
+  }
+ ]
+}

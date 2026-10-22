@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "Notice why trade negotiations remain deadlocked. The EU wants lower tariffs on cars, wine, and dairy, but India protects 3.5 million dairy producers. Meanwhile, India demands data secure status for IT and easier movement for professionals.",
+   "reason": "The notes specify that tariff reductions threaten the livelihoods of 3.5 million dairy producers, not three million."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why is the India-EU strategic partnership characterized as a 'loveless arranged marriage'?",
+   "options": [
+    "Both partners refuse to participate in annual bilateral summits or sign joint political statements.",
+    "Trade flows between them have completely collapsed due to disputes over global multilateral institutions.",
+    "Both sides face fundamentally divergent geopolitical priorities and disagree on key security issues.",
+    "Neither side recognizes multilateralism, counter-terrorism, or a multipolar world as shared diplomatic ideals."
+   ],
+   "answer": 2,
+   "why": "The partnership is considered loveless because India and the EU diverge sharply on core security challenges like Russia, Crimea, Pakistan, and China.",
+   "page": 81
+  },
+  {
+   "q": "Despite the EU being India's largest trading partner, what primary economic imbalance persists between them?",
+   "options": [
+    "India receives merely one percent of the European Union's outbound foreign direct investment.",
+    "Bilateral trade remains exclusively restricted to agricultural produce rather than industrial manufactured goods.",
+    "India accounts for more than half of the European Union's overall external trade volume.",
+    "European nations refuse to conduct any formal summit-level discussions regarding bilateral economic cooperation."
+   ],
+   "answer": 0,
+   "why": "Although the EU is India's largest trading partner, India receives only one percent of the EU's total outbound foreign direct investment.",
+   "page": 82
+  },
+  {
+   "q": "Why is obtaining 'data secure country' status from the EU a major priority for India?",
+   "options": [
+    "It would exempt Indian dairy and automobile industries from all domestic quality control inspections.",
+    "It would eliminate European intellectual property rights demands on Indian generic pharmaceutical companies.",
+    "It would allow Indian professionals to practice abroad without meeting any foreign certification requirements.",
+    "It would significantly boost the BPO sector and enhance the global competitiveness of Indian IT."
+   ],
+   "answer": 3,
+   "why": "Gaining data secure status from the EU would provide a significant boost to India's BPO sector and make Indian IT products more competitive.",
+   "page": 84
+  },
+  {
+   "q": "How do India's strong bilateral relationships with countries like Germany and Britain impact India-EU ties?",
+   "options": [
+    "They encourage the European Union to completely abandon all negotiations on multilateral trade liberalisation.",
+    "They foster mutual complacency, resulting in a distinct lack of ownership in broader EU relations.",
+    "They eliminate existing friction over agricultural export subsidies and intellectual property regulations at WTO.",
+    "They require India to unconditionally support European foreign policy positions regarding the Crimean crisis."
+   ],
+   "answer": 1,
+   "why": "Strong bilateral ties with individual European powers lead both sides into complacency, creating an absence of institutional ownership in broader EU relations.",
+   "page": 85
+  }
+ ]
+}

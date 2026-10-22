@@ -1,0 +1,83 @@
+{
+ "title": "Theories of the Post-Colonial State",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why do newly independent states struggle to enforce laws despite powerful governments?",
+   "narration": "Imagine gaining freedom after centuries of colonial rule, yet discovering your new government cannot deliver development. Why did post-colonial nations find it so difficult to govern effectively?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🚜",
+   "text": "A heavy imported tractor engine bolted onto an old wooden farming cart.",
+   "narration": "Think of this analogy: colonial rulers left behind an enormous, modern administrative engine, but the society underneath remained deeply traditional. The vehicle simply cannot run smoothly."
+  },
+  {
+   "type": "thinker",
+   "name": "Gunnar Myrdal",
+   "idea": "India is a soft state with limited capacity to enforce laws.",
+   "work": "Asian Drama",
+   "narration": "Gunnar Myrdal coined the term soft state for India in his study Asian Drama. A soft state passes grand laws but shows very poor implementation on the ground."
+  },
+  {
+   "type": "points",
+   "heading": "Why Are States Soft?",
+   "items": [
+    "Widespread corruption weakening policy implementation",
+    "Disobedience culture inherited from the freedom struggle",
+    "Cultural tendency where lawbreakers gain social respect",
+    "Galbraith called this condition a functional anarchy"
+   ],
+   "narration": "Here is the trick to remember Myrdal's point: corruption, Gandhi's tradition of civil disobedience, and social habits created weak law enforcement. Political scientist Galbraith even labeled India a functional anarchy."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Dependency School Pyramid",
+   "levels": [
+    "Metropolitan Core States",
+    "Clientelist Puppet Regimes",
+    "Underdeveloped Peripheral States"
+   ],
+   "narration": "Marxist dependency theorists like Frank and Wallerstein argued that global capitalism creates unequal exchange. Wealth flows upward to core nations, leaving peripheral satellites trapped in underdevelopment."
+  },
+  {
+   "type": "thinker",
+   "name": "Hamza Alavi",
+   "idea": "Post-colonial states are overdeveloped institutions inherited from colonial rule.",
+   "work": "",
+   "narration": "Pakistani scholar Hamza Alavi introduced the theory of the overdeveloped state. He explained that colonial rulers built an oversized state machinery that continues to dominate post-colonial societies."
+  },
+  {
+   "type": "compare",
+   "heading": "Western versus Post-Colonial States",
+   "columns": [
+    {
+     "title": "Western State",
+     "items": [
+      "Natural historical evolution with capitalism",
+      "Serves indigenous capitalist class",
+      "Perfect match of economy and politics"
+     ]
+    },
+    {
+     "title": "Post-Colonial State",
+     "items": [
+      "Imported colonial institutional apparatus",
+      "Mediates three competing propertied classes",
+      "Bonapartist military-bureaucratic oligarchy dominates"
+     ]
+    }
+   ],
+   "narration": "Notice the major difference: Western states grew naturally alongside their business class, while post-colonial states inherited foreign structures where military and civil officials mediate between competing classes."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Myrdal identified soft states with poor policy implementation",
+    "Dependency school exposed core-periphery exploitation and underdevelopment",
+    "Alavi explained overdeveloped states ruled by bureaucratic oligarchies"
+   ],
+   "narration": "Here is your quick recap. Remember how Myrdal diagnosed soft states, dependency theorists revealed global core-periphery inequality, and Alavi showed how colonial legacies created overdeveloped, executive-heavy states."
+  }
+ ]
+}

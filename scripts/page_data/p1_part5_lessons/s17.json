@@ -1,0 +1,79 @@
+{
+ "title": "Hannah Arendt: Action, Power, and Evil",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can ordinary people commit massive atrocities without feeling any personal hatred?",
+   "narration": "Imagine discovering that history's worst crimes were not committed by monsters, but by ordinary office workers just following orders. Philosopher Hannah Arendt witnessed this and asked: why do societies surrender their freedom?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏢",
+   "text": "A housing society functions only when residents gather and deliberate on common issues.",
+   "narration": "Here is an everyday analogy to make this click. Think of your apartment society: if all residents stop attending meetings, an aggressive committee takes over your life. Arendt argued that democracy dies when citizens retreat into their private homes."
+  },
+  {
+   "type": "flow",
+   "heading": "Origins of 20th Century Totalitarianism",
+   "steps": [
+    "Racial superiority myths spread in Europe",
+    "Capitalist expansion and imperialism grow",
+    "Citizens abandon active public life",
+    "Bureaucratic state centralizes terror and ideology"
+   ],
+   "narration": "In her book 'Origins of Totalitarianism', Arendt showed how racial myths and imperialism paved the way for Nazism and Stalinism. When people stopped debating in public, centralized bureaucracies used terror to control minds."
+  },
+  {
+   "type": "pyramid",
+   "heading": "Vita Activa Hierarchy",
+   "levels": [
+    "Action: Free Political Participation",
+    "Work: Creating Lasting Objects",
+    "Labour: Biological Survival Needs"
+   ],
+   "narration": "In 'The Human Condition', Arendt created the concept of 'Vita Activa', or active life. Basic labor keeps our bodies alive, work builds physical objects, but only political action with fellow citizens gives us true freedom."
+  },
+  {
+   "type": "compare",
+   "heading": "Power Versus Violence",
+   "columns": [
+    {
+     "title": "Power",
+     "items": [
+      "Belongs to people acting in concert",
+      "Created through collective civic cooperation",
+      "Disappears when people disperse"
+     ]
+    },
+    {
+     "title": "Violence",
+     "items": [
+      "Belongs to state institutions",
+      "Relies on coercion and weapons",
+      "Destroys collective public freedom"
+     ]
+    }
+   ],
+   "narration": "Here is the trick: while most thinkers equate power with force, Arendt completely disagreed. For her, violence belongs to the state and forces obedience, but genuine power only exists when citizens act together in concert."
+  },
+  {
+   "type": "points",
+   "heading": "The Banality of Evil",
+   "items": [
+    "Crimes committed by ordinary people following orders",
+    "Absence of critical thinking and moral judgement",
+    "Horrific atrocities normalized through bureaucratic routines"
+   ],
+   "narration": "Reporting on Nazi official Adolf Eichmann's trial, Arendt introduced the 'banality of evil'. She discovered he was not a hateful psychopath, but a thoughtless bureaucrat who simply stopped reflecting on the moral impact of his duties."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Totalitarianism thrives when citizens withdraw from civic life.",
+    "Political action in public brings genuine human freedom.",
+    "Evil turns banal when people obey without thinking."
+   ],
+   "narration": "To ace this for PSIR, remember these three core insights. True freedom requires active civic debate, collective action generates power, and thinking critically is our best defense against tyranny."
+  }
+ ]
+}

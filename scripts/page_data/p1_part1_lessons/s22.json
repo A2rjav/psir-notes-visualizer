@@ -1,0 +1,89 @@
+{
+ "title": "Centre-State Relations and Article 356 Explained",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can the Centre arbitrarily dismiss an elected state government?",
+   "narration": "Imagine waking up to find the central government dismissed your state leaders overnight. Can New Delhi really do that?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "The Centre is like a principal, while state governments are elected class monitors.",
+   "narration": "Think of an analogy: the Centre is like a school principal, and states are elected class monitors. The principal steps in during emergencies, not just because they dislike a monitor."
+  },
+  {
+   "type": "compare",
+   "heading": "Centre-State Balance",
+   "columns": [
+    {
+     "title": "Central Powers",
+     "items": [
+      "Legislate on State List entries",
+      "Governor reserves state bills",
+      "Issue binding executive directives"
+     ]
+    },
+    {
+     "title": "State Friction",
+     "items": [
+      "Loss of state legislative autonomy",
+      "Delayed state policy implementation",
+      "Unilateral deployment of armed forces"
+     ]
+    }
+   ],
+   "narration": "Notice how our constitutional system tilts toward the Centre. Parliament can pass laws on state list entries, while governors can reserve state bills for the President."
+  },
+  {
+   "type": "timeline",
+   "heading": "Article 356 Across the Decades",
+   "events": [
+    {
+     "when": "1977",
+     "what": "Janata Party dissolves nine state assemblies"
+    },
+    {
+     "when": "1980",
+     "what": "Indira Gandhi dissolves nine state assemblies"
+    },
+    {
+     "when": "1994",
+     "what": "Bommai ruling mandates floor tests"
+    },
+    {
+     "when": "2016",
+     "what": "Court restores dissolved state assemblies"
+    }
+   ],
+   "narration": "Here is the surprise: Dr. Ambedkar promised Article 356 would remain a dead letter. Instead, central governments invoked President's Rule over a hundred times against political rivals."
+  },
+  {
+   "type": "flow",
+   "heading": "Bommai Judicial Review Process",
+   "steps": [
+    "Ministry majority questioned in assembly",
+    "Mandatory floor test conducted",
+    "Court examines material evidence",
+    "Dissolved government restored if arbitrary"
+   ],
+   "narration": "Here is how the Supreme Court stopped arbitrary dismissals in the Bommai case. It made assembly floor tests mandatory and warned that federalism is part of our basic structure."
+  },
+  {
+   "type": "thinker",
+   "name": "Soli Sorabjee",
+   "idea": "Arbitrary gubernatorial discretion turned cooperative federalism into bargaining federalism.",
+   "work": "The Governor: Sage or Saboteur",
+   "narration": "Look at the Governor's office. Jurist Soli Sorabjee pointed out that partisan governors act like saboteurs rather than independent constitutional links between the Union and states."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Federalism is an unalterable basic structure component",
+    "Assembly floor tests are mandatory before dissolution",
+    "Governors must remain independent constitutional heads"
+   ],
+   "narration": "Here is your recap: federalism is protected basic structure, assembly floor tests are compulsory, and the Governor must act as an independent constitutional head."
+  }
+ ]
+}

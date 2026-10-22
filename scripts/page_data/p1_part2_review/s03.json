@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why is the 74th Constitutional Amendment considered a half-hearted reform in urban governance?",
+   "options": [
+    "It lacks an institution of direct democracy comparable to the rural Gram Sabha.",
+    "It transfers real municipal executive authority entirely from commissioners to mayors.",
+    "It strictly mandates five tiers of local government across all urban areas.",
+    "It abolishes the state government's power to create special purpose vehicles."
+   ],
+   "answer": 0,
+   "why": "The 74th Amendment remains structurally weaker than the 73rd Amendment because it created no forum for direct democracy equivalent to the Gram Sabha.",
+   "page": 21
+  },
+  {
+   "q": "According to Isher Judge Ahluwalia, why has the Smart Cities initiative faced slow progress?",
+   "options": [
+    "Municipal councils possess excessive constitutional autonomy that stalls centrally funded infrastructure.",
+    "Governments bypass and neglect municipalities by relying heavily on Special Purpose Vehicles.",
+    "The 74th Amendment prohibited private capital investment within metropolitan municipal corporations.",
+    "Elected city mayors have usurped the administrative responsibilities of appointed municipal commissioners."
+   ],
+   "answer": 1,
+   "why": "Isher Judge Ahluwalia highlights that smart city goals cannot succeed when governments neglect municipal bodies and rely instead on Special Purpose Vehicles.",
+   "page": 22
+  },
+  {
+   "q": "What did empirical studies by the Ministry of Panchayati Raj highlight regarding women's reservation?",
+   "options": [
+    "Women representatives permanently reinforced the patriarchal practice of proxy rule by husbands.",
+    "Elected women consistently prioritized industrial development over drinking water and rural sanitation.",
+    "Reservation produced psychological empowerment and encouraged families to send daughters to school.",
+    "Administrative performance deteriorated severely due to the absence of formal educational qualifications."
+   ],
+   "answer": 2,
+   "why": "Studies by the Ministry showed that reservation challenged proxy rule, creating psychological empowerment and inspiring families to educate their daughters.",
+   "page": 23
+  },
+  {
+   "q": "According to Rajni Kothari, which institutional factor led to the rise of grassroots micro-movements?",
+   "options": [
+    "The rapid legislative expansion of direct democracy through local ward committees.",
+    "The complete financial independence of municipal corporations from state-level budgetary grants.",
+    "The constitutional prohibition on trade unions engaging in collective industrial bargaining.",
+    "Political parties abandoned their movement character and turned into mere electoral machines."
+   ],
+   "answer": 3,
+   "why": "Rajni Kothari argued that grassroots micro-movements arose because mainstream political parties abandoned their movement orientation, reducing themselves to election machines.",
+   "page": 25
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does Kautilya's Mandal Siddhant classify an immediate geographic neighbour as a natural enemy (Ari)?",
+   "options": [
+    "Land is the primary source of wealth, making territorial competition between adjoining kingdoms inevitable.",
+    "Neighbouring rulers belong to different cultural traditions, preventing any peaceful diplomatic engagement or strategic treaties.",
+    "Immediate neighbours always maintain stronger military forces and superior fortifications than distant prospective allies.",
+    "Ideological opposition to royal expansion automatically turns adjacent borders into permanent ideological battlegrounds."
+   ],
+   "answer": 0,
+   "why": "In ancient times land was the primary source of wealth, so kings naturally had to protect and expand territory at their neighbour's expense.",
+   "page": 15
+  },
+  {
+   "q": "How does Kautilya conceptualize the relationship between the King (Swami) and the other six organs in Saptanga theory?",
+   "options": [
+    "The other organs operate completely independently because ministers hold supreme constitutional authority over royal decrees.",
+    "A wise king can transform weak organs into strength, yet cannot govern alone without their cooperative support.",
+    "The six external organs automatically dictate state strength regardless of whether the ruling monarch is wise or incompetent.",
+    "Allies and military forces supersede the ruler during crises because external security outweighs internal central leadership."
+   ],
+   "answer": 1,
+   "why": "Kautilya asserts that a strong king can turn weak elements into strength, but emphasizes that a single wheel cannot turn a chariot.",
+   "page": 16
+  },
+  {
+   "q": "Which comprehensive strategy does Kautilya advocate to effectively curb bureaucratic corruption in public administration?",
+   "options": [
+    "Relying purely on moral preachings and ethical self-restraint to permanently eradicate embezzlement from state offices.",
+    "Eliminating bureaucratic surveillance so officials feel trusted and voluntarily abstain from misappropriating state resources.",
+    "Enforcing regular job transfers, protecting informers, and punishing every actor involved across the illicit transaction chain.",
+    "Abolishing public salaries and replacing official appointments with hereditary ministers who require no state compensation."
+   ],
+   "answer": 2,
+   "why": "Kautilya recommends routine administrative transfers, rewarding whistleblowers, and penalizing everyone from the bribe giver to the receiver and keeper.",
+   "page": 22
+  },
+  {
+   "q": "What key philosophical distinction separates Kautilya's concept of kingship from Niccolò Machiavelli's Prince?",
+   "options": [
+    "Machiavelli insisted that rulers must submit to sacred religious laws, whereas Kautilya separated politics from ethics.",
+    "Kautilya's king remains strictly bound by Dharma, whereas Machiavelli's prince stands entirely above conventional morality.",
+    "Machiavelli viewed political power through a realist lens, whereas Kautilya rejected power politics for spiritual idealism.",
+    "Kautilya prohibited the use of espionage in diplomacy, whereas Machiavelli permitted extensive covert operations."
+   ],
+   "answer": 1,
+   "why": "Unlike Machiavelli's prince who transcends moral boundaries, Kautilya's king is never above Dharma and must serve his subjects' welfare.",
+   "page": 23
+  }
+ ]
+}

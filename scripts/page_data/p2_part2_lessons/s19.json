@@ -1,0 +1,88 @@
+{
+ "title": "Post-Cold War Order: US Hegemony and Russia",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Why did Cold War peace quickly turn into a new global rivalry?",
+   "narration": "Imagine celebrating the end of an old fight, only to find yourself facing new rivals right away. After the Soviet collapse, America claimed absolute leadership, but Russia soon pushed back."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A dominant school prefect expanding rules until a former topper pushes back.",
+   "narration": "Think of this like a school analogy. Imagine one dominant head boy running every club unchallenged, until the former topper feels cornered and rebels to reclaim his lost respect."
+  },
+  {
+   "type": "thinker",
+   "name": "Madeleine Albright",
+   "idea": "The United States is the indispensable nation guiding world affairs.",
+   "work": "",
+   "narration": "Former US Secretary of State Madeleine Albright called America the indispensable nation. Washington believed it had a unique destiny to lead global trade, secure oceans, and shape world politics."
+  },
+  {
+   "type": "compare",
+   "heading": "US Hegemony Versus Russian Power",
+   "columns": [
+    {
+     "title": "United States",
+     "items": [
+      "Controls world trade and oceans",
+      "Contains rising regional challengers",
+      "Launches Asia Pivot with India"
+     ]
+    },
+    {
+     "title": "Russia",
+     "items": [
+      "Equal natural resources and space technology",
+      "Holds ICBMs and permanent UNSC seat",
+      "Seeks Russia China India strategic axis"
+     ]
+    }
+   ],
+   "narration": "Here's the trick to understanding their rivalry. America sought to control oceans and contain challengers through an Asia Pivot, while Russia retained matching resources, nuclear missiles, and veto power."
+  },
+  {
+   "type": "timeline",
+   "heading": "Key Turning Points In Relations",
+   "events": [
+    {
+     "when": "1999",
+     "what": "NATO expands eastward despite Russian objections"
+    },
+    {
+     "when": "2002",
+     "what": "United States exits Anti-Ballistic Missile Treaty"
+    },
+    {
+     "when": "2008",
+     "what": "Russia intervenes in Georgia over South Ossetia"
+    },
+    {
+     "when": "2014",
+     "what": "Crimea is integrated into Russia"
+    }
+   ],
+   "narration": "Watch how trust broke down over time. Moscow viewed NATO's eastward expansion as a broken promise, leading from the 2008 Georgia intervention straight to the 2014 Crimea crisis."
+  },
+  {
+   "type": "points",
+   "heading": "Debate Over Cold War 2.0",
+   "items": [
+    "Dmitri Trenin terms current friction Cold War 2.0",
+    "Modern Russia lacks the Soviet ideological mission",
+    "Moscow offers no alternative universal world order"
+   ],
+   "narration": "Scholar Dmitri Trenin calls this friction Cold War 2.0. However, other scholars disagree because modern Russia lacks Soviet communist ideology and does not offer an alternative global order."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "America pursued global primacy as the indispensable nation.",
+    "NATO expansion eastward triggered sharp Russian pushback.",
+    "Nuclear parity and geopolitical clashes sustain a new rivalry."
+   ],
+   "narration": "Remember three key ideas: America pursued unchallenged primacy, NATO's eastward push sparked deep Russian resentment, and unresolved geopolitical clashes continue to drive their tense rivalry."
+  }
+ ]
+}

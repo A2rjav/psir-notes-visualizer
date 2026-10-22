@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does John Rawls reject the utilitarian conception of justice?",
+   "options": [
+    "Because it fails to maximize the total economic output and technological progress of modern industrial society.",
+    "Because it permits the sacrifice of individual rights and human dignity for the welfare of the majority.",
+    "Because it grants unconditional priority to personal liberty over the basic economic welfare of citizens.",
+    "Because it relies on an abstract social contract rather than historically observed political arrangements."
+   ],
+   "answer": 1,
+   "why": "Rawls rejects utilitarianism because it treats individuals as means rather than ends, violating human dignity to maximize aggregate happiness.",
+   "page": 171
+  },
+  {
+   "q": "What information do individuals behind the Veil of Ignorance possess in the original position?",
+   "options": [
+    "Complete knowledge of their personal wealth, natural intelligence, and future socioeconomic position in the community.",
+    "Detailed awareness of their society's cultural traditions, religious doctrines, and dominant philosophical beliefs.",
+    "General knowledge of economics and psychology, but no awareness of their own specific personal advantages.",
+    "Definite foresight regarding which specific professions and talents will be most highly rewarded by society."
+   ],
+   "answer": 2,
+   "why": "Individuals behind the veil of ignorance understand general laws of economics and psychology, but do not know their specific traits or social standing.",
+   "page": 166
+  },
+  {
+   "q": "According to Rawls, why do rational individuals in the original position adopt the maximin decision rule?",
+   "options": [
+    "To select the social arrangement where the worst possible outcome is safest and least disadvantageous.",
+    "To maximize the average utility and total economic wealth generated across the entire political community.",
+    "To ensure that all individuals receive identical shares of income, social status, and material wealth.",
+    "To prioritize economic redistribution over basic civil liberties and equal political rights for all."
+   ],
+   "answer": 0,
+   "why": "The maximin principle directs rational persons facing uncertainty to select the option that makes the worst possible outcome as favorable as possible.",
+   "page": 167
+  },
+  {
+   "q": "How does Rawls justify socioeconomic inequalities under the Difference Principle?",
+   "options": [
+    "Inequalities are justified if they reward individuals strictly according to their natural superior talents and desert.",
+    "Inequalities are justified whenever they increase aggregate national income, regardless of who receives the benefits.",
+    "Inequalities are justified only when private ownership of productive resources is eliminated across all sectors.",
+    "Inequalities are justified only if they operate to the greatest benefit of the least advantaged."
+   ],
+   "answer": 3,
+   "why": "Because natural distribution of talents is morally arbitrary, Rawls allows socioeconomic inequalities only if they maximize advantages for the least well-off.",
+   "page": 175
+  }
+ ]
+}

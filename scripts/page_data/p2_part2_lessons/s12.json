@@ -1,0 +1,84 @@
+{
+ "title": "Complex Interdependence and the Liberal World Order",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can eating burgers stop two nuclear powers from going to war?",
+   "narration": "Imagine two rival countries choosing profitable trade over destructive conflict. Journalist Thomas Friedman observed that countries with McDonald's chains rarely fight, because deep economic ties make war far too costly."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "Rival classmates sharing a final grade must work together to succeed.",
+   "narration": "As an analogy, think of two quarrelling classmates assigned a joint school project. Even if they dislike each other, their grades are interlinked, so they are forced to cooperate."
+  },
+  {
+   "type": "thinker",
+   "name": "Joseph Nye & Robert Keohane",
+   "idea": "Economic security dominates military power, forcing interdependent nations to cooperate.",
+   "work": "",
+   "narration": "Thinkers Joseph Nye and Robert Keohane explained this as complex interdependence. In the modern world, economic security dominates military force, and shared challenges like climate change compel rivals to work together."
+  },
+  {
+   "type": "compare",
+   "heading": "Trading States vs Military States",
+   "columns": [
+    {
+     "title": "Trading States",
+     "items": [
+      "Focus on trade and commerce",
+      "Gain wealth peacefully",
+      "Examples: Germany and Japan"
+     ]
+    },
+    {
+     "title": "Military States",
+     "items": [
+      "Rely heavily on armed force",
+      "Risk economic exhaustion",
+      "Example: Former Soviet Union"
+     ]
+    }
+   ],
+   "narration": "Scholar Richard Rosecrance showed that trading states like postwar Germany and Japan gained immense influence through commerce, while military superpowers overstressed their economies and suffered decline."
+  },
+  {
+   "type": "timeline",
+   "heading": "Three Phases of Liberal Order",
+   "events": [
+    {
+     "when": "Post-WWI",
+     "what": "League of Nations and collective security"
+    },
+    {
+     "when": "Post-WWII",
+     "what": "United Nations, IMF, and World Bank"
+    },
+    {
+     "when": "Post-Cold War",
+     "what": "Global spread with WTO and ICC"
+    }
+   ],
+   "narration": "John Ikenberry explained how the liberal world order evolved through three phases: starting with the League of Nations, expanding after World War Two through the United Nations, and peaking globally with the World Trade Organization."
+  },
+  {
+   "type": "points",
+   "heading": "Cracks in the Liberal Order",
+   "items": [
+    "Revisionist states challenge borders in Europe and Asia",
+    "Western retreat with protectionism and border restrictions",
+    "Munich Security Conference warns of geopolitical recession"
+   ],
+   "narration": "Yet, since 2001, this order faces severe strain. Revisionist states challenge regional borders, Western nations turn toward protectionism, and gatherings like the Munich Security Conference warn of geopolitical recession."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Complex interdependence links economies and forces cooperation",
+    "The liberal order built rules for global trade",
+    "Reforming multilateral institutions is vital for India"
+   ],
+   "narration": "Here's the trick to remember: complex interdependence makes cooperation essential, the liberal order protects open trade, and preserving this multilateral system remains strongly beneficial for India."
+  }
+ ]
+}

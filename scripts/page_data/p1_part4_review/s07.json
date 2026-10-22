@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Lenin, why can trade unions not lead a socialist revolution on their own?",
+   "options": [
+    "They only develop economic trade union consciousness rather than genuine revolutionary consciousness.",
+    "They are completely banned by capitalist states and cannot organize workers effectively.",
+    "They rely exclusively on rural peasant mobilization rather than industrial factory workers.",
+    "They operate as secret hierarchical societies detached from working class economic demands."
+   ],
+   "answer": 0,
+   "why": "Lenin argued that trade unions remain within capitalism and generate only reformist consciousness, requiring a vanguard party for revolution.",
+   "page": 46
+  },
+  {
+   "q": "How did Mao Zedong fundamentally modify Karl Marx and Lenin regarding the role of the peasantry?",
+   "options": [
+    "He excluded industrial workers entirely, arguing that only landless peasants possess true socialist morality.",
+    "He placed rural peasants at the center of the revolution rather than in a subordinate role.",
+    "He treated peasants as reactionary landowners who must be suppressed by the urban proletariat.",
+    "He restricted peasant participation strictly to parliamentary elections rather than armed guerrilla warfare."
+   ],
+   "answer": 1,
+   "why": "While Marx dismissed peasants and Lenin kept them subordinate to workers, Mao made the peasantry the primary revolutionary force.",
+   "page": 48
+  },
+  {
+   "q": "According to the Frankfurt Critical School, what was Karl Marx's ultimate, authentic philosophical objective?",
+   "options": [
+    "Establishing rigid state control over the economy through central bureaucratic planning.",
+    "Accelerating scientific and industrial rationality to turn workers into efficient producers.",
+    "Proving that economic structures strictly determine every political and cultural development.",
+    "Achieving genuine human emancipation and freedom rather than mere violent class struggle."
+   ],
+   "answer": 3,
+   "why": "Critical theorists argued that Marx's authentic goal was human emancipation and freedom, rejecting Soviet Marxism's fixation on class war.",
+   "page": 50
+  },
+  {
+   "q": "How does Louis Althusser's Structural Marxism depart from Karl Marx's traditional economic determinism?",
+   "options": [
+    "He rejects structures completely, arguing individual human choices drive all historical change.",
+    "He claims economic factors play absolutely no role in any historical revolutionary change.",
+    "He posits multiple structures, asserting that revolutions can originate from the political structure.",
+    "He argues that cultural superstructures always operate completely independently of material conditions."
+   ],
+   "answer": 2,
+   "why": "Althusser introduced multiple structures and argued that revolutions, like Russia's, can begin from political rather than economic structures.",
+   "page": 52
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to the Supreme Court in the S.R. Bommai case (1994), what is the only valid method to determine whether a state government has lost its legislative majority?",
+   "options": [
+    "A mandatory floor test conducted inside the state legislative assembly.",
+    "A subjective assessment report submitted confidentially by the state Governor.",
+    "A formal physical verification of legislators conducted before the President.",
+    "A special investigation committee constituted by the Inter-State Council."
+   ],
+   "answer": 0,
+   "why": "The Supreme Court ruled that a floor test in the legislative assembly is the only constitutional way to test a ministry's majority. Subjective gubernatorial assessments cannot justify invoking Article 356.",
+   "page": 201
+  },
+  {
+   "q": "Under Article 252, what makes the surrender of state legislative power over a State List entry particularly consequential for the resolving states?",
+   "options": [
+    "The central legislation remains valid only for a temporary duration of one year.",
+    "The consenting states surrender their executive authority to implement the central statute.",
+    "The statute automatically applies to all non-consenting states without their formal approval.",
+    "The resulting central law can subsequently be amended or repealed solely by Parliament."
+   ],
+   "answer": 3,
+   "why": "When two or more states pass resolutions under Article 252, legislative authority transfers permanently to Parliament for those states. The states cannot subsequently amend or repeal the resulting parliamentary statute.",
+   "page": 198
+  },
+  {
+   "q": "In Hargovind Pant v. Raghukul Tilak (1979), how did the Supreme Court characterize the constitutional position of the Governor?",
+   "options": [
+    "The Governor functions as an administrative agent subordinate to the Union executive.",
+    "The Governor occupies an independent constitutional office and is not a Union employee.",
+    "The Governor serves as an ombudsman authorized to oversee state assembly affairs.",
+    "The Governor acts as a central representative directly accountable to national Parliament."
+   ],
+   "answer": 1,
+   "why": "The Supreme Court affirmed that the Governor holds an independent constitutional office of dignity. Even though appointed by the President, the Governor is neither an employee nor a subordinate agent of the Union government.",
+   "page": 207
+  },
+  {
+   "q": "What limitation did the Supreme Court place on the President's pleasure doctrine regarding the removal of Governors under Article 156?",
+   "options": [
+    "Governors can only be removed through a formal parliamentary impeachment procedure.",
+    "Governors must always receive a mandatory hearing before any removal decision.",
+    "A change of central government or ideological differences cannot justify arbitrary removal.",
+    "Governors enjoy a fixed five-year term that cannot be cut short."
+   ],
+   "answer": 2,
+   "why": "The Supreme Court ruled that while the President can remove a Governor without a hearing, the pleasure doctrine cannot be exercised arbitrarily. Neither a change in the central government nor differing political ideologies constitutes a valid ground for dismissal.",
+   "page": 206
+  }
+ ]
+}

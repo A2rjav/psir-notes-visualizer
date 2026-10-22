@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did diplomat David Malone describe early Cold War relations between India and Japan as \"tepid\"?",
+   "options": [
+    "Both nations had severe unresolved border disputes lingering from World War II.",
+    "Both nations belonged to opposing Cold War camps, with Japan allied to America and India backing Moscow.",
+    "India rejected Japan's official development assistance due to strict economic sovereignty conditions.",
+    "Japan imposed permanent economic sanctions following India's refusal to sign the 1950 peace treaty."
+   ],
+   "answer": 1,
+   "why": "Although neither country held animosity toward the other, Japan was allied with the US while India leaned toward the USSR.",
+   "page": 76
+  },
+  {
+   "q": "Which combination of structural factors led to the meaningful transformation of India-Japan relations after 1991?",
+   "options": [
+    "Indian economic liberalisation, normalisation of India-US relations, and shared concerns over the rise of China.",
+    "Signing the Non-Proliferation Treaty, resolving border disputes with Pakistan, and expanding bilateral agricultural trade.",
+    "Revocation of Article 9 in Japan, joint military intervention in Southeast Asia, and Indian entry into the G7.",
+    "Complete withdrawal of American forces from Asia, Chinese economic stagnation, and Indian adoption of the Yoshida Doctrine."
+   ],
+   "answer": 0,
+   "why": "Post-1991 relations expanded rapidly due to Indian economic reforms, reconciled India-US ties, and mutual security anxieties regarding China.",
+   "page": 78
+  },
+  {
+   "q": "Why did Prime Minister Shinzo Abe introduce the doctrine of \"Dynamic Defence\" in Japan?",
+   "options": [
+    "To reinforce the traditional Yoshida Doctrine and permanently restrict Japanese forces to home island defence.",
+    "To fully outsource Japan's regional maritime security to the Indian Navy under the Quad framework.",
+    "To comply with United Nations mandates requiring Japan to demilitarise its naval forces in the Indo-Pacific.",
+    "To bypass upper house parliamentary constraints and allow self-defence forces to operate beyond territorial waters."
+   ],
+   "answer": 3,
+   "why": "Lacking an upper house majority to amend Article 9, Abe used Dynamic Defence to allow operations beyond territorial waters.",
+   "page": 80
+  },
+  {
+   "q": "Why is Japan regarded as India's \"natural partner\" under Kautilya's Mandala Siddhant?",
+   "options": [
+    "Both nations share a direct land border and maintain identical domestic legal and political systems.",
+    "Both nations possess identical bilateral trade surpluses and complementary agricultural export markets across East Asia.",
+    "They are geographically separated nations sharing common strategic concerns regarding a shared neighbouring power.",
+    "They formed a formal military mutual defence alliance committing each to defend the other against invasion."
+   ],
+   "answer": 2,
+   "why": "According to Kautilya's Mandala theory, states situated on opposite sides of a common rival naturally become strategic allies.",
+   "page": 79
+  }
+ ]
+}

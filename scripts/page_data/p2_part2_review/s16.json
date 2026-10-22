@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "Collective security means all for one and one for all. Yet history shows its limits. The League of Nations failed in Manchuria and Ethiopia, and the Cold War paralyzed the UN until the 1991 Gulf War.",
+   "reason": "The Gulf War operation repelling Iraqi aggression occurred in 1991 (following Iraq's August 1990 invasion), not 1989."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to liberal thinkers, how does collective security fundamentally differ from the traditional balance of power?",
+   "options": [
+    "Collective security is an institutionalised mechanism requiring an international organisation, whereas balance of power is ad hoc.",
+    "Collective security rejects military force completely, whereas balance of power relies exclusively on armed deterrence and war.",
+    "Collective security operates only within regional settings, whereas balance of power functions exclusively at the global level.",
+    "Collective security assumes states act out of moral altruism, whereas balance of power assumes universal international anarchy."
+   ],
+   "answer": 0,
+   "why": "Collective security institutionalises power management through an international organisation for assured peace, whereas balance of power operates ad hoc.",
+   "page": 131
+  },
+  {
+   "q": "In nuclear deterrence doctrine, how does Kennedy's 'flexible response' differ from Eisenhower's 'massive retaliation'?",
+   "options": [
+    "Flexible response relies entirely on disarmament treaties, whereas massive retaliation depends on forming multilateral military alliances.",
+    "Flexible response prioritises short-range tactical weapons, whereas massive retaliation threatens catastrophic damage using strategic weapons.",
+    "Flexible response relies on massive strategic strikes, whereas massive retaliation focuses purely on conventional territorial defence.",
+    "Flexible response completely abandons nuclear deterrence, whereas massive retaliation uses preventive strikes against non-nuclear states."
+   ],
+   "answer": 1,
+   "why": "Massive retaliation threatens unbearable damage using strategic weapons, whereas flexible response relies on short-range tactical weapons.",
+   "page": 129
+  },
+  {
+   "q": "Why did traditional balance of power mechanisms cease to operate in their ideal form after World War II?",
+   "options": [
+    "Global disarmament treaties legally prohibited sovereign nations from building internal weapons or forming external military alliances.",
+    "International organisations completely eliminated sovereign borders, removing the need for conventional armaments and national defence.",
+    "The emergence of bipolarity and nuclear weapons replaced multipolar balancing with a nuclear balance of terror.",
+    "Non-state terrorist networks permanently replaced sovereign nation-states as the primary decision-makers in global power politics."
+   ],
+   "answer": 2,
+   "why": "Bipolarity and nuclear weapons undermined the ideal multipolar conditions, establishing a balance of terror based on mutually assured destruction.",
+   "page": 126
+  },
+  {
+   "q": "Why does India oppose collective defence pacts like NATO despite supporting the idea of collective security?",
+   "options": [
+    "India believes collective defence arrangements rely on peacekeeping forces rather than punitive military action against aggressors.",
+    "India claims collective defence enforces mandatory nuclear disarmament, which severely weakens national sovereignty in regional disputes.",
+    "India argues that collective defence violates international law by excluding major developing nations from bilateral trade.",
+    "India contends that collective defence undermines universal security by dividing nations into exclusive military alliance blocs."
+   ],
+   "answer": 3,
+   "why": "India opposes collective defence because exclusive alliances divide nations and undermine universal collective security under the UN system.",
+   "page": 138
+  }
+ ]
+}

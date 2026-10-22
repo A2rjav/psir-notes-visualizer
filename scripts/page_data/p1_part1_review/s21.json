@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 5,
+   "field": "narration",
+   "new": "Our dispute history marks crucial turning points. Parliament created water tribunals in 1956 and set deadlines in 2002, Punjab terminated agreements in 2004, and the Supreme Court confirmed judicial review in 2016.",
+   "reason": "The original narration incorrectly attributes the 2004 action (Punjab's assembly unilaterally terminating water agreements) and the 2016 milestone (the Supreme Court affirming supervisory judicial review) to Parliament."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How do legal scholar H.M. Seervai and expert Ramaswami Iyer differ on resolving inter-state water disputes?",
+   "options": [
+    "Seervai favored negotiated political settlements, while Iyer argued that binding judicial adjudication is necessary.",
+    "Seervai advocated formal legal adjudication, while Iyer argued that negotiated political settlements are more effective.",
+    "Seervai supported mediation through Zonal Councils, while Iyer insisted on original Supreme Court jurisdiction.",
+    "Seervai demanded permanent executive tribunals, while Iyer proposed transferring all river powers to states."
+   ],
+   "answer": 1,
+   "why": "H.M. Seervai considered the preference for political settlement a misconception, whereas Ramaswami Iyer argued that adjudication is unnecessary and favored negotiated political solutions.",
+   "page": 192
+  },
+  {
+   "q": "On what constitutional ground did the Supreme Court affirm its power to review water tribunal awards in 2016?",
+   "options": [
+    "It exercised original federal jurisdiction under Article 131 to resolve disputes between constituent states.",
+    "It invoked advisory jurisdiction under Article 143 following a presidential reference on water sharing.",
+    "It exercised its supervisory jurisdiction under Article 136 to hear appeals against tribunal judgments.",
+    "It enforced Parliament's River Boards Act to take direct administrative control of disputed river basins."
+   ],
+   "answer": 2,
+   "why": "The Supreme Court clarified that Article 262 bars only original suits, leaving intact its supervisory jurisdiction under Article 136 to hear appeals against tribunal awards.",
+   "page": 195
+  },
+  {
+   "q": "Why do the notes criticize the Union government's approach to inter-state rivers under Entry 56?",
+   "options": [
+    "It treated water largely as a state subject instead of regulating rivers from a national strategic perspective.",
+    "It excessively centralized river governance, preventing states from creating local irrigation systems under Entry 17.",
+    "It transferred inter-state river regulation entirely to the Concurrent List without consulting state governments.",
+    "It routinely used Article 262 to dissolve state irrigation departments during inter-state water conflicts."
+   ],
+   "answer": 0,
+   "why": "The Union underutilized Entry 56 by treating water as a state matter and balancing political interests instead of adopting a strategic national perspective.",
+   "page": 191
+  },
+  {
+   "q": "According to the notes, what key loophole remained unaddressed by the 2002 tribunal reform amendment?",
+   "options": [
+    "It failed to establish statutory qualifications for the three judicial members appointed by the Chief Justice.",
+    "It removed the requirement for the Central Government to establish a national hydrological data bank.",
+    "It did not provide any statutory time limit for tribunals to deliver their initial final awards.",
+    "It set no time limit for tribunals to issue clarifications once parties sought them on awards."
+   ],
+   "answer": 3,
+   "why": "While the 2002 amendment fixed a three-to-five year deadline for tribunal awards, it omitted any statutory deadline for issuing post-award clarifications.",
+   "page": 194
+  }
+ ]
+}

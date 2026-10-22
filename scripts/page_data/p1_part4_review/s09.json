@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why did radical feminists reject Friedrich Engels's view on the liberation of women?",
+   "options": [
+    "They believed capitalism actively promotes gender equality through open and competitive labor markets.",
+    "They argued that patriarchy, not economic class, forms the fundamental power structure of society.",
+    "They maintained that women should focus solely on achieving equal constitutional and parliamentary voting rights.",
+    "They argued that socialist revolutions would immediately eliminate patriarchal social relations without legal reform."
+   ],
+   "answer": 1,
+   "why": "Radical feminists argued that patriarchy is the primary social structure, so overthrowing capitalism alone cannot end female subordination.",
+   "page": 65
+  },
+  {
+   "q": "How does Simone de Beauvoir apply Jean-Paul Sartre's existentialism to the concept of gender?",
+   "options": [
+    "She asserts that biological differences naturally determine women's social essence from the moment of birth.",
+    "She claims that women can discover their authentic subjectivity only by embracing traditional family motherhood.",
+    "She contends that gender is a socially imposed identity rather than an innate biological condition.",
+    "She argues that feminine essence is fixed by nature and cannot be altered by human society."
+   ],
+   "answer": 2,
+   "why": "Applying Sartre's view that existence precedes essence, Beauvoir showed that society constructs gender roles upon biological sex.",
+   "page": 62
+  },
+  {
+   "q": "Why do feminist theorists challenge the traditional division between the personal and political spheres?",
+   "options": [
+    "They argue that treating the family as private shields domestic exploitation and violence from state intervention.",
+    "They believe the state should completely abolish family structures and replace them with communal child-rearing institutions.",
+    "They claim that political power operates exclusively in formal legislatures rather than within interpersonal domestic relationships.",
+    "They seek to eliminate state regulatory authority entirely so that families can govern themselves through natural altruism."
+   ],
+   "answer": 0,
+   "why": "Feminists argue that treating the family as a private haven conceals domestic power imbalances and prevents legal protection.",
+   "page": 68
+  },
+  {
+   "q": "Why does Iris Marion Young advocate for differentiated citizenship rather than universal citizenship?",
+   "options": [
+    "Universal citizenship grants excessive welfare benefits to women, eroding their individual economic and social autonomy.",
+    "Formal equality before the law has already eliminated all structural discrimination between men and women in society.",
+    "Women should be excluded from political citizenship to preserve the harmonious, altruistic nature of the family.",
+    "Equal formal treatment ignores existing structural disadvantages, requiring positive discrimination to achieve genuine substantive equality."
+   ],
+   "answer": 3,
+   "why": "Young argued that identical treatment ignores systemic disadvantages, so differentiated citizenship is necessary to equalize real differences.",
+   "page": 69
+  }
+ ]
+}

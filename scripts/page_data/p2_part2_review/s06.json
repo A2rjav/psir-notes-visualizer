@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "According to Maurice Duverger, what party system typically emerges from a simple majoritarian electoral system?",
+   "options": [
+    "A two-party system, whereas proportional representation tends to produce a multi-party system.",
+    "A multi-party system, whereas proportional representation tends to produce a two-party system.",
+    "A one-party dominant system, because majoritarian rules suppress all competitive opposition parties.",
+    "A cadre-based party system, because majoritarian elections require highly centralized secret cells."
+   ],
+   "answer": 0,
+   "why": "Duverger's Law states that simple majority single-ballot systems favor a two-party system, while proportional representation encourages multi-party systems.",
+   "page": 37
+  },
+  {
+   "q": "According to Gabriel Almond's classification, which pressure groups are most prominent in developing countries?",
+   "options": [
+    "Associational groups like formal trade unions and modern professional corporate lobbies.",
+    "Institutional groups like the military and bureaucracy, along with spontaneous anomic crowd protests.",
+    "Non-associational groups exclusively focused on global post-material and environmental developmental goals.",
+    "Pragmatic turnover groups operating primarily within institutionalized liberal two-party competitive systems."
+   ],
+   "answer": 1,
+   "why": "Almond highlighted that developing states feature powerful institutional groups like civil servants and the army, alongside frequent anomic street protests.",
+   "page": 41
+  },
+  {
+   "q": "How does Jean Blondel's dynamic model distinguish modern pressure groups from traditional ones?",
+   "options": [
+    "Modern groups are community-based seeking protectionist benefits, while traditional groups have associational membership and developmental aims.",
+    "Modern groups rely on armed militia structures, while traditional groups operate exclusively through parliamentary branches and party cells.",
+    "Modern groups have associational membership pursuing developmental goals, while traditional groups are community-based and protectionist.",
+    "Modern groups function as secret vanguard societies, while traditional groups focus on pragmatic electoral turnover between parties."
+   ],
+   "answer": 2,
+   "why": "Blondel explains that modernization shifts pressure groups from traditional community-based protectionist bodies to modern associational groups pursuing developmental goals.",
+   "page": 42
+  },
+  {
+   "q": "How do social movements in developing countries like India differ from those in advanced Western nations?",
+   "options": [
+    "Developing nations feature only post-materialist movements led and supported exclusively by industrial working-class laborers.",
+    "Developing nations rely solely on old movements using direct coercive strikes without addressing environmental or rights issues.",
+    "Developing nations lack social movements entirely because citizen participation is restricted strictly to formal institutional parties.",
+    "Developing nations witness a coexistence of old and new movements, combining material survival needs with post-material goals."
+   ],
+   "answer": 3,
+   "why": "In developing countries, old materialist survival struggles coexist with new post-materialist issues, often combining a tribal base with middle-class leadership.",
+   "page": 44
+  }
+ ]
+}

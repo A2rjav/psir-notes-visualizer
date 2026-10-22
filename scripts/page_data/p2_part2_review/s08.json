@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why does the condition of global anarchy inevitably lead sovereign nation-states into a security dilemma?",
+   "options": [
+    "Without a central world government, states rely on self-help through power, which threatens others into arming.",
+    "Global politics is completely lawless and chaotic, forcing states to abandon their sovereign territorial national interests.",
+    "Collective security institutions force sovereign states to disarm, leaving them vulnerable to unprovoked aggression by rivals.",
+    "Multiple non-state actors control international gateways, preventing sovereign governments from defending national borders effectively."
+   ],
+   "answer": 0,
+   "why": "Under anarchy (absence of a world government), states must rely on self-help; one state's defensive arming inevitably makes others feel insecure.",
+   "page": 57
+  },
+  {
+   "q": "How did Woodrow Wilson propose to overcome the instability of the traditional balance of power system?",
+   "options": [
+    "By encouraging great powers to adopt unilateral isolationism to avoid entanglement in foreign territorial disputes.",
+    "By replacing balance of power with collective security and creating the League of Nations for peace.",
+    "By strengthening national military capabilities to achieve preponderance of power over all competing rival states.",
+    "By dissolving sovereign nation-states and replacing them with transnational economic and civil society networks."
+   ],
+   "answer": 1,
+   "why": "Wilson's 14 Points proposed replacing the balance of power with collective security and establishing the League of Nations to guarantee lasting peace.",
+   "page": 58
+  },
+  {
+   "q": "Why is realism regarded as the hegemonic school of International Relations, with other schools as footnotes?",
+   "options": [
+    "Because international organizations have successfully eradicated interstate conflict and established permanent global collective security.",
+    "Because transnational networks and economic interdependence have completely replaced military power in global decision-making.",
+    "Because international politics remains fundamentally power politics among nations driven by permanent national interests.",
+    "Because sovereign states have willingly surrendered their territorial integrity to an overarching centralised world government."
+   ],
+   "answer": 2,
+   "why": "Realism remains hegemonic because global politics continues to be dominated by power politics and national interest among sovereign states.",
+   "page": 60
+  },
+  {
+   "q": "How does the cobweb model differ from the traditional billiard ball model of international politics?",
+   "options": [
+    "The cobweb model treats states as hard, colliding units, whereas the billiard ball model highlights multiple gateways.",
+    "The cobweb model confines diplomacy strictly to European powers, whereas the billiard ball model incorporates global colonies.",
+    "The cobweb model relies exclusively on military alliances, whereas the billiard ball model promotes democratic disarmament.",
+    "The cobweb model reflects multiplex governance with diverse non-state actors, whereas the billiard ball model is state-centric."
+   ],
+   "answer": 3,
+   "why": "The billiard ball model sees states as sole gateways in geopolitics, while the cobweb model captures multiplex interactions across diverse non-state actors.",
+   "page": 61
+  }
+ ]
+}

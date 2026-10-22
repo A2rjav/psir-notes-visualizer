@@ -1,0 +1,73 @@
+{
+ "title": "Sovereignty and Pluralism: Who Rules Society?",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Does your government truly hold all the supreme power over your life?",
+   "narration": "Think about who really controls your world. Political thinkers call ultimate decision-making power sovereignty, and they fiercely debate whether it belongs to just one authority or to many."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏫",
+   "text": "A school principal manages rules, but sports captains and club heads run daily activities.",
+   "narration": "As a helpful analogy, imagine your school. The principal has big rules, but sports captains and clubs guide your passions. Power is shared, not kept in one office."
+  },
+  {
+   "type": "compare",
+   "heading": "Monistic vs Pluralist Sovereignty",
+   "columns": [
+    {
+     "title": "Monistic Theory",
+     "items": [
+      "One central supreme authority",
+      "Power is indivisible and permanent",
+      "Hobbes and Austin"
+     ]
+    },
+    {
+     "title": "Pluralist Theory",
+     "items": [
+      "Multiple centers of social authority",
+      "Power distributed across associations",
+      "Laski and MacIver"
+     ]
+    }
+   ],
+   "narration": "Here is the big clash. Monistic theory says one state holds all undivided power, while pluralism insists that authority is divided among diverse groups because human life has many needs."
+  },
+  {
+   "type": "thinker",
+   "name": "Harold Laski",
+   "idea": "Authority must be federal because society itself is made of diverse associations.",
+   "work": "",
+   "narration": "Thinker Harold Laski rejected absolute state power as an outdated legal fiction. He called the state a keystone of social architecture, meant to balance society rather than crush smaller groups."
+  },
+  {
+   "type": "quote",
+   "quote": "If society is federal authority should also be federal.",
+   "by": "Harold Laski",
+   "narration": "Remember this key line for your exams! Laski believed that because you belong to families, unions, and clubs, no single government can demand your total, exclusive loyalty."
+  },
+  {
+   "type": "flow",
+   "heading": "Responsibility to Protect Framework",
+   "steps": [
+    "State protects its own people",
+    "State fails or abuses citizens",
+    "International community assumes protection responsibility",
+    "UN Security Council authorizes intervention",
+    "Brazil requires Responsibility While Protection"
+   ],
+   "narration": "Today, globalization redefines sovereignty from raw power to the responsibility to protect people. If a nation harms its citizens, the United Nations can step in as an accountable last resort."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Monism concentrates sovereign authority in the state",
+    "Pluralism distributes power among multiple social associations",
+    "Modern sovereignty means protecting citizens responsibly"
+   ],
+   "narration": "To wrap up, remember three big ideas: states share authority with associations, power is federal in practice, and modern sovereignty centers on protecting human lives."
+  }
+ ]
+}

@@ -31,7 +31,7 @@ export default function Navbar({
   const answerCount = currentDataset?.answers?.length || 0;
 
   const navTabs = [
-    { id: 'notes', label: 'Visual Notes', icon: BookOpen, badge: 'Zero-Loss' },
+    { id: 'notes', label: 'Visual Notes', icon: BookOpen, badge: 'Lessons' },
     { id: 'mindmap', label: 'Concept Map', icon: Network, badge: 'Interactive' },
     { id: 'flashcards', label: 'Flashcards', icon: Layers, badge: `${flashcardCount} Cards` },
     { id: 'answers', label: 'Answer Blueprints', icon: FileText, badge: `${answerCount} Answers` },
@@ -62,7 +62,7 @@ export default function Navbar({
 
   return (
     <header className="sticky top-0 z-40 bg-slate-900/95 backdrop-blur-md border-b border-slate-800 text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 gap-2 sm:gap-4">
           
           {/* Left: Syllabus Menu & Multi-Volume Selector */}
@@ -77,11 +77,11 @@ export default function Navbar({
             </button>
 
             {/* Multi-Volume Quick Selector Dropdown */}
-            <div className="relative flex items-center shrink-0">
+            <div className="relative flex items-center min-w-0">
               <select
                 value={activeVolumeId}
                 onChange={(e) => setActiveVolumeId(e.target.value)}
-                className="bg-slate-950 border border-slate-800 hover:border-amber-500/50 rounded-xl px-2.5 py-1.5 text-xs font-bold text-amber-400 focus:outline-none focus:ring-1 focus:ring-amber-500 cursor-pointer shadow-inner max-w-[150px] sm:max-w-[220px] md:max-w-[280px] truncate"
+                className="w-full min-w-0 bg-slate-950 border border-slate-800 hover:border-amber-500/50 rounded-xl px-2.5 py-1.5 text-xs font-bold text-amber-400 focus:outline-none focus:ring-1 focus:ring-amber-500 cursor-pointer shadow-inner max-w-[150px] sm:max-w-[220px] md:max-w-[280px] truncate"
                 title="Switch between all 6 digitized volumes"
               >
                 {volumesByStep.map((vol) => (
@@ -120,6 +120,8 @@ export default function Navbar({
                   <button
                     key={tab.id}
                     onClick={() => setViewMode(tab.id)}
+                    title={tab.label}
+                    aria-label={tab.label}
                     className={`px-2.5 py-1.5 rounded-lg text-xs font-medium transition flex items-center gap-1.5 cursor-pointer ${
                       isActive 
                         ? 'bg-amber-500 text-slate-950 font-bold shadow-md shadow-amber-500/10' 

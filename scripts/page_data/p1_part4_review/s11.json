@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "scene": 4,
+   "field": "narration",
+   "new": "In modern welfare states, Ralph Miliband insisted that the state is still an instrument of the rich because elite backgrounds dominate government. But Nicos Poulantzas argued that universal voting forces the state to have structural relative autonomy.",
+   "reason": "The Greek Marxist sociologist's first name is Nicos Poulantzas, not Nicole Poulantzas."
+  }
+ ],
+ "quiz": [
+  {
+   "q": "According to Robert MacIver, why is the state an institution of evolution rather than contract?",
+   "options": [
+    "It developed naturally from pre-existing social associations such as family, kinship groups, and the church.",
+    "It was deliberately established through an agreement of free will to serve human utility.",
+    "It emerged through violent conquest and the physical subjugation of the weak by the strong.",
+    "It was created by divine authority to represent universal altruism above all private associations."
+   ],
+   "answer": 0,
+   "why": "MacIver argues that the state evolved out of pre-existing associations like family and church, rather than a contract.",
+   "page": 82
+  },
+  {
+   "q": "According to the Marxist concept of relative autonomy, why is the state only 'relatively neutral'?",
+   "options": [
+    "It balances conflicting interests fairly to maintain permanent social equilibrium among all classes.",
+    "It acts as a direct executive committee with zero freedom of action from capitalists.",
+    "It appears independent during class balance but ultimately protects propertied interests in crises.",
+    "It dissolves economic class antagonisms by embodying Hegelian universal altruism for all citizens."
+   ],
+   "answer": 2,
+   "why": "The state may appear neutral when classes balance, but during crises it inevitably intervenes to protect the rich.",
+   "page": 86
+  },
+  {
+   "q": "Why did Ralph Miliband reject the liberal claim that the 'managerial revolution' transformed the capitalist state?",
+   "options": [
+    "Universal adult franchise automatically forced the government to abandon capitalist interests entirely.",
+    "Economic power remains concentrated in capitalists, while bureaucracy and judiciary continue to be elitist.",
+    "Working-class citizens have completely taken over top corporate management and civil service positions.",
+    "Managers hold no administrative authority because the state apparatus has completely withered away."
+   ],
+   "answer": 1,
+   "why": "Miliband argued that economic power remains concentrated and key state branches like the judiciary and bureaucracy remain elitist.",
+   "page": 89
+  },
+  {
+   "q": "What does Catherine MacKinnon signify by asserting that 'the state appears male'?",
+   "options": [
+    "State authority operates as an unbiased referee maintaining social equilibrium between both genders.",
+    "The state is merely an economic instrument created to extract surplus value from workers.",
+    "Women have never held any constitutional right to vote or hold public administrative office.",
+    "State institutions and laws reflect a masculine perspective, making justice difficult for women."
+   ],
+   "answer": 3,
+   "why": "MacKinnon argues that legal systems and state institutions adopt a masculinist viewpoint that embeds patriarchal control.",
+   "page": 90
+  }
+ ]
+}

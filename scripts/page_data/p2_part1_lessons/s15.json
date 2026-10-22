@@ -1,0 +1,89 @@
+{
+ "title": "European Union: Integration and Crises",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can independent nations share one currency and border without breaking apart?",
+   "narration": "Imagine bitter wartime enemies deciding to merge their coal, steel, and money into one peaceful family. That is the European Union, the world's most advanced experiment in regional integration. But can such deep unity survive modern economic crises?"
+  },
+  {
+   "type": "analogy",
+   "emoji": "🤝",
+   "text": "College roommates sharing one bank account without rules on individual grocery spending.",
+   "narration": "As an everyday analogy, think of college roommates sharing a single joint bank account. It makes pooling money easy, but sparks trouble if one person spends recklessly while another demands strict saving."
+  },
+  {
+   "type": "timeline",
+   "heading": "Path of European Integration Treaties",
+   "events": [
+    {
+     "when": "1952",
+     "what": "European Coal and Steel Community"
+    },
+    {
+     "when": "1957",
+     "what": "Treaty of Rome establishes EEC"
+    },
+    {
+     "when": "1993",
+     "what": "Maastricht Treaty creates the European Union"
+    },
+    {
+     "when": "2007",
+     "what": "Lisbon Treaty boosts European Parliament powers"
+    }
+   ],
+   "narration": "European integration deepened step by step across decades. Starting with shared coal and steel in 1952, countries built a common market and finally launched a common currency with the 1993 Maastricht Treaty."
+  },
+  {
+   "type": "points",
+   "heading": "Copenhagen Criteria for EU Membership",
+   "items": [
+    "Must be an established European country",
+    "Functioning market economy",
+    "Democracy, human rights, and minority protection"
+   ],
+   "narration": "To enter this exclusive club, aspiring members must meet the strict Copenhagen criteria. Countries must prove they have stable democratic institutions, protect minorities, and run a functioning market economy."
+  },
+  {
+   "type": "balance",
+   "heading": "Eurozone Crisis Economic Clash",
+   "left": "German austerity measures",
+   "right": "Indebted nations spending",
+   "tilt": "left",
+   "narration": "Here's the trick: nineteen countries adopted the Euro, creating a monetary union without a unified budget. When debt struck Greece, Germany insisted on austerity, meaning severe government spending cuts, sparking fierce resistance."
+  },
+  {
+   "type": "compare",
+   "heading": "European Union Internal Fault Lines",
+   "columns": [
+    {
+     "title": "Europhilic Bloc",
+     "items": [
+      "France, Germany, and Netherlands",
+      "Committed to permanent peace",
+      "Support deeper regional integration"
+     ]
+    },
+    {
+     "title": "Europhobic Bloc",
+     "items": [
+      "Britain and Denmark",
+      "Sought economic benefits only",
+      "Demanded opt-out treaty clauses"
+     ]
+    }
+   ],
+   "narration": "Notice the deep fault line between Europhilic founders like France and Germany who sought peace, and Europhobic members like Britain who joined only for economic gains. Britain negotiated opt-out clauses from treaties, setting the stage for Brexit."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Integration deepened from coal to common currency",
+    "Monetary union without fiscal unity caused crises",
+    "Internal divides and Brexit strain European unity"
+   ],
+   "narration": "Remember these three takeaways: Europe integrated gradually through economic treaties, but sharing a currency without fiscal union triggered severe crises. Today, internal political divides and Brexit continue testing regional stability."
+  }
+ ]
+}

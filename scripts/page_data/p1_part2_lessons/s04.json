@@ -1,0 +1,68 @@
+{
+ "title": "Judicial Review, Activism, and PIL in India",
+ "scenes": [
+  {
+   "type": "hook",
+   "text": "Can unelected judges step in and run a country when leaders fail?",
+   "narration": "Have you ever wondered what happens when our elected leaders fail to act? In India, the Supreme Court stepped out of its courtroom to fix schools, clean rivers, and protect rights."
+  },
+  {
+   "type": "analogy",
+   "emoji": "🏏",
+   "text": "Like a cricket umpire stepping in to bat when players refuse to score.",
+   "narration": "Here is an everyday analogy: imagine a cricket umpire who sees batsmen refusing to run, so he picks up the bat himself! That is judicial activism, where judges enter the government's playing field."
+  },
+  {
+   "type": "compare",
+   "heading": "Judicial Review Versus Judicial Activism",
+   "columns": [
+    {
+     "title": "Judicial Review",
+     "items": [
+      "Ordinary constitutional duty of courts",
+      "Checks laws against constitutional rules"
+     ]
+    },
+    {
+     "title": "Judicial Activism",
+     "items": [
+      "Judges step beyond constitutional mandate",
+      "Directs policy and oversees administrative implementation"
+     ]
+    }
+   ],
+   "narration": "Judicial review is the court's normal job of checking whether laws violate the Constitution. But in judicial activism, judges take a leap forward, directing executive policy and monitoring administrative actions."
+  },
+  {
+   "type": "thinker",
+   "name": "Upendra Baxi",
+   "idea": "Judicial activism acts as chemotherapy, curing politics and deepening democracy.",
+   "work": "Unfair to Justices",
+   "narration": "Scholar Upendra Baxi defended the court in his article 'Unfair to Justices'. He argued that judicial intervention acts like chemotherapy, curing poisonous politics and deepening Indian democracy for common citizens."
+  },
+  {
+   "type": "thinker",
+   "name": "Pratap Bhanu Mehta",
+   "idea": "Judicial governance creates political uncertainty without improving citizens' quality of life.",
+   "work": "Public Institutions in India",
+   "narration": "However, thinker Pratap Bhanu Mehta warns of post-democracy, where unelected judges dominate public life. He cautions that judicial governance creates legal uncertainty without truly improving the quality of life."
+  },
+  {
+   "type": "balance",
+   "heading": "Activism: Medicine or Daily Bread",
+   "left": "Emergency Medicine",
+   "right": "Daily Bread",
+   "tilt": "left",
+   "narration": "So, is judicial activism desirable? Think of it as emergency medicine: it is vital during institutional paralysis, but it cannot become the daily bread that replaces elected governance."
+  },
+  {
+   "type": "recap",
+   "items": [
+    "Review checks laws, while activism shapes policy",
+    "Public Interest Litigation expands justice under Article 39A",
+    "Activism is emergency medicine, not daily governance"
+   ],
+   "narration": "Here's the trick to remember: judicial review enforces constitutional limits, activism fills policy vacuums, and public interest litigation protects citizen rights. Use activism as emergency medicine, never as daily bread!"
+  }
+ ]
+}

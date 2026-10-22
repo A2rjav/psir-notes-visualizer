@@ -1,0 +1,53 @@
+{
+ "corrections": [],
+ "quiz": [
+  {
+   "q": "Why is the constitutional inclusion of preventive detention under Article 22 considered a significant departure from standard liberal principles?",
+   "options": [
+    "In most democracies it applies only during emergencies, but India permits its peacetime use against political dissent.",
+    "It completely eliminates judicial review while granting executive authorities unlimited immunity from habeas corpus petitions.",
+    "It is placed under Directive Principles of State Policy rather than enforceable Fundamental Rights in Part III.",
+    "It only applies to foreign nationals and suspects accused of cross-border terrorism during wartime mobilizations."
+   ],
+   "answer": 0,
+   "why": "Unlike other liberal democracies that restrict preventive detention to wartime crises, the Indian Constitution permits peacetime detention under Article 22.",
+   "page": 70
+  },
+  {
+   "q": "How did the role of the Indian judiciary in the civil liberties movement fundamentally transform after the Emergency?",
+   "options": [
+    "It restricted judicial review to protect executive authority during periods of internal national disturbances.",
+    "It institutionalized Public Interest Litigation to broaden the right to life into substantive socio-economic dignity.",
+    "It transferred jurisdiction over human rights enforcement entirely to newly established statutory bodies like NHRC.",
+    "It prioritized civil and political liberties exclusively while rejecting socio-economic directive principles of state policy."
+   ],
+   "answer": 1,
+   "why": "Activist judges institutionalized PIL post-Emergency, transforming the Supreme Court into a champion of socio-economic rights and expansive interpretations of Article 21.",
+   "page": 72
+  },
+  {
+   "q": "What is the core premise of Prof. Upendra Baxi's critique of contemporary human rights activism in India?",
+   "options": [
+    "Civil rights groups rely excessively on mass agitations rather than engaging with institutional judicial procedures.",
+    "Human rights organizations have been completely co-opted by state security agencies to legitimize colonial laws.",
+    "Social activism has evolved into a corporate industry prioritizing professional management over genuine grassroots service.",
+    "Advocacy groups focus exclusively on socio-economic rights while neglecting essential political and civil liberties."
+   ],
+   "answer": 2,
+   "why": "Baxi argued that advocacy groups operate like a corporate 'Human Rights Industry' by employing management graduates rather than grassroots social activists.",
+   "page": 73
+  },
+  {
+   "q": "According to activist Nandita Haksar, what structural limitation primarily constrains human rights movements in India?",
+   "options": [
+    "The judiciary refuses to entertain public interest litigation concerning armed forces actions in insurgency zones.",
+    "International human rights organizations are prohibited from funding non-governmental organizations operating within the country.",
+    "Civil society movements focus exclusively on state security without addressing systemic violations against undertrial prisoners.",
+    "The state restricts legitimate activism to the narrow boundaries defined by dominant nationalist discourse."
+   ],
+   "answer": 3,
+   "why": "Haksar observed that the Indian state limits human rights activism to the periphery of nationalist discourse, especially during counter-terrorism efforts.",
+   "page": 74
+  }
+ ]
+}
